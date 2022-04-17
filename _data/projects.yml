@@ -1,0 +1,18 @@
+# - name: O Life & Death (OLND)
+#   desc: An open-source surgery game inspired by the 90s DOS game Life & Death
+#   url: https://github.com/plu5/olnd
+# - name: Wikipedia traverser
+#   desc: Keep track of Wikipedia articles you’ve read, and see how much of the site you’ve explored! Written in C++
+#   url: https://github.com/plu5/wikipedia-traverser
+- name: Eisenhour
+  desc: A timer-based time-management application written in Javascript (Node.js server, React client)
+  url: https://github.com/plu5/eisenhour
+  img: eisenhour.png
+- name: retype
+  desc: A PyQt5 application for training typing while reading books
+  url: https://github.com/plu5/retype
+  img: retype.png
+- name: Borderlands 2 mods
+  desc: PythonSDK-based mods for the Unreal Engine 3 brilliant game, Borderlands 2
+  url: https://github.com/plu5/p-borderlands
+  img: p-borderlands.png

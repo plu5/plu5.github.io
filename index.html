@@ -1,0 +1,29 @@
+---
+layout: default
+title: Home
+---
+
+<p>↓</p>
+
+<h2 class="working-on-h">Some things I am working on</h2>
+
+<div class="capsules-container">
+  {% for proj in site.data.projects %}
+    {% include capsule.html name=proj.name desc=proj.desc url=proj.url img=proj.img %}
+  {% endfor %}
+</div>
+
+<hr/>
+
+<h2 class="recent-posts-h">Some things I wrote</h2>
+<ul class="related-posts">
+  {% for post_ in site.posts limit:3 %}
+    <li>
+      <a class="post-link" href="{{ post_.url }}">
+        &gt; {{ post_.title }}
+      </a>
+      {% include cats-container.html post=post_ %}
+      <small>{{ post_.date | date_to_string }}</small>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,9 @@
+<div class="cats-container">
+  {% for category in include.post.categories %}
+  {% for cat in site.cats %}
+  {% if category == cat.title %}
+  <a class="cat" style="color:{{ cat.color }} !important;border-color:{{ cat.color }} !important;">{{ cat.title }}</a>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</div>

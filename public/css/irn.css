@@ -1,0 +1,729 @@
+/*
+ * Adapted from Poole and Hyde stylesheets by @mdo
+ */
+
+/*
+ * Contents
+ *
+ * Root variables
+ * Body resets
+ * Lead
+ * Messages
+ * Container
+ * Masthead
+ * Posts and pages
+ * Pagination
+ * Sidebar
+ * Anchor links
+ * Categories
+ * TOC
+ * Footnotes
+ * Capsules
+ */
+
+
+/*
+ * Root variables
+ *
+ * Variables for spacing, sizes, colors, and things that need to be different
+ * on the narrow layout.
+ */
+
+:root {
+  --sidebar-min-width: 10rem;
+  --sidebar-max-width: 12rem;
+  --space-around-content: 2em 4em;
+  --content-width: calc(100vw - var(--sidebar-min-width));
+  --content-max-width: 100ch;
+
+  --size-main-font: 15px;
+
+  --color-tonal: #3F7F62;
+  --color-back: black;
+  --color-side: #202020;
+  --color-alt: grey;
+  --color-accent: #ac4142;
+  --color-stark: red;
+  --color-light: white;
+  --color-subtle: rgba(255,255,255,.5);
+  --color-highlight: yellow;
+
+  --container-display: flex;
+  --toc-float: right;
+}
+@media screen and (max-width: 42em) {
+  :root {
+    --sidebar-max-width: 100%;
+    --space-around-content: 2em;
+    --content-width: 100%;
+    
+    --size-main-font: 14px;
+
+    --container-display: initial;
+    --toc-float: none;
+  }
+}
+
+
+/*
+ * Body resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+body {
+  color: #515151;
+  background-color: var(--color-back);
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+  counter-reset: the-section;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+.post h2 {
+  border-bottom: 1px solid var(--color-subtle);
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: #303030;
+}
+
+::selection {
+  background: #EEDC82;
+}
+
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
+
+/* Misc */
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid var(--color-subtle);
+}
+
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+}
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
+}
+
+/* Code */
+code,
+pre {
+  font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
+}
+code {
+  background-color: rgba(27,31,35,0.05);
+  border-radius: 6px;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f9f9f9;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+
+/* Pygments via Jekyll */
+.highlight {
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+.highlight pre {
+  margin-bottom: 0;
+}
+
+/* Gist via GitHub Pages */
+.gist .gist-file {
+  font-family: Menlo, Monaco, "Courier New", monospace !important;
+}
+.gist .markdown-body {
+  padding: 15px;
+}
+.gist pre {
+  padding: 0;
+  background-color: transparent;
+}
+.gist .gist-file .gist-data {
+  font-size: .8rem !important;
+  line-height: 1.4;
+}
+.gist code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+/* Tables */
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+
+
+/*
+ * Lead
+ */
+
+.lead {
+  font-size: 0.8rem;
+  font-weight: 300;
+  font-family: Consolas, monospace;
+  line-height: 1rem;
+  padding: 0;
+  background: transparent;
+}
+
+
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
+
+/*
+ * Container
+ *
+ * Center the page content.
+ */
+
+.container {
+  max-width: 100ch;
+  margin-left:  auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+body > .container {
+  max-width: 1264px;
+  width: 100%;
+  display: var(--container-display);
+  position: relative;
+  flex: 1 0 auto;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.content {
+  padding: var(--space-around-content);
+  width: var(--content-width);
+  max-width: var(--content-max-width);
+  font-size: var(--size-main-font);
+  background-color: #CDCDC1;
+  border-radius: 0 0 0.5em 0.5em;
+}
+
+
+/*
+ * Masthead
+ *
+ * Super small header above the content for site name and short description.
+ */
+
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title a {
+  color: #505050;
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
+
+/*
+ * Posts and pages
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.page,
+.post {
+  margin-bottom: 4em;
+}
+
+/* Blog post or page title */
+.page-title,
+.post-title,
+.post-title a {
+  color: #303030;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+/* Meta data line below post title */
+.post-date {
+  display: block;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
+/* Related posts */
+.related {
+  padding-top: 2rem;
+  border-top: 1px solid #eee;
+}
+.related-h {
+  color: var(--color-tonal);
+}
+.related-posts {
+  padding-left: 0;
+  list-style: none;
+}
+.related-posts h3 {
+  margin-top: 0;
+}
+.related-posts li small {
+  font-size: 75%;
+  color: #999;
+}
+.related-posts li a:hover {
+  background: var(--color-highlight);
+}
+.related-posts li a:hover small {
+  color: inherit;
+}
+
+
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+  overflow: hidden; /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item:first-child {
+  margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+  background-color: #f5f5f5;
+}
+
+@media (min-width: 30em) {
+  .pagination {
+    margin: 3rem 0;
+  }
+  .pagination-item {
+    float: left;
+    width: 50%;
+  }
+  .pagination-item:first-child {
+    margin-bottom: 0;
+    border-top-left-radius:    4px;
+    border-bottom-left-radius: 4px;
+  }
+  .pagination-item:last-child {
+    margin-left: -1px;
+    border-top-right-radius:    4px;
+    border-bottom-right-radius: 4px;
+  }
+}
+
+
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.sidebar-container {
+  height: auto;
+  background-color: var(--color-back);
+}
+.sidebar {
+  min-width: var(--sidebar-min-width);
+  max-width: var(--sidebar-max-width);
+  position: sticky;
+  text-align: center;
+  padding: 1rem 1rem;
+  color: var(--color-subtle);
+  background-color: var(--color-side);
+  /* damn it that actually looks better than var(--color-tonal); */
+  /* maybe i could have green be the lines / generative art */
+  box-sizing: border-box;
+  height: max-content;
+  top: 0 !important;
+  border-radius: 0 0 0 0.5em;
+}
+
+/* Sidebar links */
+.sidebar a {
+  color: var(--color-light);
+}
+
+/* About section */
+.sidebar-about h1 {
+  color: var(--color-light);
+  margin-top: 0;
+  font-family: "Abril Fatface", serif;
+  font-size: 3.25rem;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  background: var(--color-highlight);
+  color: var(--color-accent);
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}
+
+.content a,
+.related-posts li a:hover {
+  color: var(--color-accent);
+}
+.content a:hover, content a:focus {
+  background: var(--color-highlight);
+}
+
+.sidebar h1 a {
+  color: var(--color-stark);
+  font-family: Consolas;
+  font-size = 5rem !important;
+}
+.sidebar h1 a:hover, .sidebar h1 a:focus {
+  text-decoration: none;
+}
+.sidebar h1 a:hover:after, .sidebar h1 a:focus:after {
+  content: "←";
+}
+.sidebar h1 a:hover:before, .sidebar h1 a:focus:before {
+  content: "→";
+}
+
+
+/*
+ * Anchor links
+ */
+
+a.anchorjs-link {
+  content: counter(the-section) ".\2002" !important;
+  /* position: absolute; */
+  /* margin-left: -1em; */
+}
+
+a.anchorjs-link::before {
+  counter-increment: the-section;
+  content: counter(the-section) ".\2002";
+}
+
+a.anchorjs-link:hover,
+a.anchorjs-link:focus {
+  background: transparent;
+  text-decoration: none;
+  color: var(--color-stark);
+}
+
+
+/*
+ * Categories
+ */
+
+.cats-container {
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+
+.cat {
+  border-radius: 0.3em;
+  color: green !important;
+  border: 1px solid green;
+  display: inline-block;
+  margin: 0.3em 0.3em 0.3em 0;
+  padding: 0 0.3em 0 0.3em;
+  pointer-events: none;
+}
+
+.post-link {
+  font-weight: bold;
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 1.25rem;
+  display: inline-block;
+}
+
+.post-title {
+  color: var(--color-alt);
+  font-size: 1.75rem;
+  display: inline-block;
+}
+
+/*
+ * Headings on main page
+ */
+
+.working-on-h {
+  color: var(--color-alt);
+}
+
+.recent-posts-h {
+  color: var(--color-tonal);
+}
+
+
+/*
+ * TOC
+ */
+
+.toc {
+  display: table;
+  padding: 7px;
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  font-size: 95%;
+  float: var(--toc-float);
+  margin: 0 0 1em 1em;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0.3em 0;
+  padding: 0;
+  counter-reset: toc-section;
+}
+
+.toc ol {
+  margin: 0.3em 0;
+  padding: 0 0 0 1.5em;
+}
+
+.toctitle {
+  text-align: center;
+}
+
+.tocnumber {
+  color: #202122;
+  padding-right: 0.5em;
+}
+
+.toc li a::before {
+  counter-increment: toc-section;
+  content: counter(toc-section) ".";
+  color: #202122;
+  padding-right: 0.5em;
+}
+
+.toctogglecheckbox:not(:checked) + .toctitle .toctogglelabel::after {
+  content: 'hide';
+}
+
+.toctogglecheckbox:checked + .toctitle .toctogglelabel::after {
+  content: 'show';
+}
+
+:not(:checked) > .toctogglespan::before {
+  content: ' [';
+}
+
+:not(:checked) > .toctogglespan::after {
+  content: ']';
+}
+
+.toctogglelabel {
+  cursor: pointer;
+}
+
+.toctogglelabel:hover {
+  text-decoration: underline;
+}
+
+.toctogglecheckbox:checked ~ ul, .toctogglecheckbox:checked ~ ol {
+  display: none;
+}
+
+
+/*
+ * Footnotes
+ */
+
+.footnote {
+  font-size: 10.16px;
+  font-family: sans-serif;
+}
+
+.footnote::before {
+  content: "[";
+}
+
+.footnote::after {
+  content: "]";
+}
+
+
+/*
+ * Capsules
+ */
+
+.capsules-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.capsule {
+  display: inline-block;
+  padding: 1rem;
+  width: 220px;
+  margin: 0 auto 0;
+}
