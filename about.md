@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who is this?
-permalink: /about/
+permalink: /about
 nav: true
 ---
 
@@ -16,7 +16,7 @@ I am presently working on:
 
 [//]: # "- O Life & Death (OLND); an open-source surgery game based on the DOS game [Life & Death](https://en.wikipedia.org/wiki/Life_%26_Death)"
 
-More details may be found on the [projects page]({{ site.baseurl }}) and on [GitHub](https://github.com/plu5).
+More details may be found on the [projects page]({{ site.url }}) and on [GitHub](https://github.com/plu5).
 
 I have experience with the following programming and scripting languages (most to least experienced):
 - **Python**

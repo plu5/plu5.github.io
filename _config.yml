@@ -3,7 +3,7 @@
 
 title: ±
 tagline: The terrifying machine
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://plu5.github.io"
 
 timezone: Etc/UTC
