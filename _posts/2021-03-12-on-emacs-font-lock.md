@@ -2,7 +2,7 @@
 layout: post
 title:  "On Emacs font-lock"
 date:   2021-03-12
-modified_date: 2021-08-11 12:38
+modified_date: 2022-04-19 22:25
 categories: emacs
 ---
 
@@ -39,7 +39,7 @@ It is easier to understand by looking at examples.
 
 - `"\\<\\(FIXME\\):"` is the `matcher`; in this case, a regexp pattern. `\<` signifies the beginning of a word, `\(` and `\)` deliminate the capture group.
 - `1` is the capture group (subexp) to fontify. Here, `FIXME` is capture group 1 so only that will be fontified, without the `:` that follows. If put here `0` instead, `:` would be fontified as well.
-- `font-lock-warning-face` is the face to fontify the matches with. You can see what it looks like, and other faces, in `M-x list-faces-display`. You can define your own with`defface`.
+- `font-lock-warning-face` is the face to fontify the matches with. You can see what it looks like, and other faces, in `M-x list-faces-display`. You can define your own with [`defface`](https://www.gnu.org/software/emacs/manual/html_node/elisp/Defining-Faces.html).
 
 To add your own keywords you can use `font-lock-add-keywords`. For example, to add this to Org mode:
 
@@ -94,6 +94,35 @@ src_python{print("hi")}
 3. The '2' capture group is the part between the second set to `\( \)`: `}`. This matches the ending bracket.
 
 {% include aside.html content="A note that is quite unrelated to font-lock: These Org one-line code snippets do not have syntax highlighting in the Org mode buffer sadly, but they do in the exported document, making them superior to using Org mode monospace, i.e. `~print(\"hi\")~`." %}
+
+## Optional capture groups
+Following [the precedence-determining optional argument discussed [above](#a-note-on-precedence), there is another optional argument that can be given: `laxmatch`.
+
+```
+(subexp facespec [override [laxmatch]])
+```
+
+If you are fontifying multiple capture groups, but one of them is optional and will not always be present in the construct you are fontifying, you should pass `t` after override or font-lock will raise an error when it can’t find this group.
+
+> If _laxmatch_ is non-`nil`, it means there should be no error if there is no subexpression numbered _subexp_ in _matcher_. Obviously, fontification of the subexpression numbered _subexp_ will not occur. However, fontification of other subexpressions (and other regexps) will continue. If _laxmatch_ is nil, and the specified subexpression is missing, then an error is signaled which terminates search-based fontification.  
+—[Emacs manual: Search-based Fontification](https://www.gnu.org/software/emacs/manual/html_node/elisp/Search_002dbased-Fontification.html)
+
+Here is an example for fontifying python debug logging lines in a subtle colour, except for the strings which are fontified the same as comments, but may not always be present.
+
+```elisp
+(font-lock-add-keywords
+ 'python-mode
+ '(("\\<\\(logging\\|logger\\).debug(\\([\"'][^\"']*[\"']\\)?[^)]*)"
+    (0 'file-name-shadow prepend)
+    (2 'font-lock-comment-face prepend t) ; optional
+    )))
+```
+
+If the `t` isn’t given, it will raise this error:
+
+> No match 2 in highlight (2 'font-lock-comment-face prepend)
+
+{% include todo.html content="This is not the best example, because it’d probably be better to do the string matcher as an anchor matcher, especially since there can be multiple strings in one logging line (strings side by side get combined in Python, and this is often used to break up a long string into multiple lines)." %}
 
 ## Example 3: Anchors
 In a font-lock keyword specification, following the matcher and facespec, you can have anchored matchers; matchers that will only execute if the previous one matched, and will begin their search where the last one left off. They take the following form:
@@ -237,51 +266,39 @@ The first and laziest way is turning on the global variable `font-lock-multiline
 > If the `font-lock-multiline` variable is set to t, Font Lock will try to add the `font-lock-multiline` property automatically on multiline constructs. This is not a universal solution, however, since it slows down Font Lock somewhat. It can miss some multiline constructs, or make the property larger or smaller than necessary.     
 —[Emacs manual: Font Lock Multiline](https://www.gnu.org/software/emacs/manual/html_node/elisp/Font-Lock-Multiline.html)
 
-TODO: find examples where this works
-
-## Example 6: Multiline facespec trick
-
-The problem with this approach
-
-## Example 7: Multiline pre-form trick
-TODO: this is too long and confusing, i’d like to have a different example just for anchors, then some examples for multiline tricks, as they are quite separate and hacky
-
-Consider the case of fontifying logging debug lines to make them less attention drawing from the code. They may span multiple lines, as follows:
-
-```python
-logger.debug("Initialisation start. Initial value of manifold: {}"
-             .format(self.manifold))
-```
-
-Can be done with a regex matcher and several subexps:
-
-```elisp
-(font-lock-add-keywords
- 'python-mode
- '(("\\(\\<logger.debug(\\)\\([\"'][^\"']*[\"']\\)?\\([^)]*)\\)"
-    (1 'file-name-shadow t)
-    (2 'font-lock-comment-face t t)
-    (3 'file-name-shadow t))))
-```
-
-[TODO: CHANGE ALL THIS TO PREPEND INSTEAD OF T]
-
-On initial or manually invoked fontification (`font-lock-fontify-buffer`) it sometimes seems to work, even across multiple lines, but while editing it doesn’t. Also, it won’t match the ending parenthesis in the example.
-
-Notice also that after the second group I have `t t`. The first `t` is for override, the second `t` is to make this group optional[^se-laxmatch].
-
-If you turn on `font-lock-multiline` (which is a buffer-local variable so you need to attach the setq to a hook) it works even while editing. Again apart from the ending parenthesis.
+Note that this variable is buffer-local, so you need to attach the setq to a hook, e.g.:
 
 ```elisp
 (add-hook 'python-mode-hook
           (lambda () (setq font-lock-multiline t)))
 ```
 
-Notice in the regex that I use things like `[^\"']*` to match characters between quotes and `[^)]*` to match characters between parens, rather than `.*`; `.*` does not match newlines.
+Here is an example for fontifying python debug lines:
 
-⁂
+```elisp
+(font-lock-add-keywords
+ 'python-mode
+ '(("\\<\\(logging\\|logger\\).debug([^)]*)"
+    (0 'file-name-shadow prepend))))
 
-Instead of several groups in one regexp, you can have several matchers, one after the other, each one acting as anchor to the next; font-lock searches for matches where it left off from the previous one.
+(add-hook 'python-mode-hook
+          (lambda () (setq font-lock-multiline t)))
+```
+
+Regexp explanation: At the start of a word, match `logging` or `logger` followed by `.debug(`, then all subsequent characters (including newlines) that are not `)`, followed by `)`.
+
+If you try this without the hook, you will notice that without it if you enter newlines in your construct interactively they do not get fontified unless you trigger a whole-buffer refontification by idling, re-enabling the mode, or calling `font-lock-fontify-buffer`.
+
+With it, font-lock tries to figure out which lines belong to your construct and does a good job of that in this case most of the time. Not always, though: for example, try entering `logging.debug(`, enter one or a few newlines, then `)`. It doesn’t work, but again if you wait for a whole-buffer refontification it will. What happens is if font-lock does not apply the `font-lock-multiline` property to the whole region we are concerned with, it does not get considered in full when we edit it, so it cannot match.
+
+## Example 6: Multiline facespec trick
+
+[//]: # (The problem with this approach)
+
+{% include todo.html content="Write this section." %}
+
+## Example 7: Multiline pre-form trick
+Instead of several groups in one regexp, you can have several matchers, one after the other, each one acting as anchor to the next; font-lock searches for matches where it left off from the previous one (see [Example 3: Anchors](#example-3-anchors)).
 
 So we can write the above in this way instead:
 
@@ -303,7 +320,7 @@ The `nil nil` following the second and third matchers are the _pre-form_ and _po
 
 > —[Emacs manual: Search-based Fontification](https://www.gnu.org/software/emacs/manual/html_node/elisp/Search_002dbased-Fontification.html)
 
-Never mind that last line; we’re going to do exactly what it says not to :-p
+Never mind that last line; we’re going to do exactly that.
 
 We can use a function as the pre-form that will give the position of the next line that ends with `)`. For this to work, we also need to set `font-lock-multiline` to `t`.
 
@@ -361,26 +378,23 @@ There’s a lot about multiline that I still don’t understand. Some stuff to r
 
 ## Example 8: Multiline by extend region
 
+{% include todo.html content="Write this section." %}
+
 ## Performance considerations
 
 Adding font-lock keywords is necessarily sacrificing performance for looks. You can mitigate the performance impact by benchmarking, finding less costly ways to do the same thing, and avoiding unnecessary complexity where possible.
 
 Poorly written matcher and pre-form functions can lead to poor performance or hangs, and C-h v font-lock-keywords seems to suggest regexp patterns could cause major problems too:
 
-> Be careful when composing regexps for this list; a poorly written pattern can dramatically slow things down!
-
-FIXME
-
-> Be careful when composing these regular expressions; a poorly written pattern can dramatically slow things down! The function regexp-opt (see Regexp Functions) is useful for calculating optimal regular expressions to match several keywords.     
+> Be careful when composing these regular expressions; a poorly written pattern can dramatically slow things down! The function regexp-opt (see [Regexp Functions](https://www.gnu.org/software/emacs/manual/html_node/elisp/Regexp-Functions.html)) is useful for calculating optimal regular expressions to match several keywords.     
 —[Emacs manual: Search-based Fontification](https://www.gnu.org/software/emacs/manual/html_node/elisp/Search_002dbased-Fontification.html)
-
-https://www.gnu.org/software/emacs/manual/html_node/elisp/Regexp-Functions.html
 
 All of the packages by Lindydancer are really excellent for font-lock debugging:
 
 - [font-lock-studio](https://github.com/Lindydancer/font-lock-studio) is a step-by-step debugger for font-lock. This is very helpful to see what font-lock is actually doing, which may be something other than you expect. Run it in a buffer with your fontified text: `M-x font-lock-studio`, and press space to step through. Watch the echo area for information. For more options, look at the Font Lock Studio menu entries, or press `?`.
 - font-lock keywords with [font-lock-profiler](https://github.com/Lindydancer/font-lock-profiler).
-- TODO
+
+{% include todo.html content="More could be added to this list." %}
 
 They are all on MELPA so you can easily install them with `M-x package-install`. You may need to first do `M-x package-refresh-contents` to update the list of packages your Emacs knows about.
 
