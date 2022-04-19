@@ -12,7 +12,7 @@ You may want to add your own patterns to draw your attention to certain elements
 
 Additional patterns for a given major mode can be added to `font-lock-keywords-alist`. You can see the current value of it by doing `C-h v font-lock-keywords-alist`. 
 
-<small>Note: Fontification of basic elements like comments and strings is done in a different way in Emacs; see [Syntax Tables](https://www.gnu.org/software/emacs/manual/html_node/elisp/Syntax-Tables.html).</small>
+{% include note.html content="Fontification of basic elements like comments and strings is done in a different way in Emacs; see [Syntax Tables](https://www.gnu.org/software/emacs/manual/html_node/elisp/Syntax-Tables.html)." %}
 
 ## Basic form
 The keywords can take several forms. The most common form is
@@ -93,7 +93,7 @@ src_python{print("hi")}
 2. The '1' capture group is the part between the first set of `\( \)`: `[^}]*`. This matches anything subsequent that is not }; in the example `print("hi")`.
 3. The '2' capture group is the part between the second set to `\( \)`: `}`. This matches the ending bracket.
 
-<small>A note that is quite unrelated to font-lock: These Org one-line code snippets do not have syntax highlighting in the Org mode buffer sadly, but they do in the exported document, making them superior to using Org mode monospace, i.e. `~print("hi")~`.</small>
+{% include aside.html content="A note that is quite unrelated to font-lock: These Org one-line code snippets do not have syntax highlighting in the Org mode buffer sadly, but they do in the exported document, making them superior to using Org mode monospace, i.e. `~print(\"hi\")~`." %}
 
 ## Example 3: Anchors
 In a font-lock keyword specification, following the matcher and facespec, you can have anchored matchers; matchers that will only execute if the previous one matched, and will begin their search where the last one left off. They take the following form:
@@ -222,11 +222,11 @@ If you want the `$` to be fontified too, fontify capture group 1:
 ## Example 5: Multiline auto-identification
 When a buffer is opened, font-lock considers the whole buffer, and so any multiline regexp matchers you have will be correctly fontified.
 
-<small>Just remember that `.` in regexp does not match newline characters, so you may have to do something like `[.\n]` instead.</small>
+{% include attention.html content="Just remember that `.` in regexp does not match newline characters, so you may have to do something like `[.\n]` instead." %}
 
 However, when the buffer is modified, font-lock tends to only consider the current line. You can see this visually with Lindydancer’s [highlight-refontification-mode](https://github.com/Lindydancer/highlight-refontification).
 
-<small>Also notice that if you stop editing for a while, font-lock takes the opportunity to refontify a larger section of the buffer.</small>
+{% include note.html content="Also notice that if you stop editing for a while, font-lock takes the opportunity to refontify a larger section of the buffer." %}
 
 Therefore, with the default behaviour, your multiline constructs will not update in realtime.
 

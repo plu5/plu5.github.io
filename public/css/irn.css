@@ -19,6 +19,7 @@
  * TOC
  * Footnotes
  * Capsules
+ * Admonitions
  */
 
 
@@ -47,6 +48,15 @@
   --color-light: white;
   --color-subtle: rgba(255,255,255,.5);
   --color-highlight: yellow;
+  --admonition-title-color: #fff;
+  --admonition-note-background-color: #e7f2fa;
+  --admonition-note-title-background-color: #6ab0de;
+  --admonition-aside-background-color: #d7d7d7;
+  --admonition-aside-title-background-color: grey;
+  --admonition-attention-background-color: #ffedcc;
+  --admonition-attention-title-background-color: #f0b37e;
+  --admonition-todo-background-color: #c8d7d9;
+  --admonition-todo-title-background-color: #0a0a0a;
 
   --container-display: flex;
   --toc-float: right;
@@ -726,4 +736,74 @@ a.anchorjs-link:focus {
   padding: 1rem;
   width: 220px;
   margin: 0 auto 0;
+}
+
+
+/*
+ * Admonitions
+ */
+
+.admonition p {
+  margin-bottom: 0px;
+  font-size: small;
+  display: inline;
+}
+
+.admonition-title {
+  font-size: initial !important;
+  font-weight: bold;
+  display: inline;
+  padding: 2px 10px;
+  margin: 0px 4px 0px -10px;
+  color: var(--admonition-title-color);
+}
+
+.admonition {
+  padding: 10px;
+  margin-bottom: 1em;
+  display: table;
+}
+
+.admonition-title:before {
+    margin-right: 4px;
+    display: inline-block;
+    font-style: normal;
+    font-size: large;
+    font-weight: 400;
+    line-height: 1;
+    text-decoration: inherit;
+    content: "🛈";
+}
+
+/* note */
+.admonition.note .admonition-title {
+  background: var(--admonition-note-title-background-color);
+}
+.admonition.note {
+  background: var(--admonition-note-background-color);
+}
+
+/* aside */
+.admonition.aside .admonition-title {
+  background: var(--admonition-aside-title-background-color);
+}
+.admonition.aside {
+  background: var(--admonition-aside-background-color);
+}
+
+/* attention */
+.admonition.attention .admonition-title {
+  background: var(--admonition-attention-title-background-color);
+}
+.admonition.attention {
+  background: var(--admonition-attention-background-color);
+}
+
+/* todo */
+.admonition.todo .admonition-title {
+  background-color: var(--admonition-todo-title-background-color);
+  color: var(--admonition-title-color);
+}
+.admonition.todo {
+  background: var(--admonition-todo-background-color);
 }
