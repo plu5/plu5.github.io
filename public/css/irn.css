@@ -69,7 +69,7 @@
     
     --size-main-font: 14px;
 
-    --container-display: initial;
+    --container-display: block;
     --toc-float: none;
   }
 }
@@ -559,7 +559,6 @@ a.sidebar-nav-item:focus {
 .sidebar h1 a {
   color: var(--color-stark);
   font-family: Consolas;
-  font-size = 5rem !important;
 }
 .sidebar h1 a:hover, .sidebar h1 a:focus {
   text-decoration: none;
