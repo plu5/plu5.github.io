@@ -16,6 +16,7 @@
  * Sidebar
  * Anchor links
  * Categories
+ * Post links
  * TOC
  * Footnotes
  * Capsules
@@ -609,7 +610,20 @@ a.anchorjs-link:focus {
   pointer-events: none;
 }
 
+/*
+ * Post links
+ */
+
 .post-link {
+  font-weight: bold;
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 1.25rem;
+  display: inline-block;
+}
+
+.related-posts>li::before {
+  content: ">";
+  color: var(--color-accent);
   font-weight: bold;
   margin: 0.5rem 0 0.5rem 0;
   font-size: 1.25rem;
