@@ -4,6 +4,8 @@ title:  "Building Tesseract 4 with training tools on Windows"
 date:   2021-04-27
 modified_date: 2021-07-22 13:05
 categories: ocr compilation
+redirect_from:
+  - /building-tesseract
 ---
 
 <small>[April 22, 25, 26, 27]</small>

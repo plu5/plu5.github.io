@@ -15,10 +15,19 @@ paginate: 5
 collections:
   - cats
 
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /article/:title
+
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.

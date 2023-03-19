@@ -4,6 +4,8 @@ title:  "Training Tesseract 4 on Windows"
 date:   2021-04-29
 modified_date: 2021-07-22 17:13
 categories: ocr
+redirect_from:
+  - /training-tesseract
 ---
 
 This article covers training Tesseract 4.1.1 for a particular font.

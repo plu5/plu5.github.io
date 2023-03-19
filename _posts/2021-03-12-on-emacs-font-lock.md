@@ -4,6 +4,8 @@ title:  "On Emacs font-lock"
 date:   2021-03-12
 modified_date: 2022-05-08 22:21
 categories: emacs
+redirect_from:
+  - /on-emacs-font-lock
 ---
 
 In Emacs, syntax highlighting is handled by [Font Lock mode](https://www.gnu.org/software/emacs/manual/html_node/emacs/Font-Lock.html), a minor mode which is enabled by default in major modes that support it, which define highlighting patterns to fontify.
