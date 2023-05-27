@@ -1,0 +1,24 @@
+- name: Python
+  color: '#336D9D'
+  bold: true
+- name: JavaScript
+  color: '#FFEF00'
+- name: HTML, CSS
+  color: '#D84924'
+- name: C++
+  color: '#005494'
+  bold: true
+- name: Elisp
+  color: '#59569F'
+- name: Bash
+  color: '#262E34'
+- name: AutoHotkey
+  color: '#4FBB4F'
+- name: Swift
+  color: '#F25320'
+- name: C
+  color: '#27338C'
+- name: C#
+  color: '#8D3AA3'
+- name: PowerShell
+  color: '#4B81E1'

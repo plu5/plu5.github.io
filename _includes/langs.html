@@ -1,0 +1,5 @@
+<p>
+  {% for lang in site.data.langs %}
+    {% include lang-box.html lang=lang.name color=lang.color bold=lang.bold %}
+  {% endfor %}
+</p>
