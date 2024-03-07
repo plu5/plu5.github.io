@@ -18,11 +18,13 @@ I am presently working on:
 
 More details may be found on the [projects page]({{ site.url }}) and on [GitHub](https://github.com/plu5).
 
-I have experience with the following programming and scripting languages (most to least experienced):
+I work with the following programming and scripting languages:
+
+{% include langs.html type="cur" %}
+
+I also have experience with:
 
 {% include langs.html %}
-
-I bolded the ones I want to focus on (Python & C++).
 
 You can contact me at `pcmq(at)protonmail.ch`. [PGP public key](/public/ck-public-key.asc).
 

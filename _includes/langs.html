@@ -1,5 +1,7 @@
 <p>
   {% for lang in site.data.langs %}
-    {% include lang-box.html lang=lang.name color=lang.color bold=lang.bold %}
+    {% if include.type == lang.type %}
+      {% include lang-box.html lang=lang.name color=lang.color %}
+    {% endif %}
   {% endfor %}
 </p>

@@ -1,13 +1,15 @@
 - name: Python
   color: '#336D9D'
-  bold: true
-- name: JavaScript
-  color: '#FFEF00'
-- name: HTML, CSS
-  color: '#D84924'
+  type: cur
 - name: C++
   color: '#005494'
-  bold: true
+  type: cur
+- name: JavaScript
+  color: '#977613'
+  type: cur
+- name: HTML, CSS
+  color: '#D84924'
+  type: cur
 - name: Elisp
   color: '#59569F'
 - name: Bash
