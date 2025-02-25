@@ -2,10 +2,10 @@
 layout: post
 title:  "Git dev branch attempts and failures"
 date:   2025-02-17 12:39
-modified_date: 2025-02-18 06:09
+modified_date: 2025-02-25
 categories: github
 ---
-Almost every developer starts out using git by committing directly to the mainline branch. As they mature, and begin to use a project that has users, or, god forbid, other developers, this simple and efficient workflow gives way to a feature-branches-based one. It's safe, it's common, it's encouraged by the PR-based workflow nigh every project nowadays relies on. I have used it for a very long time, despite something about it feeling wrong to me, like it has added a burden, made committing less fun, added an extra cost to every fix and every feature. It feels like drudgery that I force myself to do to be proper.
+Almost everyone starts out using git by committing directly to the mainline branch. As they mature, and begin to use a project that has users, or, god forbid, other developers, this simple and efficient workflow gives way to a feature-branches-based one. It's safe, it's common, it's encouraged by the PR-based workflow nigh every project nowadays relies on. I have used it for a very long time, despite something about it feeling wrong to me, like it has added a burden, made committing less fun, added an extra cost to every fix and every feature. It feels like drudgery that I force myself to do to be proper.
 
 I despair about all the dead time. Think about the cumulative time that gets lost creating and deleting branches. "It's one command each, Jan." I know, but it's still dead time.
 
