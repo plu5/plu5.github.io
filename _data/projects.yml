@@ -1,11 +1,14 @@
 # - name: O Life & Death (OLND)
-#   desc: An open-source surgery game inspired by the 90s DOS game Life & Death
+#   desc: An open-source surgery game inspired by the 90s DOS game <a href="https://en.wikipedia.org/wiki/Life_%26_Death">Life & Death</a>. Made in Godot with C++
 #   url: https://github.com/plu5/olnd
-# - name: Wikipedia traverser
-#   desc: Keep track of Wikipedia articles you’ve read, and see how much of the site you’ve explored! Written in C++
-#   url: https://github.com/plu5/wikipedia-traverser
+# - name: osido
+#   desc: OS-wide launch and computation helper, designed to look like Emacs <a href="https://github.com/larkery/ido-grid-mode.el">ido-grid-mode</a>. Written in C++
+#   url: https://github.com/plu5/osido
+# - name: mwin
+#   desc: A tool for automatic resizing and repositioning of windows. Written in C++ with VCL and Windows API
+#   url: https://github.com/plu5/mwin
 - name: Eisenhour
-  desc: A timer-based time-management application written in Javascript (Node.js server, React client)
+  desc: A timer-based time-management application written in JavaScript (Node.js server, React client)
   url: https://github.com/plu5/eisenhour
   img: eisenhour.png
 - name: retype
