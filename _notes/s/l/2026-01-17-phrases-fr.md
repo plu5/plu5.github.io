@@ -51,7 +51,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 - cette frappe est ambiguë, la combinaison de touches pour ce mot, l’écriture sténo/sténotypique d’un mot
 
 § 2026-01-08
-- désaffecter une touche, retirer l’affectation d’une touche, supprimer le raccourci clavier, déassigner une touche, annuler l’attribution d’une touche → rare, mais correct, Réinitialiser la touche » (si elle revient à la valeur par défaut)
+- désaffecter une touche, retirer l’affectation d’une touche, supprimer le raccourci clavier, déassigner une touche, annuler l’attribution d’une touche (rare), Réinitialiser la touche (si elle revient à la valeur par défaut)
 
 § 2026-01-09
 - je pourrai te dire si ça vaut le coup d’insister… ou si c’est peine perdue
@@ -72,6 +72,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 
 § 2026-01-13
 - fins de ligne
+  + sauts de ligne
 - ça devient la folie dehors. ça dégénère (complètement). ils deviennent fous/incontrôlables/dingues. ils pètent un câble. ils vrillent. ça empire.
 - entre autres (équivalent à "among other things")
 - "headings" → titres / titres de section, pas en-têtes. titre de niveau 1/2/3
@@ -82,7 +83,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 - Le programme est compilé avec GCC. L’exécutable est issu de la compilation du code source C++.
 - comment as-tu connu X ? —parce que _j'ai travaillé_ dans son entreprise (l'année dernière). parce que _je travaillais_ dans son entreprise quand il en a pris la direction. —quand as-tu connu X ? —quand _je travaillais_ dans son entreprise. ([wr](https://forum.wordreference.com/threads/je-travaillais-jai-travaill%C3%A9.1557766/))
 - endpoint / point de terminaison / chemin / point d'accès (plutôt réseau)
-- gestion des processus
+- gestion *des* processus
 - intitulé de chapitre
 - Intitulé du poste : Administrateur systèmes. Intitulé du cours : Systèmes d’exploitation avancés. L’intitulé de la section doit être précis.
 - Titre : Nom visible, parfois créatif. Intitulé : Libellé précis, officiel, fonctionnel. Un titre peut être accrocheur. Un intitulé est souvent neutre et descriptif. Document, cours, chapitre → titre ou intitulé. Plan de cours, programme, CV, fiche officielle → intitulé préférable.
@@ -91,5 +92,13 @@ Idéalement noter seulement des tourures qui vont être utiles
 
 § 2026-01-17
 - crochets []
+- multiplet
+  + et qu'octet et byte ne sont pas la même chose
+- Le savoir scientifique. Le savoir se transmet de génération en génération.
+- Il a de bonnes connaissances en informatique.
+- nombre : valeur/quantité. numéro : identifiant. chiffre : symbole.
+- la plupart des messages : parmi les messages dont on parle. la plupart de messages : sonne comme la plupart des messages du monde. même chose avec "beaucoup de" et les autres. avec "beaucoup" c'est le plus souvent "de", mais il ne faut pas l'appliquer par coeur car parfois on a vraiment besoin d'un article défini !
+- noyau Linux, espace noyau, panic du noyau
+- pilote graphique, pilote réseau, pilote de périphérique (driver)
 
 {% include fin.html %}
