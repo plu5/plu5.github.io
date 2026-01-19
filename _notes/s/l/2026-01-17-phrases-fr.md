@@ -106,4 +106,8 @@ Idéalement noter seulement des tourures qui vont être utiles
 - accolades {}
 - remplacer _par_ (toujours)
 
+§ 2026-01-19
+- goulot d'étranglement
+- ajouter _des_ informations. _de_ quand c'est la quantité d'informations (pas/peu/bcp/plein d'informations) (je suppose que c'est encore le truc que j'avais déjà mentionné le 17e, et alors ça pourrait être beaucoup _des_ informations quand c'est défini)
+
 {% include fin.html %}
