@@ -101,4 +101,9 @@ Idéalement noter seulement des tourures qui vont être utiles
 - noyau Linux, espace noyau, panic du noyau
 - pilote graphique, pilote réseau, pilote de périphérique (driver)
 
+§ 2026-01-18
+- avoir changé la donne
+- accolades {}
+- remplacer _par_ (toujours)
+
 {% include fin.html %}
