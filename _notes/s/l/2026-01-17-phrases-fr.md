@@ -110,4 +110,12 @@ Idéalement noter seulement des tourures qui vont être utiles
 - goulot d'étranglement
 - ajouter _des_ informations. _de_ quand c'est la quantité d'informations (pas/peu/bcp/plein d'informations) (je suppose que c'est encore le truc que j'avais déjà mentionné le 17e, et alors ça pourrait être beaucoup _des_ informations quand c'est défini)
 
+§ 2026-01-20
+- la taille d'un fichier (et pas le poids)
+- le type d'un fichier, le format, l'extension
+- « Personnellement, ça me fait penser à la série TV "les Bœufs-Carottes", série qui relate les enquêtes d'un commissaire et d'un inspecteur de l'Inspection générale des services (IGS), appelée aussi Police des polices ou bœufs-carottes. » ([lamy08, wr](https://forum.wordreference.com/threads/je-travaillais-jai-travaill%C3%A9.1557766/))
+- faire avec les moyens du bord
+- étudiant de troisième cycle
+- le libellé
+
 {% include fin.html %}
