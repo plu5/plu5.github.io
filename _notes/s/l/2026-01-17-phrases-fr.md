@@ -118,4 +118,17 @@ Idéalement noter seulement des tourures qui vont être utiles
 - étudiant de troisième cycle
 - le libellé
 
+§ 2026-01-21
+- importer depuis le presse-papiers
+- apparaît/s'affiche au survol, au clic, au focus
+- se ruer sur
+- édulcorer
+- À ses débuts de journaliste, x rédigeait des marronniers. (wr)
+- Les sujets « débattus » dans un marronnier sont souvent simplistes, parfois mièvres. ([wr](https://forum.wordreference.com/threads/evergreen-figurative.2429717/))
+- je reviens un peu tardivement. (^ wr)
+- manifestement, ça ne fonctionne pas ici. (^ wr)
+- plaintes sempiternelles
+- changer x pour y / changer de x à y (remplacement), changer x en y (transformation)
+- menu contextuel
+
 {% include fin.html %}
