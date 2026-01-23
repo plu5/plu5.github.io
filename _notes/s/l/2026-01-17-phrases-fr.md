@@ -131,4 +131,14 @@ Idéalement noter seulement des tourures qui vont être utiles
 - changer x pour y / changer de x à y (remplacement), changer x en y (transformation)
 - menu contextuel
 
+§ 2026-01-22
+- épargner _du_ travail/boulot / _de la_ peine/souffrance / _des_ efforts/ennuis (sauf avec négation ou quantité)
+- éviter _du_ stress
+- demander _de la_ patience
+- faire _des_ efforts
+- gagner/économiser/perdre _du_ temps
+- mais : perte _de_ temps (sauf si vraiment besoin d'un article défini. « perte du temps de travail »)
+- plus aucun x
+- entouré, encerclé, cerné
+
 {% include fin.html %}
