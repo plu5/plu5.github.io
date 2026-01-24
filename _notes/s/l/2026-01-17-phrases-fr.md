@@ -123,7 +123,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 - apparaît/s'affiche au survol, au clic, au focus
 - se ruer sur
 - édulcorer
-- À ses débuts de journaliste, x rédigeait des marronniers. (wr)
+- À ses débuts de journaliste, x rédigeait des marronniers. ([wr](https://www.wordreference.com/fren/marronnier))
 - Les sujets « débattus » dans un marronnier sont souvent simplistes, parfois mièvres. ([wr](https://forum.wordreference.com/threads/evergreen-figurative.2429717/))
 - je reviens un peu tardivement. (^ wr)
 - manifestement, ça ne fonctionne pas ici. (^ wr)
@@ -140,5 +140,11 @@ Idéalement noter seulement des tourures qui vont être utiles
 - mais : perte _de_ temps (sauf si vraiment besoin d'un article défini. « perte du temps de travail »)
 - plus aucun x
 - entouré, encerclé, cerné
+
+§ 2026-01-23
+- Il y avait en lui une colère latente. ([wr](https://www.wordreference.com/fren/latent))
+- Par chance, aucun organe vital n'a été lésé. ([wr](https://www.wordreference.com/fren/l%C3%A9ser))
+- En l'absence d'incitations sélectives, les incitations à agir pour le groupe diminuent avec l'augmentation de la taille du groupe. Ainsi les grands groupes sont moins à même d'agir dans leur intérêt que les petits groupes. ([wp](https://fr.wikipedia.org/wiki/Logique_de_l%27action_collective)) [cette affirmation est contestée]
+- fuseau horaire
 
 {% include fin.html %}
