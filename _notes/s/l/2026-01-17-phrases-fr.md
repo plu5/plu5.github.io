@@ -147,4 +147,13 @@ Idéalement noter seulement des tourures qui vont être utiles
 - En l'absence d'incitations sélectives, les incitations à agir pour le groupe diminuent avec l'augmentation de la taille du groupe. Ainsi les grands groupes sont moins à même d'agir dans leur intérêt que les petits groupes. ([wp](https://fr.wikipedia.org/wiki/Logique_de_l%27action_collective)) [cette affirmation est contestée]
 - fuseau horaire
 
+§ 2026-01-26
+- .. au passage
+- pour ce faire j'ai trouvé la fonction mapfile ([Sparky95](https://www.developpez.net/forums/d2129864/systemes/linux/shell-commandes-gnu/mapfile-lire-fichier/))
+- j'ai malheureusement quelques soucis lors du processus (^)
+- Voici l'un des liens qui m'a été utile (^) (étonnant que l'accord soit singulier. accord grammatical vs sémantique)
+- J'en avais marre que YouTube-music s'arrête tout le temps (^) (imparfait et subjonctif. sentiment/jugement + que + subjonctif)
+- la concordance _des_ temps
+- sableux vs sablonneux
+
 {% include fin.html %}
