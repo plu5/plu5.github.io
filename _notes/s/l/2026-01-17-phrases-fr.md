@@ -72,6 +72,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 
 § 2026-01-13
 - fins de ligne
+  + retours à la ligne
   + sauts de ligne
 - ça devient la folie dehors. ça dégénère (complètement). ils deviennent fous/incontrôlables/dingues. ils pètent un câble. ils vrillent. ça empire.
 - entre autres (équivalent à "among other things")
@@ -155,5 +156,10 @@ Idéalement noter seulement des tourures qui vont être utiles
 - J'en avais marre que YouTube-music s'arrête tout le temps (^) (imparfait et subjonctif. sentiment/jugement + que + subjonctif)
 - la concordance _des_ temps
 - sableux vs sablonneux
+
+§ 2026-01-27
+- parfum, saveur, goût, couleur, variété, version
+- désaffecter
+- remplacer toutes les occurrences / correspondances / chaînes correspondantes
 
 {% include fin.html %}
