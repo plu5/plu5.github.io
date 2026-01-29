@@ -162,4 +162,8 @@ Idéalement noter seulement des tourures qui vont être utiles
 - désaffecter
 - remplacer toutes les occurrences / correspondances / chaînes correspondantes
 
+§ 2026-01-28
+- gagner haut la main
+- "tu raisonnes en humain, les systèmes fiables raisonnent en machine"
+
 {% include fin.html %}
