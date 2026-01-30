@@ -166,4 +166,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 - gagner haut la main
 - "tu raisonnes en humain, les systèmes fiables raisonnent en machine"
 
+§ 2026-01-29
+- je ne peux pas savoir si la personne a fait une mauvaise manip ([daerlnaxe](http://www.win3x.org/win3board/viewtopic.php?t=27405&start=10))
+
 {% include fin.html %}
