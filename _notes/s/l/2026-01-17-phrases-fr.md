@@ -168,5 +168,15 @@ Idéalement noter seulement des tourures qui vont être utiles
 
 § 2026-01-29
 - je ne peux pas savoir si la personne a fait une mauvaise manip ([daerlnaxe](http://www.win3x.org/win3board/viewtopic.php?t=27405&start=10))
+- ctrl alt suppr
+
+§ 2026-01-30
+- à la louche
+- il en faut peu/beaucoup pour m'impressioner. ([Charlie Parker](https://forum.wordreference.com/threads/il-en-faut-peu-beaucoup-pour.1816198/))
+- il s'en faut de beaucoup pour qu'il soit au niveau. (^)
+- Diantre, panne de courant de 6 heures juste quand j'allais répondre hier soir. (^ Salvatos)
+- Ça va comme suit : (^ Salvatos)
+- env d'exécution / plateforme / support : sur un serveur, sur un système Linux, sur Docker, sur une machine virtuelle
+- pour indiquer une dépendance à un système ou une autorité : sous Windows, sous Linux, sous Python 3.10
 
 {% include fin.html %}
