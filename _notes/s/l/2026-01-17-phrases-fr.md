@@ -179,4 +179,11 @@ Idéalement noter seulement des tourures qui vont être utiles
 - env d'exécution / plateforme / support : sur un serveur, sur un système Linux, sur Docker, sur une machine virtuelle
 - pour indiquer une dépendance à un système ou une autorité : sous Windows, sous Linux, sous Python 3.10
 
+§ 2026-01-31
+- Avec Windows 98 SE en invité sous Windows 10 j'ai eu souvent des erreurs (plantage) E/S disques dans ma VM. ([kitsune](http://www.win3x.org/win3board/viewtopic.php?t=27405&sid=663007b60dde2e6dc96d1d65245b0c21&start=20))
+- un grand meuble, ordinairement plus haut que large ([JClaudeK](https://forum.wordreference.com/threads/armoire-wardrobe.194169/))
+- Voici une image de l'aménagement d'une armoire-type (^)
+- Je pense que ça doit simplement vouloir dire que le meuble et les vêtements étaient bien réels alors que la femme qui les avait portés de l'était plus. ([RuK](https://forum.wordreference.com/threads/dead-womans-living-wardrobe.232150/))
+- La phrase ne permet pas de choisir entre les deux possibilités, il n'y aurait que le contexte. (^)
+
 {% include fin.html %}
