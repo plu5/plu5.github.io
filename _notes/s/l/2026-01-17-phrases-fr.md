@@ -186,4 +186,10 @@ Idéalement noter seulement des tourures qui vont être utiles
 - Je pense que ça doit simplement vouloir dire que le meuble et les vêtements étaient bien réels alors que la femme qui les avait portés de l'était plus. ([RuK](https://forum.wordreference.com/threads/dead-womans-living-wardrobe.232150/))
 - La phrase ne permet pas de choisir entre les deux possibilités, il n'y aurait que le contexte. (^)
 
+§ 2026-02-01
+- Comme mon secteur était bouché, je me suis reconverti. ([wr](https://www.wordreference.com/fren/reconvertir))
+- Allons un cran plus loin.
+- exemple d'exécution ([koor.fr](https://koor.fr/C/cstdlib/realloc.wp))
+- Pour information, ptr2 a été alloué pour être certain que ptr1 ne pourra être réallouer sur place. (^)
+
 {% include fin.html %}
