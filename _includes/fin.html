@@ -1,9 +1,12 @@
+{% assign prompttext = "" %}
+{% assign linktext = "Leave a message" %}
 {% if page.path contains '_posts' %}
-<center><i>Something wrong in the article? <a href="https://github.com/plu5/plu5.github.io/issues">Let me know</a>.</i></center>
-{% else if page.lang == 'fr' %}
-<center><i><a href="https://github.com/plu5/plu5.github.io/issues">Laisser un message</a>.</i></center>
-{% else %}
-<center><i><a href="https://github.com/plu5/plu5.github.io/issues">Leave a message</a>.</i></center>
+  {% assign prompttext = "Something wrong in the article? " %}
+  {% assign linktext = "Let me know" %}
+{% elsif page.lang == 'fr' %}
+  {% assign linktext = "Laisser un message" %}
 {% endif %}
+
+<center><i>{{ prompttext }}<a href="https://github.com/plu5/plu5.github.io/issues">{{ linktext }}</a>.</i></center>
 
 <div id="fin">■</div>
