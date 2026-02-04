@@ -62,19 +62,6 @@ a {
   color: yellow;
 }
 
-/* Lists */
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-dd {
-  margin-bottom: .5rem;
-}
-
 /*
  * Code
  */
