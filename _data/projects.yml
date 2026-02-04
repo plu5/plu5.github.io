@@ -7,15 +7,18 @@
 # - name: mwin
 #   desc: A tool for automatic resizing and repositioning of windows. Written in C++ with VCL and Windows API
 #   url: https://github.com/plu5/mwin
-- name: Eisenhour
-  desc: A timer-based time-management application written in JavaScript (Node.js server, React client)
-  url: https://github.com/plu5/eisenhour
-  img: eisenhour.png
 - name: retype
-  desc: A PyQt5 application for training typing while reading books
+  desc: (Python3, Qt) GUI application for training typing while reading books. I started it as a teenager and matured a lot during the process; it is scary to have users and, suddenly, responsibility. You are forced to develop better practices to avoid humiliating yourself and letting people down.
   url: https://github.com/plu5/retype
   img: retype.png
+- name: mwin
+  desc: (C++, win32) A tool for resizing and repositioning of windows, on its perennial rewrite. What should have been a simple project to last a few weeks or months got stretched out for the best part of half a decade. Started as a clone of <a href="https://grismar.net/shiftwindow/">grismar's ShiftWindow</a> in VCL, rewritten to improve UI but only made it worse (even tried MDI), got fed up with VCL and rewritten in pure win32, and now I'm rewriting it in C99 due to wanting to port it to earlier versions of Windows. I need to stop building <a href="https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">cathedrals</a> and just release. [TODO link to mwinc and the earlier repositories pshiftwindow, mwin-vcl]
+  url: https://github.com/plu5/mwin
+- name: Eisenhour
+  desc: (JavaScript, React) A timer-based time-management application that syncs with Google Calendar. It served me for half a decade until I got fed up with having a million dependencies that break constantly; no one seems to respect semantic versioning in JavaScriptland, and the dependencies are like Russian dolls, especially React and its ecosystem.
+  url: https://github.com/plu5/eisenhour
+  img: eisenhour.png
 - name: Borderlands 2 mods
-  desc: PythonSDK-based mods for the Unreal Engine 3 brilliant game, Borderlands 2
+  desc: (Python3) PythonSDK-based mods for the Unreal Engine 3 game Borderlands 2. It is fun to make mods because you get to explore other people's code.
   url: https://github.com/plu5/p-borderlands
   img: p-borderlands.png
