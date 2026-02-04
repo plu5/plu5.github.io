@@ -52,4 +52,14 @@ title: Home
     </li>
     {% endfor %}
   </ul>
+
+  <p>graveyard of unfinished articles :</p>
+  <ul class="posts">
+    {% for post_ in site.brouillons %}
+    <li>
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
+      <small>{{ post_.date | date_to_string }}</small>
+    </li>
+    {% endfor %}
+  </ul>
 </div>

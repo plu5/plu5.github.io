@@ -17,6 +17,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path
+  brouillons:
+    output: true
+    permalink: /article/:title
 
 defaults:
   - scope:
