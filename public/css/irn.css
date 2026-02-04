@@ -15,7 +15,7 @@ body {
   color: white;
   background-color: black;
   font-family: Hack, serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 /* different font for headings which i think is considered good design? */
@@ -23,15 +23,38 @@ h1, h2, h3, h4, h5, h6 {
   font-family: sans-serif, serif;
 }
 
+/* no underline in headers anchor link */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  text-decoration: none;
+}
+
 /* smaller headings because i find large ones obnoxious, like the
    people who use h1 for every single heading on their github readmes
    */
 h1 {
-  font-size: 50px;
+  font-size: inherit;
   counter-reset: the-section;
 }
 h2 {
-  font-size: 40px;
+  font-size: inherit;
+}
+h1::before {
+  content: '# ';
+}
+h2::before {
+  content: '## ';
+}
+h3::before {
+  content: '### ';
+}
+h4::before {
+  content: '#### ';
+}
+h5::before {
+  content: '##### ';
+}
+h5::before {
+  content: '###### ';
 }
 
 /* blue on black looks bad */
