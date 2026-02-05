@@ -3,10 +3,13 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-01-17 02:46
+modified_date: 2026-02-05 02:59
 categories: flou
 lang: fr
 ---
+## Préambule
+La plupart de ces idées sont tarées mais je n'y peux rien
+
 ## 2026
 § avant
 - [jeu] jeux et prototypes godot navigateur
@@ -130,5 +133,15 @@ lang: fr
 - [old] [jeu] wwz méchanique de pyramide de zombies
 - [soft] nq librairie remplacement drop-in à qt
   + pour retype pour pouvoir corriger les bugs et supporter plus de systèmes
+
+§ 2026-02-03
+- [jeu] jeu qui apprend le français comme mes souvenirs du jeu english club
+  + sauvegarde de position par nom donné
+- [soft] ds structures de données portables pour les programmes C
+  + sdd
+
+§ 2026-02-04
+- [soft] verdocs webextension qui sync avec google docs, un panneau avec un aperçu des tâches
+  + définir ce qu'on veut voir avec regex
 
 {% include fin.html %}

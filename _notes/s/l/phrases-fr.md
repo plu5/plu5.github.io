@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-01-17 02:39
+modified_date: 2026-02-05 05:17
 categories: lang
 lang: fr
 ---
@@ -191,5 +191,20 @@ Idéalement noter seulement des tourures qui vont être utiles
 - Allons un cran plus loin.
 - exemple d'exécution ([koor.fr](https://koor.fr/C/cstdlib/realloc.wp))
 - Pour information, ptr2 a été alloué pour être certain que ptr1 ne pourra être réallouer sur place. (^)
+
+§ 2026-02-03
+- un papier froissé/chiffonné / une boule de papier
+
+§ 2026-02-04
+- renommer pour enlever la date du nom
+- Ce n'est pas évident à pêcher le brochet, vous savez, car il faut que la météo ne soit ni trop chaude ni trop froide, ni trop sèche ni trop humide. Et hier le temps était pile-poil ([black_winny](https://forum.wordreference.com/threads/pile-poil.230910/))
+- quelle police pose problème
+- ça laisse de la place aux numéros
+- c'est ça qui te joue des tours
+- j'espère avoir pu vous renseigner ([Marie74](https://forum.wordreference.com/threads/pile-poil.954527/))
+- cela vient de l'expression "tomber pile" = à point nommé, et "être au poil, aller au quart de poil" = au moindre détail près. (^ Piotr Ivanovitch)
+- on me disait qu'il y avait litige parce que j'avais justement quelques centimes qui se promenaient, et donc il fallait refaire les factures … ce à quoi je répondais que je ne pouvais absolument pas tomber sur des francs pile-poil, si vous permettez l'expression ([wr](https://forum.wordreference.com/threads/tomber-sur-des-francs-pile-poil.1259506/))
+- affichage optimisé pour IE 6.0 ou plus / ou version ultérieure ([hunternet](https://forum.wordreference.com/threads/best-viewed-in-ie-6-0-above.1091753/))
+- Maintenant que les considérations philosophiques sont écartées et que le ton est donné, permettez-moi d'aborder quelques problèmes plus spécifiques liés à l'utilisation de Rust comme remplaçant de C. ([drewdevault](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html))
 
 {% include fin.html %}

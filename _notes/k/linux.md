@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-01-16 22:01
+modified_date: 2026-02-04 12:51
 categories: os
 lang: fr
 ---
@@ -29,6 +29,7 @@ lang: fr
 - `systemctl list-units --type=service --user --all` : lister services utilisateur
   <br>(c'est agaçant mais faut se souvenir du --user. de même pour `systemctl status monservice` et `journalctl -u monservice`)
 - option `-f` (`--follow`) avec journalctl pour voir les messages en direct
+
 ### Pipes
 - `.. | head -n1` : première ligne
 - `.. | tail -n1` : dernière ligne
@@ -41,9 +42,11 @@ lang: fr
 - `.. | grep -e option1 -e option2` : grep OR
   <br>ou `.. | grep 'option1\|option2`, les guillemets sont nécessaire.
   <br>(cf [n0tes.fr Grep OR AND NOT](https://www.n0tes.fr/2022/10/16/Grep-OR-AND-NOT/))
+
 ### Redirection
 - `.. > fichier 2>&1` : redirige stdout et stderr à un fichier
   + `.. > /dev/null 2>&1` : utilisé quand on ne veut pas de sortie
+
 ### Expansion / substitution
 - [POSIX] `$((1 + 1))` : expansion arithmétique
 - Bash : `$((++i))` ou `$((i++))`. POSIX : `i=$((i + 1))`
@@ -95,14 +98,17 @@ lang: fr
   + les args commencent par 1 car 0 est le nom du script
   + [Bash] `${*%${!#}}` : souvent le même résultat mais ça ne fait pas la même chose. supprime la valeur du dernier argument de la fin de tous les arguments. `1 2 3 4` → `1 2 3`, `14 24 34 4` → `1 2 3`.
   + [POSIX] ``eval set -- `awk 'BEGIN{for(i=1;i<'$#';i++) printf " \"$%d\"",i;}'` ``, puis `$@` va avoir tous les arguments sauf le dernier ([Anders](https://stackoverflow.com/a/54271792/18396947))
+
 ### Boucles
-- Bash : `for ((i=0; i<10; i++)); do echo $i; done`. POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
+- Bash : `for ((i=0; i<10; i++)); do echo $i; done`  
+  POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
+
 ### Pas POSIX
-tableaux, exposants, modulo, certaines substitutions de variables (syntaxe `:1:2` [slicing], `/` [remplacement], `^` [conversion en majuscules], `,` [.. miniscules], `!` [expansion indirecte])
+Tableaux, exposants, modulo, certaines substitutions de variables (syntaxe `:1:2` [slicing], `/` [remplacement], `^` [conversion en majuscules], `,` [.. miniscules], `!` [expansion indirecte])
 
 Pas de regex, mais il y a les motifs de globbing `*` `?` `[abc]` `[!abc]`.
 
-Il existent heredocs (`<<`) mais pas de herestrings (`<<<`)
+Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 
 ## Débogage
 - `journalctl --no-pager --since "1 hour ago"`
@@ -110,6 +116,7 @@ Il existent heredocs (`<<`) mais pas de herestrings (`<<<`)
 - `sudo dmesg -HP` : messages du noyau (kernel ring buffer) human readable, no pager
 - `coredumpctl list --no-pager` : liste de crashs. même si la génération de coredumps est désactivée.
   <br>l'affichage dépend de la taille de la fenêtre alors je mets mon terminal en plein écran avant.
+
 ### Xorg
 - Les logs pour une session non-root se trouve dans `~/.local/share/xorg`. Si X est en cours, `Xorg.0.log` est le log de la session actuelle, et `Xorg.0.log.old` de la précédente.
   <br>Ou un autre numéro au lieu de 0 ; [ArchWiki](https://wiki.archlinux.org/title/Xorg) : «The logfiles are of the form Xorg.n.log with n being the display number.»
@@ -139,6 +146,7 @@ Il existent heredocs (`<<`) mais pas de herestrings (`<<<`)
 - sysfs
 - dbus
 - ibus
+
 ### Pas spécifique à Linux
 ...
 
@@ -158,6 +166,7 @@ C'est systemd qui le gère.
 Dans `/etc/systemd/logind.conf` tout est commenté par défaut. Décommente `HandlePowerKey=poweroff`. Tu y peux aussi configurer ce qui arrive avec d'autres boutons de contrôle système (Reboot, Suspend, Hibernate) et LidSwitch.
 
 cf [ArchWiki : Power managemnt : ACPI events](https://wiki.archlinux.org/title/Power_management#ACPI_events)
+
 #### Déplacer une fenêtre avec précision
 ```bash
 # la fenêtre active
@@ -175,6 +184,7 @@ wmctrl -r Peek -e 0,635,339,657,377
 wmctrl -lx
 ```
 et avec `-lG` il y a aussi la géometrie de fenêtres, mais ce n'est pas exactes sous bspwm, cf [bspwm: La position d'une fenêtre](#la-position-dune-fenêtre)
+
 #### Symlink
 Voici quelques symlinks que j'utiliser pour pouvoir syncer facilement des données importantes avec [onedrive](https://github.com/abraunegg/onedrive) :
 ``` bash
@@ -188,10 +198,13 @@ sudo ln -s /home/pm/.mozilla/firefox/4afxl8gu.default-release/bookmarkbackups/ ~
 sudo ln -s /media/Windows/Users/pm/dev/reps/plu5.github.io ~/OneDrive/backups/reps/plu5.github.io
 ```
 
+{% include note.html content="
 > [!NOTE]
 > Je garde pas mal de mes données sur une partition ntfs pour pouvoir les accéder depuis n'importe quel système d'exploitation, car Linux supporte ntfs mais Windows ne supporte pas ext4.
 >
 > Il faut aussi noter que ça pourrait arriver qu'un dossier créé sous Windows ne soit pas accessible sous Linux. Ça arrive quand il y a une étiquette particulière [TODO: écrire davantage, cf log 4e]. ça m'a arrivé avec mon dossier Dropbox après une mise à jour de ce dernier. Ma solution était de déconnecter et réconnecter et le laisser renommer le dossier et en créer un nouveau, puis quitter avant que ça ne sync, déplacer le contenu du vieux dossier dans le nouveau, et relancer. Il se rend compte assez rapidement que tout est là et revient en mode veille. Il y a aussi un plugin pour pouvoir accéder des dossiers avec cette étiquette quand même [TODO mettre un lien] mais il n'est pas maintenu.
+" %}
+
 ### bspwm
 #### La position d'une fenêtre
 flottante :
@@ -200,24 +213,28 @@ flottante :
 wid=$(wmctrl -l | grep Peek | awk '{print $1}'); bspc query --node $wid --tree | jq .client.floatingRectangle
 ```
 si non flottante, juste `.rectangle`
+
 ### Script
 #### Faire quelque chose seulement si l'utilisateur a la commande
 ``` bash
 has_paplay=$(command -v paplay >/dev/null 2>&1 && echo true)
 [ $has_paplay = true ] && paplay "/usr/share/sounds/freedesktop/stereo/complete.oga"
 ```
+
 #### Parcourir les lignes d'un fichier
 ```bash
 while read line; do
   echo $line
 done < .bashrc  # ou n'importe quel fichier après le <
 ```
+
 #### Parcourir les lignes de sortie d'une commande
 ```bash
 ls -a | while read line; do   # ou n'importe quelle commande avant le |
   echo $line
 done
 ```
+
 #### Parcourir les noms de fichiers
 ```bash
 for f in *; do
