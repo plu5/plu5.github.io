@@ -21,6 +21,7 @@ title: Home
     {% for link in site.data.nav %}
     <a class="s-nav-item{% if page.url == link.url %} active{% endif %}"
        href="{{ link.url }}">{{ link.title }}</a>
+    {% if forloop.last != true %}/{% endif %}
     {% endfor %}
   </nav>
 
