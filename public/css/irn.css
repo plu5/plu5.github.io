@@ -11,6 +11,7 @@ body {
 /* different font for headings which i think is considered good design? */
 h1, h2, h3, h4, h5, h6 {
   font-family: sans-serif, serif;
+  color: darkseagreen;
 }
 
 /* no underline in headers anchor link */
@@ -140,17 +141,6 @@ blockquote p:last-child {
 .page,
 .post {
   margin-bottom: 4em;
-}
-
-/* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
-  color: white;
-}
-.page-title,
-.post-title {
-  margin-top: 0;
 }
 
 /* Meta data line below post title */
