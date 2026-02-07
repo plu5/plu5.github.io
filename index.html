@@ -48,7 +48,7 @@ title: Home
   <ul class="posts">
     {% for post_ in site.notes %}
     <li>
-      {{ post_.lang }} {{ post_.path | split: "/" | pop | join: "/" | remove_first: "_notes" }}
+      {{ post_.lang }} {{ post_.path | split: "/" | pop | join: "/" | remove_first: "_notes/" }}
       <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
     </li>
     {% endfor %}
