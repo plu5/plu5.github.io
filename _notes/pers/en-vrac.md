@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-05 02:59
+modified_date: 2026-02-05 09:18
 categories: flou
 lang: fr
 ---
@@ -143,5 +143,9 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-02-04
 - [soft] verdocs webextension qui sync avec google docs, un panneau avec un aperçu des tâches
   + définir ce qu'on veut voir avec regex
+
+§ 2026-02-05
+- [soft] hobot moteur de jeu web ou fork qui optimise pour export web
+  + ou juste contribuer directement
 
 {% include fin.html %}

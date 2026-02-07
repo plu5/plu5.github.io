@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-02-04 12:51
+modified_date: 2026-02-05 14:33
 categories: os
 lang: fr
 ---
@@ -252,6 +252,7 @@ done
 
 ## Problèmes avec mon système
 ### X
+- Fuite de pixbufs
 - Figement irrécuperable si je change à un autre tty puis reviens au tty de X
 - `xrdb ~/.Xresources` rarement tue le serveur X
 - `sudo udevadm trigger` tue le serveur X

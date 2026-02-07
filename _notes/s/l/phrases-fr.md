@@ -3,12 +3,12 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-05 05:17
+modified_date: 2026-02-07 02:16
 categories: lang
 lang: fr
 ---
 ## Approche
-Idéalement noter seulement des tourures qui vont être utiles
+Idéalement noter seulement des tournures qui vont être utiles
 ## 2026
 § 2026-01-01
 - ne pas se laisser déborder par les évènements
@@ -183,7 +183,7 @@ Idéalement noter seulement des tourures qui vont être utiles
 - Avec Windows 98 SE en invité sous Windows 10 j'ai eu souvent des erreurs (plantage) E/S disques dans ma VM. ([kitsune](http://www.win3x.org/win3board/viewtopic.php?t=27405&sid=663007b60dde2e6dc96d1d65245b0c21&start=20))
 - un grand meuble, ordinairement plus haut que large ([JClaudeK](https://forum.wordreference.com/threads/armoire-wardrobe.194169/))
 - Voici une image de l'aménagement d'une armoire-type (^)
-- Je pense que ça doit simplement vouloir dire que le meuble et les vêtements étaient bien réels alors que la femme qui les avait portés de l'était plus. ([RuK](https://forum.wordreference.com/threads/dead-womans-living-wardrobe.232150/))
+- Je pense que ça doit simplement vouloir dire que le meuble et les vêtements étaient bien réels alors que la femme qui les avait portés ne l'était plus. ([RuK](https://forum.wordreference.com/threads/dead-womans-living-wardrobe.232150/))
 - La phrase ne permet pas de choisir entre les deux possibilités, il n'y aurait que le contexte. (^)
 
 § 2026-02-01
@@ -206,5 +206,12 @@ Idéalement noter seulement des tourures qui vont être utiles
 - on me disait qu'il y avait litige parce que j'avais justement quelques centimes qui se promenaient, et donc il fallait refaire les factures … ce à quoi je répondais que je ne pouvais absolument pas tomber sur des francs pile-poil, si vous permettez l'expression ([wr](https://forum.wordreference.com/threads/tomber-sur-des-francs-pile-poil.1259506/))
 - affichage optimisé pour IE 6.0 ou plus / ou version ultérieure ([hunternet](https://forum.wordreference.com/threads/best-viewed-in-ie-6-0-above.1091753/))
 - Maintenant que les considérations philosophiques sont écartées et que le ton est donné, permettez-moi d'aborder quelques problèmes plus spécifiques liés à l'utilisation de Rust comme remplaçant de C. ([drewdevault](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html))
+
+2026-02-05
+- tenez bon ([cnn](https://edition.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis))
+
+2026-02-06
+- c'est mis en évidence ici ([scholar5555](https://www.reddit.com/r/cybersecurity/comments/g20e83/wondering_if_i_am_at_risk_from_dark_reader_chrome/?tl=fr))
+- moi, tu sais, je t'aime tel quel ([wr](https://www.wordreference.com/fren/tel%20quel))
 
 {% include fin.html %}
