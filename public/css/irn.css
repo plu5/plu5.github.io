@@ -4,8 +4,9 @@
 body {
   color: white;
   background-color: black;
-  font-family: Hack, serif;
-  font-size: 25px;
+  font-family: Hack, "Courier New", "Source Code Pro", mono, sans-serif, serif;
+  font-size: 24px; /* older navigators */
+  font-size: 1.5rem;
 }
 
 /* different font for headings which i think is considered good design? */
