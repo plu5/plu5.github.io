@@ -1,4 +1,25 @@
-/* hello */
+/*
+ * Originally adapted from Poole and Hyde stylesheets by @mdo
+ * (no longer bears much resemblance)
+ */
+
+/* Contents
+ *
+ * Base
+ * Code
+ * Quotes
+ * Posts and pages
+ * Anchor links
+ * Categories
+ * TOC
+ * Footnotes
+ * Admonitions
+ * Spoilers
+ */
+
+/*
+ * Base
+ */
 
 /* white on black saves electricity */
 body {
@@ -127,7 +148,10 @@ pre code {
   border-radius: 0;
 }
 
-/* Quotes */
+/*
+ * Quotes
+ */
+
 blockquote {
   padding: 0 1rem;
   margin: .8rem 0;
@@ -174,7 +198,6 @@ a.anchorjs-link:focus {
   text-decoration: none;
   color: var(--color-stark);
 }
-
 
 /*
  * Categories
@@ -259,7 +282,6 @@ a.anchorjs-link:focus {
 .toctogglecheckbox:checked ~ ul, .toctogglecheckbox:checked ~ ol {
   display: none;
 }
-
 
 /*
  * Footnotes
