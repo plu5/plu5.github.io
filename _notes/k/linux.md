@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-02-05 14:33
+modified_date: 2026-02-07 14:53
 categories: os
 lang: fr
 ---
@@ -42,6 +42,7 @@ lang: fr
 - `.. | grep -e option1 -e option2` : grep OR
   <br>ou `.. | grep 'option1\|option2`, les guillemets sont nécessaire.
   <br>(cf [n0tes.fr Grep OR AND NOT](https://www.n0tes.fr/2022/10/16/Grep-OR-AND-NOT/))
+- `.. | sed -r '$s/(s|m|h|d)$//I'` : supprime s/m/h/d de la fin, insensible à la casse
 
 ### Redirection
 - `.. > fichier 2>&1` : redirige stdout et stderr à un fichier

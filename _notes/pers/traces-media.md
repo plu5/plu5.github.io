@@ -2,11 +2,19 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-07 02:09
+modified_date: 2026-02-07 16:28
 categories: list
 lang: fr
 ---
 Notes sur ce que je lis/écoute/regarde
+
+## [en] Political Currency
+..
+§ 2026-02-06
+- parallèles avec l'enquête de sue gray
+- osbourne était candidat au poste d'ambassadeur lui aussi, et il avait l'impression que mcsweeney le voulait et que starmer s'y opposait (il pense que starmer est trop clanique) mais ailbhe rea dans le new statesman vient d'écrire le contraire. et l'article, selon balls, "was passed all around parliament yesterday."
+  + ce n'était pas le point important dans l'article ce n'est qu'un détail. c'était plutôt sur l'influence qu'avait mandelson sur ce gouvernement.
+  + d'ailleurs cette journaliste avait écrit à osbourne lorsqu'il était éditeur à l'evening standard pour lui demander un emploi, et il le lui avait donné.
 
 ## [en] Hacker's Guide to Visual FoxPro
 § 2026-01-31

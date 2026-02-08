@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-07 02:16
+modified_date: 2026-02-07 16:15
 categories: lang
 lang: fr
 ---
@@ -207,11 +207,16 @@ Idéalement noter seulement des tournures qui vont être utiles
 - affichage optimisé pour IE 6.0 ou plus / ou version ultérieure ([hunternet](https://forum.wordreference.com/threads/best-viewed-in-ie-6-0-above.1091753/))
 - Maintenant que les considérations philosophiques sont écartées et que le ton est donné, permettez-moi d'aborder quelques problèmes plus spécifiques liés à l'utilisation de Rust comme remplaçant de C. ([drewdevault](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html))
 
-2026-02-05
+§ 2026-02-05
 - tenez bon ([cnn](https://edition.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis))
 
-2026-02-06
+§ 2026-02-06
 - c'est mis en évidence ici ([scholar5555](https://www.reddit.com/r/cybersecurity/comments/g20e83/wondering_if_i_am_at_risk_from_dark_reader_chrome/?tl=fr))
 - moi, tu sais, je t'aime tel quel ([wr](https://www.wordreference.com/fren/tel%20quel))
+
+§ 2026-02-07
+- insensible à la casse
+- un nombre considérable d’électeurs proeuropéens, qui devraient en principe soutenir les partis en exercice, restent divisés sur la question du traité, peu enthousiastes à l’idée de permettre au parti de Cowen de remporter une victoire précoce. ([Morriganlily](https://forum.wordreference.com/threads/to-hand-a-tribal-victory.1395650/))
+- parallèles, similitudes, échos, points communs, convergences
 
 {% include fin.html %}
