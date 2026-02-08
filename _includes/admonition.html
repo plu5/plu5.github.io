@@ -1,4 +1,9 @@
 <div class="admonition {{ include.type }}">
   <p class="admonition-title">{{ include.type | capitalize }}</p>
-  {{ include.content | markdownify }}
+  {% assign c = include.content %}
+  {% assign start = c | strip_newlines | slice: 0, 4 %}
+  {% if start == '> [!' %}
+    {% assign c = c | split: ']' | shift | join: ']' %}
+  {% endif %}
+  {{ c | markdownify }}
 </div>

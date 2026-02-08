@@ -2,28 +2,67 @@
 layout: default
 title: Home
 ---
+<div id="hack">
+  <pre style="white-space: pre; overflow-x: auto;">
+ ________  ___  ___           ________  _______   ___      ___ 
+|\   ____\|\  \|\  \         |\   ___ \|\   ___\ |\  \    /  /|
+\ \  \___|\ \  \/  /._       \ \  \ |\ \ \  \___.\ \  \  /  / /
+ \ \  \    \ \   ___  \       \ \  \ \\ \ \   ___\\ \  \/  / /
+  \ \  \____\ \  \\ \  \       \ \  \_\\ \ \  \___.\ \    / /
+   \ \_______\ \__\\ \__\       \ \_______\ \______\\ \__/ /
+    \|_______|\|__| \|__| .is-a. \|_______|\|_______|\|__|/
+                                            2.0.0@gh-pages</pre>
+  <b>c. k.</b> = programmer<br>
+  c99, cpp, py, js
 
-<p>↓</p>
+  <p>interests : portability, games, british politics</p>
 
-<h2 class="working-on-h">Some things I am working on</h2>
+  <nav class="s-nav">
+    {% for link in site.data.nav %}
+    <a class="s-nav-item{% if page.url == link.url %} active{% endif %}"
+       href="{{ link.url }}">{{ link.title }}</a>
+    {% if forloop.last != true %}/{% endif %}
+    {% endfor %}
+  </nav>
 
-<div class="capsules-container">
-  {% for proj in site.data.projects %}
-    {% include capsule.html name=proj.name desc=proj.desc url=proj.url img=proj.img %}
-  {% endfor %}
-</div>
+  <div id="projects">
+    <p>projects :</p>
+    <ul>
+      {% for project in site.data.projects %}
+      <li><a href="{{ project.url }}">{{ project.name }}</a> : {{ project.desc }}
+      {% endfor %}
+    </ul>
+  </div>
 
-<hr/>
-
-<h2 class="recent-posts-h">Some things I wrote</h2>
-<ul class="related-posts">
-  {% for post_ in site.posts limit:3 %}
+  <p>articles :</p>
+  <ul class="posts">
+    {% for post_ in site.posts %}
     <li>
-      <a class="post-link" href="{{ post_.url }}">
-        {{ post_.title }}
-      </a>
-      {% include cats-container.html post=post_ %}
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
       <small>{{ post_.date | date_to_string }}</small>
     </li>
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+
+  <p>notes :</p>
+  <ul class="posts">
+    {% for post_ in site.notes %}
+    <li>
+      {{ post_.lang }} {{ post_.path | split: "/" | pop | join: "/" | remove_first: "_notes/" }}
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p>graveyard of unfinished articles :</p>
+  <ul class="posts">
+    {% for post_ in site.brouillons %}
+    <li>
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
+      <small>{{ post_.date | date_to_string }}</small>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% include fin.html %}
