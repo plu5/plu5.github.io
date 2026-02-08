@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+{% assign lang = "en-gb" %}
+{% if page.lang == "fr" %}
+  {% assign lang = "fr" %}
+{% endif %}
+<html lang="{{ lang }}">
 
   {% include head.html %}
 
