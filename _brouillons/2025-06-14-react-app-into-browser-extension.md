@@ -2,7 +2,7 @@
 layout: post
 title:  "Devlog: Making an existing React app into a browser extension"
 date:   2025-06-14 08:08
-modified_date: 2025-06-14 18:32
+modified_date: 2026-02-08 00:45
 categories: devlog web
 ---
 
@@ -25,5 +25,10 @@ The next step is to make the panel be a React app.
 {%comment%}{%raw%}
 {% include figure.html file="p/" %}
 {%endraw%}{%endcomment%}
+
+## Day 239: Void
+.. There was never a continuation, I abandoned everything, and I never want to use React again.
+
+Continue anyway just to satisfy the premise of the article. I'm ashamed to leave it like this even in the graveyard, what if someone gets here from a search? Then they will see the graveyard warning and I will have wasted them all of two seconds.
 
 {% include fin.html %}
