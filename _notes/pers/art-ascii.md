@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-02-08 06:03
+modified_date: 2026-02-08 06:25
 categories: art
 lang: fr
 ---
@@ -30,7 +30,7 @@ _  !!!!
  |__/
 ```
 ### Bilibili
-Sur le site bilibili.com, quand il charge on voit cela à la console :
+Sur le site bilibili.com, au chargement, on voit le message suivant dans la console :
 ```
                      //
          \\         //
