@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-01-22 22:41
+modified_date: 2026-02-08 02:48
 categories: art
 lang: fr
 ---
@@ -48,7 +48,7 @@ Sur la site bilibili.com, quand il charge on voit cela à la console :
          \/            \/                                       Powered by @bilibili/jinkela-core@2.8.11
 ```
 La police du logo est identique à celle générée par patorjk.com/software/taag 3D-ASCII.
-## Maison naïve
+### Maison naïve
 Dans [les docs yasnippet](https://joaotavora.github.io/yasnippet/snippet-development.html) :
 ```
                 welcome to my
@@ -64,7 +64,7 @@ Dans [les docs yasnippet](https://joaotavora.github.io/yasnippet/snippet-develop
 ```
 
 ## Tentatives / variations
-### Maison
+### 2026-01-22 Maison
 ```
  .
 /_\
