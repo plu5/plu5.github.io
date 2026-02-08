@@ -2,7 +2,7 @@
 layout: post
 title:  "Git dev branch attempts and failures"
 date:   2025-02-17 12:39
-modified_date: 2025-02-25
+modified_date: 2026-02-08 06:07
 categories: github
 ---
 Almost everyone starts out using git by committing directly to the mainline branch. As they mature, and begin to use a project that has users, or, god forbid, other developers, this simple and efficient workflow gives way to a feature-branches-based one. It's safe, it's common, it's encouraged by the PR-based workflow nigh every project nowadays relies on. I have used it for a very long time, despite something about it feeling wrong to me, like it has added a burden, made committing less fun, added an extra cost to every fix and every feature. It feels like drudgery that I force myself to do to be proper.
@@ -31,13 +31,13 @@ There are also cases where it'd be better to have several commits instead of onl
 ## Failed attempt 2: Dev branch + rebase + squash merge
 Ostensibly, you can work around the issue from attempt 1 by first rebasing. First ensure main is up to date:
 
-```
+```sh
 git fetch origin main:main
 ```
 
 Then rebase dev on main:
 
-```
+```sh
 git rebase origin/main dev
 ```
 
@@ -49,7 +49,7 @@ After you do this, you're able to make a PR with just the new commits, but you l
 
 alias:
 
-```
+```sh
 git config --global alias.prepr '!git fetch origin main:main && git switch dev && git rebase origin/main --autostash && git push --force origin dev'
 ```
 
@@ -62,7 +62,7 @@ I still thought if there is a way to also keep the entire history of it and not 
 ## Failed attempt 3: Dev branch + dev-pr + squash merge
 So I thought of creating a new branch off dev and rebasing that branch instead. I called it dev-pr.
 
-```
+```sh
 git fetch origin main:main
 git switch --force-create dev-pr dev
 git rebase origin/main --autostash
@@ -73,7 +73,7 @@ git switch dev
 
 alias:
 
-```
+```sh
 git config --global alias.prepr '!git fetch origin main:main && git switch --force-create dev-pr dev && git rebase origin/main --autostash && git push --force origin dev-pr && git push origin dev && git switch dev'
 ```
 
@@ -99,7 +99,7 @@ Simple example to trigger a conflict:
 ## Imperfect workaround: Rebase onto
 Instead of `git rebase branch1 branch2`,
 
-```
+```sh
 git rebase --onto branch1 @~2 branch2
 ```
 
@@ -124,7 +124,7 @@ Also, you will no doubt have noticed a lot of the issues have arisen due to usin
 ## What I'm doing for now
 It is far from an ideal solution and more of a stopgap. For now I am sticking to dev and dev-pr with my prepr alias modified to do rebase onto with a specified number of commits to apply.
 
-```
+```sh
 git config --global alias.prepr '!git fetch origin main:main && git switch --force-create dev-pr dev && git rebase --onto origin/main @~"${1}" dev-pr --autostash && git push --force origin dev-pr && git push origin dev && git switch dev #'
 ```
 
