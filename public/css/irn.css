@@ -139,11 +139,6 @@ blockquote p:last-child {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
-.page,
-.post {
-  margin-bottom: 4em;
-}
-
 /* Meta data line below post title */
 .post-date {
   display: block;
