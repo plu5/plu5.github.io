@@ -362,3 +362,16 @@ a.anchorjs-link:focus {
 .admonition.todo {
   border-left: .25em solid #c8d7d9;
 }
+
+/*
+ * Spoilers
+ */
+
+.spoiler {
+  color: grey;
+  background-color: grey;
+}
+
+.spoiler:hover {
+  color: black;
+}
