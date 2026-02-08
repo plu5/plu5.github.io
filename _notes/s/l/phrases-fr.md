@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-07 16:15
+modified_date: 2026-02-08 09:20
 categories: lang
 lang: fr
 ---
@@ -217,6 +217,34 @@ Idéalement noter seulement des tournures qui vont être utiles
 § 2026-02-07
 - insensible à la casse
 - un nombre considérable d’électeurs proeuropéens, qui devraient en principe soutenir les partis en exercice, restent divisés sur la question du traité, peu enthousiastes à l’idée de permettre au parti de Cowen de remporter une victoire précoce. ([Morriganlily](https://forum.wordreference.com/threads/to-hand-a-tribal-victory.1395650/))
+- tribal, communautaire, communautariste, identitaire, clanique
+  + une politique tribale
+  + [_communautariste_](https://fr.wiktionary.org/wiki/communautariste) est normatif et péjoratif (plus que “tribal” en anglais)
+  + _clanique_ met l'accent sur le réflexe de clan, le _nous contre eux_
+  + fondé sur l'appartenance au groupe
+  + marqué par une logique de camps
+  + structuré par des loyautés de groupe
 - parallèles, similitudes, échos, points communs, convergences
+  + forts, nets, frappants, évidents
+  + faire écho. cette affaire fait écho à l'enquête précédente
+  + il existe de nets parallèles avec l'enquête précédente
+  + on observe de fortes similitudes avec l'enquête précédente
+- l'opérateur est _à_ la console (position / poste)
+- une erreur apparaît _dans_ la console (contenu / affichage)
+
+§ 2026-02-08
+- l'erreur apparaît _dans_ le navigateur (contenu / affichage / interface)
+- une extension installée _sur_ le navigateur (support / surface / système)
+- le bouton est _sur_ la page d'accueil (surface)
+- le bouton est _dans_ le document source (structure interne)
+  + ou dans le DOM (toujours _dans_)
+- le fichier est stocké _sur_ le serveur
+- un disque dur _dans_ le serveur (matériel)
+- la variable est définie _dans_ le fichier
+- agir _sur_ un fichier
+- donc rien de fautif
+- ça accroche un peu
+- c'est un peu heurté à l'oreille
+- la victimisation communautariste est une pente hasardeuse ! ([wiktionary](https://fr.wiktionary.org/wiki/communautariste))
 
 {% include fin.html %}

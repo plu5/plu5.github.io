@@ -3,7 +3,7 @@ layout: post
 title: Good films
 date: 2019-09-07 00:11
 conversion_date: 2026-02-08 09:58
-modified_date: 2026-02-08 10:17
+modified_date: 2026-02-08 14:21
 categories: list
 lang: en
 ---
@@ -96,6 +96,7 @@ lang: en
 - Dawn of the Dead (1978)
 - Day of the Dead (1985)
 - Arrival (2016)
+- Don't Look Up (2021)
 - Anatomy of a Fall (2023)
 
 ## not sure about them but they affected me a lot
@@ -116,6 +117,8 @@ lang: en
 - Riders of Justice (2020)
 - Passenger 57 (1992)
 - The Fifth Element (1997)
+- Shock Waves (1977)
+  + {%include spoiler.html content="zombie nazis at the bottom of the ocean"%}
 
 ## favourite james bond
 - You Only Live Twice (1967)
