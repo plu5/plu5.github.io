@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-02-09 12:32
+modified_date: 2026-02-09 16:29
 categories: art
 lang: fr
 ---
@@ -71,6 +71,63 @@ Quand on cherche une police qui n'existe pas, par ex. [fonts.google.com/?query=h
  \(o_o)/ 
 ```
 Je l'aime beaucoup. Je vais l'utiliser pour [ma page 404](/404).
+### Lapins
+[anonymous asciiart.website 6300](https://asciiart.website/art/6300)
+```
+  (\(\
+  (._.)
+ c(___)
+```
+[rscr asciiart.website 6308](https://asciiart.website/art/6308)
+```
+                                  ____
+                           __    |::::`*.
+                      .-*``      |::::_.' _                    :
+                                  ````     ``~.
+           \ |   .'                                            .
+        `. __  /                                 `~_
+        _ /;O`. .'                                             :
+         /\/`.o) _                                   `.
+        /\/  //                                              . .
+       /\/  //  \                       .          `   .       :  .-.
+      /\/  //                            `.             :      '          .
+     /\/  //                                         .   .            : .::
+    /\/  :/                                  `.     :  . :  .  :      : ;'           .
+ _ /\/  /\\                                `          :: `   : :       `  ;       .
+ \'\/._/9 ))                               .     .    `". :  : .   ;     `       `
+  )/  .( //                               ::              : .  :     :        .`
+ '..  ::':`-.___                           `       `.      : : : :" :  -. ;  `             ::
+    `.`:::::::)#)                              :       " :`:"` :;;` : :: '.`               _.
+      `.``:::/#/                                `   : `. "; ';`: ;;:"`   `.          .-` `
+        `-**/#/                            :--.. _   " ::.`;:':`::':.;.`; :    .-`     :
+      (\(\`~~`                      '       `     `` -._;.`::`.::.:"::.:_'. `` .   ;         :
+      (._.)/            ,          .       ,           ": :::.:;;.;'.;;: " :" : .          ,  `
+      (___)                    , . `  . :: , _ . _ ;"_:_"::.;;;`::"::;'_`;"_`._; __: _  .   -  .
+   ````````````````````````````````````````````""""***---;;;;;;;;;;;;;;;;;;---***""""```````rscr
+```
+### Chats
+[kel asciiart.website 6211](https://asciiart.website/art/6211)
+```
+            _
+    /\ /\  ((
+  =( ^x^ )= ))
+ ----m-m----
+         kel
+```
+[Erik Andersson asciiart.website 6237](https://asciiart.website/art/6237)
+```
+  ,_     _
+  |\\_,-~/
+  / _  _ |    ,--.
+ (  @  @ )   / ,-'
+  \  _T_/-._( (
+  /         `. \
+ |         _  \ |
+  \ \ ,  /      |
+   || |-_\__   /
+  ((_/`(____,-'
+ Erik Andersson 
+```
 
 ## Tentatives / variations
 ### 2026-01-22 Maison
@@ -108,6 +165,12 @@ Je l'aime beaucoup. Je vais l'utiliser pour [ma page 404](/404).
  /_______\
  |   _   |  welcome to
  |  | |  |  my humble home
+```
+### 2026-02-09 Chat
+```
+  /\_/\
+ ( o.o )
+  > _ <
 ```
 
 {% include fin.html %}

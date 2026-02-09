@@ -3,7 +3,7 @@ layout: post
 title: Good films
 date: 2019-09-07 00:11
 conversion_date: 2026-02-08 09:58
-modified_date: 2026-02-09 05:58
+modified_date: 2026-02-09 12:58
 categories: list
 lang: en
 ---
@@ -98,6 +98,7 @@ lang: en
 - Arrival (2016)
 - Don't Look Up (2021)
 - Anatomy of a Fall (2023)
+  + this film is very relatable to anyone learning french
 
 ## not sure about them but they affected me a lot
 - a league of their own

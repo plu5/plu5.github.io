@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-09 10:51
+modified_date: 2026-02-09 16:27
 categories: flou
 lang: fr
 ---
@@ -150,5 +150,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-02-09
 - [soft] éditeur web comme emacs avec org-mode et yasnippet
+- [art] "captures d'écran" en art ascii
+- [art] diagrammes d'anatomie en art ascii
 
 {% include fin.html %}
