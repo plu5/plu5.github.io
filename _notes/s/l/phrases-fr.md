@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-08 09:20
+modified_date: 2026-02-08 17:08
 categories: lang
 lang: fr
 ---
@@ -246,5 +246,7 @@ Idéalement noter seulement des tournures qui vont être utiles
 - ça accroche un peu
 - c'est un peu heurté à l'oreille
 - la victimisation communautariste est une pente hasardeuse ! ([wiktionary](https://fr.wiktionary.org/wiki/communautariste))
+- exploser en vol ([wr](https://forum.wordreference.com/threads/exploser-en-vol.2276641/))
+- je vais structurer ça comme suit :
 
 {% include fin.html %}
