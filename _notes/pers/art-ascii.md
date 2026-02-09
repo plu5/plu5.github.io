@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-02-08 06:25
+modified_date: 2026-02-09 11:02
 categories: art
 lang: fr
 ---
@@ -76,35 +76,30 @@ Je l'aime beaucoup. Je vais l'utiliser pour [ma page 404](/404).
 /_\
 | |
 ^^^
-```
-```
+
  ..
 /__\
 |[]|
 ^^^^
-```
-```
+
   ^
  / \
 /_ _\
 | O |
 ^^^^^
-```
-```
+
    ^
  /___\
 /  _  \ bienvenue à ma wonky home T_T
 | | | |
 +-----+
-```
-```
+
    ^
  /   \  ok c'est juste un toit énorme ?
 /_____\ on va avoir un problème avec le toit
 | | | |
 +-----+
-```
-```
+
     X
   /   \
 /_______\
