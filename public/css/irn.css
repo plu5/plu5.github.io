@@ -372,6 +372,6 @@ a.anchorjs-link:focus {
   background-color: grey;
 }
 
-.spoiler:hover {
+.spoiler:hover, .spoiler:active, .spoiler:focus {
   color: black;
 }
