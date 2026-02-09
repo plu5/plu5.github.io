@@ -75,14 +75,19 @@ a {
   color: yellow;
 }
 
-/*
- * Code
- */
-
+/* ascii art logo */
 #hack pre {
   background-color: black;
   color: red;
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  overflow-x: auto;
 }
+
+/*
+ * Code
+ */
 
 code,
 pre {
