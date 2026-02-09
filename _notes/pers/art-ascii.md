@@ -2,32 +2,35 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-02-09 11:02
+modified_date: 2026-02-09 12:32
 categories: art
 lang: fr
 ---
 ## But de cette note
 `¯\_(T-T)_/¯`
 
+## Règles
+- Ajouter toujours un espace (au moins) au début de chaque ligne dans les blocs de code, sinon l'affichage se casse sur certains navigateurs ([185d994](https://github.com/plu5/plu5.github.io/commit/185d9947b6ad890495fa93f78d9f42b6ab82537c))
+
 ## Repéré dans la nature
 ### Une main 7x5
 Par [ejm](https://ascii.co.uk/art/hand)
 ```
- ////
-!!!!  _
-!   -'/
- \   /
-  \__|
+  ////
+ !!!!  _
+ !   -'/
+  \   /
+   \__|
 ```
 Je l'avais pendant des années dans la barre latérale du site. J'aime beaucoup sa simplicité.
 
 Renversé :
 ```
-  \\\\
-_  !!!!
-\'-   !
- \   /
- |__/
+   \\\\
+ _  !!!!
+ \'-   !
+  \   /
+  |__/
 ```
 ### Bilibili
 Sur le site bilibili.com, au chargement, on voit le message suivant dans la console :
@@ -72,39 +75,39 @@ Je l'aime beaucoup. Je vais l'utiliser pour [ma page 404](/404).
 ## Tentatives / variations
 ### 2026-01-22 Maison
 ```
- .
-/_\
-| |
-^^^
+  .
+ /_\
+ | |
+ ^^^
 
- ..
-/__\
-|[]|
-^^^^
-
-  ^
- / \
-/_ _\
-| O |
-^^^^^
+  ..
+ /__\
+ |[]|
+ ^^^^
 
    ^
- /___\
-/  _  \ bienvenue à ma wonky home T_T
-| | | |
-+-----+
+  / \
+ /_ _\
+ | O |
+ ^^^^^
 
-   ^
- /   \  ok c'est juste un toit énorme ?
-/_____\ on va avoir un problème avec le toit
-| | | |
-+-----+
+    ^
+  /___\
+ /  _  \ bienvenue à ma wonky home T_T
+ | | | |
+ +-----+
 
-    X
-  /   \
-/_______\
-|   _   |  welcome to
-|  | |  |  my humble home
+    ^
+  /   \  ok c'est juste un toit énorme ?
+ /_____\ on va avoir un problème avec le toit
+ | | | |
+ +-----+
+
+     X
+   /   \
+ /_______\
+ |   _   |  welcome to
+ |  | |  |  my humble home
 ```
 
 {% include fin.html %}
