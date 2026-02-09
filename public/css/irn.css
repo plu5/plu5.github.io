@@ -25,7 +25,7 @@
 body {
   color: white;
   background-color: black;
-  font-family: Hack, "Courier New", "Source Code Pro", mono, sans-serif, serif;
+  font-family: Hack, Consolas, Menlo, Monaco, "Source Code Pro", monospace;
   font-size: 24px; /* older navigators */
   font-size: 1.5rem;
 }
