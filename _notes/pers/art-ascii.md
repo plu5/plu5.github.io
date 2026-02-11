@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-02-09 16:29
+modified_date: 2026-02-10 06:23
 categories: art
 lang: fr
 ---
@@ -172,5 +172,8 @@ Je l'aime beaucoup. Je vais l'utiliser pour [ma page 404](/404).
  ( o.o )
   > _ <
 ```
+
+## Art en caractères braille
+Créé avec l'outil []
 
 {% include fin.html %}

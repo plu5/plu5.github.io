@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-09 16:27
+modified_date: 2026-02-10 17:14
 categories: flou
 lang: fr
 ---
@@ -152,5 +152,14 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [soft] éditeur web comme emacs avec org-mode et yasnippet
 - [art] "captures d'écran" en art ascii
 - [art] diagrammes d'anatomie en art ascii
+- [art] l'art en caractères japonais
+- [art] l'art en caractères pointillés
+- ✓ [soft] mode emacs pour créer de l'art pointillé
+  + comme [cet éditeur web](https://emojicombos.com/dot-art-editor)
+  + c'est du braille
+  + [braille.el](https://github.com/plu5/braille.el)
+
+§ 2026-02-10
+- [site] descriptions plus courtes et moins cringe dans la liste des projets
 
 {% include fin.html %}
