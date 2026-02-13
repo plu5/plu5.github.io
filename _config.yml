@@ -20,6 +20,9 @@ collections:
   brouillons:
     output: true
     permalink: /article/:title
+  devlog:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:

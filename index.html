@@ -11,7 +11,7 @@ title: Home
    \ \  \____\ \  \\ \  \       \ \  \_\\ \ \  \___.\ \    / /
     \ \_______\ \__\\ \__\       \ \_______\ \______\\ \__/ /
      \|_______|\|__| \|__| .is-a. \|_______|\|_______|\|__|/
-                                             2.0.3@gh-pages</code></pre></div>
+                                             2.1.0@gh-pages</code></pre></div>
   <b>c. k.</b> = programmer<br>
   c99, cpp, py, js
 
@@ -33,6 +33,9 @@ title: Home
       {% endfor %}
     </ul>
   </div>
+
+  {% assign devlog = site.devlog.first %}
+  <p>latest devlog : <a class="post-link" href="{{ devlog.url }}">{{ devlog.title }}</a></p>
 
   <p>articles :</p>
   <ul class="posts">
