@@ -2,7 +2,7 @@
 layout: post
 title: 1 — Braille in Emacs
 date: 2026-02-12 15:50
-modified_date: 2026-02-13 05:32
+modified_date: 2026-02-13 05:47
 categories: braille.el
 lang: en
 redirect_from: /devlog/1
@@ -53,15 +53,15 @@ The start of the Unicode braille block is at 0x2800. As previously stated, the f
 (insert (+ #x2800 7))  ; ⠇ (top three left)
 ```
 So far the pattern is each separate dot is like a bit flag:
-- ① topLeft 1 0b001
-- ② 2ndLeft 2 0b010
-- ④ 3rdLeft 4 0b100
+- `① topLeft 1 0b001`
+- `② 2ndLeft 2 0b010`
+- `④ 3rdLeft 4 0b100`
 
 and bitwise ORing (`|`) them together combines them:
-- ③ topLeft+2ndLeft = 0b001 | 0b010 = 0b011 = 3
-- ⑤ topLeft+3rdLeft = 0b001 | 0b100 = 0b101 = 5
-- ⑥ 2ndLeft+3rdLeft = 0b010 | 0b100 = 0b110 = 6
-- ⑦ topLeft+2ndLeft+3rdLeft = 0b001 | 0b010 | 0b100 = 0b111 = 7
+- `③ topLeft+2ndLeft = 0b001 | 0b010 = 0b011 = 3`
+- `⑤ topLeft+3rdLeft = 0b001 | 0b100 = 0b101 = 5`
+- `⑥ 2ndLeft+3rdLeft = 0b010 | 0b100 = 0b110 = 6`
+- `⑦ topLeft+2ndLeft+3rdLeft = 0b001 | 0b010 | 0b100 = 0b111 = 7`
 
 but:
 ```elisp
