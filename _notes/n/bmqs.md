@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-02-06 12:02
+modified_date: 2026-02-12 17:43
 categories:
 lang: en
 ---
@@ -523,5 +523,90 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/2 answer
 -----
 
 - [Parliament's restoration and renewal costed proposals report](https://committees.parliament.uk/publications/51442/documents/285576/default/) released today
+
+### 2026-02-12
+industry and exports financial assistance bill, removal two child limit bill, libdem thing, budget responsibility, general debate on ukraine, general debate on st david's day, bereaved children, represenation of the people bill, spring statement, consideration of lords amendments, house asked to agree all outstanding estimates, general debate on contributions of commonwealth troops in the first world war, debate on motion of future of palliative care, recess dates for like summer and conference and christmas recess in ages from now
+
+deputy speaker: 1st of september does clash with my brithday
+
+norman:
+- thanking leader of the house on behalf of all members for the recess dates
+- today is the birthday of abraham lincoln, perhaps the greatest of all US presidents, fitting moment to talk about public service. chaplain new job
+- intl olympics banned ukranian athlete from wearing a helmet of remembrance
+- appointed two men to the house of lords indecent to children
+- leaked news that the pm's own choice of cabinet secretary is being forced to stand down after barely a year in post. as they say at the bbc deputy heads must roll
+- no govt is free from scandal, i can say that, certainly not the previous ones, but let there be no deflections, there has not been anything to compare for this catalogue fo misjudgements by a pm for perhaps 60 years
+- every sitting day the chaplain leads this house in prayer for public service that we may as a house never lead the nation wrongly through love of power, desire to please or unworthy ideals, but lay aside all private interest and prejudice. every member of this house knows those words, but that is precisely what these people have failed to do
+- end on a positive note from an uplifting story of this week. charity we are faming minds in herefordshire to help farmers with poor mental health. a farmer commits suicide every week in this country. walk of hope. with luck i should find him this afternoon on the trail. this is what public service looks like
+
+campbell:
+- thoughts of the whole house are with the two children stabbed in a school
+- thoughts of the whole house with those affected by attack in canada
+- join in welcoming chaplain and thank outgoing chaplain
+- mark this week as national apprenticeship week
+- draw your interest to the ambition set out in [Parliament's restoration and renewal report](https://committees.parliament.uk/publications/51442/documents/285576/default/) published last week to support a thousand apprenticeships and traineeships in addition the the thousand of full-time roles required to deliver the works. encourage members whatever their view on the future of parliament to attend briefings by the R and R client team [?] and read the report
+- wish all members an enjoyable recess and hope members get time to spend with family [12-23 feb not including]
+- pancake day
+- join him in congratulating the farming campaigner. will need his wellies. govt are stepping up and supporting farmers access to mental health services
+- what has happened in the last couple of weeks. without any deflection or fudge as he says. person had the whip withdrawn and we have started an investigation and it is right that that takes place. with the cabinet secretary will not enter into speculation about that.
+- wider issue of standards in public life, i absolutely agree with him. there can not be prevarication on these matters. [then list of stuff they have set up], need to go further, public integrity commission, been a difficult time for us all not least to the prime minister himself. i regard the prime minister as a man of integrity [members: hear, hear], i regard him as a man of public service, and when someone stands up and says that they've got it wrong, that they regret what has happened, we should take that at face value and we should redouble our efforts to make sure that going forwards public life and public standards are even higher than they currently are.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions asked.
+
+[Happened at 11:40](https://parliamentlive.tv/event/index/04114fab-43d6-4465-a23e-82a954f5940c?in=11:40:27). [Hansard](https://hansard.parliament.uk/commons/2026-02-12/debates/0D359F37-D6A5-43A9-9E20-F3D3EC34717F/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Two midjudged appointments to the HoL
+
+> **NORMAN:** [T]he news has once again been filled by a succession of the most appalling misjudgments by the Prime Minister. These include decisions by him to ignore both public evidence and private advice, and to appoint to the House of Lords not one but two men with continuing connections to convicted paedophiles. It has been confirmed today that the Prime Minister was aware that his nominee, Matthew Boyle, had campaigned for a man charged with distributing indecent images of children two months before the Prime Minister appointed him.
+
+→
+
+> **CAMPBELL:** Matthew Doyle has had the Labour Whip withdrawn. The Labour party has started an investigation, and it is right that that is allowed to take place.
+
+#### (2) 📜 REMARK: Departures following the Mandelson scandal
+
+> **NORMAN:** The fallout from the Mandelson scandal has so far included the departures of the Prime Minister’s chief of staff and his head of communications, one after 18 months and the other after just a few weeks in post. We now have the leaked news that the Prime Minister’s personal choice of Cabinet Secretary is being forced to step down after barely a year in post. As they say at the BBC, deputy heads must roll.
+
+→
+
+> **CAMPBELL:** I will not enter into speculation about the Cabinet Secretary, but we read what we read. 
+
+#### (3) 📜 REMARK: This govt failed to meet the standards of public service
+
+> **NORMAN:** Of course, no Government are free from scandal—goodness knows, I can say that from personal experience—and certainly not the previous ones, as the House will know well, but let there be no deflection or fudge on this matter. There has been nothing to compare with this catalogue of personal misjudgments by a Prime Minister for perhaps 60 years.
+
+> Every sitting day, the chaplain leads the House in prayer for public service, that we as a House may “never lead the nation wrongly through love of power, desire to please, or unworthy ideals but laying aside all private interests and prejudices”. Every Member of the House knows those words, but that is precisely what these people have failed to do.
+
+→
+
+> **CAMPBELL:** On the wider issue of standards in public life, I agree absolutely with the shadow Leader of the House that there can be no prevarication on these matters. My right hon. Friend the Chief Secretary to the Prime Minister made a statement to the House on Monday setting out the action that we are taking.
+
+> Since entering government, we have delivered on our manifesto promises to strengthen the role of the independent adviser and set up the Ethics and Integrity Commission. We are also publishing Ministers’ interests, gifts and hospitality more frequently, and changing the process for relevant direct ministerial appointments, including politically appointed diplomatic roles. But we understand that we need to go further, and we are working with the newly established Ethics and Integrity Commission to ensure that we reach the highest possible standards in public life.
+
+#### (4) 📜 REMARK: Farmers mental health
+
+> **NORMAN:** [Constituent] embarked on a walk of hope from Ross-on-Wye to London in support of Yellow Wellies’ Mind Your Head Week and of greater public awareness of mental health in the farming community.
+
+→
+
+> **CAMPBELL:** I very much join the shadow Leader of the House in congratulating Sam Stables and wishing him well. He is a keen farming campaigner. Knowing the shadow Leader of the House’s constituency, Sam will have needed his wellies, whatever their colour, given the amount of water that has fallen in the area. I understand that donations have come in from far and wide, including from the Prince of Wales. Let me say, in supporting Sam, that the Government are stepping up and playing our part. We are supporting farmers’ access to specialist mental health services by funding the farmer welfare grant and, more widely, doing all we can to invest in sustainable farming. I wish Sam all the very best indeed.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** Let me leave the House with this remark, because it has been a difficult time for us all, not least for the Prime Minister himself. I regard the Prime Minister as a man of integrity and a man of public service [*hear, hear* from govt benches]. When someone stands up and says that they got it wrong and regret what has happened, we should take that at face value and redouble our efforts to ensure that, going forward, standards in public life are even higher.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+House rises for recess until 23 February not including
 
 {% include fin.html %}

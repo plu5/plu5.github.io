@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-10 17:14
+modified_date: 2026-02-12 01:23
 categories: flou
 lang: fr
 ---
@@ -150,6 +150,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-02-09
 - [soft] éditeur web comme emacs avec org-mode et yasnippet
+  + idée cool mais probablement infaisable : possibilité de tester la configuration de gens, qu'ils vont pouvoir lier à une page où on peut tester leur conf facilement
 - [art] "captures d'écran" en art ascii
 - [art] diagrammes d'anatomie en art ascii
 - [art] l'art en caractères japonais

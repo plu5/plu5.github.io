@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-07 16:28
+modified_date: 2026-02-12 08:56
 categories: list
 lang: fr
 ---
@@ -34,5 +34,13 @@ Notes sur ce que je lis/écoute/regarde
 
 § 2026-02-06
 - [committee publications](https://committees.parliament.uk/publications/)
+
+## [en/zh] Michel Thomas chinois
+§ 2026-02-11
+- c'est sans l'homme éponyme. ce qui me soulage
+- l'explication des tons est super bien foutue
+- la chine = royaume du milieu, l'amérique = beau royaume, l'angleterre = brave royaume
+- 'très' parfois utilisé juste pour remplir la phrase pour qu'elle se divise en groupes de deux syllabes
+- pas de conjugaison et les verbes servent aussi comme adjectifs
 
 {% include fin.html %}
