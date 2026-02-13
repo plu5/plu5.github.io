@@ -2,7 +2,7 @@
 layout: post
 title: 1 — Braille in Emacs
 date: 2026-02-12 15:50
-modified_date: 2026-02-13 05:47
+modified_date: 2026-02-13 05:50
 categories: braille.el
 lang: en
 redirect_from: /devlog/1
@@ -75,7 +75,7 @@ It's not until 64 (0b1000000)
 (insert (+ #x2800 64))  ; ⡀ (4th left)
 ```
 
-The dots in braille have numbers associated. Don't confuse them with the bit flags above. They go 1237 4568. This is because originally braille was a 2x3 grid, and the fourth row was added later. The unicode characters are organised in the same way.
+The dots in braille have numbers associated. Don't confuse them with the bit flags above. They go `1237 4568`. This is because originally braille was a 2x3 grid, and the fourth row was added later. The unicode characters are organised in the same way.
 ```
  1 0b00000001   4 0b00001000
  2 0b00000010   5 0b00010000
