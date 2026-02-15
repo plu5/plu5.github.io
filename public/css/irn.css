@@ -139,6 +139,11 @@ pre code {
 /* Different font on braille blocks to avoid displaying the grid */
 .language-braille {
   font-family: "Adwaita Mono", "Courier New", Iosevka, monospace;
+  /* Don't word wrap */
+  white-space: pre;
+  overflow-x: auto;
+  /* Required for overflow-x auto */
+  display: block;
 }
 
 /* Gist via GitHub Pages */
