@@ -2,7 +2,7 @@
 layout: post
 title: 2 — Braille in the dumps
 date: 2026-02-14 11:16
-modified_date: 2026-02-15 06:21
+modified_date: 2026-02-15 06:47
 categories: braille.el
 lang: en
 redirect_from: /devlog/2
@@ -31,7 +31,7 @@ I had written the above early in the day and since found out a lot of problems i
 Similarly, I keep getting thrown off by the term `colrow` because we're used to width being before height all the time, thus wanting to say `rowcol`, but it refers to the column index (=number) and row index thus the width-height order is indeed `colrow`.
 
 Astonishingly, as I was writing the section [Difficulties](#difficulties) above, despite not being able to enter any dot on certain rows due to this error, I was completely ignorant of the problem, I just felt it is less precise without noticing that we are missing some rows! I even have some tests from earlier:
-```
+```braille
     ⣀⣀⡀       ⣀⢀⡀⣀⡀      ⢀⣀⣀⡀  
       ⠒⡀    ⣀⣐⠒⠒⠒ ⠐⣀⡀  ⣀⡀⠒  ⢒⣀⡀
   ⠐⡀⣀⣀⣐⠂    ⡒⠂    ⢀⣀⡂  ⡂     ⢀⡂
@@ -50,7 +50,7 @@ As you see (especially if you highlight or place your cursor in the text to see 
 Even after noticing the problem I thought it was something I did later that introduced it, that the tests earlier didn't have it, because clearly I had tested it and "didn't see anything like that before", like I could not believe I would not have noticed that and the only way I can believe it now is I have the proof because I had saved the tests and could go back to verify. I will endeavour to always save a few tests!
 
 After correcting the problem:
-```
+```braille
            ⢀⣀       ⣀⣀⠤⠤⣀     ⢀⣀⣀⡀ 
  ⢀⡘⠉⠑⢆    ⡐⠁⠈⠑⢆    ⡜⠈    ⢣   ⢠⠋  ⠈⢆
   ⠣⣀⣀⠔⠁   ⠱⣀ ⢀⠎    ⢱⣀⣀  ⢀⠎   ⠸⣀   ⡜

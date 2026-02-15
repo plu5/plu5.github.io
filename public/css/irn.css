@@ -136,6 +136,11 @@ pre code {
   overflow-x: auto;
 }
 
+/* Different font on braille blocks to avoid displaying the grid */
+.language-braille {
+  font-family: "Adwaita Mono", "Courier New", Iosevka, monospace;
+}
+
 /* Gist via GitHub Pages */
 .gist .gist-file {
   font-family: Menlo, Monaco, "Courier New", monospace !important;
