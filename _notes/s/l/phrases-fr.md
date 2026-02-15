@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-09 18:14
+modified_date: 2026-02-14 11:49
 categories: lang
 lang: fr
 ---
@@ -249,5 +249,11 @@ Idéalement noter seulement des tournures qui vont être utiles
 - exploser en vol ([wr](https://forum.wordreference.com/threads/exploser-en-vol.2276641/))
   + la destruction par explosion d’un engin volant est souvent brutale et spectaculaire, d’où cette métaphore. [^]
 - je vais structurer ça comme suit :
+
+§ 2026-02-14
+- micro-coupure de courant
+- no pun intended : sans (mauvais) jeu de mots
+- je n'arrive pas à me défaire de ce sentiment / à chasser ce sentiment / à me sortir ça de la tête. ce sentiment ne me quitte pas
+- s'acharner inutilement, persister sans progresser, au point de se frustrer : se casser la tête sur (un problème), se heurter à (un problème), s'acharner sur (un problème), se cogner la tête contre un mur (avec ce problème)
 
 {% include fin.html %}

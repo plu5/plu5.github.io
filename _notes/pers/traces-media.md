@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-12 08:56
+modified_date: 2026-02-15 03:42
 categories: list
 lang: fr
 ---
@@ -42,5 +42,18 @@ Notes sur ce que je lis/écoute/regarde
 - la chine = royaume du milieu, l'amérique = beau royaume, l'angleterre = brave royaume
 - 'très' parfois utilisé juste pour remplir la phrase pour qu'elle se divise en groupes de deux syllabes
 - pas de conjugaison et les verbes servent aussi comme adjectifs
+
+§ 2026-02-12
+- ordre : qui quand où comment quoi (sujet temps lieu manière verbe objet)
+
+§ 2026-02-13
+- quand le possessif (_de_) apparait plus d'une fois dans une phrase, on omet souvent le premier
+- pour répondre oui/non on répète le verbe ou sa négation, mais dans le langage familier, il arrive aussi qu'on dise simplement _shì_ ou _bù_
+- _hé_ (et) coordonne des noms, pas des phrases
+- les mots interrogatifs chinois restent in situ ; ils se placent là où apparaîtrait la réponse. on rencontre souvent _shéi_ / _shuí_ en fin de phrase (_tā shi shéi_ ; il est qui ?) mais il apparaît au début lorsqu'il remplace le sujet (_shéi zài jiā_ ; qui est à la maison ?)
+
+§ 2026-02-14
+- beijing : 北 _běi_ nord, 京 _jīng_ capitale (CD5-03 3m40)
+- shanghai : 上 _shàng_ sur, 海 _hǎi_ mer (c'est une ville portuaire)
 
 {% include fin.html %}
