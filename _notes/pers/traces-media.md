@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-15 03:42
+modified_date: 2026-02-15 17:53
 categories: list
 lang: fr
 ---
@@ -55,5 +55,16 @@ Notes sur ce que je lis/écoute/regarde
 § 2026-02-14
 - beijing : 北 _běi_ nord, 京 _jīng_ capitale (CD5-03 3m40)
 - shanghai : 上 _shàng_ sur, 海 _hǎi_ mer (c'est une ville portuaire)
+
+§ 2026-02-15
+- en chinois parlé, 一 _yī_ dans 一个 _yí gè_ † est parfois omis. par ex. tā yǒu [yí] gè lǎoshī, tā shì [yí] gè lǎoshī (CD5-10 2m30)
+  + † le ton de _yī_ change à _yí_ devant _gè_
+    - pour rappeler :
+      + yī + 4e = yí. par ex. _yí gè_
+      + yī + 1e/2e/3e = yì. par ex. _yì tiān_
+      + bù + 4e = bú. par ex. _bú shì_
+      + seulement à l'oral : 3e + 3e = 2e 3e. par ex. _ní hǎo_ (mais on écrit toujours nǐ hǎo)
+    - rappel de l'ordre des tons : `- / v \`
+- aller en chine → aller chine (pas de prép) _qù zhōngguó_
 
 {% include fin.html %}
