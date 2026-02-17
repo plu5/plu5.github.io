@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-15 17:53
+modified_date: 2026-02-16 17:59
 categories: list
 lang: fr
 ---
@@ -66,5 +66,14 @@ Notes sur ce que je lis/écoute/regarde
       + seulement à l'oral : 3e + 3e = 2e 3e. par ex. _ní hǎo_ (mais on écrit toujours nǐ hǎo)
     - rappel de l'ordre des tons : `- / v \`
 - aller en chine → aller chine (pas de prép) _qù zhōngguó_
+
+§ 2026-02-16
+- _āyā_ : oh non
+  (CD6-09)
+- _dans_ (_lǐ_), _sous_ (_xià_), _sur_ (_shàng_), qui sont pour nous des prépositions, se placent en chinois après le nom (comme des postpositions, mais on les appelle plutôt des mots de position)
+  + par ex. _zài zhuōzi shàng_ (préposition [à], nom [table], mot de position [sur])
+- _yǒu_ peut aussi exprimer l'existence, comme _il y a_
+- parfois on omet le _zài_, surtout avec ^
+  (CD7-03)
 
 {% include fin.html %}

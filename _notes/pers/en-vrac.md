@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-12 01:23
+modified_date: 2026-02-16 12:33
 categories: flou
 lang: fr
 ---
@@ -162,5 +162,8 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-02-10
 - [site] descriptions plus courtes et moins cringe dans la liste des projets
+
+§ 2026-02-16
+- [art] bonnet tricoté de larry le chat
 
 {% include fin.html %}
