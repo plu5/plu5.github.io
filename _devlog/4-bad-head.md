@@ -2,7 +2,7 @@
 layout: post
 title: 4 — Bad head
 date: 2026-02-16 08:44
-modified_date: 2026-02-17 06:21
+modified_date: 2026-02-17 19:52
 categories: git onedrive dotfiles braille.el
 lang: en
 redirect_from: /devlog/4
@@ -251,14 +251,16 @@ Just going to write:
   "Return description for space and blank braille grid if c is one of them.
 Otherwise, return c as a string."
   (cond
-   ((equal c ?\s) "space")
-   ((equal c braille-base) "blank braille grid")
+   ((eq c ?\s) "space")
+   ((eq c braille-base) "blank braille grid")
    (t (char-to-string c))))
 ```
 
 {% include note.html content='
 > [!NOTE]
 > ... and here I got stuck for a while because I tried to use `eq` and couldn\'t understand why `(eq " " " ")` → nil. `eq` is for identity, `equal` equality.
+>
+> [I initially wrote the function to take a string rather than a char. With chars, `eq` does work and is preferred.]
 ' %}
 
 Canvas message:

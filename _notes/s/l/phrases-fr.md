@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-14 11:49
+modified_date: 2026-02-20 07:01
 categories: lang
 lang: fr
 ---
@@ -255,5 +255,11 @@ Idéalement noter seulement des tournures qui vont être utiles
 - no pun intended : sans (mauvais) jeu de mots
 - je n'arrive pas à me défaire de ce sentiment / à chasser ce sentiment / à me sortir ça de la tête. ce sentiment ne me quitte pas
 - s'acharner inutilement, persister sans progresser, au point de se frustrer : se casser la tête sur (un problème), se heurter à (un problème), s'acharner sur (un problème), se cogner la tête contre un mur (avec ce problème)
+
+§ 2026-02-18
+- la 2e molaire en partant du fond, la 4e maison en partant du fond du couloir, la 3e place en partant de la fin
+
+§ 2026-02-20
+- _de justesse_ vs _avec justesse_
 
 {% include fin.html %}
