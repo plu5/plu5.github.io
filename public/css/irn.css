@@ -136,6 +136,13 @@ pre code {
   overflow-x: auto;
 }
 
+/* Do wrap inline code (like stuff between single grave) */
+code.language-plaintext {
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
 /* Different font on braille blocks to avoid displaying the grid */
 .language-braille {
   font-family: "Adwaita Mono", "Courier New", Iosevka, monospace;
