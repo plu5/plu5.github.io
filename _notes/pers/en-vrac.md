@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-16 12:33
+modified_date: 2026-02-22 20:41
 categories: flou
 lang: fr
 ---
@@ -151,6 +151,9 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-02-09
 - [soft] éditeur web comme emacs avec org-mode et yasnippet
   + idée cool mais probablement infaisable : possibilité de tester la configuration de gens, qu'ils vont pouvoir lier à une page où on peut tester leur conf facilement
+  + les liens vont être assez longs car ça va encoder le sauvegarde dans l'url comme godbolt, mais ptet faire en sorte que les gens vont pouvoir inclure leur conf et puis avoir une url custom. et faire ça d'avance avec les confs populaires comme doomemacs, spacemacs
+  + dépôt nommé juste e pour que les liens soient courts, et plus formellement elispanywhere ou qqch du genre
+  + wasm pour pouvoir cibler linux/windows avec la même base de code que le web
 - [art] "captures d'écran" en art ascii
 - [art] diagrammes d'anatomie en art ascii
 - [art] l'art en caractères japonais
@@ -165,5 +168,14 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-02-16
 - [art] bonnet tricoté de larry le chat
+
+§ 2026-02-21
+- [old] [soft] arcs
+  + en c avec support win98
+
+§ 2026-02-22
+- [soft] regarder si c'est faisable de compiler emacs pour win98. ça va bcp simplifier ma vie si oui. et si oui je pourrais créer un dépôt où je fournis des builds compatibles avec les anciens systèmes d'exploitation. un peu comme le gars avec un dépôt pour nativecomp emacs pour windows que j'utilisais sous windows, ou s'il faut changer quelque chose pour que ça compile, ça va être un peu comme thorium
+- [s] étudier [elcity](https://github.com/vkazanov/elcity) (el)
+- [s] étudier [wpuzzle](https://github.com/emacs-straight/wpuzzle) (elpa)
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-02-07 14:53
+modified_date: 2026-02-21 04:12
 categories: os
 lang: fr
 ---
@@ -203,8 +203,13 @@ sudo ln -s /media/Windows/Users/pm/dev/reps/plu5.github.io ~/OneDrive/backups/re
 > [!NOTE]
 > Je garde pas mal de mes données sur une partition ntfs pour pouvoir les accéder depuis n'importe quel système d'exploitation, car Linux supporte ntfs mais Windows ne supporte pas ext4.
 >
-> Il faut aussi noter que ça pourrait arriver qu'un dossier créé sous Windows ne soit pas accessible sous Linux. Ça arrive quand il y a une étiquette particulière [TODO: écrire davantage, cf log 4e]. ça m'a arrivé avec mon dossier Dropbox après une mise à jour de ce dernier. Ma solution était de déconnecter et réconnecter et le laisser renommer le dossier et en créer un nouveau, puis quitter avant que ça ne sync, déplacer le contenu du vieux dossier dans le nouveau, et relancer. Il se rend compte assez rapidement que tout est là et revient en mode veille. Il y a aussi un plugin pour pouvoir accéder des dossiers avec cette étiquette quand même [TODO mettre un lien] mais il n'est pas maintenu.
+> Il faut aussi noter que ça pourrait arriver qu'un dossier créé sous Windows ne soit pas accessible sous Linux. Ça arrive quand il y a une étiquette particulière [TODO: écrire davantage, cf log 4e]. ça m'a arrivé avec mon dossier Dropbox après une mise à jour de ce dernier. Ma solution était de déconnecter et réconnecter et le laisser renommer le dossier et en créer un nouveau, puis quitter avant que ça ne sync, déplacer le contenu du vieux dossier dans le nouveau, et relancer. Il se rend compte assez rapidement que tout est là et revient en mode veille. Il y a aussi [un plugin](https://github.com/nc-36/ntfs3g-onedrive-plugin) (cf [article par kaaya108](https://kaaya108.wordpress.com/2025/01/07/para-tener-acceso-en-linux-a-la-carpeta-de-dropbox-en-windows/)) pour pouvoir accéder des dossiers avec cette étiquette quand même mais il n'est pas maintenu.
 " %}
+
+{% include note.html content='
+> [!NOTE]
+> De mettre un dépôt git dans onedrive peut être aussi problématique, [j\'ai eu des problèmes](/devlog/4-bad-head) avec la disparition/renommage des objets git, ce qui « corrompre » le dépôt. Donner la priorité aux fichiers locaux avec l\'option `local_first` résout ce problème.
+' %}
 
 ### bspwm
 #### La position d'une fenêtre

@@ -2,7 +2,7 @@
 layout: post
 title:  "retype"
 date:   2026-01-21 03:05
-modified_date: 2026-01-21
+modified_date: 2026-02-22 13:27
 categories: projet
 lang: fr
 ---
@@ -68,6 +68,9 @@ lang: fr
 - {id:re2} hack similaire à my/insert-unicode-char pour faire marcher l'insertion C-S-u même sans ibus/fcitx
 
 § 2026-01-20
-- {id:re3} [old] étudier ebookreader calibre3.48
+- {id:re3} [old] [s] étudier ebookreader calibre3.48
+
+§ 2026-02-22
+- {id:re4} [s] étudier [speed-type](https://github.com/dakra/speed-type) (melpa)
 
 {% include fin.html %}

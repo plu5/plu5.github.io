@@ -2,11 +2,18 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-20 17:37
+modified_date: 2026-02-22 17:04
 categories: list
 lang: fr
 ---
 Notes sur ce que je lis/écoute/regarde
+
+## [en] Dylan Abernethy
+..
+- [Creating Complex Props for Video Games Course](https://drive.google.com/drive/folders/1VgGFmc_CU3-Ec1DwEEVpeqrsElWT4nGy)
+
+## [en] Devin Korwin
+..
 
 ## [en] Political Currency
 ..
@@ -142,5 +149,31 @@ Notes sur ce que je lis/écoute/regarde
 - durée vient plus tard dans la phrase, après le verbe, souvent en fin de phrase
   (voc. CD 3-07 3m)
 - pas noté : week = _xīngqī_ 星期 étoile période
+
+## [zh/en] Pimsleur ESL pour les locuteurs de mandarin
+..
+§ 2026-02-22
+- il a dit _wǒ ZHĪdào_ en mettant l'accent sur le _ZHĪ_, presque pareil à _I DO know_
+  (unit 5)
+- il a traduit _you're welcome_ en _bú yòng xiè_
+- _hé nǐ_ avec toi (et non _et toi_)
+- _hé shéi ?_
+- _sān diǎn zhōng le_
+  - ou sans le _zhōng_, ou sans le _le_
+
+## [fr] monsu.desiderio.free.fr
+§ 2026-02-21
+- [Apprenons l'anglais avec le professeur Philip Mortimer et le capitaine Francis Blake](http://monsu.desiderio.free.fr/case/jacobs.html)
+- une liste d'expressions anglaises utilisées dans blake et mortimer avec des équivalents français
+- avec plein d'images aussi
+- « Attention ! ces aventures présentent parfois du franglais. » :-)
+
+## [fr] Casemate.fr
+§ 2026-02-21
+- [Blake et Mortimer ? Un plaisir enfantin](https://casemate.fr/blake-et-mortimer-un-plaisir-enfantin/) 5 décembre 2022
+- avec ce titre et cette vignette, je croyais qu'il s'agissait d'une critique véhémente de Blake et Mortimer en général, mais non : ce n'est qu'un petit entretien avec les scénaristes Jean-Luc Fromental et José-Louis Bocquet pour la sortie de leur album Blake et Mortimer 29 _Huit heures à Berlin_.
+- il leur a fallu sept ans, dont moins de dix-huit mois pour le scénario
+- « Blake avec son flegme britannique a souvent tendance à passer au second plan par rapport à Mortimer, dont la personnalité est plus marquée. »
+- plusieurs auteurs de bd vivent dans la même maison à Fécamp si j'ai bien compris ?
 
 {% include fin.html %}

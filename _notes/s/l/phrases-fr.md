@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-20 07:01
+modified_date: 2026-02-22 10:29
 categories: lang
 lang: fr
 ---
@@ -261,5 +261,12 @@ Idéalement noter seulement des tournures qui vont être utiles
 
 § 2026-02-20
 - _de justesse_ vs _avec justesse_
+
+§ 2026-02-22
+- retenir son souffle
+- reprendre son souffle
+- laisser tremper
+- après le trempage : égoutte et rince, mets dans une nouvelle eau, porte à ébullition puis laisse mijoter 45 min à 1h30 selon le type et l'âge
+- les lentilles corail (rouges fendues) ne doivent pas être trempées, elles deviendraient pâteuses.
 
 {% include fin.html %}
