@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-22 20:41
+modified_date: 2026-02-25 07:56
 categories: flou
 lang: fr
 ---
@@ -153,6 +153,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
   + idée cool mais probablement infaisable : possibilité de tester la configuration de gens, qu'ils vont pouvoir lier à une page où on peut tester leur conf facilement
   + les liens vont être assez longs car ça va encoder le sauvegarde dans l'url comme godbolt, mais ptet faire en sorte que les gens vont pouvoir inclure leur conf et puis avoir une url custom. et faire ça d'avance avec les confs populaires comme doomemacs, spacemacs
   + dépôt nommé juste e pour que les liens soient courts, et plus formellement elispanywhere ou qqch du genre
+    - elispmultiplatform / elispmany
   + wasm pour pouvoir cibler linux/windows avec la même base de code que le web
 - [art] "captures d'écran" en art ascii
 - [art] diagrammes d'anatomie en art ascii
@@ -177,5 +178,23 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [soft] regarder si c'est faisable de compiler emacs pour win98. ça va bcp simplifier ma vie si oui. et si oui je pourrais créer un dépôt où je fournis des builds compatibles avec les anciens systèmes d'exploitation. un peu comme le gars avec un dépôt pour nativecomp emacs pour windows que j'utilisais sous windows, ou s'il faut changer quelque chose pour que ça compile, ça va être un peu comme thorium
 - [s] étudier [elcity](https://github.com/vkazanov/elcity) (el)
 - [s] étudier [wpuzzle](https://github.com/emacs-straight/wpuzzle) (elpa)
+- [jeu] jeu navigateur pour enfants qui apprend le développement de jeux vidéo en émulant une version simple de godot pour qu'ils puissent ensuite passer à l'éditeur réel
+
+§ 2026-02-23
+- [soft] émulateur winapi web
+- [site] /lpa guides dans le style de lparchive.org
+
+§ 2026-02-24
+- [soft] moyen d'accéder google docs dans emacs
+  + cf [gtasks.el](https://github.com/thndrbrrr/gtasks), [org-gcal.el](https://github.com/kidd/org-gcal.el), [google-contacts.el](https://github.com/jd/google-contacts.el), [google-maps](https://github.com/emacsmirror/google-maps), [google-translate](https://github.com/atykhonov/google-translate), [lingva.el](https://codeberg.org/martianh/lingva.el), [libretrans.el](https://codeberg.org/martianh/libretrans.el),  [gt.el](https://github.com/lorniu/gt.el) (go-translate)
+  + pas vraiment pertinent mais [scholar-import](https://github.com/teeann/scholar-import) m'intéresse, notamment pour la manière dont il s'intègre à une extension web pour importer des informations depuis le navigateur
+- [jeu] prototype à partir de rien qu'une description lpa
+- [jeu] hellsail
+- [jeu] ce que j'imagine clair obscur devrait être, en me basant uniquement sur la bande son
+- [jeu] deep rock galactic nav
+- [jeu] dwarf fortress nav
+- [jeu] my summer car nav
+- [jeu] factorio nav
+- [jeu] deep rock galactic nav
 
 {% include fin.html %}

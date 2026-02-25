@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-02-22 10:29
+modified_date: 2026-02-24 19:53
 categories: lang
 lang: fr
 ---
@@ -268,5 +268,18 @@ Idéalement noter seulement des tournures qui vont être utiles
 - laisser tremper
 - après le trempage : égoutte et rince, mets dans une nouvelle eau, porte à ébullition puis laisse mijoter 45 min à 1h30 selon le type et l'âge
 - les lentilles corail (rouges fendues) ne doivent pas être trempées, elles deviendraient pâteuses.
+
+§ 2026-02-23
+- un guide d’utilisation, un guide pratique, un guide complet, un guide pas à pas, un guide du débutant, un guide de démarrage
+- tutoriel : apprentissage étape par étape
+  + un tutoriel pour installer le logiciel
+- guide : accompagnement global, vue d’ensemble
+  + un guide pour débuter en développement de jeux vidéo
+- manuel : document technique officiel
+- mode d’emploi : instructions précises d’utilisation
+
+§ 2026-02-24
+- _depuis_ exprime plutôt : « un point de départ dans le temps ou dans l'espace », et non « à partir de zéro / en se basant sur ».
+- [old] query : requête, recherche, termes de recherche, mots-clés
 
 {% include fin.html %}

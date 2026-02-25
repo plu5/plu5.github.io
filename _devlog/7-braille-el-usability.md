@@ -2,7 +2,7 @@
 layout: post
 title: 7 — braille.el usability
 date: 2026-02-22 06:13
-modified_date: 2026-02-22 21:00
+modified_date: 2026-02-22 21:49
 categories: braille.el
 lang: en
 redirect_from: /devlog/7
@@ -262,7 +262,7 @@ Added sections:
   + Being able to do just `(window-width)` and `(window-height)` for the calculation is so elegant and convenient that I am hesitant to fix this.
 
 ### Feelings on current state
-I have drawn with it a lot [cf [notes/pers/art-ascii](/notes/pers/art-ascii)] and I have mixed feelings. It's annoying to try to erase or add a particular dot. I don't know if I can improve this. I think it would help to be able to change brush size, and we'll like edge into it. but it might be the lack of mouse events for small slow movements. a click should work. maybe we need some kind of feedback for when it "registers"?
+I have drawn with it a lot [cf [notes/pers/art-ascii](/notes/pers/art-ascii#art-en-caract%C3%A8res-braille)] and I have mixed feelings. It's annoying to try to erase or add a particular dot. I don't know if I can improve this. I think it would help to be able to change brush size, and we'll like edge into it. but it might be the lack of mouse events for small slow movements. a click should work. maybe we need some kind of feedback for when it "registers"?
 
 I still use it a tonne and in at least one way overly-optimistic me from the start was right that the fact that it's so "cheap", so easy to make drawings, modify, share, track changes in git, the light-weightedness of it makes me want to use it more than real painting software. Obviously we barely have any resolution or colour, but these limitations are kind of fun, and it captures the "essence" of drawing. The big shapes, composition, concentration of detail, noise vs signal.
 

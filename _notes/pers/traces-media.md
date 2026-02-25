@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-22 17:04
+modified_date: 2026-02-24 17:38
 categories: list
 lang: fr
 ---
@@ -160,6 +160,28 @@ Notes sur ce que je lis/écoute/regarde
 - _hé shéi ?_
 - _sān diǎn zhōng le_
   - ou sans le _zhōng_, ou sans le _le_
+
+§ 2026-02-23
+- _le_ à la fin de ça suffit / c'est assez
+- _nǐ jiālǐ yǒu duōshǎo rén ?_
+- _duōshǎo yīnglǐ ?_
+  + mais en chine, comme en france, _gōnglǐ_ (km)
+
+§ 2026-02-24
+- _duō yuǎn ?_ littéralement _combien loin ?_ (en français on dirait plutôt _c'est à quelle distance ?_ ou _c'est loin ?_)
+- _nǐ shuō de tài kuài le_ tu parles trop vite
+- _wèishénme bù ?_ pourquoi pas ?
+- _wǎn le_ il est tard / c'est (déjà) tard
+- _wǒ yào qù gōngzuò_
+  + ou avec _le_ à la fin pour une décision immédiate
+- _gěi nǐ yì bǎi kuài_ voici 100 [unité monétaire] (yuans ou une autre devise)
+- _wǒ yào líkāi_ je veux/vais/dois partir
+- _jǐ tiān_ quelques jours
+- _jǐ (ge) xīngqī_ quelques semaines
+  + _jǐ zhōu_
+- _bàozhǐ shì gěi wǒ de_ le journal est pour moi
+- _nǐ zuótiān zuò le shénme ?_ qu'as tu fait hier ?
+  + _nǐ zuótiān gàn shénme le ?_
 
 ## [fr] monsu.desiderio.free.fr
 § 2026-02-21
