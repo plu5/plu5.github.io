@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-02-25 07:56
+modified_date: 2026-03-21 18:57
 categories: flou
 lang: fr
 ---
@@ -196,5 +196,44 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [jeu] my summer car nav
 - [jeu] factorio nav
 - [jeu] deep rock galactic nav
+
+§ 2026-02-26
+- [soft] bspwm.el
+  + mais pourquoi ?
+  + espaces de travail
+- albums musique française ancienne ou comédies musicales
+- [jeu] gta london nav
+  + ou bien gta portsmouth ou le havre hihi
+
+§ 2026-02-27
+- [jeu] larry le chat
+- musée salle avec tous les premiers ministres de l'histoire sous forme d'hologrammes. ou tous les monarques le jour de leur couronnement. qui se déplacent et s'écartent pour éviter de heurter des gens
+
+§ 2026-03-04
+- [old] [soft] libresleur / translace
+  + intégration mpv ?
+
+§ 2026-03-10
+- section "how it works" sur les readmes de mes projets avec diagramme de flux de contrôle et explications comme [lalo-space/shellbeats](https://github.com/lalo-space/shellbeats)
+
+§ 2026-03-11
+- [art] [jeu] un monde sous le palais de westminster
+
+§ 2026-03-12
+- [jeu] paragonsparagon
+
+§ 2026-03-14
+- [art] BDs qui ne promettent rien, juste "ce que je crois comprendre d'un article wikipédia" (ou autre) ou qqch comme ça, sans pression que je l'aurais représenté correctement
+- [gh] traductions, ne serait-ce que näives, de joel tyle headley et andrew marvell
+  + 16e : dépôt nommé « lib ». description : « Typeset books and translations »
+
+§ 2026-03-16
+- [art] [3d] cosmétiques dbd / r6
+
+§ 2026-03-18
+- [site] genres fr entraînement interactif, les règles de fréquence et flashcards
+
+§ 2026-03-21
+- [soft] bmp : mpv win98
 
 {% include fin.html %}

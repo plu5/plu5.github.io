@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-02-12 17:43
+modified_date: 2026-03-19 22:40
 categories:
 lang: en
 ---
@@ -608,5 +608,486 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 House rises for recess until 23 February not including
+
+### 2026-02-26
+same things almost in the statement
+
+morrisson (standing in):
+- it is a pleasure to be doing business questions and responding to the right honourable gentleman, who like myself, but more grand, was a chief whip. to be honest i was afraid of him and we're not even in the same party
+- must never abandon ukraine
+- bad week for labour, we've all been there (laughter), they finally realised what we all understood that they have a pm that u turned on every promise [lists examples]
+- most anti-business prime minister of all times
+- ever-growing mountain of scandals
+- grownups are back in charge? how well is that going for you?
+- ministers out of control and out of their depth, and the british people are paying the price
+- reckless plan to cut jury trials
+- no justification for delay in providing guidance to single sex spaces
+- Q: didn't need a judge to tell them what a woman is. education sec deep down doesn't agree. can he confirm when guidance will be laid and debate in govt time on [the delay]?
+- shameful statement that britain doesn't need more restaurants. will the chancellor apologise for her advisor and sack her? or back her
+- Q: debate in govt time on pubs and hospitality? so that members on this side of the house can show their support for hospitality sector
+- now clear we have a pm with out of control govt buried deep in scandal after scandal, broken promise after promise. a pm without a purpose, without a future
+
+norman:
+- i think her for her questions and her welcome but let me warn her that soft [?] will get her absolutely nowhere
+- support for ukraine. 4 years since full-scale invasion. landmark sanctions package. will stand with ukraine as long as it takes to achieve a just and lasting peace. importance of nato and foolishness of those who want to leave it
+- team gb most successful winter olympics ever
+- mp who died
+- major changes to send system. better more tailored support
+- happy saint david's day on sunday
+- begin [to answer morrissey] with what i thought were churlish remarks about the prime minister. what she failed to mentioned--because he is doing such a good job--inflation fallen 6 times, retail sales up, wages are up, economy growing
+- question of the prime minister's integrity, just to draw the comparison of the integrity of my right hon. friend, with the fact that the right hon. lady was one of the very last people in the [?] with boris johnson, not joining others in holding the former prime minister to account.
+- already announced 2nd reading of the courts bill, will be plenty of time to debate, brought forward in usual way
+- guidance on single sex spaces brought forward the usual way and will be time for debate for these important matters but it's important we get it right
+- in terms of hospitality there will be further opportunities to debate this issue, but let me just remind this house that under previous govt 7k pubs closed, and she refers to that as the support of her party for pubs. goodness me, what would it be if they hadn't supported those pubs? but we're not going to take any lessons about hospitality from the party opposite.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answered**
+
+[Happened at 10:36](https://parliamentlive.tv/event/index/cf374dde-0caf-4dad-8ca1-78f7f4557ec6?in=10:36:05). [Hansard](https://hansard.parliament.uk/commons/2026-02-26/debates/0B7A2D3D-9B31-4CB5-8717-2208C5B23DEF/BusinessOfTheHouse).
+
+Morrissey standing in as Shadow LotH for the fourth time, but her first time going against Campbell.
+
+*(Business Questions main exchange. `Q`s by Joy Morrissey, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Campbell respected, revered, and feared
+
+> **MORRISSEY:** It is a pleasure to be doing business questions and responding to the right hon. Gentleman. He was a Chief Whip—a Whip, like me, but more grand—and he was much respected, revered and sometimes feared by Members of this House. I will be honest and say that even I was terrified of him, and we are not even in the same party.
+
+→
+
+> **CAMPBELL:** I thank the hon. Lady for her questions and for her warm welcome, but let me gently warn her that soft soap will get her absolutely nowhere.
+
+#### (2) 📜 REMARK: Ukraine invasion fourth anniversary
+
+> **MORRISSEY:** As we reach the fourth anniversary of Putin’s invasion of Ukraine, it is important that we restate our unwavering support for the people of Ukraine. We must never abandon them.
+
+→
+
+> **CAMPBELL:** The Government remain steadfast in our support for the people of Ukraine, as did the previous Government. This week we announced a landmark sanctions package against Russia. We will stand with Ukraine for as long as it takes to achieve a just and lasting peace. That underlines the importance of NATO and, frankly, the foolishness of any party in this House that wants us to leave NATO.
+
+#### (3) 📜 REMARK: A PM without a future
+
+> **MORRISSEY:** I know that it has been a challenging few weeks for Labour Members—we have all been there—who have come to realise what the British people have long understood, which is that we have a Prime Minister who has U-turned on every principle he held and every promise he made. He is a Prime Minister elected on a promise not to raise taxes on working people, and then he raised them. He is a Prime Minister who promised to be pro-business, and he has become the most anti-business Prime Minister of modern times. He is a Prime Minister who promised to raise standards in public life, but he is presiding over an ever-growing mountain of Government scandals. “The grown-ups are back in charge, no more sleaze”—how is that going for them?
+
+> [..] It is now clear that we have a Prime Minister with an out-of-control Government buried deep in scandal after scandal, failure after failure and broken promise after broken promise; a Prime Minister without principle; a Prime Minister without purpose; and a Prime Minister without a future. The British people deserve better.
+
+→
+
+> **CAMPBELL:** I will begin with what I thought were her fairly churlish remarks about the Prime Minister. She failed to mention that, because he is doing such a good job—[Interruption.] I am pleased that Conservative Members acknowledge that, because inflation is falling, interest rates have fallen six times since the general election, retail sales are up, wages are up and the economy is growing. I think that is a record of which we should be proud.
+
+> Let me turn to the Prime Minister’s integrity. I draw the comparison between the integrity of my right hon. and learned Friend and how the hon. Lady was one of the very last people in the redoubt with Boris Johnson. She did not join others in holding the former Prime Minister to account.
+
+#### (4) ✔️ Q1: Can he give an assurance there will be time to debate the plan to cut jury trials before May?
+
+> **MORRISSEY:** This week we saw that [the Justice Secretary] intends to pursue his reckless plan to cut jury trials: a principle that has existed for over 800 years; a principle that he wants to wreck without proper debate in the House. Will the Leader of the House give me a categoric assurance that we will have time in the House to debate the changes that the Justice Secretary wants to make before we get to May?
+
+→
+
+> **CAMPBELL:** I have already announced Second Reading of the Courts and Tribunals Bill; there will be plenty of time for debate, and I will bring forward the next stages in the usual way.
+
+#### (5) ✔️ Q2: Will he grant a debate on unacceptable delays in providing guidance on single-sex spaces?
+
+> **MORRISSEY:** There can be no justification for the delay in providing guidance on single-sex spaces. The Supreme Court ruled a year ago that biological sex defines a woman—a fact that most people knew without needing a judge to tell them. I do not know whether the Education Secretary deep down still does not agree, but the inaction must end. Will the Leader of the House confirm when the guidance will be laid before the House, and grant a debate in Government time on the unacceptable delays and risk it has proved to women and girls?
+
+→
+
+> **CAMPBELL:** Similarly, on the guidance that the hon. Lady referred to, we will bring that forward—we have committed to that—and there will be time for debate on these important matters, but it is important that we get them right.
+
+#### (6) ✔️ Q3: Will he grant a debate on pubs and hospitality?
+
+> **MORRISSEY:** This week the Chancellor’s entrepreneurship adviser shamefully said that Britain does “not need more restaurants”, laying bare what we already knew: that this Government are determined to tax our hospitality businesses into extinction. Will the Chancellor apologise for her adviser and sack her, or back her and agree with her anti-hospitality stance? Will the Leader of the House grant a debate in Government time on our pubs and hospitality, so that Members—at least, those on the Conservative Benches—can show their support for the hospitality sector? We want to ensure that the crippling tax burden is removed from the hospitality sector.
+
+→
+
+> **CAMPBELL:** On hospitality, there will be further opportunities to debate such issues when the Finance Bill returns to the Chamber, but let me remind the House that under the previous Government 7,000 pubs closed. The hon. Lady referred to that as “support” from her party for pubs. Goodness me—how would it have been if it had not supported those pubs? We will not take any lessons about hospitality from the Conservative party.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+-----
+
+Morrissey in her usual style of just asking for debates, which is apparently what you're meant to do. She did ask for one assurance as well (Q1), but an assurance of what? a debate. I remember erskinematt saying this is the only thing actually in the remit of the LotH.
+
+### 2026-03-05
+before bmqs hoyle read a letter from a departing clerk [tom goldsmith]
+"you're the best jazz pianist i know that costs us nothing"
+
+intl women's day, grenfell tower memorial expenditure bill, allocation of time, ministerial salaries amendment bill
+
+norman:
+- very warm thanks and recognition to our magnificent clerk tom goldsmith. extraordinary skill at the jazz piano. as someone who eats very much at the opposite end of the jazz foodchain (??) can i just say that our loss of him as a clerk is going to be more than made up by his forthcoming history of british jazz. i hope the house will join me in welcoming that bc it's not going to write itself.
+- recognising on behalf of the whole house all the men and women from our country and allies who are engaged in the conflict in and around iran. we thank them for their bravery and their service.
+- but let us not also forget that our great ally ukraine is fighting for her life in the face of an unprovoked russian war of conquest. nato and this country must not allow themselves to be distracted
+- as we approach intl women's day this saturday, may i also note that this week mark the anniversary of nancy asta [Nancy Astor] taking her seat in 1919 as the first woman member of parliament? a milestone in the long journey towards wider political representation in this house.
+- this was a week in which 3 current or former members of the labour party were arrested on charges of spying for china.
+- the chancellor gave a spring statement which explicitly reserved any policy substance for her forthcoming mais lecture, not for parliament, and badly misrepresented the economic position this country is in. you'd never know that we had the highest unemployment since the pandemic
+- failed to mention let alone publish the defence investment plan which her department has now held up for 9 months
+- irony that a govt that has never been willing to acknowledge the economic cost of pandemic and energy spike from war in ukraine will now have to explain economic effects of rapidly rising oil and gas prices due to the present conflict in the gulf
+- we can only hope recent events will cause the energy sec, a man with the worst judgement in politics, a man who the prime minister wanted but was too weak to sack in the last reshuffle, to rethink his dangerously inadequate energy policy and refusal to develop north sea oil and gas. perhaps we will hear a u turn in his statement later today.
+- unlike the energy sec, the leader of the house is a serious man, and i want to ask him a serious question. the govt official story set out by the pm yesterday is that it has been preparing for a us attack for several weeks. these preparations include prelocating missle and other weapons in the middle east, though not sending a type 45 frigate, which remains in dock at portsmouth, and will not depart for more than a week after the start of the conflict. little wonder our allies have been so critical of the uk response. pm also offered us a pre-prepared line on teh legal position: the present govt regards defensive operations as legal, but that it is against intl law for the uk and so presumably in his judgement for the us and israel to take pre-emptive action to prevent iran from developing nuclear weapons, when it is the avowed policy of that state to use those weapons to destroy another sovereign state, israel. this is of course the second time in a year that the us and israel have acted against iran, so all these issues have already been widely discussed across govt, yet it is now reported with some authority across the newspapers that the pm was actually minded to support the us attack on friday evening, and was forced to back down by a group of ministers including the home sec, the foreign sec, and yes, the energy sec. it is hard to see how these things can all be true, and they raise a host of questions.
+- Q: if the govt has been preparing for an attack by the us and israel for weeks, how can it be true that its policy was still undecided on friday night?
+- Q: if the pm's view was that he was minded to support the attack, where does this leave the legal position now? legal experts including the noble lord lord panic (!) have criticised the govt position as not legally rational, to quote. but my concern is more basic: whether the govt is making the legal position up as it goes along, just as the blair govt did with the iraq war in 2003.
+- Q: finally, it now looks like the cabinet has taken a decision with which the pm fundamentally does not agree. how can he exercise leadership under such circumstances? i do not expect the leader of the house to comment on cabinet discussions in any detail of course, but i'm sure the whole house would be grateful for any explanation he can give.
+
+campbell:
+- start by joining you and shadow leader of the house by thanking tom goldsmith. 30 years of dedicated work. when tom told me his news i told him i was pleased for him personally but disappointed for the house. provided steady and thoughtful approach to the procedural and constitutional issues of recent years. i want to pass on my and the govt's thanks
+- i'm very grateful for the opening comments of the shadow leader and i agree with him absolutely that whatever is happening in that part of the world we must not take our eyes off ukraine either, and the govt is absolutely determined that that is not going to happen
+- events deeply concerning, thoughts with british citizens and brave servicemen and women in the region. estimated 300k british citizens across the region and their safety and security is the govt's top priority. we are deploying rapid response team to support british nationals. in close contact with our partners incl UAE. uk govt charter flight was not able to depart oman yesterday due to technical issues, the flight's now expected to depart later today. we will continue to explore all options for helping our citizens return home as swiftly and safely as possible.
+- we urge british nationals in bahrain, israel, kuwait, palestine, qatar, and the UAE, to use the Register Your Presence service to receive direct updates from the foreign commonwealth and development office. the fcdo phone lines are open 24/7 to provide consular support to affected british nationals. fcdo mp hotline is also open and ministers are available to meet with members to discuss individual cases.
+- yesterday minister falkner held a drop-in briefing for MPs to provide details of the support to british nationals currently in the region, and FCDO officials are currently providing a further drop-in session for all MPs in members hub in portcullis house which is actually taking place as we speak. or as i speak. should members face issues and are not able to get support, bc i think one of the lessons from previous emergency situations, crisis situations like this, is that sometimes the support which is set up doesn't always work in the way that it was planned, and therefore i make the offer[?] mr speaker that if members face issues and are unable to get the support that their constituents expect, i invite them to speak to my officials and see if we can help to sort it out.
+- it is ofc important that the house is kept informed of any developments, and the pm did so at the earliest opportunity this week. there will be a further statement today, and the govt will continue to keep the house updated as the situation evolves.
+- i want to turn now to 2 security concerns which the shadow leader touched on. members will be aware that counter-terrorism policing released a statement yesterday and the security minister set out the actions the govt is taking to safeguard our democracy in this place and we will continue to take all necessary measures to protect our national interest, citizens, and our democratic way of life. i would encourage any mp that has experience of any suspicious or out of the ordinary interactions to report it to the house authorities, and the govt will continue to work in collaboration with the parliamentary security department to set up a range of more tailored upbisbol[?] briefings for those at greatest risk.
+- let me now turn to the specific comments of the hon gentleman. i'm not going to speculate on any of that, bc there is a live police investigation going on and it is not right that i or indeed anyone else should comment.
+- in terms of the defence investment plan, the sec of state *is* working flat out to deliver that, and will announce the findings of that shortly
+- his comments about energy, he will get an opportunity, or mps will get an opportunity, to question the energy dept in a statement later today, but you can also draw the opposite conclusions to the one drawn by the hon. gentleman, bc what is happening actually underlines the importance of our own energy independence and security of supplies.
+- in terms of actions in the gulf, and the reaction of our allies, we have a strong military presence across the region, which we have strengthened as the hon. gentleman said in recent weeks, including sending additional typhoons, f35s, and radar systems, and indeed helicopters. we are taking action to reduce the threat. planes in the sky have been in the sky across the region intercepting incoming strikes, and we are developing more capability to cyprus, and on that matter my right hon. friend the sec of state for defence met his cypriot counterpart this morning to support further support for our shared security in that region.
+- but, in terms of the legal judgement, it is, as the govt has set out, it is the basis for the position which the pm set out earlier this week, and as he made clear, our actions are fully in line with the national interests of our country, and i would discourage people from speculating about some of the things that might be read in newspapers, because it's far better to read or remember what the pm said in a very long statement on monday when he set out an over two and a half hours of questioning he set out exactly what the govt position is, and that is how it remains mr speaker, thank you.
+
+why hoyle he say to ashley dalton welcome to the backbenches?
+A: she [stepped down](https://x.com/AshleyDalton_MP/status/2028424974805975327) from her [govt post](https://members.parliament.uk/member/4981/career) Parliamentary Under-Secretary (Department of Health and Social Care)
+
+i almost linked to the french wikipedia article for astor, that would have been embarrassing
+
+also had to cut in 2 because it's 10843 characters. maybe should have shortered esp the question (6) is super long but didn't know what to cut from it. usually norman fluffs but here it's not. hope the mods don't mind, i'm always super embarrassed to post. it's done, moving on with life
+
+hansard errata:
+- _Let turn_ to the shadow Leader of the House’s specific comments.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered** (-)
+
+[Happened at 10:34](https://parliamentlive.tv/event/index/942bb059-6828-46ff-a433-257127d80d18?in=10:34:50). [Hansard](https://hansard.parliament.uk/commons/2026-03-05/debates/3FA0991E-7755-4219-89BC-596328BC6B21/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Don't forget Ukraine
+
+> **NORMAN:** Let me start by recognising, on behalf of the whole House, all those men and women from our country and our allies who are engaged in the conflict in and around Iran. We thank them for their bravery and their service. Let us not also forget that our great ally, Ukraine, is fighting for her life in the face of an attempted and unprovoked Russian war of conquest. NATO and this country must not allow themselves to be distracted now from giving Ukraine all the support that we can.
+
+→
+
+> **CAMPBELL:** I am very grateful for his opening comments and agree with him that, whatever is happening in that part of the world, we must not take our eyes off Ukraine. The Government are absolutely determined that that is not going to happen. The events, however, are deeply concerning, and our thoughts are, as the shadow Leader of the House said, with British citizens and our brave servicemen and women in the region.
+
+#### (2) 📜 REMARK: Anniversary of first female MP
+
+> **NORMAN:** As we approach International Women’s Day this Saturday, I note that this week marks the anniversary of [Nancy Astor](https://en.wikipedia.org/wiki/Nancy_Astor) taking her seat in 1919 as the first woman Member of Parliament—a milestone in the long journey towards wider political representation in this House.
+
+#### (3) 📜 REMARK: Labour members arrested for spying for China
+
+> **NORMAN:** This was a week in which three current or former members of the Labour party were arrested on charges of spying for China.
+
+→
+
+> **CAMPBELL:** Hon. Members will be aware that Counter Terrorism Policing released a statement yesterday, and the Security Minister set out the actions that the Government are taking to safeguard our democracy in this place. We will continue to take all necessary measures to protect our national interests, our citizens and our democratic way of life.
+
+> I encourage any MP who experiences any suspicions or out-of-the-ordinary interactions to report them to the House authorities. The Government will continue to work in collaboration with the Parliamentary Security Department to set up a range of more tailored, bespoke briefings for those at greatest risk.
+
+> Let me now turn to the shadow Leader of the House’s specific comments. He touched on the question of arrests. I will not speculate about any of that, because there is a live police investigation going on and it is not right that I—or anyone else—should comment.
+
+#### (4) 📜 REMARK: Lacklustre spring statement and no mention of the defence investment plan
+
+> **NORMAN:** The Chancellor of the Exchequer gave a spring statement that explicitly reserved any policy substance for her forthcoming Mais lecture, not for Parliament, and badly misrepresented the economic position that this country is in. We would never know from what she said that we have the highest unemployment in this country since the pandemic and that youth unemployment is in a state of crisis.
+
+> Meanwhile, the Chancellor failed to mention, let alone publish, the defence investment plan, which her Department, the Treasury, has held up for nine months.
+
+→
+
+> **CAMPBELL:** On the defence investment plan, the Secretary of State is working flat out to deliver that and will announce its findings shortly.
+
+#### (5) 📜 REMARK: I hope Energy Sec will rethink refusal to develop North Sea oil and gas
+
+> **NORMAN:** We can only hope against hope that recent events will cause the Energy Secretary—a man with the worst judgment in politics, whom the Prime Minister wanted to sack in the last reshuffle but was too weak to do so—to rethink his dangerously inadequate energy policy and refusal to develop North sea oil and gas. Perhaps we will hear a U-turn in his statement later today.
+
+→
+
+> **CAMPBELL:** MPs will get an opportunity to question the Energy Department in a statement later today. We can also draw the opposite conclusions to those he drew, because what is happening underlines the importance of our own energy independence and security of supplies.
+
+#### (6) ✔️ Q1: If the govt have been preparing for an attack for weeks, how was their policy still undecided? Plus reports of Starmer's position being out of line with his cabinet. → Listen to the statement, not the papers
+
+> **NORMAN:** Unlike the Energy Secretary, the Leader of the House is a serious man, and I want to ask him a serious question. The Government’s official story, set out by the Prime Minister at the Dispatch Box yesterday, is that they have been preparing for a US attack for several weeks. These preparations include pre-locating missile and other weapons systems in the middle east, though not sending a Type 45 frigate, which remains in dock at Portsmouth and will not depart for more than a week after the start of the conflict. It is little wonder that our allies have been so critical of the UK response.
+
+> The Prime Minister has also offered us a pre-prepared line on the legal position, which is that the present Government regard defensive operations as legal, but that it is against international law for the UK, and so presumably in his judgment for the United States and Israel, to take pre-emptive action to prevent Iran from developing nuclear weapons, when it is the avowed policy of that state to use those weapons to destroy another sovereign state—Israel.
+
+> This is, of course, the second time in a year that the US and Israel have acted against Iran, so all these issues have already been widely discussed across Government. Yet it is now reported with some authority, across the newspapers, that the Prime Minister was actually minded to support the US attack on Friday evening but was forced to back down by a group of Ministers including the Home Secretary (Mahmood), the Foreign Secretary (Cooper) and, yes, the Energy Secretary (Miliband).
+
+> It is hard to see how these things could all be true, and they raise a host of questions. If the Government have been preparing for an attack by the US and Israel for weeks, how can it be true that their policy was still undecided on Friday night?
+
+> If the Prime Minister’s view was that he was minded to support the attack, where does that leave the legal position? Legal experts, including the noble Lord Pannick, have criticised the Government’s position as not legally “rational”—that is a quote—but my concern is more basic: whether the Government are making the legal position up as they go along, just as the Blair Government did with the Iraq war in 2003.
+
+> Finally, it now looks like the Cabinet has taken a decision with which the Prime Minister fundamentally does not agree. How can he exercise leadership under such circumstances? I do not expect the Leader of the House to comment on Cabinet discussions in any detail, of course, but I am sure that the whole House will be grateful for any explanation he can give.
+
+→
+
+> **CAMPBELL:** On actions in the Gulf and the reaction of our allies, we have a strong military presence across the region, which, as the right hon. Gentleman said, we have strengthened in recent weeks, including by sending additional Typhoons, F-35s, radar systems and helicopters. We are taking action to reduce the threat. Planes have been in the sky across the region intercepting incoming strikes. We are also deploying more capability to Cyprus. On that matter, my right hon. Friend the Secretary of State for Defence met his Cypriot counterpart this morning to discuss further support for our shared security in that region.
+
+> As the Government have set out, the legal judgment is the basis for the position that the Prime Minister set out earlier this week. As he made clear, our actions are fully in line with the national interest of our country. I discourage people from speculating about some of the things that might be read in newspapers; it is far better to read or remember what the Prime Minister said in a very long statement on Monday, when in over two and a half hours of questioning he set out exactly what the Government’s position is. That is how it remains.
+
+(debated whether that is three separate questions, but Norman himself qualified it as one question, and it all pertains to how did they not sort out their position given they had weeks and speculation surrounding that)
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** There are an estimated 300,000 British citizens across the [Gulf] region, and their safety and security is the Government’s top priority.
+
+> - We are deploying rapid response teams to support British nationals, and we are in close contact with our partners, including the UAE.
+- While the UK Government’s charter flight was not able to depart Oman yesterday as planned due to technical issues, the flight is now expected to depart later today. We will continue to explore all options for helping our citizens return home as swiftly and safely as possible.
+- We urge British nationals in Bahrain, Israel, Kuwait, Palestine, Qatar and the United Arab Emirates to use the “register your presence” service to receive direct updates from the Foreign, Commonwealth and Development Office.
+- The FCDO phonelines are open 24/7 to provide consular support to affected British nationals.
+- The FCDO MP hotline is also open, and Ministers are available to meet Members to discuss individual cases.
+- Yesterday, the Minister for the Middle East held a drop-in briefing for MPs to provide details of the support to British nationals currently in the region, and FCDO officials are currently providing a further drop-in session for all MPs in the Members’ hub in Portcullis House, which is taking place as I speak.
+- One of the lessons from previous crisis situations like this is that sometimes the support that is set up does not work in the way that was planned, so I make an offer to Members. Should they face issues and find that they are unable to get the support that their constituents expect, I invite them to speak to my officials to see if we can help to sort it out.
+- It is of course important that the House is kept informed of any developments, and the Prime Minister did so at the earliest opportunity this week. There will be a further statement today, and the Government will continue to keep the House updated as the situation evolves.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+### 2026-03-12
+before bmqs angry hoyle statement because of last night govt mps including the whip delaying a vote for 22 minutes
+
+ministerial salaries amendment bill ("The proposal is to add another Secretary of State (from 21 to 22), 4 more Ministers of State (from 50 to 54), and 11 more Undersecretaries (83 to 94), for a total addition of 16." —[UnsaddledZigadenus](https://reddit.com/r/ukpolitics/comments/1rns5l7/rumours_speculation_questions_and_reaction/o9ulu8v/)), opposition day, debate on progress in tackling climate change, debate on online harms
+
+norman
+- associating myself with your remarks from the chair. plain to all members that the govt chief whip and deputy chief whip have badly misstepped, and there has been a general lack of respect from the govt whip's office. i cannot believe this would have happened when the leader of the house was chief whip.
+- join pm yesterday and i'm sure the whole house today in remember the dreadful events of 30 years ago in dunblane
+- on a happier note, last monday saw the 250th anniversary of adam smith's immortal masterpiece, the wealth of nations [sedentary member said sth i didn't understand, sounded like "i know you're interested"] [according to hansard it was tugendhat: "declare your interest!"]. members may wish to consult works by the shadow leader on this topic [members laugh]. i doubt any book or any other body of thought has had more effect in improving the lives and livelihoods of people across the world in the intervening 250 years.
+- armed forces united focus on the national interest. precisely this focus requires us to acknowledge that the past 2 weeks have been a disaster for this country. our allies in the gulf have criticised this country for its slow and weak response to date. the cypriote high commissionner and the president of cyprus have publicly expressed their disappointement and dissatisfaction. we have exposed their people, our people, to drone attacks as targets [?], placed weapons systems on their territory, made solemn undertakings over many years to them, and now failed to come to their defence in time. it did not have to be this way, so we must ask how can this possibly have happened. let us review the history.
+- publicly reported in jan 15th that america was starting to build a carrier strike force around the uss abraham lincoln targeted at iran. jan 26th washington post repoted this force arrived in the middle east. jan 31st our own pm himself told the bbc "the aim is that iran shouldn't be able to deliver nuclear weapons" "we support the goal and we are talking to allies about how we get to that goal". those remarks come close to an explicit endorsement, as they were doubtness intended to. all this happened four full weeks before the start of the attack.
+- last week i highlighted the gaps and inconsistencies in govt position. supposedly settled legal review and last ditch political decision reportedly taken in cabinet on the friday before hostilities began. pm whose original instincts was to support the usa but who was overruled. it is now clear that there has also been a disastrous failure of political leadership. pm and cabinet knew or should have known for a full month that the usa was mustering a vast body of forces to attack iran, that these could not stay on high readiness indefinitely so an attack must surely follow. pm himself said last week that the govt predeployed some weapons to the region, yet failed to give instructions in time to the navy to prepare hms dragon [accidentally called it us dragon], failed to notify the cypriots, failed to warn our allies and other friends across the region.
+- now that they are engaged, our armed forces are discharging their duties with distinction, but the result of this political incompetence has been a fiasco which brought shame and dishonour on this country.
+- we had the disgraceful sight now of the govt anonymously trashing the chief of the defence staff in a desperate attempt to deflect responsibility for its own inadequacies, not just via an anonymous leak in the spectator repeated in the telegraph, but by a quoted but of course unnamed official to the financial times. i cannot recall that a political hatchet job of this kind has ever been performed on a commanding officer in the course of a military operation. it is deeply dishonourable and itself a further sign of failure in no 10.
+- so i ask the leader:
+  + Q : whether he would support an inquiry into these leaks and briefings
+  + Q : whether he would support an investigation in due course as to how this embarrassing fiasco can have been allowed to happen and what can be down to prevent it from ever happening again
+
+campbell
+- can i first of all respond to your words, mr speaker, about the events of last evening, and endorse everything that you have said about the need to respect staff, that is absolutely correct that you should say that. can i show you and the house that not only has the govt heard your words but that they will be acted upon.
+- may i also associate myself with the remarks that the hon. gentleman made about dunblane, we do remember that tragedy, and i have to say on a personal level it is one of the proudest moments in my career when i voted for a handgun ban, because that has made a difference [hear hear, incl from norman]
+- events unfolding in iran are deeply concerning, and i will turn to his specific remarks in a moment. thoughts with british citizens and armed forces
+- first govt charter flight landed on tue morning, second on wed. we will continue to explore all options for helping our citizens return home as swiftly and safely as possible.
+- drop ins are being held for mps with concerns
+- as i said last week, should members face issues and are not able to get the support they need for the constitents, i invite them to speak to my office and my officials and we will help in any way that we can.
+- this week we launched social cohesion action plan
+- invest in initiatives that create opportunities for connections across backgrounds
+- will expand pride in place programme which puts more communities at the heart of decision making in their own neighbourhoods
+- will develop new tools and powers to safeguard [?] organisations that spread extremism, hate, and threaten public safety
+- i think it's correct to reflect that last sunday was covid-19 day of reflection. govt remains committed to learning the lessons from the covid inquiry. just last year the govt held the largest pandemic exercise in british history.
+- let me turn to the remarks of the shadow leader
+- agree that it's incumbent in this house that parties work together in times of crisis, which we are facing, and agree that a bi-partisan approach, if we can get one, is the best one. it's what we did in opposition, mr speaker, even though some of those decisions were very difficult, so i am disappointed, not just in his remarks today but particularly disappointed in the leader of his party, because she simply doesn't seem to acknowledge the importance and responsibility which comes with office.
+- in terms of the story that he set out, we did send assets to the region at the beginning of the year, hms dragon is dispatched, as i just said, we take the safety and security of british citizens and service men and women very highly indeed.
+- on the wider issue he raises, i simply remind him that it's his govt that left our defences in a shocking state, with defence expenditure going down. we are not least in a diminished surface fleet. but our task is to rebuild our defences. we are committed to increasing spending to keep our service men and women safe, and in terms of any inquiry, we are in the midst of an international crisis. if such as inquiry was necessary in the future, i think it should wait until we ensure that our citizens and our service men and women are safe.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/2 answered** (-)
+
+[Happened at 10:47](https://parliamentlive.tv/event/index/8bae91b3-b1d7-4cb9-a2aa-d64ab0af634c?in=10:47:00). [Hansard](https://hansard.parliament.uk/commons/2026-03-12/debates/FAF35D5F-BED8-4566-828D-A3FAA43E7E84/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: 30 years since Dunblane
+
+> **NORMAN:** If I may, let me join the Prime Minister yesterday, and I am sure the whole House today, in remembering the dreadful events of 30 years ago in Dunblane and paying tribute to the victims and their families.
+
+→
+
+> **CAMPBELL:** May I also associate myself with the remarks that the shadow Leader of the House made about Dunblane? We remember that tragedy. On a personal level, one of the proudest moments in my career was when I voted for a ban on handguns, because that has made a difference to the safety of our communities. [_Hear, hear_ from everyone, including Norman]
+
+#### (2) 📜 REMARK: 250 years since _The Wealth of Nations_
+
+> **NORMAN:** On a happier note, last Monday saw the 250th anniversary of Adam Smith’s immortal masterpiece “[The Wealth of Nations](https://www.rrojasdatabank.info/Wealth-Nations.pdf)”. [*Tugendhat: Declare your interest!*] Hon. Members may wish, if they like, to consult [works by the shadow Leader of the House](https://www.goodreads.com/author/list/961181.Jesse_Norman) on this topic. I doubt whether any other book or any single body of thought has had more effect in improving the lives and livelihoods of people across the world in the intervening 250 years.
+
+#### (3) 📜 REMARK: Iran war: Disastrous failure of political leadership
+
+> **NORMAN:** We celebrate the service of our armed forces and we rightly treat defence matters, wherever possible, as bound by a united focus on the national interest, but it is precisely that focus on the national interest that requires us now to acknowledge that the past two weeks have been a disaster for this country.
+
+> Our allies in the United Arab Emirates, Bahrain and across the Gulf have criticised this country for its “slow” and “weak” response to date. The Cypriot high commissioner and the President of Cyprus have publicly expressed their disappointment and dissatisfaction. Why? Because we have exposed their people and our people to drone attacks as targets, placed weapons systems on their territories, made solemn undertakings to them over many years and now failed to come to their defence in time.
+
+> It did not have to be this way, so we must ask how this can possibly have happened. Let us review the history.
+
+> - It was being publicly reported by 15 January that America was starting to build a carrier strike force around the USS Abraham Lincoln, targeted at Iran.
+> - On 26 January, The Washington Post reported that this force had arrived in the middle east.
+> - On 31 January, our own Prime Minister told the BBC: “The aim is that Iran shouldn’t be able to develop nuclear weapons…we support the goal and we are talking to allies about how we get to that goal.” Those remarks come close to an explicit endorsement of the United States on its operation, as they were doubtless intended to.
+
+> The key point is this: all this happened four full weeks before the start of the attack.
+
+> [Last week](https://www.reddit.com/r/ukpolitics/comments/1rhksee/rumours_speculation_questions_and_reaction/o8sy3pm/), at this Dispatch Box, I highlighted the gaps and inconsistencies in the Government’s position, between their supposedly settled legal view and the last-ditch political decision reportedly taken in Cabinet on the Friday before hostilities began, and secondly between the Cabinet and the Prime Minister, whose original instinct was to support the USA but who was overruled.
+
+> It is now clear that there has also been a disastrous failure of political leadership. The Prime Minister and the Cabinet knew, or should have known, for a full month that the USA was mustering a vast body of forces to attack Iran, that it could not remain on high readiness indefinitely, and so an attack must surely follow. The Prime Minister himself said last week that the Government had pre-deployed some weapons to the region, yet he failed to give instructions in time to the Navy to prepare HMS Dragon, he failed to notify the Cypriots, and he failed to warn our allies and other friends across the region.
+
+> Now that they are engaged, our armed forces are discharging their duties with distinction, but the result of this political incompetence has been a fiasco, which brought shame and dishonour on this country.
+
+→
+
+> **CAMPBELL:** I agree with his first point; it is incumbent on us in this House that parties work together in times of crisis, which we are facing. I also agree that a bipartisan approach—if we can get one—is the best approach. That is what we did in opposition, even though some of those decisions were very difficult, so I am disappointed in his remarks today. I am particularly disappointed in the leader of his party, the right hon. Member for North West Essex (Mrs Badenoch), because she simply does not seem to acknowledge the importance and responsibility that come with her office.
+
+> In terms of the story that the shadow Leader of the House has set out, let me say that we sent assets to the region at the beginning of the year, and HMS Dragon has been dispatched. [..]
+
+> On the wider issue that the shadow Leader of the House raises, I simply remind him that his Government left our defences in a shocking state, not least in the diminished surface fleet, with defence expenditure going down. Our task is to rebuild our defences, and we are committed to increasing spending to keep our servicemen and servicewomen safe.
+
+#### (4) ✔️ Q1: Will he support an inquiry into the anonymous briefings against the Chief of the Defence Staff? → Not now
+
+> **NORMAN:** We have the disgraceful sight now of the Government anonymously trashing the Chief of the Defence Staff, in a desperate attempt to deflect responsibility for their own inadequacies, not just via an anonymous leak in The Spectator, repeated in The Telegraph, but by a quoted, but of course unnamed, official to the Financial Times.
+
+> I cannot recall that a political hatchet job of this kind has ever been performed on a commanding officer in the course of a military operation. It is deeply dishonourable and itself a further sign of failure in No. 10.
+
+> Will the Leader of the House support an inquiry into these leaks and briefings?
+
+→
+
+> **CAMPBELL:** In terms of an inquiry, we are in the midst of an international crisis. If such an inquiry is necessary in the future, it should wait until we ensure that our citizens and our servicemen and servicewomen are safe.
+
+#### (5) ✔️ Q2: Will he support an investigation into the war fiasco?
+
+> **NORMAN:** Will he support an investigation, in due course, as to how this embarrassing fiasco can have been allowed to happen and what can be done to prevent it from ever happening again?
+
+→
+
+He didn't explicitly give a response to this, but what is the difference between an investigation and an inquiry? On two different but related matters. It is likely his response to 4 is intended for both questions.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** The first Government-charted flight landed on Tuesday morning, with the second landing on Wednesday. We will continue to explore all options for helping our citizens to return home as swiftly and safely as possible. Drop-in sessions are being held for MPs with concerns. As I said last week, should Members face issues or be unable to get the support that they need for their constituents, I invite them to speak to my office and my officials—we will help in any way we can.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+-----
+
+Was preceded by an angry statement from Hoyle about Government-whips-led delays in the voting lobbies last night ([10:45](https://parliamentlive.tv/event/index/8bae91b3-b1d7-4cb9-a2aa-d64ab0af634c?in=10:44:56), [Hansard](https://hansard.parliament.uk/Commons/2026-03-12/debates/F99B3A23-30A7-4F46-B980-F378044E0B04/Speaker%E2%80%99SStatement)). Happened upon [this](https://www.bbc.com/news/uk-politics-25216988) from D'Arcy, 2013, with a few vote-delaying anecdotes. ~Seems they were not sufficiently subtle this time.~
+
+> Chivvied along, he laboriously re-laced his brogues and then he had to re-shelve the bound copy of Hansard he'd been perusing form the bookshelves which line the lobbies, and, oh dear, he couldn't spot the right place…
+
+I didn't know they could read Hansard while going through the lobbies. Suddenly this archaic voting system seems a lot more tolerable.
+
+### 2026-03-19
+transport accessibility for disabled people backbench business debate
+
+before hoyle called jesse norman we hear the clerk beside him whisper to him "jesse norman", as if he doesn't do this every week. does the speaker just phase out?
+
+norman
+- tribute to president zelensky. thanks to you, mr speaker, he gave an extraordinary speech here this week, a speech like auden's shield of achilles, a speech of poetry and hope, but also of steel. he showed that ukraine, far from being bowed by russia, is now sharing its expertise in counter-drone defence with nations across the gulf and elsewhere.
+- i also give thanks to the swift action the govt has taken so far to support households, including many in herefordshire, now facing sharp and unexpected increases in the cost of heating oils.
+- as herefordshire goes, so goes the uk. the events in the middle east have exposed a hard truth: this country is dangerously exposed on energy, and the govt's policies are compounding that vulnerability.
+- around a 1/5 of the world's oil and gas lng passes through the straits of hormuz. when that is threatened, prices spike, and when prices spikes, everything else is hit. heating, electricity, industry, jobs. every industrialised economy relies on secure and affordable energy, yet we import in this country around 60% of the gas we use, and we pay far more than our competitor nations and around 3 times US prices
+- the benefits of higher prices go to other countries, and our citizens bear the price of higher cost and added insecurity. that structural vulnerability has built up over decades under govts of all the major parties. but this govt is negligently or deliberately making it much worse.
+- fertiliser plant near chester closed due to higher energy prices so the country now imports ammonia instead. [other examples of things that closed] investment is falling and companies are failing, thousands of jobs have been lost
+- unions including unite and the gmb even renewables uk have expressed their concern
+- predictable effects of decisions of ministers. not sufficiently considering current context
+- gas, unlike oil, is relatively expensive to ship and store. govt error
+- govt wants to increase domestic steel production even while it is stopping oil and gas on which the steel production relies. it's absolute nonsense
+- reliance on lng cargoes and interconnectors which is vulnerable
+- allowing sovereign capability to erode
+- it's hard to imagine a more confused or dangerous approach. i don't want a debate on this topic, we can all see what is happening, at some point there must be a u-turn because iran is making a fool of the energy secretary. i desperately want the leader of the house to get the prime minister to see the madness of this approach, and get the policy changed as soon as he possibly can.
+
+that's not a question norman
+
+campbell
+- meningitis outbreak in kent
+- place on record our tribute to phil wallace [?] [woolas] who was a greatly respected colleague, role in modernising the labour party
+- join with the shadow leader in praise of president zelensky and what he said last week [tuesday]. a new defence pact has been agreed between the uk and ukraine
+- i want to mention another couple of things before we get to the remarks of the hon. gentleman
+- inquiry of how time is used in this place. members will have received an online form seeking their views.
+- report on accessibility in the house of commons and i would like to thank everyone who contributed. the house will have the opportunity to consider this report in due course.
+- turn to the comments to the shadow leader. thanks for his support on what the govt has done so far on energy prices
+- i agree with him on one point from the rest of what he said which is that we should be concerned about potential spikes in fuel prices during crises, but i must say he made an admirable case for energy independence and the policy of this govt. he also talked about the north sea as a matter of concern, and it is a matter of concern, not just for the whole country but particularly for constituents in the area i represent, but north is is a mature oil and gas area and therefore it's surprising when he quotes some of the things that happened in this area, because it is mature and is declining
+- the big lesson we learned from this particular crisis is we have to get off the rollercoaster of oil and gas
+- 75% loss in jobs in the north sea happened in the time of the govt of which he was the supporter
+- not a single barrel of oil extracted from the north sea would reduce prices for consumers. [followed by quote from conservative minister saying this]
+
+boring one, no bloody questions
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: N/A; no questions asked
+
+[Happened at 10:39](https://parliamentlive.tv/event/index/ee3367ce-727d-4337-9915-2333adafa143?in=10:39:12). [Hansard](https://hansard.parliament.uk/commons/2026-03-19/debates/F59C36F0-1C73-43CE-9058-1900953C1C9B/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Zelensky speech
+
+> **NORMAN:** Let me begin by paying tribute to President Zelensky. Thanks to you, Mr Speaker, he gave an extraordinary speech here this week. Like [Auden’s “The Shield of Achilles”](https://poets.org/poem/shield-achilles), it was a speech of poetry and hope, but also of steel. He showed that Ukraine, far from being bowed by Russia, is now sharing its expertise in counter-drone defence with nations across the Gulf and elsewhere.
+
+→
+
+> **CAMPBELL:** Let me join the shadow Leader of the House in praise of President Zelensky and what he said earlier this week.
+
+> A new defence pact has been agreed this week between the UK and Ukraine. By deepening our defence partnership, we are strengthening Ukraine’s ability to defend itself from Putin’s ongoing attacks while ensuring that the UK and our allies are better prepared to meet the threats of the future.
+
+#### (2) 📜 REMARK: Government support to households facing increased oil costs
+
+> **NORMAN:** I give thanks for the swift action that the Government have taken to support households that are now facing sharp and unexpected increases in the cost of heating oil, including many in Herefordshire.
+
+→
+
+> **CAMPBELL:** I thank him for the support he has given for what we have already done on the price of fuel oil. Let me reassure his Herefordshire constituents, and indeed the House, that the Government keep these matters in the forefront of our mind and under close scrutiny, and if necessary we will take further action.
+
+#### (3) 📜 REMARK: The Government's policies increase our energy vulnerability
+
+> **NORMAN:** The events in the middle east have exposed a hard truth: this country is dangerously exposed on energy, and the Government’s policies are compounding that vulnerability. Around a fifth of the world’s oil and liquefied natural gas passes through the strait of Hormuz. When that is threatened, prices spike, and when prices spike, everything else is hit—heating, electricity, industry and jobs.
+
+> Every industrialised economy relies on secure and affordable energy, yet this country imports around 60% of the gas we use. We pay far more for it than our competitor nations do—around three times US prices—so when shocks come, the benefits of higher gas prices go to other countries, but our citizens bear the higher costs and added insecurity.
+
+> That structural vulnerability has built up over decades under Governments of all the major parties, but this Government are negligently or deliberately making it much worse. They have blocked new North sea licences, and sent a clear signal that domestic oil and gas production is to be run down, regardless of demand.
+
+> The consequences of these decisions are already visible. The CF Fertilisers plant near Chester has closed thanks to high energy costs, so this country now imports ammonia instead. The Grangemouth refinery is ceasing its refining operations and becoming an import terminal. In Aberdeen, Scunthorpe and Teesside, investment is falling and companies are failing. Thousands of jobs have been lost, and tens of thousands more put at risk. Little wonder that a host of businesses and unions, including Unite, the GMB and even RenewableUK, have expressed their concern.
+
+> These are not isolated events; they are the predictable effects of policy decisions taken by Ministers without any serious consideration of the economic and strategic consequences in the current context. The Energy Secretary often says that the problem is global gas prices, and that increasing domestic production makes no difference. Of course that is nonsense, because domestic production actually boosts jobs, public revenues and national resilience while lowering emissions. But that line is also dangerously misleading. Gas prices are regional, not global, because gas, unlike oil, is relatively expensive to ship and store. The Energy Secretary is confusing a global market with global pricing. It is a basic error.
+
+> Alas, the Chancellor is no less confused. On Tuesday, she said: “You see countries like Canada and Norway increasing their production, and every country’s got to play their part”. But, in her view, that does not include the UK. Her policy is precisely the opposite: not to increase but to reduce oil and gas production. You could not make it up. [..]
+
+> If we cut domestic production in the face of steady demand, imports will fill the gap, but an increasingly import-dependent system is forced to rely ever more on pipelines, LNG cargoes and interconnectors. These are vulnerable fixed assets that are open to damage and disruption from abroad, and there is a further consequence. Modern conflict is determined by industrial capacity in steel, chemicals, fuels and supply chains, yet the Government are allowing these national sovereign capabilities to erode. [..]
+
+> I do not want a debate on this topic as we can all see what is happening: at some point there must be a U-turn, because Iran is making a fool of the Energy Secretary. No, I desperately want the Leader of the House to get the Prime Minister to see the madness of this approach and get the policy changed as soon as he possibly can.
+
+→
+
+> **CAMPBELL:** I agree with the shadow Leader of the House on one point: that we should be concerned about potential spikes in fuel prices during crises. I have to say, he made an admirable case for energy independence and the policy of the Government.
+
+> The shadow Leader of the House talked about the North sea as a matter of concern. It is a matter of concern for the whole country, and particularly for constituencies in the region that I represent. I have to point out that the North sea is a mature oil and gas area, so some of the things he said have happened there are not surprising. It is mature and, in that sense, declining, but gas and energy from the North sea will be part of the energy transition in the UK for some decades to come. The big lesson that we learn from this crisis is that we have to get off the rollercoaster of oil and gas, which means getting off fossil fuels and on to home-grown clean power. He talked about the Government’s inaction, but we are bringing forward the next auction for renewables, extending solar and accelerating the warm homes plan roll-out.
+
+> The shadow Leader of the House talked about the loss of jobs in the area. I have to point out that a 70% fall in jobs in the North sea came about during the time of the Government of which he was a supporter. In terms of turning it around, it would take a decade between starting to explore and extracting oil. Not a single barrel of extra oil extracted from the North sea today will reduce prices for consumers. If he will not take my word for it, let him take the words of the Conservative Energy Minister in 2022 [Greg Hands], who said that “more UK production wouldn’t reduce the global price of gas.” As the shadow Leader of the House said, you could not make it up.
+
+#### (4) 📜 REMARK: Steel
+
+> **NORMAN:** Shortly we will hear the Business Secretary make a statement on how the Government want to increase domestic steel production, even while they are stopping the domestic oil and gas on which that steel production relies. It is an absolute nonsense.
+
+→
+
+> **CAMPBELL:** On the question of steel, there will be a statement later today about our steel strategy going forward. The idea that we do not value these national assets is, I am afraid, simply untrue. We have acted already on Scunthorpe, and we will be acting not just on steel, but on other matters of national importance, because they are in our national interest.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** On Monday, the Modernisation Committee launched an inquiry into Backbench Business Committee and Petitions Committee debates as part of an ongoing inquiry on how time is used in this place. Both Committees play a vital role in bringing key issues of local, national and international importance to the House. Members will have received an online form seeking their views. I encourage all Members to engage with the inquiry.
+
+> This morning, the response of the House administration to the Modernisation Committee’s report on accessibility in the House of Commons [was published](https://committees.parliament.uk/committee/736/modernisation-committee/news/212724/modernisation-committee-publishes-house-of-commons-response-to-accessibility-report/). I thank all who contributed to the inquiry and the House authorities for the progress they are making on addressing the important matters raised in the report. As I committed, the House will have the opportunity to consider the report in due course.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+-----
+
+I like the slight breaking of the fourth wall, at the end of what appears to be a question where you would normally ask for a debate (if you stick to the rules of BMQs), saying instead he does not want a debate.
+
+Or: Shadow LotH doesn't ask any questions, doesn't want a debate, tries to convince the LotH to convince the PM to change policy. LotH responds by saying the speech was an admirable case for the opposite.
 
 {% include fin.html %}

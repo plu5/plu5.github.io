@@ -2,15 +2,47 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-02-24 17:38
+modified_date: 2026-03-22 22:01
 categories: list
 lang: fr
 ---
 Notes sur ce que je lis/écoute/regarde
 
+## [fr] Wikipédia
+§ 2026-03-13
+- [livre] Simon Leys : _La Mer dans la littérature française_
+- [livre] Simon Leys : _Les Naufragés, ou Vingt mois sur un récif des Auckland_
+- [livre] Simon Leys : _Les Naufragés du Batavia_
+- Johannes Torrentius : « Le roi Charles Ier d'Angleterre qui admirait ses œuvres intervint en sa faveur et obtint sa relaxe après deux années de prison. Torrentius resta 12 ans en Angleterre comme peintre de la Cour (mais où il peignit très peu), puis en 1642 retourna clandestinement à Amsterdam, où il mourut deux ans plus tard dans la misère. »
+- Johannes Torrentius : un seul de ses tableaux a « survécu par miracle après la destruction de toute sa production hollandaise sur ordre de la justice après sa condamnation pour hérésie et immoralité »
+- Simon Leys : « conflict with a man who made something like Orwell’s transition from left to right and like him died too soon » ??
+
 ## [en] Dylan Abernethy
 ..
 - [Creating Complex Props for Video Games Course](https://drive.google.com/drive/folders/1VgGFmc_CU3-Ec1DwEEVpeqrsElWT4nGy)
+
+## [zh/fr/en] Utilisateur bilibili 388732912
+..
+§ 2025-11-03
+- [livre] _L'Île des Pingouins_ d'Anatole France. une parodie de la france. il y avait un extrait et c'était excellent. une description magnifique de fiches qui tombent partout
+- entretien avec une mathématicienne qui écrit tous ses notes sur papier, "fiches volantes" datées et numérotées. elle les garde dans des pochettes. sur ordi elle garde juste une "chemise"--je suppose qu'elle voulait dire dossier--avec des articles qu'elle a consulté
+- entretien avec noelle bourguet. je ne sais pas qui elle est mais elle parle des carnets de voyage d'un homme allemand qui est né la même année que napoléon et mort à l'apparution de l'origine d'espèces. la façon dont il avait organisé ses notes etc
+
+§ 2026-02-24
+- [livre] _Ocean Biogeochemical Dynamics_
+
+§ 2026-02-26
+- [livre] _Writing Science_ de Joshua Schimel
+- [livre] _Who's Pulling Your Strings_ en chinois. couverture / page de titre assez cool (un œil entouré de lignes)
+
+§ 2026-03-08
+- Notre Dame de Paris comédie musicale
+
+§ 2026-03-13
+- Le Rouge et le Noir comédie musicale 202412192220
+
+§ 2026-03-19
+- [livre] _À la recherche du temps perdu_
 
 ## [en] Devin Korwin
 ..
@@ -197,5 +229,33 @@ Notes sur ce que je lis/écoute/regarde
 - il leur a fallu sept ans, dont moins de dix-huit mois pour le scénario
 - « Blake avec son flegme britannique a souvent tendance à passer au second plan par rapport à Mortimer, dont la personnalité est plus marquée. »
 - plusieurs auteurs de bd vivent dans la même maison à Fécamp si j'ai bien compris ?
+
+## [fr] Collection ARMADA
+..
+- [Collection ARMADA](https://artillerie.asso.fr/docs/ARMADA/index.html)
+
+§ 2026-03-22
+- C1 p. 26 « En 2010, le Conseil de l'Atlantique Nord a estimé qu’en dehors de l’OTAN, de la Russie et de la Chine, 5.550 à 6.250 missiles balistiques étaient en service dans le monde, dont 500 à 700 d’une portée de 2.000 à 3.000 km et une quarantaine pouvant atteindre les 3.000 à 5.500 km. »
+- C1 p. 27 « Les premiers tirs effectués depuis 1945, effectués par l’Égypte en 1973 contre des ponts israéliens (Guerre du Kippour). »
+- C1 p. 27 « Les lancements d'une quarantaine de Scud par l’Irak contre Israël et l’Arabie saoudite, durant la Guerre du Golfe de 1990. » : seulement une quarantaine ? je pensais que c'était des milliers
+
+## [en] Government response to Humble Address motion of 4 February 2026
+§ 2026-03-12
+- [page](https://www.gov.uk/government/publications/government-response-to-humble-address-motion-of-4-february-2026), [pdf](https://assets.publishing.service.gov.uk/media/69b13135cdd628b29e3495f8/V1_FINAL.pdf)
+- surnommé "the mandelson files" (en référence à epstein), ce document contient des mémos internes relatifs à la nomination de celui-ci comme ambassadeur
+- p. 25 (35) podcast mentionné dans le cv envoyé au roi
+- malgré les 147 pages, beaucoup ne sont que des directives et des modèles de déclarations qu'il devait faire. et des pages blanches
+- p. 54 (64) envoyé à son adresse : ordinateur portable HP, iPhone, iPad, pack de lecture initiale (la politique américaine, principaux enjeux politiques, vue d'ensemble de l'ambassade et du réseau diplomatique). "I'll also follow up by WhatsApp"
+- p. 58 (68) système rh et financier Hera
+
+## [fr] Textyles, revue des lettres belges de langue française
+..
+- [journals.openedition.org/textyles](https://journals.openedition.org/textyles/)
+
+§ 2026-03-15
+- 1572 : « Goormaghtigh qui pourrait être engagé par contrat pour perfectionner à Pékin et pendant un an, ses connaissances de la langue chinoise » il manquait à ce point des sinologues belges ils ne pouvaient même pas trouver quelqu'un qui parlait déjà la langue ?
+  + « Goormaghtigh suivra à Hong Kong des cours de chinois aussi accélérés que possible »
+  + « Entre-temps, nous faisons une enquête en Belgique pour établir, si la chose est possible, une liste de jeunes sinisants ; l’idée est d’envoyer les meilleurs de ceux-ci à Pékin ou à Hong Kong, afin de leur permettre de se perfectionner en chinois dans la mesure où le Département recevrait des assurances qu’une fois leur entraînement terminé, il y aurait des chances raisonnables qu’ils acceptent d’entrer au service de l’État. »
+- 1572 : « Parmi les « auteurs d’analyses sérieuses » apparaît, aux côtés de Jacques Guillermaz et de Klaus Mehnert, le nom de Simon Leys… » -_-
 
 {% include fin.html %}

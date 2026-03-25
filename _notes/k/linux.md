@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-02-21 04:12
+modified_date: 2026-03-24 04:09
 categories: os
 lang: fr
 ---
@@ -25,7 +25,10 @@ lang: fr
   + `pgrep -x monprocessus` : pid d'un processus par nom exact
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)
     <br>les crochets autour de la première caractère permettent d'éviter de trouver le processus du grep aussi.
-- `pkill monprocessus` : tuer gentillement
+  + `ps -eo pid,lstart,cmd`
+- `pkill [pid]` : tuer gentillement (par pid)
+- `pkill monprocessus` : tuer gentillement (par nom)
+- `sudo strace -p [pid]` : voir ce que fait un processus
 - `systemctl list-units --type=service --user --all` : lister services utilisateur
   <br>(c'est agaçant mais faut se souvenir du --user. de même pour `systemctl status monservice` et `journalctl -u monservice`)
 - option `-f` (`--follow`) avec journalctl pour voir les messages en direct
@@ -43,12 +46,79 @@ lang: fr
   <br>ou `.. | grep 'option1\|option2`, les guillemets sont nécessaire.
   <br>(cf [n0tes.fr Grep OR AND NOT](https://www.n0tes.fr/2022/10/16/Grep-OR-AND-NOT/))
 - `.. | sed -r '$s/(s|m|h|d)$//I'` : supprime s/m/h/d de la fin, insensible à la casse
+- `.. | xargs ..` comme moyen d'éviter d'avoir à écrire une boucle `for` ou `while read`
+  ```sh
+  bspc query -N -n '.window.hidden' | xargs -I{} bspc node {} -g hidden
+
+  # xargs
+  bspc query -N -n '.window.hidden' | xargs -I{} echo "{} hidden"
+  # boucle for
+  for n in $(bspc query -N -n '.window.hidden'); do echo "hidden $n"; done
+  # boucle while read
+  bspc query -N -n '.window.hidden' | while read -r n; do echo "hidden $n"; done
+  # boucle while read avec fichier fifo (permet d'éviter le sous shell)
+  while read -r n; do echo "hidden $n"; done < <(bspc query -N -n '.window.hidden')
+
+  # xargs avec plusieurs commandes
+  bspc query -D | xargs -I{} sh -c "echo --d:{}; bspc query -N -n .active -d {}"
+  ```
 
 ### Redirection
-- `.. > fichier 2>&1` : redirige stdout et stderr à un fichier
+- `>` : redirige stdout
+  + `1>` est équivalent
+  + stdout = fd1 (file descriptor 1)
+- `2>` : redirige stderr
+  + stderr = fd2 (file descriptor 2)
+- (fd0 = stdin)
+- `>&1` : redirige vers stdout
+- `>&2` : redirige vers stderr
+- `.. > fichier 2>&1` : redirige stdout et stderr vers un fichier (stdout → fichier, puis stderr → stdout)
   + `.. > /dev/null 2>&1` : utilisé quand on ne veut pas de sortie
+- `>&3` ou plus : custom
+  + `exec 3>"$fichier"` : suit le fichier même s’il est renommé ou supprimé. après tu peux lire avec `<&3` et écrire avec `>&3`
+  + `exec 3>"$fifo"` : utile pour garder une connexion persistante au fifo (ouvre le fifo, assigne le descripteur 3 à cette ouverture, et ça reste ouvert tant qu'on ne le ferme pas explicitement ou quitte le shell / sous shell)
+    - bloque si pas de lecteurs
+    - `exec 3>&-` : fermer fd 3
+  + si on redirige vers un fd fermé, on reçoit l'erreur "Bad file descriptor"
+
+### FIFO
+[POSIX]
+pipe nommé (named pipe). un fichier spécial qui se comporte comme un tube/pipe. les données passent de l'écrivain au lecteur, mais aucune donnée n'est stockée sur le disque. le processus qui écrit bloque jusqu'à ce qu'un lecteur lise (et vice-versa).
+
+Exemple ([Arseny, 2016](https://stackoverflow.com/questions/14648974/should-named-pipes-opened-with-mkfifo-be-closed-and-how#comment65977879_38626343)) :
+- terminal 1 : `mkfifo fifo`
+  + ça crée un fichier sous pwd nommé "fifo". si un fichier par ce nom existe déjà, ça va échouer.
+- terminal 1 : `cat - > fifo`
+  + ça bloque
+- terminal 2 : `cat fifo`
+Maintenant tout ce qu'on entre dans terminal 1 apparaît sur terminal 2, sans que rien ne soit écrit dans le fichier.
+
+Dans un script, il faudrait soit supprimer le fichier, soit le nommer différemment chaque fois, par ex. avec `fifo=$(mktemp -u)` (ça donne un chemin vers un fichier dans /tmp sans le créer) puis `mkfifo "$fifo"`.
+
+### Substitution de processus
+[Bash]
+- Permet d'éviter un sous shell dans une boucle `while read`.
+  <br>Compare :
+  ```sh
+  count=0
+  printf '%s\n' a b c | while read -r; do
+      count=$((count+1))
+  done
+  echo "$count" # -> 0
+  ```
+  à :
+  ```sh
+  count=0
+  while read -r; do
+      count=$((count+1))
+  done < <(printf '%s\n' a b c)
+  echo "$count" # -> 3
+  ```
+
+[cf abs chapitre 22](https://abs.traduc.org/abs-5.3-fr/ch22.html)
 
 ### Expansion / substitution
+- On ne peut pas mettre directement une substitution de commande (`$(...)`) à l’intérieur d’une expansion de paramètre (`${...}`)
 - [POSIX] `$((1 + 1))` : expansion arithmétique
 - Bash : `$((++i))` ou `$((i++))`. POSIX : `i=$((i + 1))`
   + pas de `$` dedans. si on en ajoute ça s'expand avant l'expansion arithmétique : `i=1; $(($i++))` → `$((1++))` → erreur
@@ -104,8 +174,29 @@ lang: fr
 - Bash : `for ((i=0; i<10; i++)); do echo $i; done`  
   POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
 
+### Test
+liste non exhaustive, car il y a en a plein que je n'utilise jamais
+- `-z` : vide
+- `-n` : non vide
+- `-f` : fichier (réel ; pas FIFO / pseudofichier)
+- `-d` : dossier
+- `-e` : existant (fichier, dossier, ou FIFO / pseudofichier)
+- `-r` : accessible en lecture
+- `-w` : accessible en écriture
+- `-x` : exécutable
+- `-s` : fichier existe et il contient des données (taille non zéro)
+- [Bash] `-S` : socket
+
 ### Pas POSIX
 Tableaux, exposants, modulo, certaines substitutions de variables (syntaxe `:1:2` [slicing], `/` [remplacement], `^` [conversion en majuscules], `,` [.. miniscules], `!` [expansion indirecte])
+
+Substitution de processus (`>(command_list)`, `<(command_list)`)
+
+Redirections dans une substitution de commande
+- Bash : `< $file wc -l`
+  + POSIX : `wc -l < $file`
+- Bash : `var=$(< "$file")`
+  + POSIX : `var=$(cat "$file")`
 
 Pas de regex, mais il y a les motifs de globbing `*` `?` `[abc]` `[!abc]`.
 
