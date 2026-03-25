@@ -130,6 +130,16 @@ pre code {
   color: #ddd;
 }
 
+/* Visible block with max height, kind of like SE */
+/* to avoid long code blocks being annoying to scroll past */
+.highlighter-rouge div {
+  max-height: 600px;
+  overflow: auto;
+  max-width: 92%;
+  margin: auto;
+  border: 1px inset green;
+}
+
 /* Don't wrap plaintext (to avoid breaking ascii art) */
 .language-plaintext pre {
   white-space: pre;
