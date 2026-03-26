@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-03-25 08:41
+modified_date: 2026-03-26 04:27
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -269,7 +269,7 @@ What are all the flags for? From man bspc:
 - sticky : Stays in the focused desktop of its monitor.
 - private : Tries to keep the same tiling position/size.
   + avoids splitting that node
-- locked : Ignores the node --close message.
+- locked : Ignores the node `--close` message.
   + prevents closing with super+w
 - marked : Is marked (useful for deferring actions). A marked node becomes unmarked after being sent on a preselected node.
   + [hellmouthxyz](https://www.reddit.com/r/bspwm/comments/161o8zq/): "While the other flags will change how bwpsm treats a node, marked doesn't actually mean anything. [..] It's just an arbitrary flag that can be used for your own purposes if you want to."
@@ -731,7 +731,7 @@ Slightly simplified version of his gapless play bash script (removed the xterm m
 # It's irrelevant what you have in the other fields, because only the
 # second one (yt-id) is used in this script.
 
-# Files that store the PIDs of used processes
+# Files used as input-ipc-server sockets for each instance
 soc1=/tmp/soc1
 soc2=/tmp/soc2
 # File that stores which of these ^ is currently used. is otherwise
@@ -742,9 +742,9 @@ curr=/tmp/soc_used
 
 touch $soc1 $soc2
 
-# Print out a message $2 in green or cyan based on the value of $1
-# (i). Used to render the output of each instance in alternating
-# colours.
+# Print stdin in green or cyan based on the value of $1 (i).
+# Used to render the output of each instance in alternating
+# colours, each line prefixed with $2 followed by a tab.
 prefix_echo() {
   if [[ "$(($1 % 2))" == "0" ]]; then
       color=green
@@ -778,7 +778,7 @@ get_soc() {
 # Initialising i
 i=0
 
-# Iterating each line and each field in the 
+# Iterating each line and each field in the inputfile
 cat "$1" | while IFS=\| read -r f1 f2 f3 f4
 do
     # id is the second field, without the spaces around it
@@ -852,7 +852,7 @@ fi
 
 but you wouldn't be able to do any finer control without writing scripts to send ipc commands for each one.
 
-What if if we ran it without --novideo?
+What if if we ran it without `--novideo`?
 
 Then we have full control, but both instances are visible, and when a new one opens it takes focus. It should be trivial to hide the one that's waiting.
 
@@ -917,7 +917,7 @@ While this horrible hack does work:
 ```
 there has to be a better way.
 
-mpv [can take argument --x11-name](https://www.reddit.com/r/qutebrowser/comments/adhypn/mpv_change_mpv_window_title/) which sets the instance name in `WM_CLASS`.
+mpv [can take argument `--x11-name`](https://www.reddit.com/r/qutebrowser/comments/adhypn/mpv_change_mpv_window_title/) which sets the instance name in `WM_CLASS`.
 
 We could modify `get_pause` so that other than `--pause` it will also pass `--x11-name mpvalt` for instances other than the first one:
 ```sh
@@ -947,7 +947,7 @@ If you want to remove it:
 bspc rule -r mpv:mpvalt:*
 ```
 and you can list existing rules with:
-```bsh
+```sh
 bspc rule -l
 ```
 and yes, you can have many identical rules, it doesn't squash them, hence why the check that it does not already exists.
@@ -956,7 +956,7 @@ to unhide it we can do this before/after unpausing the alternate instance:
 ```sh
 wmctrl -xr mpvalt -b remove,hidden
 ```
-(-x makes it search in classes instead of titles)
+(`-x` makes it search in classes instead of titles)
 
 but more problems with bspwm not recalculating the tree unless we force it. and also if for example we moved the video to another workspace the other instance is not going to know about it. Ideally we want to replace the window exactly in the position it had. This is possible with bspwm but is it going to be hacky getting the wid? I guess not as we can use ask for the window-id property via ipc if we need it just right before unhiding the alternate instance, not after opening a new instance. but no, because when the script comes back from the tail that pid is already dead, and the window we want to replace is already closed.
 
@@ -1083,7 +1083,7 @@ ERROR: [youtube] tVlcKp3bWH8: This video is not available
 https://www.youtube.com/watch?v=fazMSCZg-mw
 ERROR: [youtube] fN1Cyr0ZK9M: This video is not available
 ```
-Is there a --no-errors? no, and neither --ignore-errors nor --quiet do the job. but maybe this is in stderr rather than stdout so won't be a problem for redirecting anyway.
+Is there a `--no-errors`? no, and neither `--ignore-errors` nor `--quiet` do the job. but maybe this is in stderr rather than stdout so won't be a problem for redirecting anyway.
 
 Change the loop to take just a list of URLs:
 ```bash
@@ -1286,9 +1286,9 @@ yt-dlp --no-warnings --print "%(webpage_url)s" "$1" | {
 ##### Stay compatible with the original script
 Refactoring next:
 - With no more associative arrays, we no longer rely on any Bash-specific features and can modify the script to be POSIX-shell compatible (`[ ]` instead of `[[ ]]`).
-- We could also trivially still maintain the ability for the user to supply a list of videos themselves: check with `-f` if the user passed in a file or not. To support FIFO also (pseudofiles), test `-e` (exists) or `-r` (readable) instead.
+- We could also trivially still maintain the ability for the user to supply a list of videos themselves: check with `-f` if the user passed in a file or not. To support pseudofiles also, test `-e` (exists) or `-r` (readable) instead.
 - Why not also keep compatibility with the original script; if a file is provided and it does not contain links, check if it contains YouTube IDs
-- Change `get_pause` to `get_args`
+- Rename `get_pause` to `get_args`
 
 ```sh
 #!/usr/bin/env sh
@@ -1411,10 +1411,10 @@ Next idea is caching the lists from yt-dlp queries in ~/.cache/gaplessmpv where 
 
 I'm just going to do a naïve solution without handling the possibility of multiple instances doing the same query. I'll leave it as an exercise to the reader to come up with something more robust.
 
-1. Rather than trying to work out ourselves when the list is stale, let the user decide by specifying --purgecache option.
+1. Rather than trying to work out ourselves when the list is stale, let the user decide by specifying `--purgecache` option.
 2. We need to not save the cache if the user quit before the list was fully fetched. We already have the mechanism in the loop to tell when we are on the last line [but this is not ideal because it means that the cache won't be saved if the user didn't go all the way until the last video, even if the whole list could have been fetched by the time they quit]. We only need to save cache for yt-dlp so `process_lines` can take an argument containing path to the cache file or nothing if no caching is necessary.
-3. For position just save another file with the same md5 with .pos at the end. It's simple and can be implemented in a similar way to the list cache, and purged with --purgepos. That way user can also keep the list cache but purge the pos or vice versa.
-4. If the options --purgecache or --purgepos are given with no query or inputfile after, don't purge (an alternative approach would be to purge all in that case).
+3. For position just save another file with the same md5 with .pos at the end. It's simple and can be implemented in a similar way to the list cache, and purged with `--purgepos`. That way user can also keep the list cache but purge the pos or vice versa.
+4. If the options `--purgecache` or `--purgepos` are given with no query or inputfile after, don't purge (an alternative approach would be to purge all in that case).
 5. For saving the pos, rather than capturing keyboard interrupt or something like that, I think it's better to save it each time it passes to the next video, so that way no matter how it's exited, the user's position in the list is preserved. To restore a position, remove the first n lines from the list, and pass the number as the argument to `process_lines` as well, because if the user started from the first video then `i` is the position, but if a position was restored we need to add the position that was restored to `i` in order to work out current position each iteration.
 6. If input is a file, we get the absolute path first, so that it will save and restore the same position for the given file even if supplied via a different relative path.
 7. Add help text too. There are usage notes already in the header comments but a user may be running the script without access to the file.
@@ -1742,7 +1742,7 @@ ytdlp_pid=$!
 ```
 As usual we have to add 1 to it because it's 1-based whereas our position is 0-based (it's like that with `tail -n` too).
 
-Don't forget that we have to pass `$pos` to `$process_lines` after too, in order for position saved after pos was restored to be calcuated correctly. Define `pos=0` along with the `ytdlp_args="--no-warnings"` and then pass `$pos` to `$process_lines` instead of 0.
+Don't forget that we have to pass `$pos` to `$process_lines` after too, in order for position saved after pos was restored to be calculated correctly. Define `pos=0` along with the `ytdlp_args="--no-warnings"` and then pass `$pos` to `$process_lines` instead of 0.
 
 but hang on a minute... Is this going to produce a cache for the query that will always have the first n videos missing?
 
@@ -1756,7 +1756,7 @@ I also want an option to reverse playlist, but how to handle pos? One way would 
 
 The cached list will be reversed, so we need to have a different cache file also.
 
-- Add --reverse to usage comments and help text
+- Add `--reverse` to usage comments and help text
 - Add a reverse flag and set it in args consumption loop if corresponding argument is provided
 - If reverse flag is set, change the cache file name to [md5]-reverse.txt and the pos file name to [md5].pos-reverse.txt
 - If we already have a non-reversed cache, write a reversed version of it to [md5]-reverse.txt
@@ -2071,7 +2071,7 @@ I have also not handled the situation where the user advances too quickly or clo
 A different approach could be to keep two mpv instances open the entire time and alternate between them, instead of opening a new instance each time. We would need a way to know when a video ended.
 
 More problems (inexhaustive):
-1. In a bilibili playlist if there are files that have Ps in them, reverse reverses the order of them as well. On the site when you reverse playlist this doesn't happen. It could be worked around if you have cache by reversing the order of P sequences in the cache [see next subsection where I wrote a function to do this]. The index will also be off compared to on the site, because each P is its on video on its own line. On mpv proper when you load a bilibili playlist it does seem to take account of it, `playlist-play-index` with the same index minus 1 takes you to the right video.
+1. In a bilibili playlist if there are files that have Ps in them, reverse reverses the order of them as well. On the site when you reverse playlist this doesn't happen. It could be worked around if you have cache by reversing the order of P sequences in the cache [see next subsection where I wrote a function to do this]. The index will also be off compared to on the site, because each P is its own video on its own line. On mpv proper when you load a bilibili playlist it does seem to take account of it, `playlist-play-index` with the same index minus 1 takes you to the right video.
 2. `unhide_alt` does not robustly get the window and fails to unhide if you have several gaplessmpv instances
 3. New instances open in current workspace, ideally should open in the same location as the original instance. If you want to dump them all to a particular workspace, you can add that to the mpvalt rule.
 
@@ -2189,7 +2189,7 @@ no, I still get connection refused.
 ' %}
 
 #### Attempt at some sort of combination of the two approaches
-I noticed that the yt-dlp option `--get-url` gives a long mirror link kind of like the ones mpv-handler-queue outputs. I wonder if using this and IPC append-play:
+I noticed that the yt-dlp option `--get-url` gives a long mirror link kind of like the ones mpv-handler-queue outputs. I wonder if using this and IPC loadfile append:
 ```sh
 echo '{ "command": ["loadfile", '"\"$link\""', append] }' | socat - "$soc"
 ```
@@ -2265,7 +2265,7 @@ Did this used to be supported and now isn't? (mpv version: v0.41.0)
 
 Ah hang on a minute, the error is quite clear actually. From the [manual](https://mpv.io/manual/master/), loadfile format:
 
-> loadfile <url> [<flags> [<index> [<options>]]]
+> `loadfile <url> [<flags> [<index> [<options>]]]`
 
 > The third argument is an insertion index, used only by the insert-at action. When used with those actions, the new item will be inserted at the index position in the playlist, or appended to the end if index is less than 0 or greater than the size of the playlist. This argument will be ignored for all other actions. This argument was added in mpv 0.38.0.
 
@@ -2326,7 +2326,7 @@ Submitted [a PR](https://github.com/gabreek/mpv-handler-queue/pull/1) to fix the
 #### cont attempts to fix queuedmpv audio tracks issue
 The only thing that's different in his IPC command is he also passes the title in the options. I can't see in the source anything different with the audio tracks.
 
-We get add --get-title to the yt-dlp command:
+We get add `--get-title` to the yt-dlp command:
 ```sh
 while read -r line; do
     info=$(yt-dlp --no-warnings --get-title --get-url "$(get_link "$line")")
@@ -2343,7 +2343,7 @@ done < "$file"
 ```
 Now it should be the exact same IPC command as he sends, but sadly it has made no difference for the audio tracks problem.
 
-Oh hang on a minute. Is it because I'm passing --audio-file when I launch the instance? Maybe it then affects the entire playlist. I did see that in mpv-handler-queue for the "initial video" he just passes the url of the video page instead of the direct links. In function `handle_playlist_in_new_instance`:
+Oh hang on a minute. Is it because I'm passing `--audio-file` when I launch the instance? Maybe it then affects the entire playlist. I did see that in mpv-handler-queue for the "initial video" he just passes the url of the video page instead of the direct links. In function `handle_playlist_in_new_instance`:
 ```rust
 // 1. Load the first video (don't pre-extract, let mpv do it)
 let (first_title, first_url) = &playlist_entries[0];
@@ -2470,9 +2470,9 @@ This is functional. Now what I will do is combine it with gaplessmpv in order to
 - When using `--reverse` with INPUTFILE, we should verify the date on INPUTFILE and regenerate the reversed list if it's more recent than the cache in order to reflect changes to the file.
 - Add `--pos=N` option to force starting position irrespective of pos file.
 - At the start, `playlist-pos` is always going to be 0, but `pos` might not be. These variables need to be kept separate. `pos` keeps track of the line number in the actual file so we should use that one to decide what to load, not `playlist-pos`. `playlist-pos` should be used to check where the user navigated in the playlist (next, previous, or it could be even jumping several, but not beyond the contiguous range we've already loaded) by checking its new value against its previous value.
-- If there are "" in the video title, it breaks our IPC command JSON. I don't want to introduce another dependency, so I just escape quotes and backslash in the title and hope that it's enough.
+- If there are double quotes `""` in the video title, it breaks our IPC command JSON. I don't want to introduce another dependency, so I just escape quotes and backslash in the title and hope that it's enough.
 - Handling end of list: It suffices to just do nothing when `get_link_at_line_number` stdout is empty.
-- Having a human-readable component to the cache and pos filenames made me realise that we should not be saving anything for pseudofiles. It's not going to be able to distinguish one from the other. devfd63........463ecdb87a44dc7.pos.txt
+- Having a human-readable component to the cache and pos filenames made me realise that we should not be saving anything for pseudofiles. It's not going to be able to distinguish one from the other. `devfd63........463ecdb87a44dc7.pos.txt`
 - Add `--nosave` option to optionally avoid saving position and cache.
 - The sleep before the call to `observe` is fragile. How long the socket takes to be set up depends on how long mpv takes to load the first video. Open it on idle then before trying to load anything. Then preload the first video in the way we preload others, just with "replace" instead of "insert-at", so that it starts playback.
   + When opening it on idle, the first `playlist-pos` I get is -1 rather than 0. We need to ensure then that we ignore it when it's less than 0.
@@ -2928,7 +2928,7 @@ Resulting headers formatting:
 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36','Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8','Accept-Language: en-us,en;q=0.5','Sec-Fetch-Mode: navigate','Referer: https://www.bilibili.com/video/av33807412'
 ```
 
-Then we can write our `preload_link` function to use this:
+Then we can rewrite our `preload_link` function to use this:
 ```sh
 preload_link() { # $1 = link. optional: $2 = index, $3 = loadfile flags
     info=$(get_video_info "$1")
@@ -2949,9 +2949,9 @@ preload_link() { # $1 = link. optional: $2 = index, $3 = loadfile flags
         "$video" "$flags" "$i" "$title" "$audio" "$headers" "$useragent"
 }
 ```
-I've also changed the `ipc` function to echo the command so I can verify it is formatted as expected. It's correct, but sadly I still get 403. I also tried in a different order, like putting the user agent and headers first in the options, but it made no difference
+I've also changed the `ipc` function to echo the command so I can verify it is formatted as expected. It's correct, but sadly I still get 403. I also tried in a different order, like putting the user agent and headers first in the options, but it made no difference.
 
-I am not sure http-header-fields needs to be passed in a string. I also tried a JSON array (with also changing the headers to be wrapped in "" instead of '' to be valid JSON), but got "argument options has incompatible type."
+I am not sure http-header-fields needs to be passed in a string. I also tried a JSON array (with also changing the headers to be wrapped in double quotes `""` instead of single quotes `''` to be valid JSON), but got "argument options has incompatible type."
 
 Possibilities:
 - I am not passing it in correctly / it's not being taken into account
