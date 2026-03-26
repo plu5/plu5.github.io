@@ -33,6 +33,9 @@ body {
     font-size: clamp(0.875rem, 1em + 0.75vw, 3rem);
     /* I don't know if testing @supports is needed */
   }
+  /* Avoid overflow in things like paths / long URLs */
+  overflow-wrap: break-word;
+  word-break: break-word;       /* older navigators */
 }
 
 /* different font for headings which i think is considered good design? */
@@ -111,8 +114,6 @@ pre {
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
 }
 pre code {
   padding: 0;
@@ -149,8 +150,8 @@ pre code {
 /* Do wrap inline code (like stuff between single grave) */
 code.language-plaintext {
   white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* Different font on braille blocks to avoid displaying the grid */
