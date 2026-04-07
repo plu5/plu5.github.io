@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-03-25 06:38
+modified_date: 2026-04-07 10:38
 categories: lang
 lang: fr
 ---
@@ -205,7 +205,7 @@ Idéalement noter seulement des tournures qui vont être utiles
 - cela vient de l'expression "tomber pile" = à point nommé, et "être au poil, aller au quart de poil" = au moindre détail près. (^ Piotr Ivanovitch)
 - on me disait qu'il y avait litige parce que j'avais justement quelques centimes qui se promenaient, et donc il fallait refaire les factures … ce à quoi je répondais que je ne pouvais absolument pas tomber sur des francs pile-poil, si vous permettez l'expression ([wr](https://forum.wordreference.com/threads/tomber-sur-des-francs-pile-poil.1259506/))
 - affichage optimisé pour IE 6.0 ou plus / ou version ultérieure ([hunternet](https://forum.wordreference.com/threads/best-viewed-in-ie-6-0-above.1091753/))
-- Maintenant que les considérations philosophiques sont écartées et que le ton est donné, permettez-moi d'aborder quelques problèmes plus spécifiques liés à l'utilisation de Rust comme remplaçant de C. ([drewdevault](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html))
+- Maintenant que les considérations philosophiques sont écartées et que le ton est donné, permettez-moi d'aborder quelques problèmes plus spécifiques liés à l'utilisation de Rust comme remplaçant de C. ([drewdevault](https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html) tr)
 
 § 2026-02-05
 - tenez bon ([cnn](https://edition.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis))
@@ -601,5 +601,123 @@ signataires (^)
 - [Il] prétendirent en 1939 que le "désir de la photographie remontait aux origines les plus reculées de l'homme". (^)
 - Pour faire suite à ses propres arguments, [..] (^)
 - order of magnitude : un ordre de grandeur (^)
+
+§ 2026-03-26
+- C'est une présentation sommaire des possibilités. ([softfluent.fr](https://www.softfluent.fr/blog/utiliser-lapi-de-onedrive-depuis-une-application-windows/))
+
+§ 2026-03-27
+- C'est tout à fait usuel. Une torche tout court désigne de nos jours une torche électrique, qui pour moi est plus puissante qu'une lampe de poche et ne tient pas forcément dans une poche. Je pense comme Mout qu'on ne rampe pas dans un tuyau en béton avec un flambeau. On s'enfumerait et ne verrait plus rien. ([OLN](https://forum.wordreference.com/threads/torche-lampe-torche.2092021/))
+- Chez moi une torche c'est le joli machin en feu qu'on voit dans Lara Croft (par exemple). Je crois pas avoir jamais entendu torche utilisé pour parler d'une lampe torche or lampe de poche ici. Mais avec le contexte, tout se comprend. (^ abodymadeoftrash)
+- mais du coup, je ne vois pas pourquoi elle dit ça... Est-ce que quelque chose m'échappe ? Est-ce que ça peut avoir un autre sens ? ([Anoukmac](https://forum.wordreference.com/threads/fitting.3568586/))
+- la fin du groupe arrive à point nommé (^)
+- Ainsi s'achève la saga de X. Lamentablement. Comme il se devait. (^)
+- ça va être sanglant... ça va pas être beau à voir ([Saxo](https://forum.wordreference.com/threads/its-fitting-to-get-ugly-up-in-this-bitch.3080274/))
+- it's fitting = c'est normal, c'est logique (la conséquence est en adéquation avec ce qui précède) (^ mathilde70)
+- ça va être très moche, ou ça va saigner correspond mieux ;). C'est un tueur à gages surchauffé qui fait le pronostic... (^ Saxo)
+- il y avait une certaine poésie dans cette fin. d'un point de vue poétique, c'était une fin assez parfaite. c'est la fin qui convient parce qu'elle a une dimension poétique. ([helene james](https://forum.wordreference.com/threads/poetically-fitting.3217210/))
+- poetic justice is usually translated as « juste retour des choses » or « justice immanente » (^ Nicomon)
+  + J'ai simplement mentionné les façons usuelles de traduire _poetic justice_ (qui est aussi ironique) au cas où cela ferait surgir d'autres idées. (^)
+- Ce serait/cela me paraît une fin tout à fait appropriée. (^ Itisi)
+- Et tant pis pour _poetically_ (qui est en partie rendu par « tout à fait »). Chose certaine, je ne parlerais pas de « _poésie_ ». Ajout : en fait, je le verrais plus à l'imparfait. ... _me semblait/me paraissait une fin tout à fait appropriée._ (^ Nicomon)
+- je persiste à penser qu'on y perd le sel de la phrase. (^ helene james)
+- mais la décision ne sera pas la mienne (^ Nicomon)
+- Il y a dans ce _poetically_ - je crois - un peu le sens d'idéal. Dernière idée, et vous en faites ce que vous voulez (je le suggère sans conviction) : symbolique ? (^)
+- Je pense qu'il y a quelque chose de satisfaisant, presque esthétiquement, dans cette symétrie entre la fin du voyage et la fête en question. J'ai d'ailleurs envisagé ça, quelque chose avec "une belle symétrie" mais c'est un peu trop loin, trop explicite, tandis que la formulation doit rester assez ouverte je pense.. Symbolique est intéressant mais là aussi j'ai peur de surinterpreter. Je ne suis pas sure qu'il ne soit pas envisageable de conserver "poétique" même si je ne sais pas encore bien comment... Logique poétique j'avais pensé mais je ne sais pas encore... Vous parlez d'idéal, j'avais pensé à perfection .. (^ helene james)
+- Je préférerais « parfaite justesse » tant qu'à y être. Je rend mon tablier. Je pense. (^ Nicomon)
+- la question des temps est secondaire pour l'instant (^ helene james)
+- la chose (la date/la symétrie des dates) a une belle logique interne... provoquant une sorte de correspondance, de "rime" entre deux événements, qui, bien qu'un peu fortuite (pour l'instant, car vu l'histoire, cela va prendre d'autres implications, qui sont implicitement préfigurées ici) donne l'impression d'une fin, d'une conclusion assez "naturelle" (d'un point de vue narratif, presque, et pourquoi pas, poétique, je ne suis pas certaine qu'il faille rejeter systématiquement le mot, en français aussi il peut avoir une ambiguïté qui ne renvoie pas directement à la poésie au sens strict)
+quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je persiste à penser que si l'auteur avait voulu dire "it seemed perfectly fitting", il l'aurait fait. Merci, hein, de vous casser la tête avec moi! (^)
+- Pour info l'auteur suggère seulement de prendre la chose au pied de la lettre (^)
+- C'est juste assez poétique pour faire une bonne fin (^ iuytr)
+- Une telle fin me semblait parfaitement appropriée (^ johngiovanni)
+- En dernière analyse, je pense que je vais opter pour "poétiquement juste". J'en ai trouvé plusieurs occurrences qui M'ont à peu près convaincue, chez Octave Mirbeau notamment... Retour au presque mot à mot apres toutes ces réflexions (^ helene james)
+- Bien d'accord. C'est d'ailleurs une des suggestions du Guide anglais/français de la traduction (René Meertens) pour traduire _fitting_. Cet adjectif n'est pas tant désuet que plus littéraire/soutenu. Dans le même ordre d'idée que « séant » et plus courant, il y aurait « opportun ». Sinon, il y a les déjà suggérés : approprié, convenable. Ou encore : propice. Mais juste ne fait pas partie des suggestions du Meertens. (^ Nicomon)
+- Après s’être battu avec des ennemies faibles, on gagnait de l’expérience. ([vincenttam](https://vincenttam.github.io/blog2/erreur/2015/06/05/mes-erreurs-5))
+- Je n’ai jamais appris l’anglais. Je ne sais pas écrire en anglais. (^)
+- Le Seigneur fait peser encore plus durement sa puissance sur les habitants d’Asdod. Le Seigneur sème la peur au milieu d’eux. ([vincenttam](https://vincenttam.github.io/blog2/lecture-biblique/2016/08/15/vocab-biblique-160815))
+- Comme j'étais occupé par [..] je n'ai pas cherché à en connaître la cause. ([vincenttam](https://vincenttam.github.io/blog/2016/08/17/restore-corrupt-git-repository/) tr)
+- Lors de la mise à jour, un point d'exclamation rouge s'affichait à gauche de l'élément dans la liste de la barre d'état. J'ai ensuite consulté le journal des mises à jour (^)
+- Alors que j'essayais de mettre à jour ce plugin manuellement en saisissant des commandes Git, mon ordinateur a soudainement été privé d'électricité. Une fois le courant rétabli, j'ai tenté de saisir à nouveau les commandes, mais j'ai obtenu la même erreur. (^)
+
+§ 2026-03-28
+- Cet historique nous permet de voir les états successifs de toutes les références (les pointeurs) du repo. ([buzut.net](https://buzut.net/cours/versioning-avec-git/reflog-et-fsck))
+- De son côté, fsck, qui signifie _file system check_, permet de vérifier l’intégrité du système de fichier de Git et d’identifier les commit n’ayant plus de parents. (^)
+- La commande reflog permet d’exploiter le log du même nom. (^)
+- Cela a pour effet de modifier ces commits. Le reflog liste dans le détail toutes les actions effectuées. (^)
+- Un git status nous confirmera que la branche locale a totalement divergée par rapport à la branche distante. Il est cependant possible de replacer HEAD sur une référence de notre log qui se trouve avant l’altération de l’historique. (^)
+- Vous avez peut-être remarqué que le reflog utilise la notation des références vue précédemment : `HEAD@{<n>}`. Le pointeur de HEAD a ici changé 14 fois depuis le clonage du dépôt. `HEAD@{13}` désigne l’état de HEAD juste avant le rebase et `HEAD@{14}` HEAD juste après le clonage. (^)
+- Bien que de nombreuses références soient récupérables de cette manière, les revs non référencées dans le projet finissent par être effacées par le ramasse miette. Pour en savoir plus à ce sujet, référez vous à la doc du _garbage collector_ [en]. (^)
+- À l'université de California Institute of Technology, il a accès à un ordinateur central PDP-10 sur lequel il essaye plusieurs jeux avant d'installer sa version d’_Hamurabi_, baptisée _King_, qu'il passe un semestre à améliorer. Lasser de ce dernier, il a l'idée d'adapter sur ordinateur le jeu de plateau qu'il avait imaginé en 1971. ([frwik](https://fr.wikipedia.org/wiki/Empire_(jeu_vid%C3%A9o,_1977)))
+- D’autres étudiants commencent alors à jouer à _Empire_, au point que les administrateurs du système informatique doivent finalement sévir afin de limiter les temps de jeu sur le PDP-10 de l’université. (^)
+- Il annonce la sortie de cette adaptation dans le magazine Byte en avril 1983 mais n’en vend que deux copies (^)
+
+§ 2026-03-30
+- Comme la scène Ball est un modèle pour toutes les instances, la modifier et l'enregistrer entraîne la mise à jour de toutes les instances en conséquence. ([godot docs](https://docs.godotengine.org/fr/4.x/getting_started/step_by_step/instancing.html))
+- Microsoft OneDrive offre un service de stockage et de synchronisation de fichiers dans le cloud, permettant aux utilisateurs d'enregistrer, d'accéder et de partager des fichiers en toute sécurité depuis n'importe quel appareil. ([merge.dev](https://www.merge.dev/blog/onedrive-api-python) tr)
+- upload : Téléchargement d'un fichier sur OneDrive (^)
+- download : Téléchargement d'un fichier depuis OneDrive (^)
+
+§ 2026-03-31
+- Le mode entretien est prioritaire sur les autres modes activés par la supervision ([Jobneed](https://forum.wordreference.com/threads/prioritaire-sur.1790557/))
+
+§ 2026-04-01
+- Je crois que quand on est vilain tout petit, on se passe très vite de soi en tant qu’être prioritaire. Parce qu’on s’aperçoit très vite quand on n’est pas beau, cela n’est pas du tout un complexe mais un constat, que l’intérêt qu’on peut avoir n’est pas en soi, mais dans le mouvement qu’on peut éventuellement avoir, ou dans l’apport qu’on peut éventuellement faire aux autres. ([wr](https://forum.wordreference.com/threads/on-se-passe-tr%C3%A8s-vite-de-soi-en-tant-qu%E2%80%99%C3%AAtre-prioritaire.3487232/))
+- je voulais lui donner le bénéfice du doute, parce que je trouve ça tout bonnement ridicule de parler de soi en termes aussi tarabiscotés (^ Itisi)
+- Tous les enfants se prennent pour le centre du monde, laid ou beau. Sa laideur, au contraire, lui a fait prendre conscience, plus vite que les autres (les beaux), qu'il n'était pas le centre du monde, parce que les gens ne s’intéressait pas à lui. Et c'est l'origine de sa carrière : comme il était laid, il fallait qu'il ait autre chose à offrir que juste son visage (il dit ensuite qu'il n'aurait sûrement pas eu de carrière du tout s'il avait été beau, car 'quand on est beau, on se suffit'). (^ Kecha)
+- bien faire et laisser dire
+- bien faire et laisser braire
+- recte faciendo, neminem timeas ([Lacuzon](https://forum.wordreference.com/threads/bien-faire-laisser-braire.2045040/))
+- le ministre des Finances indien, responsable en matière d'importation et de législation douanière, interdit le livre en vertu du paragraphe 11 de la loi douanière indienne, le gouvernement de Rajiv Gandhi voulant éviter de provoquer des heurts entre communautés religieuses. ([frwik](https://fr.wikipedia.org/wiki/Les_Versets_sataniques))
+
+§ 2026-04-02
+- Selon le film Star Wars, basculer du côté obscur est basculer du côté de la haine, de la peur, de l'agressivité et de l'ambition. ([wr](https://www.wordreference.com/fren/basculer))
+- vous allez voir, certains prénoms sont faciles à prononcer, d'autres le sont un peu moins. pour bien les maîtriser, je vous conseille de pratiquer à maximum. (bl BV1Yt421K7j8)
+- Cet avertissement nous indique que le nœud Area2D nécessite une forme pour détecter les collisions ou les chevauchements. ([godot docs](https://docs.godotengine.org/fr/4.x/getting_started/first_2d_game/02.player_scene.html))
+- Cette page n’est pas la bonne / Vous êtes arrivé sur une page incorrecte. Veuillez fermer cette application ou cette fenêtre, puis réessayer. (login.microsoftonline.com/common/wrongplace)
+
+§ 2026-04-03
+- « Licence en médicine spécialisé en chirurgie. » Comme vous n'avez pas fait votre doctorat vous ne pouvez pas mettre « docteur en médecine » car vous n'êtes ni docteur ni médecin. Il est préférable d'avoir une sorte d'explication dans votre CV. ([AmaryllisBunny](https://forum.wordreference.com/threads/bachelor-of-medicine-bachelor-of-surgery.3040616/))
+- Une licence c'est 3-4 ans d'études. Un doctorat c'est 8 ans + internat (^)
+- je vous souhaite un prompt rétablissement ([vc74](https://forum.wordreference.com/threads/best-wishes-for-your-surgery.430510/))
+- On dit bien _Je viens d'apprendre le décès_ (substantif) de ..., mais je ne dirais pas _Je viens d'apprendre votre opération_, même pas au chirurgien. (Note : Entendre parler de l'opération de quelqu'un, c'est pour moi apprendre la façon dont s'est déroulé l'acte opératoire lui-même. De là, on peut dire : Je viens d'apprendre les bons résultats de votre opération) On précise qui a été opéré en disant : Je viens d'apprendre que vous avez été opéré. Il s'agit avant tout demander des nouvelles à la personne dont on a appris qu'elle a été ou est malade. On peut dire aussi, dans le langage courant, _Je viens d'apprendre, pour votre opération_, formule pudique qui peut sous-entendre une multitude de choses liées à l'opération chirurgicale : Vous allez être opéré, L'opération s'est mal passée, voire J'en déduis que vous êtes malade. ([OLN](https://forum.wordreference.com/threads/i-just-learned-of-your-surgery.918345/))
+- Je crois devoir insister sur le caractère particulièrement idiomatique de la forme indiquée par OLN : J'ai appris / Je viens d'apprendre, pour votre opération / votre accident / ce qui vous arrive / le divorce de votre fille / etc, tout ce pour quoi on peut compatir sans s'appesantir (^ Mauricet)
+- Comme le dit OLN on peut dire j'ai appris le décès d'untel, j'ai appris la naissance de votre fils, j'ai appris l'élection de tel autre. Mais avec l'opération ça ne marche pas. Je pense qu'il n'y a pas de logique là-dessous, juste l'usage. (^ mehoul)
+  + Aucune logique en effet. cf Titre de l'Express, repris dans toutes les gazettes. _Angelina Jolie: son père a appris son opération sur Internet_ (^ archijacq)
+  + Les titres sont soumis à la règle de la concision. Personne ne parle comme ça. (^ OLN)
+- Je viens d'apprendre que vous vous êtes fait opérer en janvier, et que vous avez fêté vos 80 ans en décembre. (^ Argyll)
+- Je viens d'apprendre qu'un nouveau livre de mon auteur préféré vient de paraître / de sortir. | Je viens d'entendre parler d'un nouveau livre de mon auteur préféré. (^ Cath.S.)
+- Je viens d'entendre parler de votre opération. | Je viens d'apprendre / On vient de m'apprendre (de m'informer) que vous avez subi une opération. Je viens d'être informé / mis au courant de votre opération. (^ Nicomon)
+- Je suis désolé d'apprendre pour votre père. J'ai de très bons souvenirs de lui. ([ramaud](https://forum.wordreference.com/threads/i-am-sorry-to-hear-about-your-father.721029/))
+- C’est une blessure mineure, mais son coude nécessite une intervention chirurgicale. ([Gil](https://forum.wordreference.com/threads/he-needs-surgery.754693/))
+- Mon médecin a autorisé/validé mon opération. ([jetset](https://forum.wordreference.com/threads/clear-a-patient-for-surgery.3552971/))
+- Space Invaders est un jeu vidéo développé par la société japonaise Taito, sorti en 1978 sur borne d'arcade. Il s'agit d'un _shoot 'em up_ fixe. Tomohiro Nishikado conçoit et programme le jeu, en s'inspirant de plusieurs médias populaires de l'époque tels que _Breakout_ ou _La Guerre des mondes_. Considéré comme le premier archétype du _shoot 'em up_, il est aussi l'un des titres les plus influents et célèbres de l'histoire du jeu vidéo. ([frwik](https://fr.wikipedia.org/wiki/Space_Invaders))
+- Le jeu n'autorise qu'un tir à la fois et permet d'annuler ceux des ennemis en tirant dessus. (^)
+- C'est le premier jeu à offrir un entracte au joueur dans son _gameplay_ et à utiliser le concept du _scoring_, qui consiste à enregistrer les meilleurs scores grâce à un système de sauvegarde intégré. (^)
+- La vitesse et la musique s'accélèrent au fur et à mesure que le nombre d'aliens diminue. L'élimination totale de ces derniers amène une nouvelle vague ennemie plus difficile, et ce indéfiniment. Le jeu ne se termine que lorsque le joueur perd, ce qui en fait le premier jeu sans fin. (^)
+- Aller dans « Modifier la liste de suivi » pour attribuer des étiquettes aux pages suivies. ([frwik](https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Liste_de_suivi))
+- J'ai profité de l'entracte pour aller aux toilettes. ([wr](https://www.wordreference.com/fren/entracte))
+
+§ 2026-04-04
+- manteau, veste (c'est un terme générique, pas comme en anglais), anorak, doudoune, parka, veste softshell, veste hardshell, veste à capuche, sweat à capuche, imperméable / imper, bomber
+
+§ 2026-04-05
+- signal sinusoïdal, onde sinusoïdale, ondes sonores
+- allez tout droit jusqu'au prochain carrefour et tournez à gauche au feu de signalisation. traversez la rue, puis tournez à droite (bl BV1dBm5YFE63/?p=80)
+- vous pouvez prendre un bus à l'arrêt près de cette boutique en face. mais il ne passe que toutes les 40 minutes, vous y arriverez plus vite à pied. (^)
+- d'accord. merci beaucoup pour votre aide. c'est très aimable à vous. (^)
+
+§ 2026-04-06
+- L'opération est un échec complet et signe les prémices d'une grave et profonde dissension entre la présidence et les services secrets américains. ([frwik](https://fr.wikipedia.org/wiki/D%C3%A9barquement_de_la_baie_des_Cochons))
+- Entre-temps, arrivée en face de Playa Larga, la brigade anti-castriste prépare son débarquement. À 23 h, cinq hommes-grenouilles dont des agents de la CIA qui ont tenu à accompagner les anti-castristes (malgré les ordres leur interdisant de le faire), débarquent du cargo Blagar pour gagner la plage et guider les premières barges de débarquement. (^)
+- Le lendemain, le 17 avril vers 1 h 15, la brigade 2506 débarque en deux endroits, à Playa Larga et Playa Girón, c'est-à-dire au fond et à l'entrée orientale de la baie des Cochons, à 202 km au sud-est de La Havane et à 25 km l'une de l'autre. Un troisième débarquement, prévu dans l'anse de la Caleta Buena (entre les deux plages), ne peut avoir lieu. (^)
+- Nous étions fin prêts à Trinidad. Nous y avions posté des hommes, ainsi que de l'artillerie lourde. Si le débarquement avait eu lieu dans cette ville, il y aurait eu un bain de sang… En revanche, nous n'étions pas prêts à Playa Giron. Ce choix n'était pas mauvais du tout. Le plan stratégique était impeccable, l'armement impeccable, l'utilisation des parachutistes aussi. S'ils avaient réussi à prendre les routes menant à la plage… (^)
+- Des hommes grenouilles draguent le fond de cet étang. ([wr](https://www.wordreference.com/fren/homme-grenouille))
+- Draguer les mines en pleine mer est dangereux. ([wr](https://www.wordreference.com/fren/draguent))
+- La reddition de l'armée allemande eut lieu le 8 mai 1945. ([wr](https://www.wordreference.com/fren/reddition))
+
+§ 2026-04-07
+- récursif
+- de manière récursive dans tous les sous-dossiers
+- y compris dans les sous-dossiers
 
 {% include fin.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-03-21 18:57
+modified_date: 2026-04-04 10:16
 categories: flou
 lang: fr
 ---
@@ -112,6 +112,9 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [soft] 0ed.js éditeur multi client mais presque pas de dépendances
 - [jeu] euro truck sim école navigateur
 - [old] [jeu] esail navigateur
+  + voilu
+  + « inspired by but not affiliated with esail, sailwind, sailaway, a painted ocean, marineverse »
+  + https://itch.io/games/tag-sailing
 
 § 2026-01-30
 - [soft] wincompose qui marche sous win98
@@ -235,5 +238,37 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-03-21
 - [soft] bmp : mpv win98
+
+§ 2026-03-28
+- [soft] ARCS pour ancien iOS
+- est-ce que c'est toujours possible de programmer des applications iOS en C ? et alors est-ce que c'est possible pour une base de code unique de cibler à la fois iOS et Linux/Windows ?
+
+§ 2026-03-29
+- the only thing worse than the hell we created is the hell we were trying to prevent
+
+§ 2026-03-30
+- [jeu] godurabi / hamurabi.gd
+- [jeu] GTAscii
+  + ça existe déjà https://github.com/NikkiKoole/gtascii
+- [jeu] redesign parliament
+
+§ 2026-03-31
+- [jeu] slimy.gd a thousand slimy slimy things en 3d
+- [site] générateur doentry
+
+§ 2026-04-02
+- [old] [jeu] takeshi and hiroshi zombie escape
+- [old] [jeu] dragot (dragondrop)
+- [jeu] gorts (forts)
+
+§ 2026-04-03
+- [jeu] space invaders avec ennemis générés comme github.com/aikoncwd/sprite-generator
+- [jeu] jeux de tutos mais sans ressources statiques (tout généré dans le code)
+
+§ 2026-04-04
+- [jeu] cs
+- [jeu] xplane
+- [jeu] city car driving
+- [jeu] kovaaks
 
 {% include fin.html %}

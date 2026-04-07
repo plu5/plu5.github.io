@@ -2,7 +2,7 @@
 layout: post
 title: 5 — braille.el spring cleaning
 date: 2026-02-17 18:47
-modified_date: 2026-02-20 18:32
+modified_date: 2026-03-27 06:55
 categories: braille.el dotfiles site
 lang: en
 redirect_from: /devlog/5
@@ -374,7 +374,7 @@ It's like ASCII code blocks which I explicitly don't wordwrap in order for ASCII
 ```
 
 and in the CSS I'm targetting pre, so it shouldn't be affecting inline code:
-```html
+```css
 /* Don't wrap plaintext (to avoid breaking ascii art) */
 .language-plaintext pre {
   white-space: pre;
@@ -383,7 +383,7 @@ and in the CSS I'm targetting pre, so it shouldn't be affecting inline code:
 ```
 
 I guess I will just add:
-```html
+```css
 /* Do wrap inline code (like stuff between single grave) */
 code.language-plaintext {
   white-space: pre-wrap;
@@ -392,5 +392,16 @@ code.language-plaintext {
 }
 ```
 though it breaks in the middle of camel-cased words unintelligently but I guess it's better than overflow? :-/
+
+2026-03-27 (over a month later) update: changed it to:
+```css
+/* Do wrap inline code (like stuff between single grave) */
+code.language-plaintext {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+```
+and put overflow-wrap and word-break on body too, to avoid overflow in normal text too in the case of things like paths, hashes, or long URLs. It seems to now avoid breaking in the middle of words unless it has to to avoid overflow.
 
 {% include fin.html %}

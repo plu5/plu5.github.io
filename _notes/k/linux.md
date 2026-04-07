@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-03-24 04:09
+modified_date: 2026-04-07 10:37
 categories: os
 lang: fr
 ---
@@ -21,6 +21,7 @@ lang: fr
 - `file monfichier` : le type d'un fichier
   + `--mime-type` (ex. `text/plain`)
   + `--mime-encoding` (ex. `utf-8`)
+- `find | wc -l` : nombre de fichiers dans le dossier actuel (récursif)
 - Trouver un processus
   + `pgrep -x monprocessus` : pid d'un processus par nom exact
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)
@@ -299,8 +300,14 @@ sudo ln -s /media/Windows/Users/pm/dev/reps/plu5.github.io ~/OneDrive/backups/re
 
 {% include note.html content='
 > [!NOTE]
-> De mettre un dépôt git dans onedrive peut être aussi problématique, [j\'ai eu des problèmes](/devlog/4-bad-head) avec la disparition/renommage des objets git, ce qui « corrompre » le dépôt. Donner la priorité aux fichiers locaux avec l\'option `local_first` résout ce problème.
+> De mettre un dépôt git dans onedrive peut être aussi problématique, [j\'ai eu des problèmes](/devlog/4-bad-head) avec la disparition/renommage des objets git, ce qui « corrompre » le dépôt. Donner la priorité aux fichiers locaux avec l\'option `local_first` pourrait aider.
 ' %}
+
+#### Se connecter au réseau hotspot du téléphone
+1. `systemctl start usbmuxd`
+2. Connecter le téléphone
+3. Déverrouiller le téléphone et 'Trust This Computer'
+4. Le réseau est considéré comme filaire (wired) et prioritaire sur le wifi
 
 ### bspwm
 #### La position d'une fenêtre

@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-03-19 22:40
+modified_date: 2026-03-26 17:00
 categories:
 lang: en
 ---
@@ -712,6 +712,7 @@ Morrissey standing in as Shadow LotH for the fourth time, but her first time goi
 
 Morrissey in her usual style of just asking for debates, which is apparently what you're meant to do. She did ask for one assurance as well (Q1), but an assurance of what? a debate. I remember erskinematt saying this is the only thing actually in the remit of the LotH.
 
+## 2026-03
 ### 2026-03-05
 before bmqs hoyle read a letter from a departing clerk [tom goldsmith]
 "you're the best jazz pianist i know that costs us nothing"
@@ -1089,5 +1090,135 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: N/A; no ques
 I like the slight breaking of the fourth wall, at the end of what appears to be a question where you would normally ask for a debate (if you stick to the rules of BMQs), saying instead he does not want a debate.
 
 Or: Shadow LotH doesn't ask any questions, doesn't want a debate, tries to convince the LotH to convince the PM to change policy. LotH responds by saying the speech was an admirable case for the opposite.
+
+### 2026-03-26
+general debate on the modernisation committee first report on hoc accessibility and the house administration response
+
+state opening of parliament on wed 13 may
+
+"as is usual, the current session of parliament will be prorogued ahead of the king's speech, and this time will be used to enable logistical and security preparations for the state opening of parliament. the likely date of prorogation will be confirmed in due course."
+
+lamont
+- echoing remarks for former colleague david winnock[?], pay my respects to him
+- we must all condemn antisemitic arson attack in golders green on monday
+- Q : today is purple day, intl day of epilepsy awareness. can i ask the leader to join me to [..] charities
+  + Today is Purple Day, the international day of epilepsy awareness. It is an important opportunity to raise understanding of a condition affecting many people across the United Kingdom. Can I ask the Leader to join me in recognising the work of charities, campaigners, and clinicians who support people with this condition?
+- remember [someone] age 19 talented wrestler and all those executed by the iranian government
+  + Can we also take a moment to remember Saleh Mohammadi, aged 19, a talented wrestler, and to all those executed by the Iranian government? Their courage must not be forgotten.
+- every member of this house should stand in solidarity with the people of iran in their pursuit of freedom, justice and dignity
+- govt must clarify what it is doing to control inflation and pressures on household budgets
+  + We all want the see the conflict in the Middle East brought to an end as quickly as possible, but with rising oil prices, the Government must clarify what it is doing to control inflation and pressures on household budgets. The Labour party promised before the general election to cut energy bills by 300 pounds, so can I ask the Leader if that promise still stands?
+- Q : promised to cut energy bills by x pounds, can i ask the leader if that promise still stands
+- Q : when does the leader expect the chancellor to come forward with her next inevitable u turn on fuel duty ?
+- Q : with less than 50 days to go until much of the country goes to the polls, the former deputy prime minister, the former deputy leader of the labour party (rayner) is giving a damning assessment of the government and prime minister. she said labour is running out of time, that it is not delivering change fast enough, and represents the establishment, not working people. she also described as some of the labour government policies as unbritish. so does the leader agree with that assessment, or is the right hon. member for ashton under lyme wrong?
+- Q: mr speaker, there are of course also critical scottish parliament elections. the smart way to stop the snp majority is to vote scottish conservatives on the peach ballot paper [govt members laugh]. the snp are distracted by independence and divisive issues, while people facing rising crises, weak growth, and job insecurity. john swinney and i [??] proposes another push for independence, admitting nobody knows his tactics. meanwhile the labour government is failing to deliver change. it has abandoned the oil and gas industry in scotland and broken promises to pensioners and farmers. the chancellor is driving up bills whilst increasing debt. labour's repeated u turns show a govt in chaos, and now that chaos is out in the open, with the scottish labour leader anas sarwar calling for the prime minister to go. mr sarwar and the prime minister have not spoken in over a month. so can i ask the leader of the house if the prime minister has been banned from scotland? has a man supposedly leading the united kingdom been told not to venture past carlisle or coldstream? is this how weak the prime minister has become? scotland, a place the prime minister has visited several times during the general election campaign, is now a no-go area for him. and what of the rest of the labour government? have they also been banned from labour's campaign in scotland? anas sarwar this week said, mr speaker, "i've been open about saying that this is an un popular uk labour government, and we have an unpopular prime minister. that's a statement of fact," says mr sarwar. so does the leader accept that fact? will this unpopular labour government help the labour campaign in scotland by staying away, or will they help the snp by getting involved? mr speaker the scottish conservatives offer a clear alternatives, responsible spending, economic growth, and lower taxes for hard working families. this election is about stopping an snp majority, something we have done before, and something we will do again.
+- finally, mr speaker, on tuesday the official opposition lost some of our precious debating time because the chancellor decided to make a statement. unfortunately the statement did not announce anything new, and what there was had already been briefed out to chris mason at the bbc. can i therefore ask the leader for another half-day opposition day debate before the end of the session please?
+- mr speaker, as we approach the easter recess, may i wish you, the leader of the house, and all hon. and right hon. members and the staff a very happy easter?
+
+campbell
+- can thank the deputy shadow leader for his questions? it's always good to see him in his place opposite.
+- firstly, mr speaker, can i join him in his remarks on the terrible attack in golders green? i hope the whole house, as he says, will join us in condemning the attack on the jewish community. ambulances in golders green, this was an horrific antisemitic hate crime, and we stand in solidarity with the jewish community.
+- this week also marks nine years since the murder of pc keith palmer, who died protecting this house. his courage and commitment will never be forgotten, and i know that the thoughts of the whole house remain with pc palmer's family, friends and colleagues, and we thank, mr speaker, the police and security offices who keep us and this place safe today.
+- i also join him and you, mr speaker, earlier, in paying tribute to david winnock. with a distinguished more than 40-year tenure, he was unwavering in his commitment to his constituency, and i am sure members of the house will join me in sending our condolences to david's friends and family.
+- i've just announced the king's speech and that will take place-- i announced the king's speech [humble brag]... but that it will take place on wednesday the 13th of may. and that needs conclusion. this parliamentary session will see the delivery of over 50 bills, and through this legislation we are improving renters rights, changing planning laws to streamline the delivery of new homes, we're bringing our railways into public ownership, and we are strenghtening employments rights, and we are delivering on the changes that we promised, mr speaker, and we will continue to build on this in the next parlimentary session.
+- and before i turn to the hon. gentleman's specific remarks, i join with him in wishing all members a very happy easter. i think it will be particularly special for the newly ordained archbishop of canterbury, the first woman to take the role [hear hear] and i hope that all members will be able to spend some time with families and in their constituencies during the recess.
+- let me turn to the specific remarks of the hon. gentleman. i certainly join with him in recognising the important work of the charities, consultance families, and everybody involved in the battle against epilepsy on national epilepsy day.
+- i also join with him in standing in solidarity with the people of iran. of course we hope that the conflict will end soon, but also that it ends justly. we do stand in solidarity with them.
+- he asked about the cost of living. we're already bringing down energy costs, bills, by 120 pounds, and the chancellor, i'm sure, and the energy secretary, will keep the house updated as we see how this particular crisis, international crisis, unfolds, we'll need to take careful stock of what's happening particularly to energy bills, and we will be coming back, not only to keep the house updated, but if further action is necessary we will be taking that action.
+- he refers to the remarks of my right hon. friend the former deputy prime minister, and mhclg [?] secretary. and i just read out a list of the achievements of this govt in the first session, and she was at the heart of many of those achievements, mr speaker, so i think the divide which he seeks to create in here is not actually one that exists in reality.
+- he also talks about letting people down, and he mentions pensioners. well pensioners will next month be achieving a considerable rise in their state pension as a result of the triple lock which we are committed to keeping, mr speaker, unlike the party opposite
+- and then he also talks about the situation in scotland, and i can reassure him, there'll be plently of support for our colleagues north of the border, there will be plenty of opportunities for campaigning north of the border, where the choice, mr speaker, is a very clear one indeed. it is to continue with the failure and underachievement of the snp government, or real change under scottish labour. that is the choice, and there will be plenty of opportunity for every member of this plp and indeed of the party to be out making the case for that change. and in terms of what he says about the scottish tories, it's great to see him finishing on a joke. [laughter]
+
+hoyle: can i just say to the two people who came in late, please don't stand. i don't want to embarrass you both.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/5 answered** (↓)
+
+[Happened at 11:13](https://parliamentlive.tv/event/index/c8f7eeae-9e39-4c90-8efa-f3e1eecaccfd?in=11:13:05). [Hansard](https://hansard.parliament.uk/commons/2026-03-26/debates/6D983406-5C45-40D7-AA9B-E99D3C354050/BusinessOfTheHouse).
+
+Lamont standing in for Norman for the fourth time.
+
+*(Business Questions main exchange. `Q`s by John Lamont, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
++You will notice that the language is worse, because I'm back (temporarily?) to writing it myself. Unlike Hansard, it is what was actually said; left uncorrected.+
+
+[why not write that? i don't know. i'm embarrassed i guess / don't want to call attention to it / don't want to sound like i'm pretending it's good or impressive, and i never said anything when i changed to copying from hansard, it just depended on if it was available yet when i sat down to do it]
+
+#### (1) 📜 REMARK: Epilepsy awareness
+
+> **LAMONT:** Today is Purple Day, the International Day of Epilepsy Awareness. It is an important opportunity to raise understanding of a condition affecting many people across the United Kingdom. Can I ask the Leader to join me in recognising the work of charities, campaigners, and clinicians who support people with this condition?
+
+→
+
+> **CAMPBELL:** I certainly join with him in recognising the important work of the charities, consultants, families, and everybody involved in the battle against epilepsy on National Epilepsy Day.
+
+I don't know which one of them is wrong, if it's national or international. When I look it up, it's supposed to be in February.
+
+#### (2) 📜 REMARK: Solidarity with Iranians
+
+> **LAMONT:** Can we also take a moment to remember Saleh Mohammadi, aged 19, a talented wrestler, and to all those executed by the Iranian government? Their courage must not be forgotten. Every member of this House should stand in solidarity with the people of Iran in their pursuit of freedom, justice and dignity.
+
+→
+
+> **CAMPBELL:** I also join with him in standing in solidarity with the people of Iran. Of course we hope that the conflict will end soon, but also that it ends justly. We do stand in solidarity with them.
+
+#### (3) ✔️ Q1: Does the pre-election promise to cut energy bills by 300 pounds stand? → We're bringing them down and reassessing as the situation unfolds
+
+> **LAMONT:** We all want the see the conflict in the Middle East brought to an end as quickly as possible, but with rising oil prices, the Government must clarify what it is doing to control inflation and pressures on household budgets. The Labour party promised before the general election to cut energy bills by 300 pounds, so can I ask the Leader if that promise still stands?
+
+→
+
+> **CAMPBELL:** We're already bringing down energy costs, bills, by 120 pounds, and the Chancellor, I'm sure, and the Energy Secretary, will keep the House updated as we see how this particular crisis, international crisis, unfolds. We'll need to take careful stock of what's happening particularly to energy bills, and we will be coming back, not only to keep the House updated, but if further action is necessary we will be taking that action.
+
+#### (4) ❌ Q2: When does he expect a u-turn on fuel duty?
+
+> **LAMONT:** When does the Leader expect the Chancellor to come forward with her next inevitable u-turn on fuel duty?
+
+#### (5) ✔️ Q3: Is Rayner's assessment of the Government correct? → The divide he seeks to create does not exist
+
+> **LAMONT:** With less than 50 days to go until much of the country goes to the polls, the former Deputy Prime Minister, the former Deputy Leader of the Labour party (Rayner) is giving a damning assessment of the Government and Prime Minister. She said Labour is running out of time, that it is not delivering change fast enough, and represents the establishment, not working people. She also described as some of the Labour Government policies as unbritish. So does the Leader agree with that assessment, or is the right hon. member for Ashton-under-Lyne wrong?
+
+→
+
+> **CAMPBELL:** He refers to the remarks of my right hon. Friend the former Deputy Prime Minister and MHCLG Secretary. And I just read out a list of the achievements of this Government in the first session [*see ∗ ∗ ∗ section below*], and she was at the heart of many of those achievements, Mr Speaker, so I think the divide which he seeks to create in here is not actually one that exists in reality.
+
+#### (6) ✔️ Q4: Has the Prime Minister been banned from Scotland? → No
+
+> **LAMONT:** Mr Speaker, there are of course also critical Scottish Parliament elections. The smart way to stop the SNP majority is to vote Scottish Conservatives on the peach ballot paper [*govt members laugh*]. The SNP are distracted by independence and divisive issues, while people facing rising crises, weak growth, and job insecurity. John Swinney proposes another push for independence, admitting nobody knows his tactics. Meanwhile the Labour Government is failing to deliver change. It has abandoned the oil and gas industry in Scotland and broken promises to pensioners and farmers. The Chancellor is driving up bills whilst increasing debt. Labour's repeated u-turns show a government in chaos, and now that chaos is out in the open, with the Scottish Labour Leader Anas Sarwar calling for the Prime Minister to go.
+
+> Mr Sarwar and the Prime Minister have not spoken in over a month. So can I ask the Leader of the House if the Prime Minister has been banned from Scotland? Has a man supposedly leading the United Kingdom been told not to venture past Carlisle or Coldstream? Is this how weak the Prime Minister has become? Scotland, a place the Prime Minister has visited several times during the general election campaign, is now a no-go area for him. And what of the rest of the Labour Government? Have they also been banned from Labour's campaign in Scotland?
+
+> Anas Sarwar this week said, Mr Speaker, "I've been open about saying that this is an unpopular UK Labour Government, and we have an unpopular Prime Minister. That's a statement of fact," says Mr Sarwar. So does the Leader accept that fact? Will this unpopular Labour Government help the Labour campaign in Scotland by staying away, or will they help the SNP by getting involved?
+
+> The Scottish Conservatives offer a clear alternative, responsible spending, economic growth, and lower taxes for hard working families. This election is about stopping an SNP majority, something we have done before, and something we will do again.
+
+→
+
+> **CAMPBELL:** He also talks about letting people down, and he mentions pensioners. Well, pensioners will next month be achieving a considerable rise in their state pension as a result of the triple lock which we are committed to keeping, Mr Speaker, unlike the party opposite.
+
+> And then he also talks about the situation in Scotland, and I can reassure him, there'll be plenty of support for our colleagues north of the border, there will be plenty of opportunities for campaigning north of the border, where the choice, Mr Speaker, is a very clear one indeed. It is to continue with the failure and underachievement of the SNP government, or real change under Scottish Labour. That is the choice, and there will be plenty of opportunity for every member of this PLP and indeed of the party to be out making the case for that change.
+
+> And in terms of what he says about the Scottish Tories, it's great to see him finishing on a joke.
+
+#### (7) ❌ Q5: Can he give the opposition back the time lost due to the Chancellor statement?
+
+> **LAMONT:** Finally, Mr Speaker, on Tuesday the official opposition lost some of our precious debating time because the Chancellor decided to make a statement. Unfortunately the statement did not announce anything new, and what there was had already been briefed out to Chris Mason at the BBC. Can I therefore ask the Leader for another half-day opposition day debate before the end of the session please?
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** I can also announce to the House that the state opening of Parliament will take place on Wednesday the 13th of May, 2026. As is usual, the current session of Parliament will be prorogued ahead of the King's Speech, and this time will be used to enable logistical and security preparations for the state opening of Parliament. The likely date of prorogation will be confirmed in due course. [..]
+
+> I've just announced the King's Speech and that will take place— I announced the King's Speech [*humble brag*]... but that it will take place on Wednesday the 13th of May. and that needs conclusion. This parliamentary session will see the delivery of over 50 Bills, and through this legislation we are improving renters rights, changing planning laws to streamline the delivery of new homes, we're bringing our railways into public ownership, and we are strengthening employments rights, and we are delivering on the changes that we promised, Mr Speaker, and we will continue to build on this in the next parliamentary session.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+recess until the 13th (apr)
 
 {% include fin.html %}

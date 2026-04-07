@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-03-22 22:01
+modified_date: 2026-04-04 03:15
 categories: list
 lang: fr
 ---
@@ -16,6 +16,26 @@ Notes sur ce que je lis/écoute/regarde
 - Johannes Torrentius : « Le roi Charles Ier d'Angleterre qui admirait ses œuvres intervint en sa faveur et obtint sa relaxe après deux années de prison. Torrentius resta 12 ans en Angleterre comme peintre de la Cour (mais où il peignit très peu), puis en 1642 retourna clandestinement à Amsterdam, où il mourut deux ans plus tard dans la misère. »
 - Johannes Torrentius : un seul de ses tableaux a « survécu par miracle après la destruction de toute sa production hollandaise sur ordre de la justice après sa condamnation pour hérésie et immoralité »
 - Simon Leys : « conflict with a man who made something like Orwell’s transition from left to right and like him died too soon » ??
+
+§ 2026-03-28
+- [jeu] Empire (jeu vidéo, 1977) : ça a l'air très similaire à civ
+  + [film] « Pour le concevoir, il s'inspire notamment du jeu de plateau Risk et d'une scène du film La Bataille d'Angleterre (1968) dans laquelle l'état-major britannique entour une grande table sur laquelle est peinte une carte. »
+  + « Au lycée, il apprend à programmer en BASIC. Il découvre alors le jeu vidéo Hamurabi dans le livre BASIC Computer Games et commence à le modifier. » ha, ça encore, j'en ai entendu parler, cf [cet article génial [en]](https://www.jeffquast.com/post/hamurabi_bas/) par Jeff Quast.
+  + « Il décide donc d'apprendre le FORTRAN, un langage plus adapté au PDP-10, et développe Empire en parallèle de cet apprentissage. Il est pour cela aider par Mark Stroberg, Shal Farley et Dave Rolfe qui l'aide à apprendre à programmer en FORTRAN. »
+  + les premiers ordinateurs personnels pas assez puissants pour faire tourner le jeu
+  + « il achète un ordinateur Heathkit H11 sur lequel il porte Empire » et l'annonce « dans le magazine Byte en avril 1983 mais n’en vend que deux copies ». il reprogramme le jeu en C [sur les premiers IBM PC auxquels il a accès grâce à son travail] et l'annonce dans le même magazine, et cette fois ça prend
+- D (langage) : « il est présenté comme le successeur du C, d'où son nom (le langage C lui-même succédait au langage B, qui quant à lui ne dérive pas d'un quelconque langage A, mais du BCPL). » je ne le savais pas
+- B (langage) : « D'après Ken Thompson, le B a été grandement influencé par BCPL, mais le nom B lui-même n'a rien à voir : c'était une évolution d'un ancien langage, Bon, du nom de l'épouse de Ken Thompson, prénommée Bonnie. »
+- BCPL : « La notation hongroise a été développée pour aider les programmeurs à éviter les fautes de type endémiques en BCPL. »
+- BCPL : « Le premier MUD fut aussi écrit en BCPL. »
+
+§ 2026-04-01
+- Rouhollah Khomeini : « il ne comprenait certainement pas ce que voulait dire la République au sens moderne mais en revanche, […] dans ses oreilles sonnait immédiatement La République de Platon, les textes qu'il enseignait pendant toute sa vie »
+
+§ 2026-04-03
+- [jeu] Space Invaders : « Plusieurs modes de jeu font leurs apparitions et intègrent de nouveaux éléments au concept original. Par exemple, dans _Space Invaders Extreme_, sorti sur Nintendo DS et PlayStation Portable en 2008, le _gameplay_ innove en proposant une expérience synesthésique basé sur les couleurs et le son. Sur la plate-forme de téléchargement de la Wii, le WiiWare, un spin-off intitulé _Space Invaders Get Even_ permet au joueur de contrôler les aliens au lieu du canon laser. »
+  + « _Space Invaders_ et ses différentes suites sont inclus dans plusieurs compilations de jeux vidéo. Commercialisé en 2003 à l'occasion du 25e anniversaire de la série, _Space Invaders Anniversary_ est une borne d'arcade qui propose les neuf versions de _Space Invaders_ parues jusqu'ici en arcade, à la fois dans leur version originale et dans une version spéciale avec des effets graphiques inédits. Ce jeu est commercialisé sur PlayStation 2 et s'écoule à plus de 100 000 exemplaires au Japon. En 2005, un titre similaire intitulé _Space Invaders Pocket_ paraît sur la PlayStation Portable au Japon. _Space Invaders_, _Space Invaders Part II_ et _Return of the Invaders_ sont compris dans le titre _Taito Legends_, une compilation regroupant les grands classiques des jeux d'arcade réalisés par Taito. Ce dernier est sorti en 2005 sur PlayStation 2, Xbox et Microsoft Windows. _Space Invaders DX_ et _Space Invaders '95_ sont inclus dans _Taito Legends 2_, un jeu sorti en 2006 et correspondant à la suite de la compilation _Taito Legends_. »
+  + « En 2008, en l'honneur du trentième anniversaire du jeu, Taito produit un album intitulé _Space Invaders 2008_. Il est publié par Avex Trax et propose des musiques inspirées par le jeu. »
 
 ## [en] Dylan Abernethy
 ..
@@ -257,5 +277,13 @@ Notes sur ce que je lis/écoute/regarde
   + « Goormaghtigh suivra à Hong Kong des cours de chinois aussi accélérés que possible »
   + « Entre-temps, nous faisons une enquête en Belgique pour établir, si la chose est possible, une liste de jeunes sinisants ; l’idée est d’envoyer les meilleurs de ceux-ci à Pékin ou à Hong Kong, afin de leur permettre de se perfectionner en chinois dans la mesure où le Département recevrait des assurances qu’une fois leur entraînement terminé, il y aurait des chances raisonnables qu’ils acceptent d’entrer au service de l’État. »
 - 1572 : « Parmi les « auteurs d’analyses sérieuses » apparaît, aux côtés de Jacques Guillermaz et de Klaus Mehnert, le nom de Simon Leys… » -_-
+
+## [fr] docs.godotengine.org/fr
+..
+§ 2026-03-30
+- [Création d'instances](https://docs.godotengine.org/fr/4.x/getting_started/step_by_step/instancing.html) : « Nous vous recommandons d'écarter les modèles de code architecturaux lorsque vous créez des jeux avec Godot, comme les diagrammes Modèle-Vue-Contrôleur (MVC) ou Entité-Relation. Au lieu de cela, vous pouvez commencer par imaginer les éléments que les joueurs verront dans votre jeu et structurer votre code autour d'eux. »
+- [Langages de script](https://docs.godotengine.org/fr/4.x/getting_started/step_by_step/scripting_languages.html) : « support [pour C#] grâce à un don généreux de Microsoft »
+  + « Étant donné que Godot utilise .NET 8, vous pouvez en théorie utiliser n'importe quelle bibliothèque ou framework .NET tiers dans Godot, ainsi que n'importe quel langage de programmation compatible Common Language Infrastructure, tel que F#, Boo ou ClojureCLR. »
+- (^) : « GDExtension vous permet d'écrire du code de jeu en C++ sans avoir besoin de recompiler Godot. » « Vous pouvez utiliser n'importe quelle version du langage ou mélanger les marques et les versions de compilateurs pour les bibliothèques partagées générées, grâce à notre utilisation d'un pont(bridge) API C interne. »
 
 {% include fin.html %}

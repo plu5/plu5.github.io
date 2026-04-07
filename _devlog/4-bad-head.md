@@ -2,7 +2,7 @@
 layout: post
 title: 4 — Bad head
 date: 2026-02-16 08:44
-modified_date: 2026-02-17 19:52
+modified_date: 2026-03-27 22:50
 categories: git onedrive dotfiles braille.el
 lang: en
 redirect_from: /devlog/4
@@ -54,6 +54,15 @@ Renaming these files back fixed it and the repository was back to normal. I firs
 [pm@pos plu5.github.io]$ t='.git/objects/09/8be16a9bc6de71ce453b9fd00b1b82869343be'; mv "${t}-pos-safeBackup-0001" "$t"
 [pm@pos plu5.github.io]$ t='.git/objects/d2/ec924ed3c50d2407d9918c8f5c282b26d13a91'; mv "${t}-pos-safeBackup-0001" "$t"
 ```
+
+{% include note.html content='
+> [!NOTE]
+> but from the `git fsck` output, there are other problems than just that, like the invalid reflog entries.
+>
+> A few days later the repository broke again after doing `magit-reset` to undo a commit and I ended up cloning and replacing the .git folder with the one from remote; it was too late at night to spend more time trying to fix it beyond superficial attempts that failed, but I would like to understand how this can happen and why (it can presumably happen from random bitrot, but here it doesn\'t seem like what happened).
+>
+> This also makes me think it\'s pretty dangerous to have a local git respository with no remote, and I have a few such long-running repositories that are even also on onedrive, and yet `git fsck` on them is clean.
+' %}
 
 It's either a bad idea to put a git repository in onedrive or at least one should exclude `.git`, which I was aware of but didn't want to do out of fear that related codepaths would be bugged some time in future; it is a repository maintained by just one person thanklessly, and often things break, sometimes due to Microsoft changing things on their end.
 
