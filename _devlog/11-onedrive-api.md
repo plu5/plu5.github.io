@@ -2,7 +2,7 @@
 layout: post
 title: 11 — Coercing OneDrive API
 date: 2026-03-27 16:20
-modified_date: 2026-04-07 20:48
+modified_date: 2026-04-08 06:15
 categories: microsoft api onedrive onedriveverrer
 lang: en
 redirect_from: /devlog/11
@@ -824,6 +824,7 @@ def download_folder(token, path, dest="", ver=None, dry_run=False):
     if "folder" not in entry:
         raise ValueError(f"{path} is not a folder")
     dest = dest if dest else entry["name"]
+    makedirs(dest)
     top = f'{entry["parentReference"]["path"].split(":")[1]}/{entry["name"]}'
 
     def cb(entry):
@@ -850,8 +851,19 @@ Instead of raising an exception in `find_version_before_date_in_entries` and `fi
             return
 ```
 
+## A single download function
+I am too lazy to combine the download file and folder functions, it would require some refactoring. But since the download folder function checks if it's a folder and raises `ValueError` if not, we can simply do this:
+```python
+def download(*args, **kwargs):
+    """Convenience wrapper for download_file and download_folder."""
+    try:
+        download_folder(*args, **kwargs)
+    except ValueError:
+        download_file(*args, **kwargs)
+```
+
 ## onedriveverrer
-I called my script onedriveverrer, and here it is in full (as usual, replace `CLIENTID` and `USERAGENT`):
+My script onedriveverrer combines everything we did here into a single interface, and here it is in full (as usual, replace `CLIENTID` and `USERAGENT`):
 ```python
 #!/usr/bin/env python3
 # OneDrive verrer
@@ -859,10 +871,11 @@ I called my script onedriveverrer, and here it is in full (as usual, replace `CL
 """Script to download an older version of a OneDrive file or folder.
 
 Examples:
-    onedriveverrer --list-children ''
-    onedriveverrer --download-file '/test.txt'  # current version
-    onedriveverrer --download-file '/test.txt' 2026-03-01 ~/test.txt
-    onedriveverrer --download-folder '/test' 2026-03-01 ~/test
+    onedriveverrer ls                  # ls root children
+    onedriveverrer ls -r /test         # ls descendants of /test
+    onedriveverrer download /test.txt  # download current version
+    # download folder /test as it was before 2026-03-01 to ~/test
+    onedriveverrer download /test --date 2026-03-01 --dest ~/test
 """
 
 import re  # re.search for extracting auth code from url, re.match versionid
@@ -879,43 +892,48 @@ from os.path import (
     getmtime)                   # tokens expiration calculation
 
 NAME = "onedriveverrer"
-DESCRIPTION = "Download an older version of a OneDrive file or folder."
-ARGS = [(["--auth"], {"action": "store_true", "help": "\
-Use our own refresh token or do an auth flow to generate one instead of using \
-the assumed existing refresh token of a OneDrive client in \
-~/.config/onedrive/refresh_token."}),
-        (["--dry-run"], {"action": "store_true", "help": "\
-With download operations, only log without downloading."}),
-        (["--dump"], {"help": "\
-Get file information object for given PATH, which should be relative to root \
-and start with a /.", "metavar": "PATH"}),
-        (["-l", "--list-children"], {"help": "\
-List files and subfolders under given PATH, which should be relative to root \
-and start with a /. Empty string will list top-level.", "metavar": "PATH"}),
-        (["-a", "--list-arborescence"], {"help": "\
-Like --list-children but recursive.", "metavar": "PATH"}),
-        (["--list-versions"], {"help": "\
-List versions of a file given its ID or PATH. PATH should be relative to \
-root and start with a /. ID should be passed in single quotes in shells like \
-Bash or it will try to interpret the ! in it.", "metavar": "(ID|PATH)"}),
-        (["--download-file"], {"nargs": "+", "help": "\
-Download a file given its ID or PATH. It will be downloaded to pwd with the \
-same name as on OneDrive unless a destination path is provided as second \
-argument DEST. A VERSIONID or DATE can be specified as the third argument to \
-download the version specified or most recent version before DATE. \
-PATH should be relative to root and start with a /. \
-DATE should be in a format supported by dateutil.parser.parse, e.g. \
-'2026-04-04 10:30'. If timezone is not provided it's assumed to be the local \
-timezone.", "metavar": "(ID|PATH) [DEST] [VERSIONID|DATE]"}),
-        (["--download-folder"], {"nargs": "+", "help": "\
-Download a folder given its PATH. It will be downloaded to pwd with the \
-same name as on OneDrive unless a destination path is provided as second \
-argument DEST. A DATE can be specified as the third argument to \
-download for each file the most recent version before DATE. \
-PATH should be relative to root and start with a /. \
-DATE should be in a format supported by dateutil.parser.parse, e.g. \
-'2026-04-04 10:30'. If timezone is not provided it's assumed to be the local \
-timezone.", "metavar": "PATH [DEST] [DATE]"})]
+COMMANDS = {
+    "":                         # TOP LEVEL ARGS
+    {"args": [(["--auth"], {"action": "store_true", "help": """
+Use our own refresh token or do an auth flow to generate one instead of using
+the assumed existing refresh token of a OneDrive client in
+~/.config/onedrive/refresh_token."""})]},
+    "ls":                       # LS
+    {"desc": "explore the tree", "usage": "[-r|--recursive] PATH", "args": [
+        (["path"], {"metavar": "PATH", "default": "", "nargs": "?", "help": """
+List files and subfolders under given PATH, which should be relative to root
+and start with a /. Empty string will list top-level."""}),
+        (["-r", "--recursive"], {"action": "store_true", "help": """
+List all descendants."""})]},
+    "dump":                     # DUMP
+    {"desc": "dump information about items",
+     "usage": "[--list-versions] (PATH|ID)", "args": [
+        (["file"], {"metavar": "(PATH|ID)", "help": """
+Get file information object for given PATH or ID.
+PATH should be relative to root and start with a /.
+ID should be passed in single quotes in shells like Bash or it will try to
+interpret the ! in it."""}),
+        (["--list-versions"], {"action": "store_true", "help": """
+List versions of the file."""})]},
+    "download":                 # DOWNLOAD
+    {"desc": "download a file or folder at any point in its preserved history",
+     "usage": "[--dest DEST] [--versionid VERSIONID] [--date DATE] \
+[--dry-run] (PATH|ID)", "args": [
+        (["file"], {"metavar": "(PATH|ID)", "help": """
+Download a file or folder given its ID or PATH.
+PATH should be relative to root and start with a /."""}),
+        (["--dest"], {"help": """
+Local path to download to. If omitted, it will be downloaded
+to pwd with the same name as on OneDrive."""}),
+        (["--versionid"], {"help": "Download version VERSIONID."}),
+        (["--date"], {"help": """
+Download the most recent version before DATE.
+DATE should be in a format supported by dateutil.parser.parse, e.g.
+'2026-04-04 10:30'. If timezone is not provided it's assumed to be the local
+timezone."""}),
+        (["--dry-run"], {"action": "store_true", "help": """
+Don't really download, only log."""}),]}
+}
 
 # Used if no --auth
 EXISTINGRTOKENPATH = expanduser("~/.config/onedrive/refresh_token")  # expand ~
@@ -1209,6 +1227,7 @@ def download_folder(token, path, dest="", ver=None, dry_run=False):
     if "folder" not in entry:
         raise ValueError(f"{path} is not a folder")
     dest = dest if dest else entry["name"]
+    makedirs(dest)
     top = f'{entry["parentReference"]["path"].split(":")[1]}/{entry["name"]}'
 
     def cb(entry):
@@ -1224,24 +1243,69 @@ def download_folder(token, path, dest="", ver=None, dry_run=False):
     list_children(token, path, True, callback=cb)
 
 
+def download(*args, **kwargs):
+    """Convenience wrapper for download_file and download_folder."""
+    try:
+        download_folder(*args, **kwargs)
+    except ValueError:
+        download_file(*args, **kwargs)
+
+
+def cmd_ls(args, token):
+    """ls command handler."""
+    list_children(token, args.path, args.recursive)
+
+
+def cmd_dump(args, token):
+    """dump command handler."""
+    if args.list_versions:
+        list_versions(token, args.file)
+    else:
+        print(get_file_info(token, args.file))
+
+
+def cmd_download(args, token):
+    """download command handler."""
+    ver = args.versionid or args.date
+    download(token, args.file, args.dest, ver, dry_run=args.dry_run)
+
+
+COMMANDS['ls']['func'] = cmd_ls
+COMMANDS['dump']['func'] = cmd_dump
+COMMANDS['download']['func'] = cmd_download
+
+
 def parse_args():
     """CLI."""
-    parser = argparse.ArgumentParser(
-        prog=NAME,
-        description=DESCRIPTION)
+    parser = argparse.ArgumentParser(prog=NAME)
     parser.suggest_on_error = True
-    for args, kwargs in ARGS:
-        parser.add_argument(*args, **kwargs)
-    # parse args / print help and quit if no args
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    descs = []
+    for k, v in COMMANDS.items():
+        if v.get('desc'):       # description generation
+            descs.append(f"{v['desc']} ({k})")
+        if k == "":             # arguments on top parser
+            for args, kwargs in v['args']:
+                parser.add_argument(*args, **kwargs)
+            continue
+        subparser = subparsers.add_parser(
+            k, help=f"[-h|--help] {v.get('usage')}")
+        for args, kwargs in v['args']:
+            subparser.add_argument(*args, **kwargs)
+        # Set handler
+        subparser.set_defaults(func=v.get('func'))
+    # Add generated description
+    if len(descs):
+        descs[-1] = f"or {descs[-1]}."
+    parser.description = f"OneDrive utility to {', '.join(descs)}"
+    # Parse args / print help and quit if no args
     # (Primer https://stackoverflow.com/a/47440202/18396947)
     return parser.parse_args(sys.argv[1:] or ['--help'])
 
 
-if __name__ == "__main__":
-    args = parse_args()
-
+def get_token():
+    """Get a OneDrive access token."""
     tokens = get_tokens(OWNTOKENSPATH, args.auth)
-    accesstoken = refreshtoken = None
     if not tokens:
         if args.auth:
             print(f"{NAME}: This should be unreachable, because when --auth "
@@ -1260,52 +1324,41 @@ if __name__ == "__main__":
             # this refresh token is also too old
             tokens = fetch_tokens(tokens["refresh_token"])
             save_tokens(tokens, OWNTOKENSPATH)
-    refreshtoken = tokens['refresh_token']
-    token = tokens['access_token']
+    return tokens['access_token']
 
-    dry_run = args.dry_run
-    if args.dump is not None:
-        print(get_file_info(token, args.dump))
-    if args.list_children is not None:
-        list_children(token, args.list_children)
-    if args.list_arborescence is not None:
-        list_children(token, args.list_arborescence, True)
-    if args.list_versions is not None:
-        list_versions(token, args.list_versions)
-    if args.download_file is not None:
-        download_file(token, *args.download_file, dry_run=dry_run)
-    if args.download_folder is not None:
-        download_folder(token, *args.download_folder, dry_run=dry_run)
+
+if __name__ == "__main__":
+    args = parse_args()
+    args.func(args, get_token())
 ```
 
 [version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/onedriveverrer)
 (and there the client ID and user agent are not excerpted so it should work as is. don't abuse pls)
 
+Usage:
+```sh
+# List children
+onedriveverrer ls     # list children in root
+onedriveverrer ls -r  # list children recursive
+onedriveverrer ls "/Documents"  # paths require a leading /
+# Dump information
+oendriveverrer dump "/Documents/file.txt"
+oendriveverrer dump --list-versions "/Documents/file.txt"
+oendriveverrer dump "/Documents"  # but can't --list-versions for a folder
+                                  # because they don't really have versions
+# Download file/folder
+onedriveverrer download "/Documents/file.txt"  # latest version
+# ↓ will download to file.txt under pwd
+onedriveverrer download "/Documents/file.txt" --date "2026-02-22"
+# ↓ will download to ~/test.txt
+onedriveverrer download "/Documents/file.txt" --date "2026-02-22" --dest "~/test.txt"
+onedriveverrer download "/Documents" --date "2026-02-22" --dest "~/dest"
+```
+
 To maybe do:
 - Add rate limit / throttling (429) handling (not encountered it but I am not checking the return headers currently and I perhaps should)
-- More normal CLI interface, it's currently a bit eccentric
-  ```sh
-  # Current interface:
-  # List children
-  onedriveverrer -l "/path"
-  onedriveverrer --list-children "/path"
-  # List children recursive
-  onedriveverrer --a "/path"
-  onedriveverrer --list-arborescence "/path"
-  # Download file/folder           (PATH DEST DATE) (dest and date optional)
-  onedriveverrer --download-file "/path"
-  onedriveverrer --download-file "/path" "~/here"
-  onedriveverrer --download-file "/path" "" "2026-02-22"
-  onedriveverrer --download-folder "/path" "" "2026-02-22"
-  
-  # More standard would be something like:
-  onedriveverrer ls     # list children in root
-  onedriveverrer ls -r  # list children recursive
-  onedriveverrer download "/path" --dest "~/dest" --date "2026-02-22"
-  # and this will allow to download a version from a date for example without
-  # having to specify dest (not even as an empty string)
-  onedriveverrer download "/path" --date "2026-02-22"
-  ```
+- Warning if user didn't start a path with /
+- Get my own app registration somehow so that it could actually be a proper thing and serve others :-(
 
 [merge.dev]: https://www.merge.dev/blog/onedrive-api-python
 [skilion]: https://github.com/skilion/onedrive/
