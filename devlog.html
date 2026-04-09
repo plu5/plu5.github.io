@@ -1,0 +1,31 @@
+---
+layout: default
+title: Devlog
+---
+
+<a href='/'>←⌂</a>
+<hr>
+
+<div id="hack">
+  <div><pre><code><!--
+-->  ________  _______   ___      ___
+ |\   ___ \|\   ___\ |\  \    /  /|
+ \ \  \ |\ \ \  \___.\ \  \  /  / /
+  \ \  \ \\ \ \   ___\\ \  \/  / /
+   \ \  \_\\ \ \  \___.\ \    / / log
+    \ \_______\ \______\\ \__/ /
+     \|_______|\|_______|\|__|/</code></pre></div>
+
+  <ul class="posts">
+    {% for post_ in site.devlog reversed %}
+    <li>
+      <small>{{ post_.date | date_to_string }}</small>
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
+      {% if post_.wip == true %}(WIP){% endif %}<br>
+      {% include cats-container.html post=post_ %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% include fin.html %}
