@@ -1,0 +1,52 @@
+<div id="comments">
+  <!-- Element where the comments will appear. -->
+  {% if page.lang == 'fr' %}
+  <p><i>Discussion liée</i></p>
+  {% else %}
+  <p><i>Linked discussion</i></p>
+  {% endif %}
+</div>
+
+{% assign category = "Comments" %}
+{% assign categoryid = "DIC_kwDOHMN3_c4C6Y0i" %}
+{% if page.lang == 'fr' %}
+  {% assign category = "Commentaires" %}
+  {% assign categoryid = "DIC_kwDOHMN3_c4C6XJh" %}
+{% endif %}
+
+<script>
+  // Courtesy of Nithin
+  // https://nithinbekal.com/posts/giscus-optimize-pageload/
+  function loadGiscusComments() {
+    var script = document.createElement('script');
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.crossOrigin = "anonymous";
+
+    script.setAttribute("data-repo", "plu5/plu5.github.io");
+    script.setAttribute("data-repo-id", "R_kgDOHMN3_Q");
+    script.setAttribute("data-category", "{{ category }}");
+    script.setAttribute("data-category-id", "{{ categoryid }}");
+    script.setAttribute("data-mapping", "pathname");
+    script.setAttribute("data-strict", "1");
+    script.setAttribute("data-reactions-enabled", "0");
+    script.setAttribute("data-emit-metadata", "0");
+    script.setAttribute("data-input-position", "bottom");
+    script.setAttribute("data-theme", "{{ site.url }}/public/css/giscus.css");
+    script.setAttribute("data-lang", "{{ page.lang }}");
+    script.setAttribute("data-loading", "lazy");
+
+    document.getElementById("comments").appendChild(script);
+  }
+
+  var scriptLoaded = false;
+  function loadCommentScriptOnce() {
+    if (!scriptLoaded) {
+      loadGiscusComments();
+      scriptLoaded = true;
+    }
+  }
+
+  setTimeout(loadCommentScriptOnce, 5000);
+  window.addEventListener("scroll", loadCommentScriptOnce);
+</script>
