@@ -6,14 +6,8 @@
   display: none;
 }
 
-#__next div, .btn {
-  font-size: 24px;                              /* older navigators */
-  font-size: 1.5rem;                            /* newer */
-  font-size: calc(1rem + 0.75vw);               /* even newer */
-  @supports (font-size: clamp(1em, 1vw, 1em)) { /* even even newer */
-    font-size: clamp(0.875rem, 1em + 0.75vw, 3rem);
-    /* I don't know if testing @supports is needed */
-  }
+#__next div {
+  zoom: 110%;
 }
 
 /*! MIT License
