@@ -3,6 +3,9 @@ layout: default
 ---
 
 <a href='/'>←⌂</a>
+{% if page.path contains '_devlog' %}
+/ <a href='/devlog'>←/devlog</a>
+{% endif %}
 <hr>
 
 <div class="post">
