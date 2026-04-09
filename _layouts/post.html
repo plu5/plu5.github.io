@@ -16,6 +16,10 @@ layout: default
   <p><b>Warning: This is an unfinished article from the graveyard of unfinished articles. It has been deemed unfit to publish as an article and may contain erroneous information or be a waste of time to read. Proceed at your own peril.</b></p>
   {% endif %}
 
+  {% if page.path contains '_devlog' and page.wip == true %}
+  <p><b>WIP - this devlog is unfinished</b></p>
+  {% endif %}
+
   {% include toc_wrapper.html %}
   {% include anchor_headings.html html=content anchorClass="anchorjs-link" beforeHeading=true h_max=2 %}
   <!-- {{ content }} -->
