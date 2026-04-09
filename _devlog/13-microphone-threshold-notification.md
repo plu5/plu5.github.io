@@ -2,13 +2,12 @@
 layout: post
 title: 13 — Microphone threshold notification
 date: 2026-04-05 12:03
-modified_date: 2026-04-07 19:57
+modified_date: 2026-04-09 21:08
 categories: dotfiles audio sounddevice numpy micnot
 lang: en
 redirect_from: /devlog/13
+wip: true
 ---
-
-WIP - this devlog is unfinished
 
 ## Microphone to detect sound level
 Living in a region under bombardments, at times of trouble there is a sound that is sufficiently loud to wake you from sleep, but somehow in the loo I hear nothing. I have been caught out enough times that I now have a certain anxiety and try to rush when I do my business!
@@ -300,7 +299,7 @@ outdata[:, 1] = my_channel_data
 
 I don't know if I should have the `channels=1` anymore. It doesn't seem to hurt anything, I'm not recording the sound and don't care about its quality or whether it's mono or stereo, I just want to be alerted when there is a bloody alert. The latency is there as a performance optimisation, it introduces a delay but keeps CPU use at just 0.1%, as before.
 
-## activating/deactivating mic and integration with togglepause
+## Activating/deactivating mic and integration with togglepause
 problem is we don't know when it is pause or play and it could lead to deactivating when we mean to activate. could do sound effects:
 - at script start have it verify first microphone is emitting some stuff to ensure it is on, and if yes do a success sound
 TODO
@@ -317,7 +316,7 @@ I called my script micnot, and here is it in full (careful running it in case th
   + Lower threshold for high pitch sounds?
   + Detect more features particular to the sound in question?
 
-*SNEEZES*  
+> *SNEEZES*  
 BEEP  
 —Thank you.
 

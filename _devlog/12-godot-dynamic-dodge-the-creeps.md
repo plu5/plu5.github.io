@@ -2,13 +2,12 @@
 layout: post
 title: 12 — Godot's Dodge the Creeps without static assets
 date: 2026-04-03 11:29
-modified_date: 2026-04-04 13:52
+modified_date: 2026-04-09 21:08
 categories: godot
 lang: en
 redirect_from: /devlog/12
+wip: true
 ---
-
-WIP - this devlog is unfinished
 
 ## Hi
 I'm interested in games without static assets, everything in code. To this end, I've had the idea to try to make [Godot's Dodge the Creeps](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps) without any static assets. Since it's going to be dynamic we could also take the opportunity to make the enemies random colours or something and allow the player to customise their character.

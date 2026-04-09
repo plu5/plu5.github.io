@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-03-26 04:27
+modified_date: 2026-04-09 12:58
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -549,6 +549,11 @@ I saw [here](https://hacktivis.me/git/dotfiles/commit/53d181cccfa27c53100aa17af5
 ```sh
 ytdl-format=30016+30232/best[height<=384]/bestaudio
 ```
+
+{% include note.html content='
+> [!NOTE]
+> It\'s unreliable, sometimes no format is found even if I add `/best/worst` as fallback [because as established, that doesn\'t work with bilibili]. I thought to get rid of `ytdl-format` in the config altogether and let mpv/ytdl select the format automatically, but even that sometimes fails. I changed it to `ytdl-format=30016+30232/best[height<=384]/30032+30232/30064+30216/30080+30280/best/worst` to fall back to every possible format (though I suppose this is not every possible combination), as ridiculous as that is it fails in less situations, but sometimes it fails too, inconsistently (trying the same video again with same settings sometimes works and other times not).
+' %}
 
 ### Volume
 Increase volume beyond what the keybinds/UI will let you:
@@ -2960,7 +2965,7 @@ Possibilities:
 
 I've been reading ytdl hook but it's also not one-to-one, like it's not using IPC it's setting properties directly so it's not going to be that easy to try to follow the exact steps, and even if I do it might not be the same.
 
-I tire of this. If I do continue with this it will have to be in another devlog (future readers, check [devlogs under the queuedmpv category](/devlog/queuedmpv)).
+I tire of this. If I do continue with this it will have to be in another devlog.
 
 [`queuedmpv` version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/queuedmpv)
 (if I ever figure this out)

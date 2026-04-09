@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-04-07 10:37
+modified_date: 2026-04-08 15:55
 categories: os
 lang: fr
 ---
@@ -73,8 +73,9 @@ lang: fr
 - (fd0 = stdin)
 - `>&1` : redirige vers stdout
 - `>&2` : redirige vers stderr
-- `.. > fichier 2>&1` : redirige stdout et stderr vers un fichier (stdout → fichier, puis stderr → stdout)
-  + `.. > /dev/null 2>&1` : utilisé quand on ne veut pas de sortie
+- `quelque_commande > fichier 2>&1` : redirige stdout et stderr vers un fichier (stdout → fichier, puis stderr → stdout)
+  + `quelque_commande > /dev/null 2>&1` : utilisé quand on ne veut pas de sortie
+  + `quelque_commande 2>&1 | tee ~/log-de-quelque-commande.txt` : utilisé pour avoir la sortie (stdout+stderr) à la fois au terminal et sauvegardé dans un fichier
 - `>&3` ou plus : custom
   + `exec 3>"$fichier"` : suit le fichier même s’il est renommé ou supprimé. après tu peux lire avec `<&3` et écrire avec `>&3`
   + `exec 3>"$fifo"` : utile pour garder une connexion persistante au fifo (ouvre le fifo, assigne le descripteur 3 à cette ouverture, et ça reste ouvert tant qu'on ne le ferme pas explicitement ou quitte le shell / sous shell)

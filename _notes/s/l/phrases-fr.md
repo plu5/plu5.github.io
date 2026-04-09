@@ -3,12 +3,12 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-04-07 10:38
+modified_date: 2026-04-09 15:51
 categories: lang
 lang: fr
 ---
 ## Approche
-Idéalement noter seulement des tournures qui vont être utiles
+Idéalement noter seulement des tournures qui vont m'être utiles
 ## 2026
 § 2026-01-01
 - ne pas se laisser déborder par les évènements
@@ -685,8 +685,8 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
   + Aucune logique en effet. cf Titre de l'Express, repris dans toutes les gazettes. _Angelina Jolie: son père a appris son opération sur Internet_ (^ archijacq)
   + Les titres sont soumis à la règle de la concision. Personne ne parle comme ça. (^ OLN)
 - Je viens d'apprendre que vous vous êtes fait opérer en janvier, et que vous avez fêté vos 80 ans en décembre. (^ Argyll)
-- Je viens d'apprendre qu'un nouveau livre de mon auteur préféré vient de paraître / de sortir. | Je viens d'entendre parler d'un nouveau livre de mon auteur préféré. (^ Cath.S.)
-- Je viens d'entendre parler de votre opération. | Je viens d'apprendre / On vient de m'apprendre (de m'informer) que vous avez subi une opération. Je viens d'être informé / mis au courant de votre opération. (^ Nicomon)
+- Je viens d'apprendre qu'un nouveau livre de mon auteur préféré vient de paraître / de sortir. \| Je viens d'entendre parler d'un nouveau livre de mon auteur préféré. (^ Cath.S.)
+- Je viens d'entendre parler de votre opération. \| Je viens d'apprendre / On vient de m'apprendre (de m'informer) que vous avez subi une opération. Je viens d'être informé / mis au courant de votre opération. (^ Nicomon)
 - Je suis désolé d'apprendre pour votre père. J'ai de très bons souvenirs de lui. ([ramaud](https://forum.wordreference.com/threads/i-am-sorry-to-hear-about-your-father.721029/))
 - C’est une blessure mineure, mais son coude nécessite une intervention chirurgicale. ([Gil](https://forum.wordreference.com/threads/he-needs-surgery.754693/))
 - Mon médecin a autorisé/validé mon opération. ([jetset](https://forum.wordreference.com/threads/clear-a-patient-for-surgery.3552971/))
@@ -719,5 +719,31 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - récursif
 - de manière récursive dans tous les sous-dossiers
 - y compris dans les sous-dossiers
+
+§ 2026-04-08
+- je suis heureux que nous nous soyons trouvés/rencontrés (bl BV1PTwbeUEue?p=59-71)
+- indexation à partir de zéro/un, numérotation à partir de 0/1
+- Elle mourut et alla au paradis. ([wr](https://www.wordreference.com/enfr/heaven))
+- Les cieux tremblèrent et la terre s'ébranla. (^)
+- Ces arguments ont ébranlé ses convictions. ([wr](https://www.wordreference.com/fren/%C3%A9branla))
+- Le séisme a ébranlé bon nombre d'immeubles. (^)
+- débrancher la prise (bl BV1PTwbeUEue?p=72)
+- renoncer à la violence (^)
+- mettre un terme définitif
+- en finir avec la vie, en finir une bonne fois pour toutes
+  + mais « en finir avec ça » peut s'utiliser dans des contextes moins dramatiques ; essayons de régler ça rapidement, essayons de s'en débarrasser
+- (essayons / tâchons) de (le finir / terminer ça)
+
+§ 2026-04-09
+- il fait frais/beau/mauvais/humide/nuageux/orageux (bl BV1dBm5YFE63?p=64)
+- il fait du vent/soleil/brouillard (^)
+- il pleut des cordes (^)
+- il tombe de la grêle (^)
+- le pouce, l'index, le majeur, l'annulaire, l'auriculaire (bl BV1dBm5YFE63?p=70)
+- il est tôt/tard/19h00/midi/minuit (bl BV1dBm5YFE63?p=94)
+- et quart / moins le quart / moins quinze (^)
+- et dix / moins dix (^)
+- prendre le goûter
+- Activation réussie ! Le code de votre produit a bien été activé. Le ou les produits listés ci-dessous sont désormais associés de façon permanente à votre compte Steam. Vous devez vous connecter à ce compte pour accéder aux articles que vous venez d'activer sur Steam. (Boutons : Activer d'autres codes / OK) ([steam](https://store.steampowered.com/account/registerkey))
 
 {% include fin.html %}

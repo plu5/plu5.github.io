@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-04-04 10:16
+modified_date: 2026-04-08 17:03
 categories: flou
 lang: fr
 ---
@@ -270,5 +270,17 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [jeu] xplane
 - [jeu] city car driving
 - [jeu] kovaaks
+
+§ 2026-04-08
+- [old] [jeu] electionop
+  + high scores
+  + case à cocher "touch controls" sur l'écran principal pour les afficher pour qu'on puisse jouer sur téléphone
+- [old] [soft] queuedmpv en C avec support Windows
+  + qumpv
+  + éventuellement mode gaplessmpv aussi
+  + mode CLI ou GUI
+  + création intéractive de listes, un peu comme [archusXIV/mpv-playlists-manager](https://github.com/archusXIV/mpv-playlists-manager)
+  + historique des vidéos visionnées, où on a aussi la possibilité d'ajouter des vidéos aux listes / favoris
+  + test pour chaque codepath dès le début
 
 {% include fin.html %}
