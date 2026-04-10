@@ -2,12 +2,13 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-04-08 15:55
+modified_date: 2026-04-10 11:42
 categories: os
 lang: fr
 ---
 
 ## Basique mais j'oublie
+- `~` ne s'expanse pas entre guillemets. utilise `$HOME` à la place.
 - `pwd` : chemin actuel
 - `time` : avant une commande pour mesurer son temps d'exécution
   + `-v` pour plus d'informations
@@ -25,7 +26,7 @@ lang: fr
 - Trouver un processus
   + `pgrep -x monprocessus` : pid d'un processus par nom exact
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)
-    <br>les crochets autour de la première caractère permettent d'éviter de trouver le processus du grep aussi.
+    <br>les crochets autour de la première caractère permettent d'éviter de trouver le processus du grep aussi (puisque dans le processus grep il va y avoir `[m]onprocessus` qui ne correspond pas au regex).
   + `ps -eo pid,lstart,cmd`
 - `pkill [pid]` : tuer gentillement (par pid)
 - `pkill monprocessus` : tuer gentillement (par nom)

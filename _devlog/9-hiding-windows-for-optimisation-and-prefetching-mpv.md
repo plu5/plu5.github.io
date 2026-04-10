@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-04-09 12:58
+modified_date: 2026-04-09 21:40
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -552,7 +552,7 @@ ytdl-format=30016+30232/best[height<=384]/bestaudio
 
 {% include note.html content='
 > [!NOTE]
-> It\'s unreliable, sometimes no format is found even if I add `/best/worst` as fallback [because as established, that doesn\'t work with bilibili]. I thought to get rid of `ytdl-format` in the config altogether and let mpv/ytdl select the format automatically, but even that sometimes fails. I changed it to `ytdl-format=30016+30232/best[height<=384]/30032+30232/30064+30216/30080+30280/best/worst` to fall back to every possible format (though I suppose this is not every possible combination), as ridiculous as that is it fails in less situations, but sometimes it fails too, inconsistently (trying the same video again with same settings sometimes works and other times not).
+> It\'s unreliable, sometimes no format is found even if I add `/best/worst` as fallback [because as established, that doesn\'t work with bilibili]. I thought to get rid of `ytdl-format` in the config altogether and let mpv/ytdl select the format automatically, but even that sometimes fails. I changed it to `ytdl-format=30016+30232/best[height<=384]/30032+30232/30064+30216/30080+30280/best/worst` to fall back to every possible format (though I suppose this is not every possible combination), as ridiculous as that is it fails in less situations, but sometimes it fails too, inconsistently (trying the same video again with same settings sometimes works and other times not). This may be not related to the format but server issues or getting rate-limited.
 ' %}
 
 ### Volume
