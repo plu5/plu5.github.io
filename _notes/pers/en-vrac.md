@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-04-08 17:03
+modified_date: 2026-04-10 16:35
 categories: flou
 lang: fr
 ---
@@ -282,5 +282,12 @@ La plupart de ces idées sont tarées mais je n'y peux rien
   + création intéractive de listes, un peu comme [archusXIV/mpv-playlists-manager](https://github.com/archusXIV/mpv-playlists-manager)
   + historique des vidéos visionnées, où on a aussi la possibilité d'ajouter des vidéos aux listes / favoris
   + test pour chaque codepath dès le début
+
+§ 2026-04-10
+- [jeu] plague inc
+- [jeu] rebel inc
+- [jeu] ambassadeur inspiré par les "mandelson files" avec ce que j'imagine
+  + codex, assassin's creed esque
+  + tu es le nouvel ambassadeur du royaume-uni aux états-unis
 
 {% include fin.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-04-09 15:51
+modified_date: 2026-04-11 15:54
 categories: lang
 lang: fr
 ---
@@ -745,5 +745,25 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - et dix / moins dix (^)
 - prendre le goûter
 - Activation réussie ! Le code de votre produit a bien été activé. Le ou les produits listés ci-dessous sont désormais associés de façon permanente à votre compte Steam. Vous devez vous connecter à ce compte pour accéder aux articles que vous venez d'activer sur Steam. (Boutons : Activer d'autres codes / OK) ([steam](https://store.steampowered.com/account/registerkey))
+
+§ 2026-04-10
+- 0 commentaire, 0 euro, 0 faute
+  + Dans cet emploi, zéro est singulier et invariable. Mathieu a fait zéro faute dans son examen de mathématiques. ([vitrinelinguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/23642/la-grammaire/le-nom/nombre-des-noms-dans-certains-emplois/cas-particuliers-du-nombre-du-nom/singulier-et-pluriel-du-nom-zero))
+  + Jérôme a de la difficulté à se rappeler combien il y a de zéros dans un million. (^)
+- dessiner/peindre d'imagination
+- dessiner de mémoire / basé sur un souvenir
+  + Il a dessiné ce paysage de mémoire après son voyage.
+- dessin/peinture imaginatif
+- dessin/peinture inventé, sans modèle
+- il n'y a pas mort d'homme ([wr](https://forum.wordreference.com/threads/no-harm-no-foul.681436/))
+- Dans un contexte juridique, "no harm, no foul" signifie "si la partie non fautive ne subit pas de préjudice, la partie fautive ne sera pas pénalisée". (^ sidyolly)
+- pas de quoi paniquer, aucun mal à ça, pas bien méchant, rien de bien méchant, sans rancune, ça ne fait mal à personne, y'a pas de lézard, plus de peur que de mal, pas vu pas pris (^ hirondelled'hiver)
+
+§ 2026-04-11
+- quand je me serai amélioré, quand j'aurai progressé, quand mon niveau aura progressé
+- tentative de + nom.
+  + tentative d'une idée
+- tentative pour + verbe.
+  + tentative pour explorer/représenter une idée
 
 {% include fin.html %}

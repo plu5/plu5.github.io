@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-04-09 21:40
+modified_date: 2026-04-10 21:05
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -503,6 +503,11 @@ while read -r event _ desktop node; do
     esac
 done < <(bspc subscribe desktop_focus node_focus)
 ```
+
+{% include note.html content='
+> [!NOTE]
+> After left running for a long time it lags when refocusing previous node. We probably need to clear the array at some point.
+' %}
 
 [`cachage` version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/cachage)
 

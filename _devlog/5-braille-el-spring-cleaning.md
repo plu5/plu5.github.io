@@ -2,7 +2,7 @@
 layout: post
 title: 5 — braille.el spring cleaning
 date: 2026-02-17 18:47
-modified_date: 2026-03-27 06:55
+modified_date: 2026-04-11 16:29
 categories: braille.el dotfiles site
 lang: en
 redirect_from: /devlog/5
@@ -315,7 +315,7 @@ Workaround to be able to do both; have the placeholder when the user doesn't typ
 ```
 
 My usecase is a note like this:
-```
+```text
 <2026-02-15 à 2026-02-21>
 - _Dimanche_ (15):
 - _Lundi_ (16):
@@ -325,7 +325,7 @@ My usecase is a note like this:
 where for each day I call a function with the day's date, like 15-02 for Dimanche, 16-02 for Lundi, etc. So we need to be able to get the month from a previous field.
 
 The dates on the first line are set up like this in the snippet:
-```snippet
+```conf
 <${1:`(gtd-semaine-annee)`}-${2:`(gtd-semaine-mois)`}-${3:`(gtd-semaine-jour)`} à ${1:$(yas-text)}-${2:$(yas-text)}-${3:$(format "%02d" (+ 6 (string-to-number yas-text)))}>
 ```
 where the placeholder functions are taking from the function I wrote in the [previous section](#Date-n-days-after-given-date):
@@ -344,10 +344,90 @@ where the placeholder functions are taking from the function I wrote in the [pre
 ```
 
 Then each day is set up like this:
-```snippet
+```conf
 - _Dimanche_ (${3:$(+ 0 (string-to-number yas-text))}):$0${3:$(p-str-taches-predefinies-pour-date (concat (or (yas-field-value 2) (gtd-semaine-mois)) "-" (format "%02d" (+ 0 (string-to-number yas-text)))))}
 ```
 where the `+ 0` is `+ 1` for Lundi, `+ 2` for Mardi, etc.
+
+2026-04-11 (almost two months later) update: I have changed it to generate the week dynamically. This is the snippet:
+```conf
+# -*- mode: snippet -*-
+# name: gtd semaine
+# key: sem
+# condition: (looking-back "^sem")
+# comment: yas-field-value doesn't work with dynamic placeholder fields
+# --
+*** Semaine `(gtd-semaine-n)`
+<${1:`(gtd-semaine-annee)`}-${2:`(gtd-semaine-mois)`}-${3:`(gtd-semaine-jour)`} à ${1:$(yas-text)}-${2:$(yas-text)}-${3:$(format "%02d"
+(+ (gtd-days-to-end (concat (or (yas-field-value 1) (gtd-semaine-annee)) "-"
+                            (or (yas-field-value 2) (gtd-semaine-mois)) "-"
+                            (format "%02d" (string-to-number yas-text))))
+(string-to-number yas-text)))}>
+`(gtd-gen-weeklist (concat (or (yas-field-value 1) (gtd-semaine-annee)) "-"
+                           (or (yas-field-value 2) (gtd-semaine-mois)) "-"
+                           (or (yas-field-value 3) (gtd-semaine-jour))))`
+```
+Since the number of days in the week doesn't have to be 7. For example for the last week of April, I want it to be:
+```text
+<2026-04-26 à 2026-04-30>
+- _Dimanche_ (26): ✓/✓✓/✓✓✓/x
+- _Lundi_ (27): ✓/✓✓/✓✓✓/x
+- _Mardi_ (28): ✓/✓✓/✓✓✓/x
+- _Mercredi_ (29): ✓/✓✓/✓✓✓/x
+- _Jeudi_ (30): ✓/✓✓/✓✓✓/x
+```
+With rest half of the week, which is in May, separate:
+```text
+<2026-05-01 à 2026-05-02>
+- _Vendredi_ (1): ✓/✓✓/✓✓✓/x
+- _Samedi_ (2): ✓/✓✓/✓✓✓/x
+```
+
+(1) To make the daterange correct, I needed to change the regex in `gtd-semaine-date` from `"^<\\([0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}\\) "` to `"\\([0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}\\)>$"` to match the end date of the previous week instead of the start date, then `time-add` 1 day to it instead of 7. (Taking the end date of previous week and adding 1 to find the start date of week we're adding, instead of taking the start date and adding 7)
+
+(2) This snippet relies on two additional functions, `gtd-days-to-end` to find the number of days the week is going to be, and `gtd-gen-weeklist` to generate the list now that it's dynamic and can't be hardcoded.
+```elisp
+(defun gtd-days-to-end (date)
+  "Return distance in days between DATE (format YYYY-MM-DD) until end of week.
+End of week is either a Saturday or the last day of the month."
+  (let* ((date-start (decode-time (org-time-string-to-time date)))
+         (n (nth 6 date-start))
+         (distance (- 6 n))
+         (date-end (decode-time (time-add (org-time-string-to-time date)
+                                          (* distance 24 3600))))
+         (month-start (nth 4 date-start))
+         (month-end (nth 4 date-end))
+         (year-start (nth 5 date-start))
+         (last-day (calendar-last-day-of-month month-start year-start)))
+    ;; check that date-start and date-end are in the same month
+    ;; if not return the distance from last day of the month of date-start
+    (if (eq month-start month-end)
+        distance
+      (- last-day (nth 3 date-start)))))
+```
+```elisp
+(defun gtd-gen-weeklist (date)
+  "Weeklist for gtd-semaine yasnippet"
+  (let (res
+        (num-days (+ 1 (gtd-days-to-end date))))
+    (dotimes (i num-days)
+      (let* ((date-arr (decode-time (org-time-string-to-time date)))
+             (week-day (nth (+ i (nth 6 date-arr)) jours-de-la-semaine))
+             (string-day (number-to-string (+ i (nth 3 date-arr))))
+             (cur-date (concat (format "%02d" (nth 4 date-arr)) "-"
+                               (format "%02d" (+ i (nth 3 date-arr))))))
+        (setq res (concat res "- _" (capitalize week-day) "_ (" string-day "): ✓/✓✓/✓✓✓/x"
+                          (p-str-taches-predefinies-pour-date cur-date))))
+      (when (< i (- num-days 1)) (setq res (concat res "\n"))))
+    res))
+```
+
+Commit [81d66d7](https://github.com/plu5/emacsd/commit/81d66d754f2814f2b26c4733fb6ca1aa4c11e822)
+
+{% include note.html content='
+> [!NOTE]
+> Sorry for the mix of French and English, I have since decided to stop using French in code.
+' %}
 
 ## Site
 ### Devlog titles

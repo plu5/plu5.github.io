@@ -2,8 +2,8 @@
 layout: post
 title: 13 — Microphone threshold notification
 date: 2026-04-05 12:03
-modified_date: 2026-04-10 11:46
-categories: dotfiles audio sounddevice numpy micnot
+modified_date: 2026-04-11 17:06
+categories: dotfiles audio sounddevice numpy micnot giscus
 lang: en
 redirect_from: /devlog/13
 ---
@@ -368,7 +368,7 @@ with sd.Stream(channels=1, latency=.5, callback=callback):
 Maybe we should exit? But what if the rms is 0 normally? And remember this is a script for somewhat emergency usage, it could be bad if it quits at an inopportune time, we probably don't want it to die. If the user forgot the microphone is muted though I can imagine it being nicer for it to exit and they can just relaunch instead of having to scramble to quit the script (which could have been launched noninteractively so they would have to find the pid and kill it) while being spammed with the sad sound.
 
 A common option I include with my scripts is the ability to kill other instances of itself. But that's shell scripts, it's not too easy to do it portably with Python.
-- We could kill other instances on launch because we never want it running more than once
+- We could kill other instances on launch because we never want it running more than once [I actually didn't do that in the end]
 - Have an option to run with `micnot k` or `micnot kill` or `micnot killall` which will just kill without running in case user doesn't want any instances and wants to kill existing instance
 - Happy sound when started and receiving data fine
 - CLI options while we're at it (`-t` to set the threshold, `-q` suppress stdout)
@@ -747,5 +747,101 @@ if __name__ == "__main__":
 ```
 
 [version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/micnot)
+
+## Meta: Site changes
+### giscus
+I added [giscus](https://giscus.app/) which I saw used in Godot docs ([example page where it is used](https://docs.godotengine.org/en/stable/classes/class_nodepath.html)) (curiously, and sadly, it's not used on the French version). It makes less of an ordeal to do so if someone does want to say something. I am not going to make a habit of commenting on my own pages, I didn't want to do it even once but I have commented on this page on a whim and will try to not do this again, favouring adding the information to the article itself instead.
+
+To set it up, there is a series of steps to follow on [giscus.app](https://giscus.app/), to produce in the end a script with attributes based on what you chose. You do not have to use this script as is, and I don't:
+
+- I do not load it on page load so it should hopefully not negatively affect the page loading times (see [Nithin Bekal's article](https://nithinbekal.com/posts/giscus-optimize-pageload/).
+- I made two different categories, one for English and one for French comments. This means supplying the giscus script a different `data-lang`, `data-category`, and `data-category-id`, which is [done dynamically](https://github.com/plu5/plu5.github.io/blob/master/_includes/comments.html) based on the `lang` variable I use in the Jekyll front matter on each page.
+  + [It seems like](https://github.com/giscus/giscus/commit/b3160a6c8e64926cf2f1c064065ee51c48d5dce9#r102706582) he used automatic translation to do all the locales and there are some issues.
+  + [Unmerged PR with issues with the French translation](https://github.com/giscus/giscus/pull/1683/changes)
+- I made a [custom theme](https://github.com/plu5/plu5.github.io/blob/master/public/css/giscus.css) for it in order to at least fit the scale of the site and I also hide the header.
+  + Hiding the header is somewhat questionable because it removes the main link to the discussion and sorting buttons, but I think it's too much (and there is a link to the discussion on each comment anyway). The main reason to remove it is that I find it sad (and redundant) to see "0 comments" on every page.
+
+About the custom theme: The idea is you can give pass a URL in the `data-theme` attribute. I at first tried to use a gist raw link to be able to test locally, but it didn't work:
+```html
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://gist.githubusercontent.com/plu5/5c689cce391a4c1bc7dc92a5d6f79f80/raw/giscus-theme.css. (Reason: CORS request did not succeed). Status code: (null).
+[giscus] Discussion not found. A new discussion will be created if a comment/reaction is submitted. client.js:7:206
+The resource from “https://gist.githubusercontent.com/plu5/5c689cce391a4c1bc7dc92a5d6f79f80/raw/giscus-theme.css” was blocked due to MIME type (“text/plain”) mismatch (X-Content-Type-Options: nosniff).
+```
+Placed in `/public/css`, it doesn't work either. It only works on remote (the actual site).
+
+{% raw %}
+I found then that the best way to work on it is (1) first upload the theme, e.g. to `/public/css/giscus.css` (I'm using Jekyll), (2) set `data-theme` (cf [comments.html](https://github.com/plu5/plu5.github.io/blob/master/_includes/comments.html)):
+```javascript
+script.setAttribute("data-theme", "{{ site.url }}/public/css/giscus.css");
+```
+(3) Push to remote, and (4) on the actual site in your browser's developer tools, edit `giscus.css` in the Style Editor (<kbd>Shift+F7</kbd> on Firefox) (On Chrome you can do this in the Sources tab).
+{% endraw %}
+
+{% include note.html content='
+> [!NOTE]
+> (Unrelated / meta comment:) Needed [liquid raw tags](https://stackoverflow.com/questions/24102498/escaping-double-curly-braces-inside-a-markdown-code-block-in-jekyll) there to avoid the curly braces being interpreted in the code block. And putting these tags in HTML comments as suggested by some doesn\'t seem to be a good idea, I see a literal `-->` a the end of the page if I do so.
+' %}
+
+Interesting things I saw on giscus issues: [#1460 by Godot's maintainer Calinou Sep 2024](https://github.com/giscus/giscus/issues/1460) (no response), [#1463 also from Sep 2024](https://github.com/giscus/giscus/issues/1463) (about, if I understand correctly, giscus preventing pages from being indexed by search engine because it throws 404 errors when no discussion has been created yet?)
+
+My commits:
+- [d957238](https://github.com/plu5/plu5.github.io/commit/d957238939743f36fab1ba38fdf53f88bbc10552) (main thing)
+- [6e17a2b](https://github.com/plu5/plu5.github.io/commit/6e17a2bd4be9b11be239c3b7e47db285cf34fed7) (use `zoom` instead of `font-size` in the custom theme because the latter looks bad, I realise the former won't work on older navigators but nor will giscus in the first place [and if giscus works but zoom doesn't, it will just be smaller, no harm no foul])
+
+Resources consulted:
+- [Nithin Bekal: Optimizing page loads for Giscus comments](https://nithinbekal.com/posts/giscus-optimize-pageload/) (deferring giscus load until later / scroll)
+- [Bryce Wray: Tips for using giscus](https://www.brycewray.com/posts/2022/05/tips-using-giscus/) (for providing a custom theme, though it somewhat confused me because he forgot to mention editing the `data-theme` attribute after creating the theme)
+- [Maxence Poutord: How to integrate Giscus to your Astro blog](https://www.maxpou.fr/blog/giscus-with-astro/) (mentioned editing `data-theme`, so it set me on the right track)
+- [giscus issue #1621 by banchan86](https://github.com/giscus/giscus/issues/1621) (talks about creating a theme to hide an element and links to relevant docs)
+- [giscus docs on `data-theme`](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-theme)
+
+### Categories, intermediate pages, /devlog
+I always planned with categories ("cats") to have pages like `/devlog/dotfiles` so you can filter to all the devlogs with that cat, or `/article/git` for example. That idea is now in the bin. One thing to realise is this is a static site, we can't look at the route and decide what to serve like a server can, if you go to a page on this site it's an actual HTML file on disk that had to be generated.
+
+There does exist the plugin [`jekyll-redirect-from`](https://github.com/jekyll/jekyll-redirect-from) which is included in ghpages by default and is super useful, I use it for example to make it so you can go on `/devlog/13` and be redirected to here. Technically you go on a blank page for a second (and get flashbanged if you're a dark mode user). It doesn't only have `redirect_from` directives, but also `redirect_to` to be able to redirect to any page, not even just on that site. But for that, again, you have to create the pages (for `redirect_from` it's created automatically but `redirect_to` no). I could imagine having a page that would list stuff under categories in headings and link to that, but I don't think you can use `redirect_from` to link to a particular section. And in any case this is stupid.
+
+I also saw [this article on tamarisk.it](https://tamarisk.it/automatic-tags-for-jekyll) where he uses a Python script in a git hook to generate and remove pages for tags based on the tags used in posts.
+
+The more you build things up, the more you complicate, the more likely you are to abandon like 99% of sites and projects out there. For the simple reason that life is too bloody complicated enough as it is and you have to take into account it will get uncontrollable at times and you want to somehow be able to keep it going, minimising faff and things that could break.
+
+So all I did is make the page [/devlog](/devlog) where they are all listed with the tags, and I guess to "filter" you can use the good old <kbd>Ctrl+F</kbd> ;-)
+
+[I also got rid of the cats collection altogether](https://github.com/plu5/plu5.github.io/commit/d6eb53c0cb3ff93307955ded96b07abf06f3d86c) -- well it's still there as I did not delete the files, but no longer being used for anything. So they are all now the same colour and no pages need to be created, but they also do nothing, just visual.
+
+What I would like to do at least is make it so that intermediate paths exist, like how there is [/devlog](/devlog), we could have [/article](/article) and [/notes](/notes), and notes have subpaths too like [/notes/pers](/notes/pers) or [/notes/pers/proj](/notes/pers/proj). It annoys me that on many sites the intermediate paths are 404, you'd expect it to be a listing of things in it like in a filesystem. That could be a faff to create those pages (though there are not that many) so perhaps I could use a script like tamarisk's, if only just once.
+
+### Speaking of getting flashbanged
+While writing the above I saw on [`jekyll-redirect-from`]:
+
+> If you want to customize the redirect template, you can. Simply create a layout in your site's `_layouts` directory called `redirect.html`.
+
+Maybe I could prevent the flashbang when being redirected by creating a redirect.html and making the background of it black? But since the background is set as black in the CSS it should be black on all pages already, shouldn't it? Maybe because I'm setting it on `body` rather than on `html`?
+```css
+html {
+  background-color: black;
+}
+```
+No, it made no difference.
+
+I tried making a page in `/_layouts/redirect.html` with the contents:
+```html
+<html>
+  <body>
+    <p>hello</p>
+  </body>
+</html>
+```
+and the effect of it was to redirect to this page (i.e. to an empty page that just has hello). I still see the flashbang, and it never redirects.
+
+You need to put in there the script to do the redirection, you can see [in the template that the plugin normally uses](https://github.com/jekyll/jekyll-redirect-from/blob/master/lib/jekyll-redirect-from/redirect.html). In any case it is not going to help with the flashbang issue.
+
+### /devlog/ issue
+On the local build, /devlog redirects to /devlog/ and both URLs work. On remote, /devlog works and /devlog/ is 404.
+
+If I put `redirect_from: /devlog/` in `devlog.html`, I get stuck in a redirect loop on localhost. I'm not sure if it would work on remote but it's nonideal for it to be broken on local builds so I would rather not commit that.
+
+[Known issue with ghpages](https://stackoverflow.com/questions/54727643/trailing-slashes-in-jekyll-github-pages-site-cause-404). `permalink: /devlog/` will get the same behaviour as on localhost.
+
+[`jekyll-redirect-from`]: https://github.com/jekyll/jekyll-redirect-from
 
 {% include fin.html %}
