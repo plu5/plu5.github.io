@@ -2,8 +2,8 @@
 layout: post
 title: 13 — Microphone threshold notification
 date: 2026-04-05 12:03
-modified_date: 2026-04-14 21:35
-categories: dotfiles audio sounddevice numpy micnot giscus
+modified_date: 2026-04-15 00:27
+categories: dotfiles audio sounddevice numpy micnot giscus wrap unicode
 lang: en
 redirect_from: /devlog/13
 ---
@@ -749,7 +749,11 @@ if __name__ == "__main__":
 [version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/micnot)
 
 ## Meta: Site changes
-### giscus
+And now for something completely different.
+
+(in the sections below)
+
+## Site: giscus
 I added [giscus](https://giscus.app/) which I saw used in Godot docs ([example page where it is used](https://docs.godotengine.org/en/stable/classes/class_nodepath.html)) (curiously, and sadly, it's not used on the French version). It makes less of an ordeal to do so if someone does want to say something. I am not going to make a habit of commenting on my own pages, I didn't want to do it even once but I have commented on this page on a whim and will try to not do this again, favouring adding the information to the article itself instead.
 
 To set it up, there is a series of steps to follow on [giscus.app](https://giscus.app/), to produce in the end a script with attributes based on what you chose. You do not have to use this script as is, and I don't:
@@ -795,7 +799,7 @@ Resources consulted:
 - [giscus issue #1621 by banchan86](https://github.com/giscus/giscus/issues/1621) (talks about creating a theme to hide an element and links to relevant docs)
 - [giscus docs on `data-theme`](https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-theme)
 
-### Categories, intermediate pages, /devlog
+## Site: Categories, intermediate pages, /devlog
 I always planned with categories ("cats") to have pages like `/devlog/dotfiles` so you can filter to all the devlogs with that cat, or `/article/git` for example. That idea is now in the bin. One thing to realise is this is a static site, we can't look at the route and decide what to serve like a server can, if you go to a page on this site it's an actual HTML file on disk that had to be generated.
 
 There does exist the plugin [`jekyll-redirect-from`](https://github.com/jekyll/jekyll-redirect-from) which is included in ghpages by default and is super useful, I use it for example to make it so you can go on `/devlog/13` and be redirected to here. Technically you go on a blank page for a second (and get flashbanged if you're a dark mode user). It doesn't only have `redirect_from` directives, but also `redirect_to` to be able to redirect to any page, not even just on that site. But for that, again, you have to create the pages (for `redirect_from` it's created automatically but `redirect_to` no). I could imagine having a page that would list stuff under categories in headings and link to that, but I don't think you can use `redirect_from` to link to a particular section. And in any case this is stupid.
@@ -810,7 +814,7 @@ So all I did is make the page [/devlog](/devlog) where they are all listed with 
 
 What I would like to do at least is make it so that intermediate paths exist, like how there is [/devlog](/devlog), we could have [/article](/article) and [/notes](/notes), and notes have subpaths too like [/notes/pers](/notes/pers) or [/notes/pers/proj](/notes/pers/proj). It annoys me that on many sites the intermediate paths are 404, you'd expect it to be a listing of things in it like in a filesystem. That could be a faff to create those pages (though there are not that many) so perhaps I could use a script like tamarisk's, if only just once.
 
-### Speaking of getting flashbanged
+## Site: Speaking of getting flashbanged
 While writing the above I saw on [`jekyll-redirect-from`]:
 
 > If you want to customize the redirect template, you can. Simply create a layout in your site's `_layouts` directory called `redirect.html`.
@@ -835,7 +839,7 @@ and the effect of it was to redirect to this page (i.e. to an empty page that ju
 
 You need to put in there the script to do the redirection, you can see [in the template that the plugin normally uses](https://github.com/jekyll/jekyll-redirect-from/blob/master/lib/jekyll-redirect-from/redirect.html). In any case it is not going to help with the flashbang issue.
 
-### /devlog/ issue
+## Site: /devlog/ issue
 On the local build, /devlog redirects to /devlog/ and both URLs work. On remote, /devlog works and /devlog/ is 404.
 
 If I put `redirect_from: /devlog/` in `devlog.html`, I get stuck in a redirect loop on localhost. I'm not sure if it would work on remote but it's nonideal for it to be broken on local builds so I would rather not commit that.
@@ -844,7 +848,7 @@ If I put `redirect_from: /devlog/` in `devlog.html`, I get stuck in a redirect l
 
 [`jekyll-redirect-from`]: https://github.com/jekyll/jekyll-redirect-from
 
-### Line wrap indicators
+## Site: Line wrap indicators
 My code blocks are set to wrap when the lines are too long, on most sites (e.g. StackExchange) they don't. Even though it can be confusing, it is too annoying and time-wasting having to scroll horizontally, so I prefer overall to have the lines wrap. It's especially dramatic on mobile devices.
 
 I thought to make it less confusing it would be nice to have some indication for which lines are wrapped and which are not, even just a little mark at the beginning of logical lines could do that job.
@@ -910,5 +914,39 @@ I think it's nice to be able to see the logical lines, but this is so subtle now
 It's the one I am most likely to add because I can't see how it would break, at worst it would not be visible, which is no different from normal. If I disable JavaScript for example, we just don't get indicators, but nothing is broken.
 
 Well, fuck it, if I am wrong in my assumptions I would like to find out, so let's add it. Commit [ec70765](https://github.com/plu5/plu5.github.io/commit/ec707655c2fce2629c2cad2c2b4236ffcc23dae0).
+
+## Site: ASCII blocks and broken on Adwaita
+I think I talked about it before, old versions of Webkit on iOS (~2020) have a bug in code blocks that are not supposed to wrap where if the first character of a line is not whitespace, it wraps, overlapping whatever is on its way. I always have to pay attention in ASCII art or anything else that is not meant to wrap that the first character in each line is space. On modern devices it's not a problem, but I still want it to work for people with old devices, 2020 is not even that long ago. It comes up again because adding a pseudoelement before the line that is not space triggers it as well apparently.
+
+The workaround is the same as I use for Braille, put it in its own custom code block instead of in a plaintext code block. This is done by declaring it as a language that does not exist in Rouge. I talked about it and showed how it changes the DOM in [devlog 3](https://ck.is-a.dev/devlog/3-braille-display-concerns). It will wrap by default, so have to add the usual CSS:
+```css
+.language-asciiart {
+  white-space: pre;
+  overflow-x: auto;
+  /* Required for overflow-x auto */
+  display: block;
+}
+```
+
+Because these blocks are not in the same DOM structure they do not get touched by the JavaScript line indicators thing.
+
+Looking at [my ASCII note](/notes/pers/art-ascii) also made me notice that Braille is broken with the new version of Adwaita (50.0) that came out late February.
+
+{% include figure.html file="devlog/260414234736-adwaita-braille-broken.png" name="Screenshot: Braille characters as rendered with Adwaita Mono 50.0" %}
+
+It actually looks kind of cool in a way.
+
+The only thing that happened in 2026 is [this commit](https://gitlab.gnome.org/GNOME/adwaita-fonts/-/commit/fb068cf1c27bbeb81dd1aa24d4292eb4bbbe7fdb), "mono: Remove RIS workaround"
+```diff
+- # https://github.com/be5invis/Iosevka/issues/2555
+- [buildPlans.AdwaitaMono.excludeChars]
+- ranges = [[0x1f1e6, 0x1f1ff]]
+```
+Braille characters are not in this range, but it seems like the characters I'm seeing instead _are_. It's prioritising these characters over Braille? It's over my head, I don't know what I'm talking about, I didn't realise there are overlaps like this in Unicode, where you could decide to show one character or two others. The linked issue suggests they had to exclude them for flag emojis to work.
+
+It's not broken with Iosevka, so I changed it to that, but I don't like how narrow it is, it's not super good for Braille for that reason. We can change `line-height` (and possibly `letter-spacing`) but it would break other fonts (and other devices like phones, where people usually don't install fonts or have no control over the fonts). With `line-height: 1` it looks really nice with Iosevka, almost perfectly even so that the dots are like pixels, but on other fonts it looks ridiculously wide. [I settled on a compromise of 1.2](https://github.com/plu5/plu5.github.io/commit/b40b38e3e5cbc18591c39941bf1928d2131425b2).
+
+## Why is this devlog so long?
+They used to be one per day but as I worked on things that took several days or weeks it made more sense to keep adding to the same one instead of artificially breaking it up, and I have now gotten into the habit. Each time I want to add something I feel like it's too small to make a new devlog just for that.
 
 {% include fin.html %}

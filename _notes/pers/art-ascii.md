@@ -2,7 +2,7 @@
 layout: post
 title:  "Art ASCII"
 date:   2026-01-22 22:41
-modified_date: 2026-04-14 22:13
+modified_date: 2026-04-14 23:14
 categories: art
 lang: fr
 ---
