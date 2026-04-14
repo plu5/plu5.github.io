@@ -164,8 +164,7 @@ code.language-plaintext {
 /* Different font on braille blocks to avoid displaying the grid */
 .language-braille {
   font-family: Iosevka, "Adwaita Mono", "Courier New", monospace;
-  letter-spacing: 0em;
-  line-height: 1em;
+  line-height: 1.2;
   /* Don't word wrap */
   white-space: pre;
   overflow-x: auto;
