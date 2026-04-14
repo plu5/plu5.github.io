@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-04-10 11:42
+modified_date: 2026-04-12 00:56
 categories: os
 lang: fr
 ---
@@ -177,8 +177,9 @@ Dans un script, il faudrait soit supprimer le fichier, soit le nommer différemm
 - Bash : `for ((i=0; i<10; i++)); do echo $i; done`  
   POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
 
-### Test
+### Opérateurs de tests
 liste non exhaustive, car il y a en a plein que je n'utilise jamais
+#### Unaires (prennent un seul opérande)
 - `-z` : vide
 - `-n` : non vide
 - `-f` : fichier (réel ; pas FIFO / pseudofichier)
@@ -189,6 +190,12 @@ liste non exhaustive, car il y a en a plein que je n'utilise jamais
 - `-x` : exécutable
 - `-s` : fichier existe et il contient des données (taille non zéro)
 - [Bash] `-S` : socket
+#### Binaires
+- `=` : ==
+- `-gt` : >
+- `-ge` : >=
+- `-lt` : <
+- `-le` : <=
 
 ### Pas POSIX
 Tableaux, exposants, modulo, certaines substitutions de variables (syntaxe `:1:2` [slicing], `/` [remplacement], `^` [conversion en majuscules], `,` [.. miniscules], `!` [expansion indirecte])

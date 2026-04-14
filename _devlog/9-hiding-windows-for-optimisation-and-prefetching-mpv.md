@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-04-10 21:05
+modified_date: 2026-04-12 03:13
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -980,6 +980,11 @@ bspc node $(wmctrl -lx | grep mpvalt | cut -d' ' -f1) -g hidden
 > This is fragile and will break if you have several instances. Should change this to get the proper window.
 ' %}
 
+{% include note.html content='
+> [!NOTE]
+> In later versions of the script I [removed](https://github.com/plu5/dotfiles/commit/9f9e8f2aa62223c6677227ef90dc041cd4797f45) the hiding logic altogether, I could not find a reliable way to do it and decided it is better to just not
+' %}
+
 Before I make changes to the input, here's the script:
 ```bash
 #!/usr/bin/env bash
@@ -1715,6 +1720,11 @@ It would be better to check the exit code of yt-dlp before finalising cache, but
 tail -f "$cache_file.tmp" | process_lines 0 "$pos_file"
 ```
 
+{% include note.html content='
+> [!NOTE]
+> A problem with using `tail -f` is it will never quit. When using it it is not possible to tell with `read -r next` whether we are on the last line either, it blocks without returning false. I did not realise it until 2026-04-11 so I do not do anything about it in this devlog. In commit [fcbdca9](https://github.com/plu5/dotfiles/commit/fcbdca910bdbc8973d546c5a1388b65abd87b6c5) I added a read timeout with a log when it is exceeded. It would be better to have a way to tell when we are on the last line of the complete list (nothing interrupted yt-dlp), but I am not sure how.
+' %}
+
 ##### yt-dlp -I
 We could also implement restoring position when we don't have a cache maybe with some option of yt-dlp to start at a particular video?
 
@@ -1760,6 +1770,11 @@ I guess in that case we have to change the cache file we save to.
 ```sh
 cache_file="${cache_file%.txt}-start${pos}.txt"
 ```
+
+{% include note.html content='
+> [!NOTE]
+> In all the scripts below I forgot to ever restore this cache. cf commit [de6c973](https://github.com/plu5/dotfiles/commit/de6c9738233b5a0ad87e126a585e97a3c2241669)
+' %}
 
 ##### Reverse list
 I also want an option to reverse playlist, but how to handle pos? One way would be to work out how many videos there are total and subtract `i` from it to find the non-reversed pos, but we're going to have to pass flags around because saving and restoring position both need to know whether it is reversed or not. we also don't have an easy and robust way to tell the number of videos. So let's handle this in the same as as I handled the cache for non-cached queries with non-0 starting position above, by having a different pos file for the reversed case.

@@ -3,13 +3,14 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-04-11 15:54
+modified_date: 2026-04-14 16:40
 categories: lang
 lang: fr
 ---
 ## Approche
 Idéalement noter seulement des tournures qui vont m'être utiles
-## 2026
+
+## 2026-01
 § 2026-01-01
 - ne pas se laisser déborder par les évènements
 - avoir tout bien en main
@@ -186,6 +187,7 @@ Idéalement noter seulement des tournures qui vont m'être utiles
 - Je pense que ça doit simplement vouloir dire que le meuble et les vêtements étaient bien réels alors que la femme qui les avait portés ne l'était plus. ([RuK](https://forum.wordreference.com/threads/dead-womans-living-wardrobe.232150/))
 - La phrase ne permet pas de choisir entre les deux possibilités, il n'y aurait que le contexte. (^)
 
+## 2026-02
 § 2026-02-01
 - Comme mon secteur était bouché, je me suis reconverti. ([wr](https://www.wordreference.com/fren/reconvertir))
 - Allons un cran plus loin.
@@ -319,6 +321,7 @@ Idéalement noter seulement des tournures qui vont m'être utiles
 § 2026-02-28
 - extraverti vs extroverti
 
+## 2026-03
 § 2026-03-01
 - « Certes, la devanture n’est pas des plus formidables. Certes, le décor est celui d’un _diner_ banal et on peut s’étonner de trouver un resto italien au royaume du western (encore que, le western spaghetti ?). Mais ici, pas de bidons de ketchup pour noyer son burger ni de sauce _thousand islands_ pour asperger sa salade, finis les burgers, terminées les _french fries_. » ([wr](https://forum.wordreference.com/threads/encore-que-le-western-spaghetti.728705/))
 - Qu'est-ce que vous fabriquez autour de mon bureau ? ([le chat noir](https://forum.wordreference.com/threads/why-are-you-all-standing-around-crowding-around-my-desk.2287948/))
@@ -660,6 +663,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-03-31
 - Le mode entretien est prioritaire sur les autres modes activés par la supervision ([Jobneed](https://forum.wordreference.com/threads/prioritaire-sur.1790557/))
 
+## 2026-04
 § 2026-04-01
 - Je crois que quand on est vilain tout petit, on se passe très vite de soi en tant qu’être prioritaire. Parce qu’on s’aperçoit très vite quand on n’est pas beau, cela n’est pas du tout un complexe mais un constat, que l’intérêt qu’on peut avoir n’est pas en soi, mais dans le mouvement qu’on peut éventuellement avoir, ou dans l’apport qu’on peut éventuellement faire aux autres. ([wr](https://forum.wordreference.com/threads/on-se-passe-tr%C3%A8s-vite-de-soi-en-tant-qu%E2%80%99%C3%AAtre-prioritaire.3487232/))
 - je voulais lui donner le bénéfice du doute, parce que je trouve ça tout bonnement ridicule de parler de soi en termes aussi tarabiscotés (^ Itisi)
@@ -765,5 +769,19 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
   + tentative d'une idée
 - tentative pour + verbe.
   + tentative pour explorer/représenter une idée
+- Les valeurs de fréquence sont sur l’axe des abscisses, généralement tracées sur une échelle logarithmique, tandis que leurs amplitudes sont sur l’axe des y. ([huggingface](https://huggingface.co/learn/audio-course/fr/chapter1/audio_data))
+- lire depuis le début
+
+§ 2026-04-12
+- dans ce cas, pouvons-nous prévoir le rendez-vous pour vendredi matin ? (bl BV11dQAYXEwk?p=25)
+
+§ 2026-04-13
+- vous avez l'heure ? (bl BV1pDZmY4Edw?p=82)
+- Si je ne m'y mets pas maintenant, je risque de perdre des semaines.
+- Si je continue comme ça, je risque d'y perdre des semaines.
+- un problème se pose : la hauteur de la ligne est variable, il est donc impossible de la définir de manière déterministe. L'astuce consiste à considérer qu'il est extrêmement improbable (voire impossible) que la hauteur visible de la ligne soit supérieure à la hauteur de la fenêtre d'affichage de l'utilisateur. ([khlebnikov](https://dmitry.khlebnikov.net/2020/05/10/wrap-indicator-in-pre-blocks) tr)
+
+§ 2026-04-14
+- Le 11 novembre est le jour du souvenir commémorant les morts de la première guerre mondiale. ([wr](https://www.wordreference.com/fren/jour%20du%20souvenir))
 
 {% include fin.html %}

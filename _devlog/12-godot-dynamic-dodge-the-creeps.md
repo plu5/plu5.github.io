@@ -2,7 +2,7 @@
 layout: post
 title: 12 — Godot's Dodge the Creeps without static assets
 date: 2026-04-03 11:29
-modified_date: 2026-04-09 21:08
+modified_date: 2026-04-13 20:58
 categories: godot
 lang: en
 redirect_from: /devlog/12
@@ -22,5 +22,8 @@ If you haven't read the original tutorial, it's on [Getting started → Your fir
 Option to either use art drawn by us in shapes kind of like SVG, or art in characters like TTY games / ASCII art.
 
 What in terms of music and sound effects, can you emit mathematical sounds in code in Godot?
+
+## Player character
+Maybe we should use a geometric form like a square and call it _Thomas Dodged the Creeps_
 
 {% include fin.html %}

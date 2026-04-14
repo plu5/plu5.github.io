@@ -2,7 +2,7 @@
 layout: post
 title: 13 — Microphone threshold notification
 date: 2026-04-05 12:03
-modified_date: 2026-04-11 17:06
+modified_date: 2026-04-14 21:35
 categories: dotfiles audio sounddevice numpy micnot giscus
 lang: en
 redirect_from: /devlog/13
@@ -843,5 +843,72 @@ If I put `redirect_from: /devlog/` in `devlog.html`, I get stuck in a redirect l
 [Known issue with ghpages](https://stackoverflow.com/questions/54727643/trailing-slashes-in-jekyll-github-pages-site-cause-404). `permalink: /devlog/` will get the same behaviour as on localhost.
 
 [`jekyll-redirect-from`]: https://github.com/jekyll/jekyll-redirect-from
+
+### Line wrap indicators
+My code blocks are set to wrap when the lines are too long, on most sites (e.g. StackExchange) they don't. Even though it can be confusing, it is too annoying and time-wasting having to scroll horizontally, so I prefer overall to have the lines wrap. It's especially dramatic on mobile devices.
+
+I thought to make it less confusing it would be nice to have some indication for which lines are wrapped and which are not, even just a little mark at the beginning of logical lines could do that job.
+
+My first idea was line numbers. They're simple to add on ghpages Jekyll, simply add this to `_config.yml`:
+```yaml
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+```
+but this is clearly not designed with wrapping in mind, unfortunately. This is what happens after a line wrap:
+```python
+8 with sd.InputStream(channels=1, latency=.5,
+9 callback=callback):  # (wrapped)
+1    while True:
+0        sd.sleep(1000)
+```
+
+Most JavaScript scripts to add line numbers also get confused by wrapping lines.
+
+I don't care about line numbers in particular, only having some way to tell wrapped lines apart from normal lines, as in languages like Python you can't linebreak anywhere, so it can be confusing.
+
+In [SO: CSS show indicator that line wrapped](https://stackoverflow.com/questions/48870838/css-show-indicator-that-line-wrapped/79925266#79925266) all answers are quite hacky, and most require to modify the DOM. There is notably a comment by galaxy linking to [his article](https://dmitry.khlebnikov.net/2020/05/10/wrap-indicator-in-pre-blocks/) with a lot of information and his go at it (which sadly also requires an element for each line).
+
+I added two of my own answers on there with things I found and runnable code snippets thereof. [One of them](https://stackoverflow.com/a/79925266/18396947) is from [this jaseg.de article](https://jaseg.de/blog/css-only-code-blocks/). Not only does he wrap each line in an element but also adds an empty element with class `lineno` ahead of each element, and uses display grid to align them.
+
+His usage of the `lineno` elements gave me the idea I showed in [my second answer](https://stackoverflow.com/a/79925355/18396947). The problem with all the solutions so far is requiring to put the lines into elements, which you can't do in ghpages Jekyll (short of maybe manually putting every single code block in an include and modifying it there, and/or using something else for syntax highlighting). While we could modify the DOM after the fact with JavaScript, it is nontrivial to wrap the lines into elements, because with the syntax highlighting you end up with spans that can span multiple lines, for example in multiline docstrings. But I think we necessarily have to add something to the DOM because there is otherwise no way to select the lines in a `pre`. So I had the idea to only add the `lineno` empty elements, in order to indicate each logical line:
+```javascript
+// This is the selector for the SE basic example, in a default Jekyll ghpages
+// blog it would be rather something like:
+// div.highlighter-rouge > div.highlight > pre.highlight > code
+const blocks = document.querySelectorAll('pre.code');
+let out = [];
+for (const block of blocks) {
+    const lines = block.innerHTML.split(/\n/);
+    for (let i = 0; i < lines.length; i++) {
+        if (i != 0) out.push('\n');
+        if (i != lines.length - 1)
+            out.push('<span class="lineno"></span>');
+        out.push(lines[i]);
+    }
+    block.innerHTML = out.join('');
+    out = [];
+}
+```
+If we were to add start tag, line, close tag, it would risk breaking the DOM because there could be start tags without end tags in the line. Here we add just start and end tags and we know what's in between (nothing), so I think it's safe?
+
+At this point we can add some visual indication for each `lineno`:
+```css
+.lineno::before {
+    content: "|";
+    margin-left: -.9em;
+    color: green;
+}
+```
+I made it further to the left to make it less confusing, so that it is not properly in the code block like the rest of the text.
+
+{% include figure.html file="devlog/260414184333-d13-codeblock-logical-lines-indicators.png" name="Screenshot: Logical lines indicators on a code block" %}
+
+I think it's nice to be able to see the logical lines, but this is so subtle now, is it really worth adding? It goes against my ideal of not complicating things unless you have a very good reason.
+
+It's the one I am most likely to add because I can't see how it would break, at worst it would not be visible, which is no different from normal. If I disable JavaScript for example, we just don't get indicators, but nothing is broken.
+
+Well, fuck it, if I am wrong in my assumptions I would like to find out, so let's add it. Commit [ec70765](https://github.com/plu5/plu5.github.io/commit/ec707655c2fce2629c2cad2c2b4236ffcc23dae0).
 
 {% include fin.html %}

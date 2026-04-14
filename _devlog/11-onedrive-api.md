@@ -2,7 +2,7 @@
 layout: post
 title: 11 — Coercing OneDrive API
 date: 2026-03-27 16:20
-modified_date: 2026-04-08 06:15
+modified_date: 2026-04-14 11:43
 categories: microsoft api onedrive onedriveverrer
 lang: en
 redirect_from: /devlog/11
@@ -1342,9 +1342,9 @@ onedriveverrer ls     # list children in root
 onedriveverrer ls -r  # list children recursive
 onedriveverrer ls "/Documents"  # paths require a leading /
 # Dump information
-oendriveverrer dump "/Documents/file.txt"
-oendriveverrer dump --list-versions "/Documents/file.txt"
-oendriveverrer dump "/Documents"  # but can't --list-versions for a folder
+onedriveverrer dump "/Documents/file.txt"
+onedriveverrer dump --list-versions "/Documents/file.txt"
+onedriveverrer dump "/Documents"  # but can't --list-versions for a folder
                                   # because they don't really have versions
 # Download file/folder
 onedriveverrer download "/Documents/file.txt"  # latest version
