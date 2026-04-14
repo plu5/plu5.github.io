@@ -1,0 +1,16 @@
+<script>
+  const blocks = document.querySelectorAll(
+    'div.highlighter-rouge > div.highlight > pre.highlight > code');
+  let out = [];
+  for (const block of blocks) {
+    const lines = block.innerHTML.split(/\n/);
+    for (let i = 0; i < lines.length; i++) {
+      if (i != 0) out.push('\n');
+      if (i != lines.length - 1)
+        out.push('<span class="lineno"></span>');
+      out.push(lines[i]);
+    }
+    block.innerHTML = out.join('');
+    out = [];
+  }
+</script>

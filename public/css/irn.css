@@ -164,6 +164,13 @@ code.language-plaintext {
   display: block;
 }
 
+/* Logical line indicators */
+.lineno::before {
+    content: "|";
+    margin-left: -.9em;
+    color: green;
+}
+
 /* Gist via GitHub Pages */
 .gist .gist-file {
   font-family: Menlo, Monaco, "Courier New", monospace !important;
