@@ -147,6 +147,13 @@ pre code {
   overflow-x: auto;
 }
 
+.language-asciiart {
+  white-space: pre;
+  overflow-x: auto;
+  /* Required for overflow-x auto */
+  display: block;
+}
+
 /* Do wrap inline code (like stuff between single grave) */
 code.language-plaintext {
   white-space: pre-wrap;
