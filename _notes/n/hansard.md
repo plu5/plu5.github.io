@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-04-05 22:24
+modified_date: 2026-04-18 05:45
 categories: ukpol
 lang: en
 ---
@@ -14,13 +14,25 @@ lang: en
 - Report stage[^report-stage]
 - Committee stage[^committee-stage]
 - Second Reading[^second-reading]
+- in the Budget
+  + a Budget
+  + Truss Budget
+  + household budgets
+- House
+- Chamber
+  + Chambers[^chambers]
 - Government
   + local government
   + incoming government[^incoming-government]
   + in government[^in-government]
+  + Governments
+  + system of government
 - Parliament
   + parliamentary business
 - Member
+- Prime Minister
+  + Prime Ministers[^pms]
+  + Prime Minister's questions[^pms]
 - President
 - Director of Public Persecutions
 - director general for strategic operations[^director-general-strategic]
@@ -42,8 +54,11 @@ lang: en
 - Nolan principles[^nolan-principles]
 
 ## Inconsistent
+- Dispatch Box / Despatch Box
+  + with i is a lot more common, but outside of hansard everyone uses the e spelling, including [the glossary](https://www.parliament.uk/site-information/glossary/despatch-boxes/)
 - national insurance / National Insurance[^national-insurance]
   + I think it makes more sense for it to be lowercase, like winter fuel payment.
+- North sea / North Sea[^pms][^north-sea-caps]
 
 [^incoming-government]: [2025-02-27](https://hansard.parliament.uk/Commons/2025-02-27/debates/B3ADF479-27C3-4ED4-B545-301F8E62BDE9/BusinessOfTheHouse?highlight=%22incoming%20government%22#contribution-73873A9E-BA47-42DA-B9D6-12E04CDF99EB)
 [^kings-speech-programme]: [2024-12-12](https://hansard.parliament.uk/Commons/2024-12-12/debates/913BBF7D-B7CC-4C6F-9868-FC534AF1BDC0/BusinessOfTheHouse?highlight=%22king%27s%20speech%20programme%22#contribution-15F72E97-C669-446D-B38A-8DA8372171B6)
@@ -61,6 +76,9 @@ lang: en
 [^second-reading]: [2025-02-05](https://hansard.parliament.uk/Lords/2025-02-05/debates/2A16EAE4-C083-4A9B-86E7-B11D99804EE4/InstituteForApprenticeshipsAndTechnicalEducation(TransferOfFunctionsEtc)Bill(HL))
 [^committee-stage]: [2020-05-06](https://hansard.parliament.uk/Lords/2020-05-06/debates/A5A7F911-4863-4C96-AAD5-C47F183AF425/BusinessOfTheHouse(VirtualProceedingsRelatingToTheCommitteeStageOfPublicBillsAndToMessagesAndFirstReadings))
 [^a-committee]: [2025-02-05](https://hansard.parliament.uk/Commons/2025-02-05/debates/25020547000008/EnglishDevolutionAndLocalGovernment)
-[^that-committee]:[2025-02-06](https://hansard.parliament.uk/commons/2025-02-06/debates/32B73D34-10D8-4666-88A4-09EEF0A5BABF/BusinessOfTheHouse)
+[^that-committee]: [2025-02-06](https://hansard.parliament.uk/commons/2025-02-06/debates/32B73D34-10D8-4666-88A4-09EEF0A5BABF/BusinessOfTheHouse)
+[^pms]: [2026-04-16](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse)
+[^chambers]: [2026-04-16](https://hansard.parliament.uk/Commons/2026-04-16/debates/85CEA287-64C8-4675-AF4D-B2E985F5094B/ClientBoardProgress?highlight=chambers#contribution-D12E0EE0-9FC0-49E0-A79C-84DEB29444E2)
+[^north-sea-caps]: [Lords, 2026-04-16](https://hansard.parliament.uk/Lords/2026-04-16/debates/4AC6B49B-3115-44B9-AE94-F8EEA56A845B/DataCentresEnergyDemand?highlight=%22north%20sea%22#contribution-AB96E383-C26A-4BE9-BAB2-80AA826A8023)
 
 {% include fin.html %}

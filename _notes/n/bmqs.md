@@ -3,12 +3,10 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-04-09 13:49
+modified_date: 2026-04-16 23:30
 categories: ukpol
 lang: en
 ---
-
-Hello, welcome. No, I can't explain what this is.
 
 ## 2026-01
 ### 2026-01-08
@@ -1220,5 +1218,124 @@ I don't know which one of them is wrong, if it's national or international. When
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 recess until the 13th (apr)
+
+## 2026-04
+### 2026-04-16
+various considerations of lords messages to bills, general debate on reform of vehicle licensing agency.
+
+by the end it became just "consideration of lords message, tuesday the 28th of april consideration of lords messages, wednesday the 29th of april consideration of lords messages" without even consideration to what anymore
+
+norman:
+- this, as you will know, and as the house will know, has been a week of sporting triumph. i think of the lionesses world cup qualifier 1-0 against the world champions italy [..], golf, northern ireland, honest man facing his demons[?]
+- Q: what a contrast with the Prime Minister's failure to answer or even to engage with the questions at Prime Minister's Questions. The last four Prime Minister Questions, Mr Speaker, have focused on the Iran war, fuel duty, North sea oil and gas, and the defence review. Of the 24 responses given by the Prime Minister to the Leader of the Opposition, 23 have ignored the question and changed the subject. Yesterday we even saw the Prime Minister hectoring _you_, Mr Speaker, in your chair, and on live television, just for doing your job. That is a shameful record, for which the Prime Minister should write to you, and therefore, by implication, to this House, and apologise. This behaviour is contemptuous, Mr Speaker. Of you, of the Leader of the Opposition, of us all as MPs, now and in years gone by. Our job, however imperfectly we may do it, is to pursue the truth on behalf of those we represent. If we give that up, then heaven help us. And it is the Prime Minister's job to answer and to hold himself accountable for those answers. No Prime Minister likes to do that, but those are the rules. If the Prime Minister doesn't like the rules, if he doesn't want to offer honest answers, if he is not up to it, then he should step back and let someone else do that job instead. So I thank you, Mr Speaker, on behalf of all of us, for maintaining the traditions of this House, and I ask the Leader the first of my three questions today: if he shares my view that this behaviour is wholly inappropriate by the Prime Minister and disrespectful of this House.
+- Q: but this is just part of a wider problem of accountability and disrespect for Parliament, Mr Speaker. My noble Friend the Lord Gilbert parliamentary question of the 16th of March asked the Government about authorised Budget briefings to the media. Lord Livermore replied on the Government's behalf: "Consistent with these principles, there are occasions where the Government would trail or would announce policy ahead of a Budget to provide context and help the public understand major fiscal events." Mr Speaker, this is nonsense. The rules are perfectly clear: major events must be announced first to this House. To do otherwise is a breach of the rules of this House, a flagrant violation of the Ministerial Code, and a contempt of Parliament. Previous Governments, as we all know, have done this on occasion since 1997 at least, and previous Chancellors of the Exchequer have been fired for inadvertent briefings to the media before a Budget. But never before has it been the Government's declared policy to ignore Parliament. The deeper constitutional point is of course that in our representative system of government, the people is Parliament and Parliament is the people. Nothing good can come from the attempt to undermine the British constitution by this means. So I ask the Leader secondly to comment on this, and to set out what he will do to get this policy of non-announcement of major measures withdrawn and revoked.
+- Q: And finally, Lord Robertson. He spoke of corrosive complacency of current political leadership. Of putting our country at risk. He said, and I quote, "We cannot defend this country with an ever-expanding welfare budget." No one has more experience and expertise in defence across the whole of Parliament in both Chambers. This man, the noble Lord Lord Robertson, was a political artivist for Labour since 1961. Just think of that, Mr Speaker. The last person one could imagine wanting to offer public criticism of a Labour Prime Minister, let alone in these terms. A man Labour to his boots, but a patriot first. It's impossible to blame previous Governments for this, Mr Speaker. This Government, this Prime Minister, created the defence review, and they created the defence investment plan. No one else. It is their choice, and their decision. And it matters, because in every constituency across this country, there are companies wanting to know what the Government has decided. Waiting for leadership. They need to know the numbers, they need to know the commitment, and of course, our adversaries need to know that we are serious in our resolve, and see the measure of that seriousness. And my great fear, perhaps it is also Lord Robertson's great fear, is that the Government will never publish this document, or they will do so in a completely insubstantial and lightweight way, and that 10 months of delay will end in nothing. It will all have been a colossal waste of time and energy. So let me say finally, Mr Speaker, the Prime Minister on this has been utterly hopeless. He told the Liaison Committee weeks ago the document was on his desk, yet nothing has happened. I leave it to colleagues to judge the truth of his remarks. So I ask the Leader, thirdly, if he will give this House a cast-iron guarantee on behalf of the Government that defence investment plan will be published and not simply shelved and forgotten. The one year anniversary is in July.
+
+campbell
+- thoughts are with our servicemen and women currently serving in the middle east
+- highest priorities to ensure the safety of our people in the region
+- thoughts with people affected by the terrible attempted attack on the finchley reform synagogue
+- this week has seen the 37th anniversary of the disaster at hillsborough
+- as the pm confirmed and reaffirmed yesterday, the govt is committed to delivering legislation and introducing a duty of candour across all public services
+- i also want to pay tribute to lord jeremy beecham
+- during recess we published our plan to halve knife crime
+- we've also announced our intention to invest 237 million pounds to expand community diagnostic centres across england. 4 CDCs will open, 17 will be expanded, and 15 will receive enhancements to boost diagnostic capacity and get patients seen quicker
+- this week over 500 new free breakfast clubs began to open their doors
+- A: i want to turn now to the remarks of the shadow leader. and if i may, mr speaker, i'll deal broadly with his first two questions together, because he refers to the prime minister's-- the way in which the Prime Minister addressed the questions that were put to him yesterday. And also secondly, announcements made by outside of this house, and he's, uh-- whether or not the House should be the first to hear. Let me address those two questions first, and say that the hon. Gentleman has been here a very very long time, and he cannot [woman behind laughs]-- well, a long time, put it that way, not as long as me, but a long time. [norman laughs also]. Ok, he's been here a long time. And frankly, we've both been here long enough to know better than ask the questions which he has been asking there. Because I know why he's doing it, and at the heart of it, I understand exactly what he point is here, but all Prime Ministers deal with Prime Minister's questions in their own way, [*Opposition Members laugh*] but it isn't unusual for any Prime Minister, it isn't unusual for any Minister not to give the answer that the Opposition want on a particular day. [*Norman gestures of exasperation, and pours himself a cup of water*]. Let's not kid ourselves, Mr Speaker, that we're entering a new chapter in this. And when he talks about announcements to the House, he actually said that the previous Government on occasion made announcements outside of this House. On occasion. I think it was on occasion that they actually made the announcement _in_ this House [govt members laugh and hear hear]. But the serious point here, and I _will_ address the serious point here, I am absolutely clear, and I said from this despatch box before, that announcements, serious announcements, should be made at the earliest convenience in this House. And they should be made in this House. But we also understand that we do... politics is done in a different environment to the way that it was done a decade or two decades before, and to some extent it's a moving environment, and Government is working in that environment too. But I do take his point, and I have said that announcements should be made in this House at the earliest opportunity.
+- Let me now turn to the comments of Lord Robertson, and say that the Prime Minister made his-- the Government's view clear on this. But the hon. Gentleman asks about the defence plan. um... the defence plan will be delivered, and this House will have an opportunity to debate that plan. I do accept that it has taken longer than perhaps any of us would have wished. And let me give you three reasons, Mr Speaker-- The House, Mr Speaker, three reasons why that should be so: the first is that we inherited a defence budget which was totally out of control, and has been mismanaged for the past 14 years. It had been, in the words of a previous Defence Secretary, hollowed out. And that wasn't a previous Labour Defence Secretary, It was a previous Conservative Defence Secretary. So that's the first reason why this takes time to put right and turn round. The second reason is—and the hon. Gentleman I think knows this, because he's a very distinguished member of the Defence Select Committee—the second point, Mr Speaker, is that we inherited an economic mess. And if you're going to put defence right, you've got to have the money to put it right. And again, the hon. Gentleman understands this, Mr Speaker, because he has admitted in all but words in this place that he's a secret Keynesian at heart, and he knows, he's admitted it, he's owned up to it, don't worry, he's owned up to it. The point of it, Mr Speaker [*drinks*], is that he understands, as most people understand, that our economic inheritance was absolutely appalling. And we have to get that right too before we can press ahead with our commitments to properly fund defence. And the third point which is relevant here, is that the absolutely botched Brexit deal left us diplomatically isolated, Mr Speaker, and a Prime Minister, the Prime Minister has invested, personally invested, a great deal of his time and energy to build alliances with our allies, not least in Europe, and those alliances are important as we look at the question of defence in a moving international situation, as we look at where defence will be as we move forward. And what I cannot accept, Mr Speaker, is the analysis or the suggestion by the Leader of the Opposition, that somehow at the election it was day 0. Nothing happened before which has any impact on the way in which this Government is forced to face up to those difficult decisions. So we will, Mr Speaker, publish the plan, there will be an opportunity to debate it, and let me finish on this point: I do understand the point that he makes about companies, and obviously there needs to be some certainty, but let me just rid him of this suggestion that everyone is waiting for announcements and nothing is happening. There are contracts being issued all the time. And let me finish on this point, Mr Speaker, more than 80% of those contracts in the last two years have gone to British companies. Which is in stark contrast, Mr Speaker, to the performance of the last Government.
+
+campbell is like he's had a drink, what's going on
+
+evergreen i suppose
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answered** (↑)
+
+[Happened at 10:37](https://parliamentlive.tv/event/index/d812c2f9-431f-479f-bce0-4bcdb51d4026?in=10:37:12). [Hansard](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) ✔️ Q1: Does he share my view that the PM's behaviour at PMQs is inappropriate? → No
+
+> **NORMAN:** The last four Prime Minister Questions, Mr Speaker, have focused on the Iran war, fuel duty, North sea oil and gas, and the defence review. Of the 24 responses given by the Prime Minister to the Leader of the Opposition, 23 have ignored the question and changed the subject. Yesterday we even saw the Prime Minister hectoring _you_, Mr Speaker, in your chair, and on live television, just for doing your job. That is a shameful record, for which the Prime Minister should write to you, and therefore, by implication, to this House, and apologise.
+
+> This behaviour is contemptuous, Mr Speaker. Of you, of the Leader of the Opposition, of us all as MPs, now and in years gone by. Our job, however imperfectly we may do it, is to pursue the truth on behalf of those we represent. If we give that up, then heaven help us.
+
+> And it is the Prime Minister's job to answer and to hold himself accountable for those answers. No Prime Minister likes to do that, but those are the rules. If the Prime Minister doesn't like the rules, if he doesn't want to offer honest answers, if he is not up to it, then he should step back and let someone else do that job instead.
+
+> So I thank you, Mr Speaker, on behalf of all of us, for maintaining the traditions of this House, and I ask the Leader the first of my three questions today: if he shares my view that this behaviour is wholly inappropriate by the Prime Minister and disrespectful of this House.
+
+→
+
+> **CAMPBELL:** [T]he hon. Gentleman has been here a very very long time, and he cannot [*Members laugh*]— well, a long time, put it that way, not as long as me, but a long time. [*Norman laughs also*]. Ok, he's been here a long time. And frankly, we've both been here long enough to know better than ask the questions which he has been asking there. Because I know why he's doing it, and at the heart of it, I understand exactly what he point is here, but all Prime Ministers deal with Prime Minister's questions in their own way, [*Opposition Members laugh*] but it isn't unusual for any Prime Minister, it isn't unusual for any Minister not to give the answer that the Opposition want on a particular day. [*Norman gestures of exasperation, and pours himself a cup of water*]. Let's not kid ourselves, Mr Speaker, that we're entering a new chapter in this.
+
+#### (2) ✔️ Q2: Can he comment on the policy of non-announcement of major measures to the House? → We're in a different environment
+
+> **NORMAN:** This is just part of a wider problem of accountability and disrespect for Parliament, Mr Speaker. My noble Friend the Lord Gilbert's [parliamentary question of the 16th of March](https://questions-statements.parliament.uk/written-questions/detail/2026-03-16/hl15584) asked the Government about authorised Budget briefings to the media. Lord Livermore replied on the Government's behalf: "Consistent with these principles, there are occasions where the Government would trail or would announce policy ahead of a Budget to provide context and help the public understand major fiscal events."
+
+> Mr Speaker, this is nonsense. The rules are perfectly clear: major events must be announced first to this House. To do otherwise is a breach of the rules of this House, a flagrant violation of the Ministerial Code, and a contempt of Parliament.
+
+> Previous Governments, as we all know, have done this on occasion since 1997 at least, and previous Chancellors of the Exchequer have been fired for inadvertent briefings to the media before a Budget. But never before has it been the Government's declared policy to ignore Parliament.
+
+> The deeper constitutional point is, of course, that in our representative system of government, the people is Parliament and Parliament is the people. Nothing good can come from the attempt to undermine the British constitution by this means.
+
+> So I ask the Leader secondly to comment on this, and to set out what he will do to get this policy of non-announcement of major measures withdrawn and revoked.
+
+→
+
+> **CAMPBELL:** [W]hen he talked about announcements to the House, he actually said that the previous Government on occasion made announcements outside of this House. On occasion. I think it was on occasion that they actually made the announcement _in_ this House.
+
+> But the serious point here, and I _will_ address the serious point here, I am absolutely clear, and I said from this despatch box before, that announcements, serious announcements, should be made at the earliest convenience in this House. And they should be made in this House. But we also understand that we do... politics is done in a different environment to the way that it was done a decade or two decades before, and to some extent it's a moving environment, and Government is working in that environment too. But I do take his point, and I have said that announcements should be made in this House at the earliest opportunity.
+
+#### (3) ✔️ Q3: Will he give this House a cast-iron guarantee that the defence investment plan will be published? → Yes
+
+> **NORMAN:** And finally, Lord Robertson. He spoke of corrosive complacency of current political leadership. Of putting our country at risk. He said, and I quote, "We cannot defend this country with an ever-expanding welfare budget."
+
+> No one has more experience and expertise in defence across the whole of Parliament in both Chambers. This man, the noble Lord Lord Robertson, was a political activist for Labour since 1961. Just think of that, Mr Speaker. The last person one could imagine wanting to offer public criticism of a Labour Prime Minister, let alone in these terms. A man Labour to his boots, but a patriot first.
+
+> It's impossible to blame previous Governments for this, Mr Speaker. This Government, this Prime Minister, created the defence review, and they created the defence investment plan. No one else. It is their choice, and their decision. And it matters, because in every constituency across this country, there are companies wanting to know what the Government has decided. Waiting for leadership. They need to know the numbers, they need to know the commitment, and of course, our adversaries need to know that we are serious in our resolve, and see the measure of that seriousness.
+
+> And my great fear, perhaps it is also Lord Robertson's great fear, is that the Government will never publish this document, or they will do so in a completely insubstantial and lightweight way, and that 10 months of delay will end in nothing. It will all have been a colossal waste of time and energy.
+
+> So let me say finally, Mr Speaker, the Prime Minister on this has been utterly hopeless. He told the Liaison Committee weeks ago the document was on his desk, yet nothing has happened. I leave it to colleagues to judge the truth of his remarks.
+
+> So I ask the Leader, thirdly, if he will give this House a cast-iron guarantee on behalf of the Government that the defence investment plan will be published and not simply shelved and forgotten. The one year anniversary is in July.
+
+→
+
+> **CAMPBELL:** The defence plan will be delivered, and this House will have an opportunity to debate that plan.
+
+> I do accept that it has taken longer than perhaps any of us would have wished. And let me give you three reasons, Mr Speaker— The House, Mr Speaker, three reasons why that should be so.
+
+> The first is that we inherited a defence budget which was totally out of control, and has been mismanaged for the past 14 years. It had been, in the words of a previous Defence Secretary, hollowed out. And that wasn't a previous Labour Defence Secretary, It was a previous Conservative Defence Secretary. So that's the first reason why this takes time to put right and turn round.
+
+> The second reason is—and the hon. Gentleman I think knows this, because he's a very distinguished member of the Defence Select Committee—the second point, Mr Speaker, is that we inherited an economic mess. And if you're going to put defence right, you've got to have the money to put it right. And again, the hon. Gentleman understands this, Mr Speaker, because he has admitted in all but words in this place that he's a secret Keynesian at heart, and he knows, he's admitted it, he's owned up to it, don't worry, he's owned up to it. The point of it, Mr Speaker [*drinks*], is that he understands, as most people understand, that our economic inheritance was absolutely appalling. And we have to get that right too before we can press ahead with our commitments to properly fund defence.
+
+> And the third point which is relevant here, is that the absolutely botched Brexit deal left us diplomatically isolated, Mr Speaker, and the Prime Minister has invested, personally invested, a great deal of his time and energy to build alliances with our allies, not least in Europe, and those alliances are important as we look at the question of defence in a moving international situation, as we look at where defence will be as we move forward.
+
+> And what I cannot accept, Mr Speaker, is the analysis or the suggestion by the Leader of the Opposition, that somehow at the election it was day 0. Nothing happened before which has any impact on the way in which this Government is forced to face up to those difficult decisions.
+
+> So we will, Mr Speaker, publish the plan, there will be an opportunity to debate it, and let me finish on this point: I do understand the point that he makes about companies, and obviously there needs to be some certainty, but let me just rid him of this suggestion that everyone is waiting for announcements and nothing is happening. There are contracts being issued all the time. And let me finish on this point, Mr Speaker, more than 80% of those contracts in the last two years have gone to British companies. Which is in stark contrast, Mr Speaker, to the performance of the last Government.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
++Campbell has made me laugh a fair bit with his responses+
+
++Norman is rehearsed and theatrical, Campbell is slurring, meandering... but he's hilarious+
+
+There was also, later in the day, [a debate on the Modernisation Committee report: Access to the House of Commons](https://hansard.parliament.uk/Commons/2026-04-16/debates/4EEBFCDA-8A28-4422-82A2-267B6232570D/ModernisationCommitteeReportAccessToTheHouseOfCommons).
+
+currently it's febrile in ukpol, still about mandelson. it was [revealed](https://www.theguardian.com/politics/2026/apr/16/revealed-mandelson-failed-vetting-but-foreign-office-overruled-decision) he didn't pass one of the security vettings and it was overruled by fcdo
+
+another thing to mention is i have this error with hansard when trying to view today's business questions (specifically only with business questions):
+
+> The content you are trying to access is not available, this could be due to a correction or an update in progress. Please review the index to find your item or try again in a few minutes.
+
+but only with the direct link, from hansard search or linking to a particular contribution like [this](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse?contribution-F2D0006F-852C-4C58-A8F4-50CB610F38C5) it works.
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: 8 — Portable hello worlds
 date: 2026-02-24 13:23
-modified_date: 2026-02-24 20:06
+modified_date: 2026-04-17 05:49
 categories: c emscripten wasm win98 godot
 lang: en
 redirect_from: /devlog/8
@@ -104,6 +104,11 @@ which we will need to serve on a little web server. Inside the project folder:
 $ python -m http.server
 ```
 [http://127.0.0.1:8000/test.html](http://127.0.0.1:8000/test.html)
+
+{% include note.html content='
+> [!NOTE]
+> It listens on 0.0.0.0, [meaning all interfaces](https://serverfault.com/questions/78048/whats-the-difference-between-ip-address-0-0-0-0-and-127-0-0-1), not just localhost. This means you can try it also on other devices on the same network by entering the local IP of the machine that is hosting, e.g. `192.168.1.12:8000`. To find the local IP the command is `ip address` on Arch, `ifconfig` on some other Linuxes and on macOS, and `ipconfig` on Windows. On phones it is usually shown in the network settings.
+' %}
 
 but it puts on the page more crap than just our program.
 

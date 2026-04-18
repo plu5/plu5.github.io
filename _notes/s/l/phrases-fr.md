@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-04-14 16:40
+modified_date: 2026-04-18 01:12
 categories: lang
 lang: fr
 ---
@@ -24,6 +24,7 @@ Idéalement noter seulement des tournures qui vont m'être utiles
 § 2026-01-05
 - autant pour cette théorie
 - récemment (au lieu de 'il y a quelque temps'. plus facile à écrire, et tout aussi flou) (ou : plus tôt, avant, tout à l'heure)
+  + j'utilise souvent « l'autre jour » et « à un moment »
 - un gel de l'écran, un figement de l'écran, un blocage de l'affichage
 - le bouton d'alimentation
 - arrêt forcé via/par le bouton d’alimentation, arrêt brutal, extinction forcée (oui, c'est étonnant mais ça semble être courant ! mais arrêt me semble plus courant)
@@ -783,5 +784,16 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-04-14
 - Le 11 novembre est le jour du souvenir commémorant les morts de la première guerre mondiale. ([wr](https://www.wordreference.com/fren/jour%20du%20souvenir))
+
+§ 2026-04-15
+- À titre d'exemple, voici un extrait de code qui configure la fenêtre pour recevoir les événements `Expose` et `ButtonPress` ([x.org](https://www.x.org/archive/X11R7.5/doc/libxcb/tutorial/index.html) tr)
+
+§ 2026-04-16
+- il est parti par un mauvais temps. (bl BV1cq4y197ZL)
+
+§ 2026-04-17
+- Il a levé les yeux au ciel quand elle a commencé à lui raconter encore la même hisoire. ([zaby](https://forum.wordreference.com/threads/roll-your-eyes.307119/))
+- Nous utilisons des cookies en vue d'améliorer ton expérience en ligne et de t'offrir des contenus et des services adaptés à tes centres d'intérêts. En utilisant Dailymotion, tu reconnais reconnais accepter notre charte sur les cookies. [bouton : J'ai compris] (dailymotion.com)
+- Un serveur X et ses clients peuvent s'exécuter sur le même ordinateur, auquel cas ils communiquent via des sockets de domaine, ou sur des ordinateurs différents, auquel cas ils communiquent via TCP/IP. ([jichu4n](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/) tr)
 
 {% include fin.html %}

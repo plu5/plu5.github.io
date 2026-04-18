@@ -2,9 +2,9 @@
 layout: post
 title: Notes mpv
 date: 2026-04-08 15:40
-modified_date: 2026-04-08 15:43
-categories:
-lang:
+modified_date: 2026-04-17 05:53
+categories: soft
+lang: fr
 ---
 
 ## Raccourcis

@@ -2,8 +2,8 @@
 layout: post
 title: 13 — Microphone threshold notification
 date: 2026-04-05 12:03
-modified_date: 2026-04-15 00:27
-categories: dotfiles audio sounddevice numpy micnot giscus wrap unicode
+modified_date: 2026-04-15 23:42
+categories: dotfiles audio sounddevice numpy micnot site giscus wrap unicode rofi
 lang: en
 redirect_from: /devlog/13
 ---
@@ -909,13 +909,15 @@ I made it further to the left to make it less confusing, so that it is not prope
 
 {% include figure.html file="devlog/260414184333-d13-codeblock-logical-lines-indicators.png" name="Screenshot: Logical lines indicators on a code block" %}
 
+You could also make this into line numbers by incrementing a CSS counter on each lineno. The hard bit is to align it. I think line numbers are clutter and a waste of space. If you want to point something out in the code, you could and should do it with comments, as it's actually hardcoded in the content and not going to change in future or based on the environment the code is displayed in. These indicators take no extra space.
+
 I think it's nice to be able to see the logical lines, but this is so subtle now, is it really worth adding? It goes against my ideal of not complicating things unless you have a very good reason.
 
-It's the one I am most likely to add because I can't see how it would break, at worst it would not be visible, which is no different from normal. If I disable JavaScript for example, we just don't get indicators, but nothing is broken.
+It's the method I am most likely to use because I can't see how it would break, at worst it would not be visible, which is no different from normal. If I disable JavaScript for example, we just don't get indicators, but nothing is broken.
 
 Well, fuck it, if I am wrong in my assumptions I would like to find out, so let's add it. Commit [ec70765](https://github.com/plu5/plu5.github.io/commit/ec707655c2fce2629c2cad2c2b4236ffcc23dae0).
 
-## Site: ASCII blocks and broken on Adwaita
+## Site: ASCII blocks
 I think I talked about it before, old versions of Webkit on iOS (~2020) have a bug in code blocks that are not supposed to wrap where if the first character of a line is not whitespace, it wraps, overlapping whatever is on its way. I always have to pay attention in ASCII art or anything else that is not meant to wrap that the first character in each line is space. On modern devices it's not a problem, but I still want it to work for people with old devices, 2020 is not even that long ago. It comes up again because adding a pseudoelement before the line that is not space triggers it as well apparently.
 
 The workaround is the same as I use for Braille, put it in its own custom code block instead of in a plaintext code block. This is done by declaring it as a language that does not exist in Rouge. I talked about it and showed how it changes the DOM in [devlog 3](https://ck.is-a.dev/devlog/3-braille-display-concerns). It will wrap by default, so have to add the usual CSS:
@@ -930,7 +932,8 @@ The workaround is the same as I use for Braille, put it in its own custom code b
 
 Because these blocks are not in the same DOM structure they do not get touched by the JavaScript line indicators thing.
 
-Looking at [my ASCII note](/notes/pers/art-ascii) also made me notice that Braille is broken with the new version of Adwaita (50.0) that came out late February.
+## Site: Braille broken on Adwaita
+Looking at [my ASCII note](/notes/pers/art-ascii) while debugging this also made me notice that Braille is broken with the new version of Adwaita (50.0) that came out late February.
 
 {% include figure.html file="devlog/260414234736-adwaita-braille-broken.png" name="Screenshot: Braille characters as rendered with Adwaita Mono 50.0" %}
 
@@ -945,6 +948,34 @@ The only thing that happened in 2026 is [this commit](https://gitlab.gnome.org/G
 Braille characters are not in this range, but it seems like the characters I'm seeing instead _are_. It's prioritising these characters over Braille? It's over my head, I don't know what I'm talking about, I didn't realise there are overlaps like this in Unicode, where you could decide to show one character or two others. The linked issue suggests they had to exclude them for flag emojis to work.
 
 It's not broken with Iosevka, so I changed it to that, but I don't like how narrow it is, it's not super good for Braille for that reason. We can change `line-height` (and possibly `letter-spacing`) but it would break other fonts (and other devices like phones, where people usually don't install fonts or have no control over the fonts). With `line-height: 1` it looks really nice with Iosevka, almost perfectly even so that the dots are like pixels, but on other fonts it looks ridiculously wide. [I settled on a compromise of 1.2](https://github.com/plu5/plu5.github.io/commit/b40b38e3e5cbc18591c39941bf1928d2131425b2).
+
+To be clear, the reason we need certain fonts instead of just `monospace` is the latter has a visible empty grid as the empty Braille grid character, which makes it hard to see. In Adwaita and Iosevka and several other fonts, the empty grid character looks like empty spacing (this is what I want).
+
+## Site: Content comment
+An embarrassing bug that has been in this site for a long time that [I finally fixed](https://github.com/plu5/plu5.github.io/commit/253ab9ed887f76e00b9551ee78e0f3975c02820e). The entire DOM under the post div would get duplicated in an often-enormous HTML comment at the end of every post. I had noticed it a while ago actually but thought it was just another eccentic Jekyll thing or something to assist debugging, I don't know.
+
+## Rofi: drun order file
+Had Chromium disappear from the first spot on rofi drun, as if its counter reset. The location of the counts is in `~/.cache/rofi3.druncache`, in the format:
+```sh
+512 org.kde.krita.desktop
+214 firefox.desktop
+139 org.kde.kronometer.desktop
+133 mpv.desktop
+..
+```
+If you move something to the top and save it appears at the top the next time you launch rofi drun, but each time you launch something with rofi this file gets reordered based on the numbers at the start. So to move something to the top change also its number.
+```sh
+1000 chromium.desktop
+512 org.kde.krita.desktop
+214 firefox.desktop
+139 org.kde.kronometer.desktop
+133 mpv.desktop
+..
+```
+
+I wanted to comment this information on [this Reddit thread](https://www.reddit.com/r/linuxquestions/comments/1kfdmnb) by Phydoux from May of last year, which had 0 responses, and is the top result for "rofi drun order" on Google, but it's archived. I recalled that a few years ago Reddit made all old posts no longer archived, with the option for the mods to re-enable archiving, so I tried to lobby the mods to unarchive old posts so that we could add information to old posts with 0 responses that index highly in search engines. They responded simply "Once posts are archived, we cannot reverse it."
+
+Even if someone looking for this information in the future somehow finds this devlog, they would most likely close it immediately because it's far too long with the information they need buried [it's at least in the TOC]. But it would be weird to create a devlog just for this, and I don't know where else to put it. (Maybe there should be another collection for small pieces of information? I feel that I would not want to create tonnes of small files though. And I don't know what to call it. And it's extra work/complication for something that probably doesn't matter.)
 
 ## Why is this devlog so long?
 They used to be one per day but as I worked on things that took several days or weeks it made more sense to keep adding to the same one instead of artificially breaking it up, and I have now gotten into the habit. Each time I want to add something I feel like it's too small to make a new devlog just for that.
