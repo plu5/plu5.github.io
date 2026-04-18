@@ -1,0 +1,34 @@
+---
+layout: default
+title: Notes
+permalink: /notes/
+redirect_from: /note/
+---
+
+<a href='/'>←⌂</a>
+<hr>
+
+<div id="hack">
+  <div><pre><code><!--
+-->  ________   ________  _________  _______
+ |\   ___  \|\   __  \|\___    __\\   ___\
+ \ \  \\ \  \ \  \|\  \|___ \  \ \ \  \___.
+  \ \  \\ \  \ \  \\\  \   \ \  \ \ \   ___\ s
+   \ \  \\ \  \ \  \\\  \   \ \  \ \ \  \___.
+    \ \__\\ \__\ \_______\   \ \__\ \ \______\
+     \|__| \|__|\|_______|    \|__|  \|______|</code></pre></div>
+
+  <ul class="posts">
+    {% for post_ in site.notes reversed %}
+    <li>
+      <small>{{ post_.date | date_to_string }}</small>
+      <a class="post-link" href="{{ post_.url }}">{{ post_.title }}</a>
+      {{ post_.lang }} {{ post_.path | split: "/" | pop | join: "/" | remove_first: "_notes/" }}
+      <br>
+      {% include cats-container.html post=post_ %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% include fin.html %}
