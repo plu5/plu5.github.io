@@ -3,8 +3,12 @@ layout: default
 ---
 
 <a href='/'>←⌂</a>
-{% if page.path contains '_devlog' %}
-/ <a href='/devlog'>←/devlog</a>
+{% assign p = page.url | split: "/" | slice: 1 | first %}
+{% comment %}
+  just a little sanity check, there is nothing special about the number 3
+{% endcomment %}
+{% if p.size > 3 %}
+/ <a href='/{{ p }}'>←/{{ p }}</a>
 {% endif %}
 <hr>
 
