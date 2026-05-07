@@ -2,11 +2,12 @@
 layout: post
 title:  "mwin"
 date:   2026-01-25 22:55
-modified_date: 2026-01-25 22:55
+modified_date: 2026-04-27 11:59
 categories: projet
 lang: fr
 ---
 ## Sélection
+- id:mw7 tester sous win10
 - id:mw4 readme
 - id:mw3 ci
 - id:mw2 release
@@ -29,5 +30,8 @@ lang: fr
 
 § 2026-01-31
 - {id:mw6} mode émulation bspwm
+
+§ 2026-04-27
+- {id:mw7} tester sous win10
 
 {% include fin.html %}

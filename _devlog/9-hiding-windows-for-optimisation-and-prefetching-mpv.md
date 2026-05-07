@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-04-12 03:13
+modified_date: 2026-04-22 08:48
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -2989,6 +2989,11 @@ I tire of this. If I do continue with this it will have to be in another devlog.
 
 [`queuedmpv` version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/queuedmpv)
 (if I ever figure this out)
+
+{% include note.html content='
+> [!NOTE]
+> In the months after writing this I used gaplessmpv and queuedmpv a lot, and wanted to write a C program and make it work cross-platform to help people on the initial issue, but I\'m back to thinking streaming with mpv ytdl is sadly not very robust, especially with bilibili, and no external program can work around these issues. I think it\'s better to download in advance with yt-dlp. Streaming or not, it has to be downloaded one way or another, and downloading in advance has less issues, and whatever issues do occur are known in advance instead of in the middle of watching or listening. Consider also that yt-dlp breaks pretty regularly due to changes in the sites that try to prevent its usage; if you had downloaded in advance you can continue unhindered for a while and hopefully it will be fixed by the time of your next download, whereas if you rely on it working ahead of every single video you will be affected almost immediately and have to wait for the fix before being able to continue. Or use the site (hiding or putting it in a background tab quells the CPU usage), where you are also able to skip to a particular video and navigate more easily. It\'s frustrating, but every time I try to make it work I come away with these conclusions.
+' %}
 
 ### yt-dlp search prefixes
 While researching for this I came across [this SE question](https://unix.stackexchange.com/questions/750166/yt-dlp-mpv-chained-media-playback) by Gabe Devs, 2023.

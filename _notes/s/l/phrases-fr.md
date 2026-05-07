@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-04-18 01:12
+modified_date: 2026-05-06 07:14
 categories: lang
 lang: fr
 ---
@@ -795,5 +795,76 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - Il a levé les yeux au ciel quand elle a commencé à lui raconter encore la même hisoire. ([zaby](https://forum.wordreference.com/threads/roll-your-eyes.307119/))
 - Nous utilisons des cookies en vue d'améliorer ton expérience en ligne et de t'offrir des contenus et des services adaptés à tes centres d'intérêts. En utilisant Dailymotion, tu reconnais reconnais accepter notre charte sur les cookies. [bouton : J'ai compris] (dailymotion.com)
 - Un serveur X et ses clients peuvent s'exécuter sur le même ordinateur, auquel cas ils communiquent via des sockets de domaine, ou sur des ordinateurs différents, auquel cas ils communiquent via TCP/IP. ([jichu4n](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/) tr)
+
+§ 2026-04-20
+- films d'animation, court métrages d'animation
+- « dessin animé » mais pas toujours (plutôt jeunesse)
+- « animation » seul ne s'utilise pas comme en anglais. au singulier pour le domaine / métier, pas pour un film.
+- mélange de graines salées ([JeanDeSponde](https://forum.wordreference.com/threads/noix-noisette-cacahu%C3%A8te.880211/))
+- film muet
+- modification incompatible, rupture de compatibilité
+- ~~dans le cas de~~ en cas de
+- le texte sur la dernière ligne (pas _dans_)
+- en dernière ligne (position structurelle ?)
+  + ajouter des données en dernière ligne
+  + « ~~le texte / les données en dernière ligne~~ » ne se dit pas
+- en dernière ligne droite
+- ça/il m'est arrivé de... + infinitif (pas _que_)
+- les balises HTML sont entourées de chevrons `<>`
+  + `<` chevron ouvrant
+  + `>` chevron fermant
+
+§ 2026-04-24
+- il reste bien des choses à détailler dans cette troisième semaine, mais ne soyons pas trop minutieux ! chaque chose arrive à son temps ! (assimil chinois 96 p110)
+  + bien _des_ choses, beaucoup _de_ choses. le français m'agace parfois
+- moi, j'aurai bientôt terminé mes études ! (^ p114)
+
+§ 2026-04-27
+- [old] (s'exercer / s'entrainer) à (peindre / représenter) (différentes conditions d’éclairage / différents éclairages), étudier les effets de lumière en peinture, pratiquer la peinture sous différents éclairages, travailler les effets de lumière
+  + « peindre différents éclairages » sans « des » ??
+- (poser / établir / bloquer) les valeurs
+
+§ 2026-04-28
+- il va bientôt être six heures et demie ! (assimil chinois 96 p160)
+
+§ 2026-04-30
+- lumière de contour
+
+## 2026-05
+§ 2026-05-01
+- La solution est six puissance dix. ([wr](https://www.wordreference.com/enfr/to%20the%20power))
+- [old] remettre en question ([wr](https://forum.wordreference.com/threads/im-beginning-to-second-guess-myself.1018848/))
+- can't compete : je ne fais pas le poids contre elle / ne suis pas de taille contre elle / je ne peux pas rivaliser avec elle / ne suis pas de taille à rivaliser avec elle. nous ne jouons pas dans la même cour. ([wr](https://forum.wordreference.com/threads/i-cant-compete-with-her.1242849/))
+- principes personnels, règles que je me fixe, ligne de conduite
+
+§ 2026-05-02
+- fait de n'exister qu'en un exemplaire ([wr](https://www.wordreference.com/fren/unicit%C3%A9))
+- même en supposant que l'utilisateur se lance dans la course à l'ordinateur le plus performant, équipé du dernier modèle de processeur, le temps de calcul restera rédhibitoire. (gilles dubertret, initiation à la cryptographie p6)
+- je ne vois pas d'autre solution
+
+§ 2026-05-03
+- il est piquant que ses mémoires si concis soient pour nous bien plus clairs que les filandreux exposés que croyaient devoir en donner ses successeurs immédiats ([frwik](https://fr.wikipedia.org/wiki/%C3%89variste_Galois))
+
+§ 2026-05-04
+- prendre un peu de recul ([wr](https://forum.wordreference.com/threads/sometimes-the-best-way-to-look-at-sth-is-to-take-a-step-back.2312559/))
+- il vaut mieux faire des fautes, et de cette façon apprendre à se corriger. cela vous sera bien plus profitable ! (assimil chinois 96 p160)
+- c'est le moment d'aller dormir
+
+§ 2026-05-05
+- l'an prochain il ira à shanghai. (assimil chinois 96 p188)
+- où comptes-tu aller l'an prochain ? où as-tu l'intention d'aller l'année prochaine ? (^ p189)
+- j'ai un magnétophone ! c'est très pratique ! (^ p192)
+  + c'est la première fois que je rencontre le mot magnétophone. enregistreur vocal magnétique (tape recorder)
+- interrogation portant sur le passé (^ p201)
+- c'est cette partie de la phrase, en sa totalité, qui constitue le degré atteint par le verbe (^ p204)
+- attention aux spécificatifs, qu'il faut toujours intercaler entre un démonstratif, ou un nombre, et un substantif. (^ p214)
+- ainsi, lors de vos révisions et de la "deuxième vague", vous aurez moins de difficultés à vous les remémorer. (^)
+- il arrive de rencontrer dans certaines phrases deux sujets juxtaposés, le plus souvent l'un venant préciser la situation géorgraphique du second. (^ p219)
+- nous aurons l'occasion de revenir sur ce schéma. contentez-vous pour l'instant de lire plusieurs fois à haute voix le texte, et de faire les exercices. l'habitude fera le reste ! (^ p222)
+
+§ 2026-05-06
+- La serpillière était posée à côté de la poubelle, tandis qu'un chiffon traînait sur la table après le ménage.
+  + un chiffon c'est pour essuyer ou dépoussiérer
+- Je passe le balai
 
 {% include fin.html %}

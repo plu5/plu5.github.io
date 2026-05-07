@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-04-18 05:45
+modified_date: 2026-04-23 19:03
 categories: ukpol
 lang: en
 ---
@@ -24,18 +24,32 @@ lang: en
 - Government
   + local government
   + incoming government[^incoming-government]
-  + in government[^in-government]
+  + in government[^in-government][^chiefs]
   + Governments
   + system of government
+  + SNP Government[^chiefs]
 - Parliament
   + parliamentary business
+  + parliamentary Session[^chiefs]
 - Member
-- Prime Minister
+- Back Bencher[^chiefs]
+- Front Bench[^chiefs]
+- Government Benches[^chiefs]
+- Cabinet member[^chiefs]
+- Leader of the House[^chiefs]
+- party leader[^chiefs]
+- Prime Minister[^chiefs]
   + Prime Ministers[^pms]
   + Prime Minister's questions[^pms]
+- business questions[^chiefs]
 - President
 - Director of Public Persecutions
 - director general for strategic operations[^director-general-strategic]
+- director of communications[^chiefs]
+- chief of staff[^chiefs]
+- permanent secretary[^chiefs]
+- Cabinet Secretary[^chiefs]
+- principal private secretary[^chiefs]
 - Law Officers[^law-officers]
 - Bar Association
 - Labour party
@@ -52,6 +66,17 @@ lang: en
 - winter fuel payment[^winter-fuel-payment]
 - Republican[^republican]
 - Nolan principles[^nolan-principles]
+- Downing Street[^chiefs]
+- No. 10[^chiefs]
+- Prorogation[^chiefs]
+- north Atlantic[^chiefs]
+- Her Majesty Queen Elizabeth II[^chiefs]
+  + pronounced "the second"
+- the late Queen[^chiefs]
+- public service[^chiefs]
+- Lords amendments[^chiefs]
+- middle east[^chiefs]
+- devolution[^chiefs]
 
 ## Inconsistent
 - Dispatch Box / Despatch Box
@@ -80,5 +105,6 @@ lang: en
 [^pms]: [2026-04-16](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse)
 [^chambers]: [2026-04-16](https://hansard.parliament.uk/Commons/2026-04-16/debates/85CEA287-64C8-4675-AF4D-B2E985F5094B/ClientBoardProgress?highlight=chambers#contribution-D12E0EE0-9FC0-49E0-A79C-84DEB29444E2)
 [^north-sea-caps]: [Lords, 2026-04-16](https://hansard.parliament.uk/Lords/2026-04-16/debates/4AC6B49B-3115-44B9-AE94-F8EEA56A845B/DataCentresEnergyDemand?highlight=%22north%20sea%22#contribution-AB96E383-C26A-4BE9-BAB2-80AA826A8023)
+[^chiefs]: [2026-04-23](https://hansard.parliament.uk/commons/2026-04-23/debates/9BCB5C4D-8199-46BC-88A6-244350C8F66A/BusinessOfTheHouse). "four chiefs of staff, five directors of communications, three Cabinet Secretaries and four principal private secretaries". I think this sentence illustrates well how bizarre the Hansard spelling conventions are at times.
 
 {% include fin.html %}

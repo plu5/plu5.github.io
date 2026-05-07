@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-04-16 23:30
+modified_date: 2026-04-23 21:19
 categories: ukpol
 lang: en
 ---
@@ -1337,5 +1337,123 @@ another thing to mention is i have this error with hansard when trying to view t
 > The content you are trying to access is not available, this could be due to a correction or an update in progress. Please review the index to find your item or try again in a few minutes.
 
 but only with the direct link, from hansard search or linking to a particular contribution like [this](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse?contribution-F2D0006F-852C-4C58-A8F4-50CB610F38C5) it works.
+
+### 2026-04-23
+carry over motions
+and many consideration of lords messages
+
+lamont:
+- start by congratulating a member for the birth of his daughter layla
+- someone raising money for scottish brain research centre
+- we are all watching talks between the us and iran, we all hope to see a swift end to this conflict
+- After weeks of chaos, this may be the lowest point yet for the Government. A Prime Minister putting his own interests above the national interest. He has already had 4 chiefs of staff, 5 directors of communications, 3 cabinet secretaries, and 4 principle private secretaries. So does the Leader of the House not agree that perhaps the problem lies with the Prime Minister himself?
+- On Tuesday, the Foreign Affairs Committee heard extraordinary evidence from Olly Robbins, the former permanent secretary at the Foreign Office. He described a dismissive attitude in Downing Street towards vetting, and constant pressure to appoint Peter Mandelson to the most senior diplomatic role. He also told MPs that he was asked to give the Prime Minister's then director of communications a senior diplomatic post. Without informing the Foreign Secretary, it would seem. Mr Speaker, the Foreign Office is not a redeployment pool for failed political advisors. So can the Leader of the House tell us: was it appropriate for No. 10 to apply such pressure over Mandelson's vetting, or does he accept that due process was not followed? Does he believe the Prime Minister inadvertently mislead this House? Does the Leader accept the Prime Minister continues to make statements that are hard to reconcile with reality? Can the Leader explain why Olly Robbins was sacked, and was it right and fair to sack Olly Robbins?
+- Mr Speaker, the Prime Minister has never looked weaker. The Prime Minister is so weak the he's brought forward the moment of Prorogation to avoid another bruising Prime Minister's questions [*govt members dissent, campbell shakes his head, opposition member:* "absolutely. absolutely."]. He's also lost the confidence of the entire country. So when will Labour MPs finally stand up for their constituents and join us in removing this dreadful Prime Minister?
+- While the Prime Minister is consumed by internal chaos, the issues that matter to our constituents are being ignored. Energy bills are soaring, particularly for those in rural communities relying on heating oil, people are struggling to find work, decisions and funding our national defence are being delayed despite global threats. At the same time, Government Back Benchers and Cabinet members brief against each other, plotting over the Prime Minister's future. As this parliamentary Session draws to a close, I doubt it will be remembered fondly by those on the Government Benches.
+- Mr Speaker, in 2 weeks' time, voters will go to the polls in important elections across England and parliamentary elections in Scotland and Wales. In Scotland, Labour's campaign has descended into confusion, illustrated by the remarkable sight of the Prime Minister visiting the nuclear base at Faslane, whilst avoiding any contact with his own party leader in Scotland, Anas Sarwar. It seems the Prime Minister needed the protection of the nuclear deterrent from his own Scottish Labour colleagues. This Government has found it easier to locate secret Russian submarines in the north Atlantic than it has finding the Scottish Labour leader in the south side of Glasgow. Across Scotland, voters are clear. They are tired of an SNP Government distracting from delivery and focused on independence. But people are not powerless. The peach-coloured regional ballot paper gives voters the opportunity to prevent another SNP majority, as they did in 2016 and 2021. The result of another SNP majority in scotland would be similar to the current Labour majority in this House. More broken promises, more chaos, more division. So does the Leader of the House agree that whether at Westminster or at Holyrood, Governments deserve to be judged harshly if they don't stick to their promises and inflict chaos on our country?
+
+campbell:
+- certainly join in welcoming the birth of ... layn?
+- today is st george's day
+- During this week we have celebrated the centenary to the birth of Her Majesty Queen Elizabeth II, and it has been announced that a trust will be established in honour of the life of the late Queen. The trust will focus on restoring shared spaces in communities, reflecting the late Queen's commitment to public service, inspired by the belief that everyone is our neighbour. And that, Mr Speaker, is a lesson that we should all seek to live by.
+- as i said last week, the govt made clear its commitment to tackling anti-semitic attacks. following the incident this week, i want to restate our position that attacks on british jews are an attack on all of us. we will do whatever it takes to stop those who seek to intimidate our jewish communities.
+- we are approaching the end of the session, and at its conclusion this parliamentary session will see the delivery of more than 50 government bills, and we will continue to build on this in the next parliamentary session.
+- i want to say something about capita, mr speaker, and a statement was made to this house which provided an update on capita and civil service pensions, and i know that members across the house will welcome the update, and i want to assure members that the issues that they raise with me in this forum are heard by the government, and were we can, the government acts.
+- and before i turn to the remarks of the hon. gentleman, can i also, mr speaker, wish everyone, including all members of this house who are taking part in the london marathon this sunday, the very best of luck.
+- let me turn to the remarks of the hon. gentleman, and join him in saying how saddened we are to learn of the death of jamie tweedie [?] [..] friends and family making sure he's not forgotten
+- the hon. gentleman mentions he peace talks and i want to join him of course in hoping that the peace talks are successful, we want the ceasefire to continue
+- i just want to put on record, what has unfolded in that part of the world demonstrates that the pm's judgement on not joining the war in the first place [govt members "hear, hear"] was absolutely correct, and he has spent his time, mr speaker, with diplomatic efforts to make sure--working with others--to make sure that the straits of hormuz are open at the earliest opportunity.
+- let me now turn to the remarks of the hon. gentleman around domestic politics, and he's perfectly entitled to make his case, mr speaker, let me remind the house that the prime minister came here at the earliest opportunity on monday and faced questions for two-- faced questions on monday-- faced questions for two and a half hours. it was followed by an emergency debate for 3 hours on tuesday in which members-- in which members had an opportunity to make their case and ask their questions. the prime minister faced prime minister's questions for about 45 minutes yesterday, in which he was questioned extensively on this. the foreign affairs select committee is doing its job in holding decision makers to account, and there have been numerous opportunities, mr speaker, including cabinet office questions which have just finished, for other questions to be put on the question of peter mandelson. i cannot and the government cannot be held responsible, mr speaker, for the fact that the leader of the opposition has been so hopeless during these events that she cannot hold-- she cannot hold effectively the government to account.
+- let me just mention, because the hon. gentleman has been reading too many newspapers, let me mention the question of prorogation, because i've just read out to the house, mr speaker, the business next week which take-- the business next week-- [speaker: order. mr stafford. you're getting very carried away, please. enjoy yourself on the front bench, this is not the place to be thrown out from. come on.] thank you, mr speaker. i've just read out the business, mr speaker, which includes, if necessary, wednesday and thursday where we will be dealing with, um, lords amendments. and if that is the case, the hon. gentleman is asking about pmqs, if the house is still sitting, then pmqs will take place and i would imagine, mr speaker, business questions will still take place too, if we're still sitting on thursday [lamont pissing himself for some reason]. so there's nothing, there's nothing in what i've read out which suggests anything that is not usual.
+- he talks about, mr speaker, the record of not just this government but he then goes on to the question fo what is happening in scotland, so let me disagree with him about the way in which this government would be judged, mr speaker, because the borrowing figures show that we're borrowing less than at any time in the last four years. unemployment, mr speaker, has come down. inflation and interest rates were [? are?] falling, and waiting lists are coming down too. now i accept, mr speaker, that we are facing the turmoil of the fallout from the situation in the middle east, but let me just say to the house, that when these events happen, this country, as a result of the action that we have taken in the last two years, are much better placed to see out these challenges than the previous government was. but let me also however-- my final point is, i'm going to agree with the hon. gentleman in what he says about the situation north of the border, at least as it partains to the snp. the voters suggest, mr speaker, that they are tiring of the snp government. after two decades in government, it is time for change. the gov-- the snp have had the biggest settlement since devolution, they are failling across the board on public services, and i expect that voters will want to take that opportunity to make their position clear. but let me finally disagree with him, because the way to do that is to vote labour.
+
+i lost respect a bit for the dude, he's starting to sound like lavrov
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/5 answered** (↓)
+
+[Happened at 10:35](https://parliamentlive.tv/event/index/0c796d74-6cea-4b8a-8013-808ad39d6503?in=10:35:12). [Hansard](https://hansard.parliament.uk/commons/2026-04-23/debates/9BCB5C4D-8199-46BC-88A6-244350C8F66A/BusinessOfTheHouse).
+
+Lamont standing in for Norman for the 5th time.
+
+*(Business Questions main exchange. `Q`s by John Lamont, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Iran talks
+
+> **LAMONT:** We are all watching the development of peace talks between the US and Iran.
+
+→
+
+> **CAMPBELL:** I want to join him of course in hoping that the peace talks are successful. [..]
+
+> I just want to put on record, Mr Speaker, what has unfolded in that part of the world demonstrates that the PM's judgement on not joining the war in the first place was absolutely correct, and he has spent his time, Mr Speaker, with diplomatic efforts to make sure—working with others—to make sure that the straits of Hormuz are open at the earliest opportunity.
+
+Editor comments:
+
+1. ~~It's singular~~ [or maybe not, or both spellings are used]
+2. Didn't Norman say Starmer's first instinct was to want to join and the cabinet was against it, or was it just media rumours?
+
+#### (2) ✔️ Q1: Does he agree the problem lies with the PM? → No
+
+> **LAMONT:** After weeks of chaos, this may be the lowest point yet for the Government. A Prime Minister putting his own interests above the national interest. He has already had 4 chiefs of staff, 5 directors of communications, 3 cabinet secretaries, and 4 principal private secretaries. So does the Leader of the House not agree that perhaps the problem lies with the Prime Minister himself?
+
+→
+
+> **CAMPBELL:** Let me remind the House that the Prime Minister came here at the earliest opportunity on Monday and faced questions for two and a half hours. It was followed by an emergency debate for 3 hours on Tuesday in which Members had an opportunity to make their case and ask their questions. The Prime Minister faced Prime Minister's questions for about 45 minutes yesterday, in which he was questioned extensively on this.
+
+> The Foreign Affairs Select Committee is doing its job in holding decision makers to account, and there have been numerous opportunities, Mr Speaker, including Cabinet Office questions which have just finished, for other questions to be put on the question of Peter Mandelson. I cannot and the Government cannot be held responsible, Mr Speaker, for the fact that the Leader of the Opposition has been so hopeless during these events that she cannot hold effectively the Government to account.
+
+#### (3) ❌ Q2: Mandelson's vetting: Does he accept due process was not followed?
+
+> **LAMONT:** On Tuesday, the Foreign Affairs Committee heard extraordinary evidence from Olly Robbins, the former permanent secretary at the Foreign Office. He described a dismissive attitude in Downing Street towards vetting, and constant pressure to appoint Peter Mandelson to the most senior diplomatic role. He also told MPs that he was asked to give the Prime Minister's then director of communications a senior diplomatic post. Without informing the Foreign Secretary, it would seem. Mr Speaker, the Foreign Office is not a redeployment pool for failed political advisors. So can the Leader of the House tell us: was it appropriate for No. 10 to apply such pressure over Mandelson's vetting, or does he accept that due process was not followed?
+
+#### (4) ❌ Q3: Does he believe the PM mislead the House?
+
+> **LAMONT:** Does he believe the Prime Minister inadvertently mislead this House? Does the Leader accept the Prime Minister continues to make statements that are hard to reconcile with reality?
+
+#### (5) ❌ Q4: Why was Olly Robbins sacked, and was it right?
+
+> **LAMONT:** Can the Leader explain why Olly Robbins was sacked, and was it right and fair to sack Olly Robbins?
+
+#### (6) 📜 REMARK: When will Labour MPs join us in removing the PM? [Rhetorical]
+
+> **LAMONT:** The Prime Minister has never looked weaker. The Prime Minister is so weak the he's brought forward the moment of Prorogation to avoid another bruising Prime Minister's questions. [*govt members dissent, campbell shakes his head, opposition member:* "absolutely. absolutely."]. He's also lost the confidence of the entire country. So when will Labour MPs finally stand up for their constituents and join us in removing this dreadful Prime Minister?
+
+→
+
+> **CAMPBELL:** Let me just mention—because the hon. Gentleman has been reading too many newspapers—let me mention the question of prorogation, because I've just read out to the House, Mr Speaker, the business next week which take— the business next week—
+
+> **HOYLE:** Order. Mr Stafford. You're getting very carried away, please. Enjoy yourself on the Front Bench, this is not the place to be thrown out from. Come on.
+
+> **CAMPBELL:** Thank you, Mr Speaker. I've just read out the business, Mr Speaker, which includes, if necessary, Wednesday and Thursday where we will be dealing with, um, Lords amendments. And if that is the case— the hon. Gentleman is asking about PMQs, if the House is still sitting, then PMQs will take place and I would imagine, Mr Speaker, business questions will still take place too, if we're still sitting on Thursday. So there's nothing, there's nothing in what I've read out which suggests anything that is not usual.
+
+#### (7) ✔️ Q5: Does he agree govts deserve to be judged harshly if they break promises and inflict chaos? → Only as far as it concerns the SNP
+
+> **LAMONT:** Mr Speaker, in 2 weeks' time, voters will go to the polls in important elections across England and parliamentary elections in Scotland and Wales. In Scotland, Labour's campaign has descended into confusion, illustrated by the remarkable sight of the Prime Minister visiting the nuclear base at Faslane, whilst avoiding any contact with his own party leader in Scotland, Anas Sarwar. It seems the Prime Minister needed the protection of the nuclear deterrent from his own Scottish Labour colleagues. This Government has found it easier to locate secret Russian submarines in the north Atlantic than it has finding the Scottish Labour leader in the south side of Glasgow. [..]
+
+> The result of another SNP majority in Scotland would be similar to the current Labour majority in this House. More broken promises, more chaos, more division. So does the Leader of the House agree that whether at Westminster or at Holyrood, Governments deserve to be judged harshly if they don't stick to their promises and inflict chaos on our country?
+
+→
+
+> **CAMPBELL:** [L]et me disagree with him about the way in which this Government would be judged, Mr Speaker, because the borrowing figures show that we're borrowing less than at any time in the last four years. Unemployment, Mr Speaker, has come down. Inflation and interest rates are falling, and waiting lists are coming down too. Now, I accept, Mr Speaker, that we are facing the turmoil of the fallout from the situation in the middle east, but let me just say to the House that when these events happen, this country, as a result of the action that we have taken in the last two years, are much better placed to see out these challenges than the previous Government was.
+
+> But let me also however— my final point is, I'm going to agree with the hon. Gentleman in what he says about the situation north of the border, at least as it pertains to the SNP. The voters suggest, Mr Speaker, that they are tiring of the SNP Government. After two decades in government, it is time for change. The SNP have had the biggest settlement since devolution, they are failing across the board on public services, and I expect that voters will want to take that opportunity to make their position clear. But let me finally disagree with him, because the way to do that is to vote Labour.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** During this week we have celebrated the centenary to the birth of Her Majesty Queen Elizabeth II, and it has been announced that a trust will be established in honour of the life of the late Queen. The trust will focus on restoring shared spaces in communities, reflecting the late Queen's commitment to public service, inspired by the belief that everyone is our neighbour. And that, Mr Speaker, is a lesson that we should all seek to live by.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+See also [mamamia's comment from earlier](https://www.reddit.com/r/ukpolitics/comments/1spfznc/rumours_speculation_questions_and_reaction/ohshiro/)
+
+what people are talking about in ukpol are committee hearings surrounding mandelson thing
 
 {% include fin.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-04-16 19:02
+modified_date: 2026-05-04 06:37
 categories: flou
 lang: fr
 ---
@@ -74,6 +74,9 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-01-21
 - [soft] stenopat logiciel sténo c++ plus légér et sécurisé
+  + csten
+  + desc possible : "Lightweight native stenography for Linux"
+    - mais vaut mieux le faire marcher sous windows dès le début
 
 § 2026-01-22
 - [art] sketches mitchell et webb en bd fr
@@ -162,7 +165,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [art] diagrammes d'anatomie en art ascii
 - [art] l'art en caractères japonais
 - [art] l'art en caractères pointillés
-- ✓ [soft] mode emacs pour créer de l'art pointillé
+- ✓ [emacs] mode emacs pour créer de l'art pointillé
   + comme [cet éditeur web](https://emojicombos.com/dot-art-editor)
   + c'est du braille
   + [braille.el](https://github.com/plu5/braille.el)
@@ -176,6 +179,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-02-21
 - [old] [soft] arcs
   + en c avec support win98
+  + "art, restoration, and composition system" ?
 
 § 2026-02-22
 - [soft] regarder si c'est faisable de compiler emacs pour win98. ça va bcp simplifier ma vie si oui. et si oui je pourrais créer un dépôt où je fournis des builds compatibles avec les anciens systèmes d'exploitation. un peu comme le gars avec un dépôt pour nativecomp emacs pour windows que j'utilisais sous windows, ou s'il faut changer quelque chose pour que ça compile, ça va être un peu comme thorium
@@ -188,7 +192,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [site] /lpa guides dans le style de lparchive.org
 
 § 2026-02-24
-- [soft] moyen d'accéder google docs dans emacs
+- [emacs] moyen d'accéder google docs dans emacs
   + cf [gtasks.el](https://github.com/thndrbrrr/gtasks), [org-gcal.el](https://github.com/kidd/org-gcal.el), [google-contacts.el](https://github.com/jd/google-contacts.el), [google-maps](https://github.com/emacsmirror/google-maps), [google-translate](https://github.com/atykhonov/google-translate), [lingva.el](https://codeberg.org/martianh/lingva.el), [libretrans.el](https://codeberg.org/martianh/libretrans.el),  [gt.el](https://github.com/lorniu/gt.el) (go-translate)
   + pas vraiment pertinent mais [scholar-import](https://github.com/teeann/scholar-import) m'intéresse, notamment pour la manière dont il s'intègre à une extension web pour importer des informations depuis le navigateur
 - [jeu] prototype à partir de rien qu'une description lpa
@@ -305,5 +309,38 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [jeu] dbd
 - [jeu] genesis alpha one
 - [jeu] r404rm jouable
+
+§ 2026-04-18
+- [emacs] orkdown-mode. fonctions copiées de org-mode et modifiées pour les faire marcher avec markdown
+- [jeu] papers please
+- [jeu] interrogation simulator
+
+§ 2026-04-20
+- [art] [3d] sculpture du chevalier de l'album surf's up
+  + en fait c'est basé sur une sculpture existante. [*End of the Trail*, James Earle Fraser](https://en.wikipedia.org/wiki/File:End_of_the_Trail,_by_James_Earle_Fraser.jpg)
+- [jeu] [kijimad/ruins](https://github.com/kijimad/ruins)
+- [old] [art] [animation] la vie, l'odeur
+  + entièrement en code
+  + [jeu] alors ptet en faire un jeu au lieu d'une vidéo
+- [art] [animation] films d'animation entièrement en code, visionnés soit comme vidéos statiques (pour les rendre plus accessibles) soit en temps réel
+
+§ 2026-04-22
+- [jeu] half life 1
+  + avec bunnyhop
+- [jeu] jeux de rebellion
+- [jeu] jeux de frontier
+
+§ 2026-04-23
+- [jeu] project zomboid
+
+§ 2026-05-02
+- [jeu] 4d
+  + "open source n dimensional system with browser demo"
+- [jeu] miegakure
+- tenebris aeternis involuta
+
+§ 2026-05-03
+- rassembler et traduire tous les écrits qu'on a d'évariste galois
+- [soft] warpd sous windows
 
 {% include fin.html %}

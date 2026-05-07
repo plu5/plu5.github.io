@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-04-12 00:56
+modified_date: 2026-04-26 04:10
 categories: os
 lang: fr
 ---
@@ -18,6 +18,7 @@ lang: fr
   <br>(`-h` : human readable. `-d0` : depth 0, pareil à `-s` `--summarize`.)
    + `taille=$(du -kd0 "$nom" | cut -f 1)` : si besoin d'avoir juste un chiffre, par ex. pour un script 
      <br>(`-k` : block size 1K, c-à-d kilobits.)
+- `swapon --show` : l'état du swap
 - `stat monfichier` : les dates, taille, permissions d'un fichier
 - `file monfichier` : le type d'un fichier
   + `--mime-type` (ex. `text/plain`)
