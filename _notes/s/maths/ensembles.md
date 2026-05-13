@@ -2,12 +2,12 @@
 layout: post
 title: Ensembles
 date: 2026-05-03 02:51
-modified_date: 2026-05-04 01:13
+modified_date: 2026-05-13 17:38
 categories:
 lang: fr
 ---
 
-## .
+## A
 ### L'axiome d'extensionalité
 deux ensembles qui ont les mêmes éléments sont égaux.
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-05-13 15:15
+modified_date: 2026-05-13 19:29
 categories: lang
 lang: fr
 ---
@@ -937,5 +937,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - « Je ne suis pas du tout certain que la définition que je vais proposer puisse convenir à la phrase soumise, mais il ne faudrait pas non plus oublier qu’on dit encore d’un homme qu’il est creux lorsqu’il se remplit facilement d’imaginations chimériques et de vaines espérances, qu'il est rêveur et mélancolique. Un homme creux ne fait rien de constructif ni de positif, il reste toujours à contempler la vie des autres, il se contente de l’état des choses tel qu’il est et n’essaie même pas de changer quoi que ce soit dans son existence. Cette tournure fait aussi allusion au poème de T.S. Eliot – Les Hommes creux (The Hollow Men, 1925) [..] Il se peut donc que ce jeune homme ait un air si rêveur que l'on pourrait deviner sans peine son manque d’énergie, rien qu'à le voir se lever de son siège. P.S. C’est d’ailleurs le mot qu’on disait au régiment en parlant d’un homme de rang lorsque celui-ci n’arrivait pas à exécuter un commandement avec précision et énergie, qualités requises pour devenir un bon soldat. Un propre à rien, donc. » ([volo](https://forum.wordreference.com/threads/un-grand-jeune-homme-creux.2971508/)) (meirl)
 - Depuis que j'ai déménagé à l'étranger, je ne vois ma famille élargie que pour les fêtes de Noël. ([wr](https://www.wordreference.com/enfr/extended%20family))
 - Le vinaigre de cidre est un vinaigre fabriqué à partir de jus de pomme fermenté, et peut être utilisé de différentes manières : s'il est connu pour son utilisation à des fins culinaires (sauces, marinades, chutneys…), il est aujourd'hui très vanté pour plusieurs effets favorables sur la santé, sans toujours beaucoup de preuves scientifiques à l'appui. ([frwik](https://fr.wikipedia.org/wiki/Vinaigre_de_cidre))
+- Vous prendrez bien un cookie ? [..] En acceptant ces cookies vous pourrez déguster l’actualité chaude et croquante, garnie avec les pépites du web, ou vous pouvez continuer sans accepter. ([20minutes.fr](https://www.20minutes.fr/societe/4137740-20250208-astuces-concerts-comment-etre-premier-files-attente-ligne))
+- En revanche, si une personne se connecte après l’heure exacte de mise en vente, elle se verra attribuer une place en fin de file d’attente. (^)
 
 {% include fin.html %}
