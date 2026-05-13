@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-05-04 06:37
+modified_date: 2026-05-13 07:08
 categories: flou
 lang: fr
 ---
@@ -342,5 +342,14 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-05-03
 - rassembler et traduire tous les écrits qu'on a d'évariste galois
 - [soft] warpd sous windows
+
+§ 2026-05-07
+- [old] nand2tetris
+- autre chose plus tôt dans la journée que j'avais oublié :-(
+  + (10th) ptet l'idée pour braille.el de pouvoir faire des timelapses comme krita. je ne me souviens pas si c'était ce jour ou non.
+
+§ 2026-05-12
+- [art] bd homme grand colérique
+  + meco
 
 {% include fin.html %}

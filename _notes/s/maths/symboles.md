@@ -2,7 +2,7 @@
 layout: post
 title: Référence de symboles
 date: 2026-05-01 22:06
-modified_date: 2026-05-04 01:16
+modified_date: 2026-05-08 08:08
 categories: maths
 lang: fr
 ---
@@ -53,6 +53,8 @@ lang: fr
 - ℤ : ensemble des nombres entiers relatifs
 - ⌊ ⌋ : floor (partie entière inférieure)
 - ⌈ ⌉ : ceil (partie entière supérieure)
+- ∑ : somme
+  + xcompose : compose×2 s u m
 
 ## Réfs
 - [Wikipédia: Table de symboles mathématiques](https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques)

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-05-06 07:14
+modified_date: 2026-05-13 15:15
 categories: lang
 lang: fr
 ---
@@ -866,5 +866,76 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - La serpillière était posée à côté de la poubelle, tandis qu'un chiffon traînait sur la table après le ménage.
   + un chiffon c'est pour essuyer ou dépoussiérer
 - Je passe le balai
+
+§ 2026-05-07
+- et pour ce qui est de la production alors, quel est l'organisme qui en est chargé ? (assimil chinois 96 p240)
+- complexité en espace, complexité en temps
+
+§ 2026-05-08
+- ne vous préoccupez pas outre mesure du vocabulaire de seconde importance présenté dans certains dialogues. l'important est de retenir les tournures les plus usitées à force de les rencontrer dans les leçons, jour après jour. (assimil chinois 96 p244)
+
+§ 2026-05-10
+- en quelle année as-tu commencé à étudier le chinois ? (assimil chinois 96 p292)
+- un effet domino, un effet cascade
+
+§ 2026-05-11
+- la prise en main est à chier ([MonsieurDuc42 évaluation du jeu Hydroneer](https://steamcommunity.com/profiles/76561199746322528/recommended/1106840))
+- est-ce que tu veux de la soupe ? (assimil chinois 96 p311)
+  + p9 : je ne veux pas de soupe.
+- ma femme sait parler l'anglais, mais elle ne sait pas l'écrire (assimil chinois 96 p313)
+- est-ce que ton frère aîné sait parler chinois ? (assimil chinois 96 p314)
+  + pourquoi est-ce que c'était « sait parler l'anglais » mais ici pour le chinois c'est « sait parler chinois » sans « le » ?
+  + p324 : tu parles très bien chinois
+- aujourd'hui c'est jeudi. aujourd'hui nous sommes jeudi. (assimil chinois 96 p323)
+- repas simple, à la bonne franquette (便饭) (assimil chinois 96 p328)
+- monter dans le bus (assimil chinois 96 p352)
+- répétez le plus possible à haute voix. (assimil chinois 96 p20)
+  + « le plus possible » sans « que » ?
+- répétez plusieurs fois chaque leçon, c'est tout ce qui vous est demandé. (assimil chinois 96 p22)
+- vous constatez sans doute que par certains côtés le chinois n'est pas difficile (^)
+- laissez-vous guider, étudiez régulièrement, un quart-d'heure chaque jour, et ainsi vous apprendez d'une façon naturelle, et sans trop d'efforts. (assimil chinois 96 p24)
+- les textes des premières leçons sont relativement courts. à partir de la deuxième semaine, ils vont être plus consistants. N'hésitez pas à revenir sur les leçons précédentes. (assimil chinois 96 p28)
+  + « consistant » dans le sens de "substantial"
+  + « revenir sur »
+- du point de vue du sens, il n'y a aucune différence entre ces deux manières de poser une question. la pratique vous conduira à choisir instinctivement la plus adéquate en fonction de la longueur de la phrase et du contexte. (^)
+- dans quelsques jours, lorsque tous les sons du chinois auront été rencontrés, nous ne reprendrons pas intégralement chaque réplique mais uniquement les mots les moins facile à prononcer. (assimil chinois 96 p37)
+- cette transcription n'est là que pour vous "repêcher" en cas de naufrage, mais votre attention doit se porter sur le chinois (^)
+- seuls sont introduits cinq ou six mots nouveaux par leçon pour que vous ne soyez pas "débordés". (assimil chinois 96 p44)
+- un mot encore de l'écriture idéographique : ce n'est qu'en lisant et relisant de multiples fois les mêmes répliques, les mêmes mots, les mêmes caractères, que vous parviendrez à mémorisez sans trop de mal les idéogrammes, si toutefois vous ne souhaitez pas simplement comprendre et parler, mais également lire et écrire. (^)
+  + « un mot encore de » (j'aurais pensé « sur ») (c'est une tournure figée il semblerait)
+
+§ 2026-05-12
+- reportez-vous maintenant aux titres des dix premiers leçons, et assurez-vous que les chiffres de un à dix vous sont, sinon familiers (ils le seront, nous l'espérons, dans quelques jours), du moins pas trop étrangers. (assimil chinois 96 p48)
+- le système, vous verrez, est simple comme bonjour. (^)
+- quelque chose est posé (et non « posée » ! « chose » = féminin, mais « quelque chose » = masculin)
+- dégradé : le soleil entre par le côté droit de l'image, plus clair, puis la pièce s'assombrit vers la gauche. / la lumière se dégrade de droite à gauche. / la pièce passe progressivement de la clarté à l'ombre. / le soleil entre par la droite ; la chambre se perd ensuite dans un dégradé d'ombre. / la lumière forme un dégradé du blanc vers des tons plus sourds.
+- cette leçon paraîtra peut-être touffue. (assimil chinois 96 p104)
+- un lit en bois, couvert de draps, d'oreillers et de couvertures blanches.
+- une table en bois supporte une lampe blanche.
+- un fauteuil blanc est posé en diagonale, le dos tourné à la lumière, laissant apparaître derrière lui une plante jaune.
+- une lampe de chaque côté d'un lit, lui aussi blanc. devant le lit, une petite table blanche. quelque chose est posé dessus ; autre chose repose sur le sol, juste devant la table
+- table d'appoint = petit meuble auxiliaire, n'importe où dans une pièce ; table de chevet (ou « de nuit », ou juste « chevet ») = explicitement à côté du lit.
+- une chambre de bois, de gris et de blanc.
+- un lit blanc, aux côtés et au dossier gris.
+- une fenêtre immense laisse voir les feuilles vertes des arbres dehors et remplit la pièce de lumière.
+- le mur blanc à droite est en diagonale, ce qui agrandit la pièce (/ ouvre l'espace).
+- gris autour, bois sur un côté
+- une fenêtre (à carreaux / à petits carreaux / quadrillée)
+- en hauteur, une étagère encombrée d'objets divers (/ chargée de / portant) ; sa largeur paraît défier celle du mur.
+- des murs bleu clair (invariable)
+- une fenêtre en forme de porte, peut-être une ouverture sur un balcon. / une fenêtre haute comme une porte ; peut-être une sortie vers un balcon.
+- derrière le lit, quelque chose qui évoque un radiateur (/ une structure étroite rappelant un radiateur), trop étroit pourtant pour en être un.
+- un tapis blanc passe sous le lit et s'étend devant lui.
+- une lampe circulaire est intégrée de chaque côté du large dossier du lit. des chevets de la longueur exacte du dossier prolongé / ajustés à la longueur du dossier / alignés sur la largeur du dossier
+- une photographie y est accrochée au-dessus de la tête d'un lit blanc, avec une couverture noire abandonnée en désordre au pied (/ froissée au pied / laissée en boule).
+- un motif noir et blanc, d'apparence mécanique, couvre le mur derrière le lit. on ne le voit qu'en partie, de côté (/ visible seulement de biais). en face, une grande porte transparente presque aussi haute que le mur (/ à l'échelle du mur), encadrée de noir (/ au cadre noir / bordée de noir).
+- grand homme ≠ homme grand ([tilt](https://forum.wordreference.com/threads/un-grand-homme-un-haut-homme.1551361/))
+- Cet article est très critique et ne la dépeint pas sous un bon jour. ([wr](https://www.wordreference.com/enfr/in%20a%20good%20light))
+- Une réponse colérique fut ignorée par le secrétaire. ([wr](https://www.wordreference.com/fren/col%C3%A9rique))
+
+§ 2026-05-13
+- « Je ne suis pas du tout certain que la définition que je vais proposer puisse convenir à la phrase soumise, mais il ne faudrait pas non plus oublier qu’on dit encore d’un homme qu’il est creux lorsqu’il se remplit facilement d’imaginations chimériques et de vaines espérances, qu'il est rêveur et mélancolique. Un homme creux ne fait rien de constructif ni de positif, il reste toujours à contempler la vie des autres, il se contente de l’état des choses tel qu’il est et n’essaie même pas de changer quoi que ce soit dans son existence. Cette tournure fait aussi allusion au poème de T.S. Eliot – Les Hommes creux (The Hollow Men, 1925) [..] Il se peut donc que ce jeune homme ait un air si rêveur que l'on pourrait deviner sans peine son manque d’énergie, rien qu'à le voir se lever de son siège. P.S. C’est d’ailleurs le mot qu’on disait au régiment en parlant d’un homme de rang lorsque celui-ci n’arrivait pas à exécuter un commandement avec précision et énergie, qualités requises pour devenir un bon soldat. Un propre à rien, donc. » ([volo](https://forum.wordreference.com/threads/un-grand-jeune-homme-creux.2971508/)) (meirl)
+- Depuis que j'ai déménagé à l'étranger, je ne vois ma famille élargie que pour les fêtes de Noël. ([wr](https://www.wordreference.com/enfr/extended%20family))
+- Le vinaigre de cidre est un vinaigre fabriqué à partir de jus de pomme fermenté, et peut être utilisé de différentes manières : s'il est connu pour son utilisation à des fins culinaires (sauces, marinades, chutneys…), il est aujourd'hui très vanté pour plusieurs effets favorables sur la santé, sans toujours beaucoup de preuves scientifiques à l'appui. ([frwik](https://fr.wikipedia.org/wiki/Vinaigre_de_cidre))
 
 {% include fin.html %}
