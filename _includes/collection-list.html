@@ -9,14 +9,16 @@
   {% assign page = include.c %}
 {% endif %}
 
-<p><a href="/{{ link }}">{{ include.c }}</a> :</p>
+{% assign limit = 5 %}
+
+<p>{{ include.c }} :</p>
 <ul class="posts">
   {% comment %}
   assign first because reverse doesn't work with limit, it would show 3 2 1
   (the first three reversed) instead of latest
   {% endcomment %}
   {% assign c = site[collection] | reverse %}
-  {% for post_ in c limit:5 %}
+  {% for post_ in c limit:limit %}
   <li>
     {% if include.c == 'notes' %}
       {{ post_.lang }} {{ post_.path | split: "/" | pop | join: "/" | remove_first: "_notes/" }}
@@ -26,4 +28,10 @@
     {% if post_.wip == true %}(WIP){% endif %}
   </li>
   {% endfor %}
+  {% assign more = site[collection] | size | minus:limit %}
+  {% if more > 0 %}
+  <li>
+    [<a class="post-link" href="/{{ page }}">+ {{ more }} more</a>]
+  </li>
+  {% endif %}
 </ul>
