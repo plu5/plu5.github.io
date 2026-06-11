@@ -1,23 +1,24 @@
+{% assign reverse = true %}
+{% assign limit = 5 %}
+
 {% if include.c == 'articles' %}
   {% assign collection = 'posts' %}
   {% assign page = 'article' %}
 {% elsif include.c == 'graveyard of unfinished articles' %}
   {% assign collection = 'brouillons' %}
   {% assign page = 'article#graveyard' %}
+  {% assign reverse = false %}
 {% else %}
   {% assign collection = include.c %}
   {% assign page = include.c %}
 {% endif %}
 
-{% assign limit = 5 %}
+{% if include.c == 'notes' %}{% assign reverse = false %}{% endif %}
 
 <p>{{ include.c }} :</p>
 <ul class="posts">
-  {% comment %}
-  assign first because reverse doesn't work with limit, it would show 3 2 1
-  (the first three reversed) instead of latest
-  {% endcomment %}
-  {% assign c = site[collection] | reverse %}
+  {% assign c = site[collection] %}
+  {% if reverse %}{% assign c = c | reverse %}{% endif %}
   {% for post_ in c limit:limit %}
   <li>
     {% if include.c == 'notes' %}
