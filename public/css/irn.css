@@ -36,6 +36,9 @@ body {
   /* Avoid overflow in things like paths / long URLs */
   overflow-wrap: break-word;
   word-break: break-word;       /* older navigators */
+  /* Centre if above 90 characters per line */
+  max-width: 90ch;
+  margin: 0 auto;
 }
 
 img {
