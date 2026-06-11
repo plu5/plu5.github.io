@@ -2,7 +2,7 @@
 layout: post
 title: 9 — Hiding windows for optimisation and prefetching mpv
 date: 2026-02-25 09:22
-modified_date: 2026-04-22 08:48
+modified_date: 2026-05-20 00:23
 categories: dotfiles mpv bilibili bspwm cachage gaplessmpv queuedmpv
 lang: en
 redirect_from: /devlog/9
@@ -90,6 +90,12 @@ You may need this if messing about with scripts like the above and hiding the wr
 ```sh
 for n in $(bspc query -N -n .hidden); do bspc node "$n" -g hidden; done
 ```
+
+{% include note.html content='
+> [!NOTE]
+> I am not sure why, but it sometimes doesn\'t unhide all nodes. Alternative: `bspc query -N -n .hidden | while read -r n; do bspc node "$n" -g hidden=off; done`  
+(05-15)
+' %}
 
 Unhide on current desktop:
 ```sh
@@ -510,6 +516,17 @@ done < <(bspc subscribe desktop_focus node_focus)
 ' %}
 
 [`cachage` version control link where I will put future changes](https://github.com/plu5/dotfiles/blob/main/pm/scripts/cachage)
+
+### Hiding windows explicitly
+Speaking of hiding windows, I didn't have a thing set up for explicit hiding of windows you don't want to see at the moment. I use 10 workspaces, can't reasonably add more (you can have as many as you want but you need to add keybindings), and it happens often that I run out of space to put something. I didn't want to have an interface for unhiding. Had the idea that it suffices to just have in sxhkdrc a binding to hide the active node and a binding to unhide all active nodes in the current workspace.
+```sh
+hyper + h
+        bspc node -g hidden
+hyper + shift + h
+        bspc node any.local.hidden -g hidden
+```
+
+It works with cachage, it doesn't unhide the windows I hide explicitly.
 
 ## Use mpv instead
 Another option is to not use the site. with `mpv` and `yt-dlp` installed, you can open mpv and simply paste a video link. but this is slow.

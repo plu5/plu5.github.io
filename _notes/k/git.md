@@ -2,7 +2,7 @@
 layout: post
 title: Git
 date: 2026-04-21 22:15
-modified_date: 2026-05-05 10:13
+modified_date: 2026-05-27 19:11
 categories: git
 lang: fr
 ---
@@ -27,6 +27,7 @@ lang: fr
 - `git commit` / `git commit -m "message"`
 - `git commit --amend`
 - `git clone https://github.com/{utilisateur}/{projet}.git`
+  + dans pwd : `.` après
 - `git reset HEAD~` : annuler le commit précédent
   + il m'est arrivé de casser un dépôt avec ça, je pense que ce dépôt était déjà corrompu / reflog déglingué, mais n'empêche que je préfère de nos jours si besoin de modifier le dernier commit d'utiliser `git commit --amend` ou juste faire un autre commit et accepter que l'erreur va être dans l'historique.
 - `git push` / `pull`
@@ -57,5 +58,10 @@ Exemples :
 - feat(setup): Add bundle build kind
 - refactor: Single-source version
 - fix(macOS): Qt5 bug workaround
+
+## Astuces GitHub
+- changer input à textarea dans le DOM pour passer du texte multiligne à workflow dispatch
+  + j'ai écrit un userscript pour le faire automatiquement https://gist.github.com/plu5/dbbe0c3ba407c1e8ed432342edcd70e8
+- ajouter .patch à la fin du lien vers un commit pour voir plus d'informations, y compris l'adresse mail du contributeur
 
 {% include fin.html %}

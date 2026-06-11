@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-05-13 19:29
+modified_date: 2026-06-03 10:37
 categories: lang
 lang: fr
 ---
@@ -939,5 +939,47 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - Le vinaigre de cidre est un vinaigre fabriqué à partir de jus de pomme fermenté, et peut être utilisé de différentes manières : s'il est connu pour son utilisation à des fins culinaires (sauces, marinades, chutneys…), il est aujourd'hui très vanté pour plusieurs effets favorables sur la santé, sans toujours beaucoup de preuves scientifiques à l'appui. ([frwik](https://fr.wikipedia.org/wiki/Vinaigre_de_cidre))
 - Vous prendrez bien un cookie ? [..] En acceptant ces cookies vous pourrez déguster l’actualité chaude et croquante, garnie avec les pépites du web, ou vous pouvez continuer sans accepter. ([20minutes.fr](https://www.20minutes.fr/societe/4137740-20250208-astuces-concerts-comment-etre-premier-files-attente-ligne))
 - En revanche, si une personne se connecte après l’heure exacte de mise en vente, elle se verra attribuer une place en fin de file d’attente. (^)
+
+§ 2026-05-15
+- sachez pour finir que cette particule est une des étapes fondamentales dans notre progression ; une fois franchi ce cap, c'est une des difficultés principales de la grammaire chinoise qui est résolue. (assimil chinois 96 p149)
+- Une plage de prix allant de 5 à 50 euros. ([wr](https://www.wordreference.com/fren/plage))
+- Pour votre intervention, nous avons prévu une plage de 40 minutes. (^)
+- reportez-vous à l'index qui figure en fin de livre. tous les mots introduits au cours des sept premières semaines y sont classés (assimil chinois 96 p162)
+
+§ 2026-05-17
+- Aucune explication. Aucun tuto. Aucune trame pour aiguiller ne serait-ce qu'un peu. ([TomyChaz évaluation du jeu Vaudeville](https://steamcommunity.com/id/tomychaz/recommended/2240920))
+- la narratrice arrive dans une ville qu'elle ne connaît pas, marseille, afin d'y exercer le métier d'enseignante. cela est indiqué par cette citation en début de texte : [..]. un peu plus loin, la narratrice évoque [..] ([studyrama brevet fr corrigé 2025](https://liseuse.studyrama.com/viewer/web/viewer.php?file=%2F%2Fliseuse.studycdn.space%2Fdata%2Fa%2F3%2F5%2FBrevet_general_Francais_corrige_complet.pdf%3Ft%3D1779035426#zoom=auto&page=1))
+
+§ 2026-05-21
+- Le truc est simple, si tu fais du proprio tu ne peux pas réutiliser un truc en GPL et c'est pour ça que la GPL existe principalement. ([allcolor](https://linuxfr.org/forums/general-general/posts/programme-lgpl-et-biblioth%C3%A8que-gpl))
+- j'ai manqué le train d'une minute (et non « par »)
+- J'ai autant besoin de ça que de me prendre une balle en pleine tête. ([Locape](https://forum.wordreference.com/threads/need-something-like-a-hole-bullet-in-the-head.1635932/))
+- c'est le pompon / c'est la cerise sur le gâteau / il ne manquait plus que ça (^ Kecha)
+
+§ 2026-05-22
+- Je ne vois pas en quoi la conclusion découle des prémisses. ([Gof](https://linuxfr.org/users/linkdd/journaux/gpl-vs-mit-que-choisir))
+
+§ 2026-05-25
+- Imagine que t’as bossé genre un an sur un logiciel innovant, seul ou à quelques uns, de manière totalement gracieuse ([m4rotte](https://linuxfr.org/users/linkdd/journaux/gpl-vs-mit-que-choisir))
+
+§ 2026-05-26
+- Reportez-vous à cette rubrique pour plus de détails. ([gnu tr](https://www.gnu.org/licenses/license-list.fr.html))
+- La « Clause des biens communs » est une licence non libre parce qu'elle interdit de vendre des exemplaires du programme, et même d'utiliser le programme dans la mise en œuvre d'un service commercial. Et pour comble, elle dévie les mots « biens communs » et « vendre » de leur sens. (^)
+- et/ou : Traduction calquée sur l'anglais and/or. La conjonction « ou » étant inclusive en français (à la différence de l'anglais), « et/ou » est redondant. Voir le [Wiktionnaire](https://fr.wiktionary.org/wiki/et/ou). (^)
+
+§ 2026-05-27
+- Trouvez la licence pour votre projet dans une colonne au sommet du tableau et la licence pour l'autre code dans une ligne sur la gauche. La cellule d'intersection vous dira si cette combinaison est permise ou pas. ([gnu fr](https://www.gnu.org/licenses/gpl-faq.fr.html))
+- dans les limbes, dans le flou
+- Placez les produits dangereux en hauteur pour empêcher que des enfants les attrapent. ([wr](https://www.wordreference.com/fren/en%20hauteur))
+- sur les hauteurs de la ville ([ragazzapazza](https://forum.wordreference.com/threads/sur-les-hauteurs-de-la-ville.2067749/))
+- Un bâtiment qui surplombe la ville (^ Nicodi2)
+- cela s'écrit de la même façon
+  + s'épeler, orthographier
+
+§ 2026-05-28
+- Un mélange énergétique est pour moi autre chose : c'est souvent une barre de céréales avec du sucre de raisin, du chocolat et d'autres produits transformés du même genre, alors que le mélange randonnée que l'on trouve par ici est fait uniquement de fruits séchés et de noix. ([Maître Capello](https://forum.wordreference.com/threads/trail-mix.632587/))
+
+§ 2026-06-03
+- le montage (the edit), le monteur / la monteuse (the editor), faire le montage d'une vidéo
 
 {% include fin.html %}

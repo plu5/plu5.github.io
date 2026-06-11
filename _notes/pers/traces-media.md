@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-04-04 03:15
+modified_date: 2026-06-03 11:21
 categories: list
 lang: fr
 ---
@@ -41,6 +41,21 @@ Notes sur ce que je lis/écoute/regarde
 ..
 - [Creating Complex Props for Video Games Course](https://drive.google.com/drive/folders/1VgGFmc_CU3-Ec1DwEEVpeqrsElWT4nGy)
 
+## Mondead
+..
+§ 2026-05-24
+- DXZ9MhdtaHI id560wJZE6M il y a un trou entre les deux vidéos, à la fin de la première c'est juste l'idée sans rendu, au début de la deuxième c'est bien rendu et presque fini
+- il est super lent
+
+## [en] Jens Claessens
+..
+§ 2026-05-31
+- every time the angle changes, the value changes
+- if you have a value, you need to find a way to connect it
+- saturated edges, halo around really bright lights
+- parallel lines in perspective ; il a vu tout de suite que les yeux d'un personnage n'étaient pas bien alignés, qu'il fallait les pivoter un peu pour aligner avec la ligne du front par exemple
+- pour les lignes intérieures il utilise un pinceau différent. et il a des pinceaux rake pour les cheveux.
+
 ## [zh/fr/en] Utilisateur bilibili 388732912
 ..
 § 2025-11-03
@@ -63,6 +78,12 @@ Notes sur ce que je lis/écoute/regarde
 
 § 2026-03-19
 - [livre] _À la recherche du temps perdu_
+
+## [en] Adrian Bush
+..
+§ 2026-05-30
+- je remarque à nouveau que le travail des étudiants est exceptionnel. j'aime bien les hommes attaqués par une créature en mer w3-1 1h16 (par guillaume, comme toujours !)
+- il a dit à un moment "ça marcherait avec n'importe quel pinceau texturé" quand il a démontré comment adoucir un bord
 
 ## [en] Devin Korwin
 ..
@@ -285,5 +306,51 @@ Notes sur ce que je lis/écoute/regarde
 - [Langages de script](https://docs.godotengine.org/fr/4.x/getting_started/step_by_step/scripting_languages.html) : « support [pour C#] grâce à un don généreux de Microsoft »
   + « Étant donné que Godot utilise .NET 8, vous pouvez en théorie utiliser n'importe quelle bibliothèque ou framework .NET tiers dans Godot, ainsi que n'importe quel langage de programmation compatible Common Language Infrastructure, tel que F#, Boo ou ClojureCLR. »
 - (^) : « GDExtension vous permet d'écrire du code de jeu en C++ sans avoir besoin de recompiler Godot. » « Vous pouvez utiliser n'importe quelle version du langage ou mélanger les marques et les versions de compilateurs pour les bibliothèques partagées générées, grâce à notre utilisation d'un pont(bridge) API C interne. »
+
+## [en] Sam Carr
+§ 2026-05-15
+- « for me it's better to not get bogged down in trying to be perfect, and just to get it done and move on. » « this is supposed to be the fast option » (blender vs peinture)
+- il ne s'en soucie pas de le faire proprement et juste fait vite et simple, et c'est une attitude utile
+- il travaille dans l'industrie depuis 2012 et a travaillé chez valve
+
+## [en] Jose Arley Moreno
+§ 2026-05-17
+- tl
+
+§ 2026-05-29
+- utilise [parfois ?] des réfs créées par des artistes 2d
+  + parabox.artstation.com/projects/1nvxJe
+
+## [en] Evan Czaplicki
+§ 2026-05-24
+- [cg](https://linuxfr.org/users/linkdd/journaux/gpl-vs-mit-que-choisir)
+- [ffrkAnonymous](https://www.reddit.com/r/elm/comments/170xesm/): « His talk is what everyone experiences: the big fish eating the little fish. This isn't the economics of creating a programming language, it's the economics of everything. Evan isn't a software engineer. He's a software philosopher. There's the old trope/stereotype about graduating as a college English language major and finding out there are no jobs in that field. He's that: the Elm language major. There are no ideal answers. Rich Feldman, (former?) core Elm developer, the guy who literally wrote the book on Elm, he figured that out: he's working on the Roc language now, not elm. »
+
+## [en] Hymnodi
+§ 2026-05-29
+- "Favorite brushes in Krita: Chalk Grainy, and Dry Texture Creases"
+- Texture Splat
+- chaque étude qu'elle fait, je ne sais pas comment, le résultat est plus beau que l'image de référence
+- elle est extrêmement rapide et prolifique
+- je pensais que j'ai fait trop d'études dans ma vie mais comparé à elle je n'ai rien fait.
+- une des images dans la compilation 2021 est une femme zombie qui se traîne par terre dans une cuisine avec une traînée de sang derrière elle et c'est une image qui m'a perturbé. elle en a fait un timelapse yRrPfrPo4zk (basé sur une photo d'elle-même on dirait)
+- timelapses soigneusement montés avec une liste des pinceaux utilisés à la fin
+
+## [fr] Bully / Canis Canem Edit
+§ 2026-05-31
+- clodo
+- "just look down, don't make eye contact with anyone" un des élèves a dit :-(
+- "you're a man, it's only getting worse from here" (cheffe)
+
+## [fr] Arte Félix Vallotton
+§ 2026-06-01
+- un appel d'air
+- on dirait que sa période gravure n'était qu'une partie minime de sa vie, même si c'est ce qui l'avait rendu célèbre. la plupart de temps apparemment il peignait des femmes obsessivement. ça je n'aime pas du tout. nous avons quand même des points communs, comme le pessimisme et le désir d'être seul.
+
+## [en] Ultrakill Prelude web port
+§ 2026-06-01
+- cake-logic.itch.io/ultrakill-web-port
+- github.com/AssetRipper/AssetRipper
+- github.com/teker821/ULTRAKILL
 
 {% include fin.html %}

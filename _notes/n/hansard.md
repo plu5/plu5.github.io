@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-04-23 19:03
+modified_date: 2026-06-04 17:04
 categories: ukpol
 lang: en
 ---
@@ -19,8 +19,10 @@ lang: en
   + Truss Budget
   + household budgets
 - House
+  + both Houses[^palace]
 - Chamber
   + Chambers[^chambers]
+- Palace[^palace]
 - Government
   + local government
   + incoming government[^incoming-government]
@@ -55,14 +57,18 @@ lang: en
 - Labour party
 - general election
 - urgent question
+- written ministerial statement
 - impact assessment
 - Opposition day[^opposition-day]
 - Ministerial Code[^ministerial-code]
 - King’s Speech programme[^kings-speech-programme]
+- legislative programme
 - Social Security Advisory Committee
   + Bill Committee
   + that Committee[^that-committee]
   + a local public accounts committee model[^a-committee]
+  + Select Committee meetings
+  + the Committee's ongoing work
 - winter fuel payment[^winter-fuel-payment]
 - Republican[^republican]
 - Nolan principles[^nolan-principles]
@@ -106,5 +112,6 @@ lang: en
 [^chambers]: [2026-04-16](https://hansard.parliament.uk/Commons/2026-04-16/debates/85CEA287-64C8-4675-AF4D-B2E985F5094B/ClientBoardProgress?highlight=chambers#contribution-D12E0EE0-9FC0-49E0-A79C-84DEB29444E2)
 [^north-sea-caps]: [Lords, 2026-04-16](https://hansard.parliament.uk/Lords/2026-04-16/debates/4AC6B49B-3115-44B9-AE94-F8EEA56A845B/DataCentresEnergyDemand?highlight=%22north%20sea%22#contribution-AB96E383-C26A-4BE9-BAB2-80AA826A8023)
 [^chiefs]: [2026-04-23](https://hansard.parliament.uk/commons/2026-04-23/debates/9BCB5C4D-8199-46BC-88A6-244350C8F66A/BusinessOfTheHouse). "four chiefs of staff, five directors of communications, three Cabinet Secretaries and four principal private secretaries". I think this sentence illustrates well how bizarre the Hansard spelling conventions are at times.
+[^palace]: [2026-06-04](https://hansard.parliament.uk/commons/2026-06-04/debates/90337D84-C733-42DE-A121-43AD0FE7E35F/BusinessOfTheHouse)
 
 {% include fin.html %}

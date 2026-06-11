@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-04-23 21:19
+modified_date: 2026-06-04 17:36
 categories: ukpol
 lang: en
 ---
@@ -1455,5 +1455,315 @@ Editor comments:
 See also [mamamia's comment from earlier](https://www.reddit.com/r/ukpolitics/comments/1spfznc/rumours_speculation_questions_and_reaction/ohshiro/)
 
 what people are talking about in ukpol are committee hearings surrounding mandelson thing
+
+## 2026-05
+### 2026-05-14
+norman
+- congratulating the king, not only on the gracious speech yesterday but his glorious triumph in the united states of america and reminding our american cousins of the joy, not of monarchy, which they know well enough from recent experience and over the years, but of a genuinely constitutional monarchy.
+- the house will know of my obsession with building nmite, our new university in hereford. i hope colleagues across the house will join me in celebrating its second graduation ceremony last saturday. its flagship degree was recently accredited for charter certification by the prestigious institution of engineering and technology, making its graduates in that sense holders of degrees equal of those to be found at oxbridge or the russell group. its latest crop of graduates has gone on to companies including airbus, hitachi, energy, and gkn, and there is huge interest from applicants in its new bachelors and masters degree in autonomous robotics and drones technologies, which starts in september. so, if i may, excuse the pun, for engineering institutions nmite is really starting to motor. (very slight laughter is heard). i would strongly encourage any members who might be interested and wish to know more to drop me a line, because this is a potential route to local economic growth which i think has a great potential and significance.
+- it's fair to say, mr speaker, that we've know quite a weeks than the current couple since we last convened. what have we discovered during that period? (genuinely don't know because not been paying any attention).
+- a previously undisclosed gift of 5 million pounds from a foreign cryptocurrency donor to the leader of reform uk is now being investigated by the parliamentary commissioner for standards. and is, we are reassured, entirely unrelated to the hon member's recent interests in investing in bitcoin.
+- the leader of the green party, zack polanski, has admitted that he failed to pay council tax, was not in fact a spokesman for the red cross, and was never a full member of the national council for hypnotherapy. i'm.. something which i'm sure will come as a great relief to women across the country. (several people begin chuckling). he must be an acute embarrassment to my neighbour, the member for north herefordshire, and we thank her for her resilience. all of which news will come as a surprise to precisely no one.
+- of course, lest we forget, nearly a hundred labour members of parliament, including four ministers, have gone public now with their opposition to the prime minister remaining in office. three cabinet ministers have called on him to set a public timetable for his departure. few, if any, labour mps, believe that the prime minister will lead them into the next election. mr speaker, you will be aware, i'm sure, of that famous line "that boy stood on the burning decks, whence all but he had fled". it may be that the leader of the house is the last person to occupy that position, mr speaker, of standing on the burning deck when all but he has fled. but others are fleeing, and it's astonishing that buckingham palace had reportedly been forced to ask whether the king's speech was in fact really going ahead. even now, i notice the slight sparsity of members--actually on all sides of the house--in this earlier sitting. the secretary of state for health is widely reported to be preparing a bid for the leadership of the labour party. king lear asks, in his bewilderment, "who is it that can tell me who i am?" so it is with the prime minister. he does not know, and nor it seems does anyone around him.
+- Q: amid all this westminster madness, it falls to me, if i may, to insert a nugget of something that actually affects every member of this house in their own constituency. a matter of great local importance. the house will know that the construction of industry training board is meant to be the guardian of construction skills in this country, funded by a statutory levy on the industry itself. but employer confidence is rapidly being eroded by the citb's recent behaviour, and ofsted requires improvement, judgement [ofsted "requires improvement" judgement] for far more reviews [?] [farmer review's] call for a fundamental reset, poor communications with levy payers, and a rarely updated website, a slow cumbersome booking system, all point in the same direction. at the same time, firms report duplication, delay, and poor value for money. for some courses, forklift training for example, the citb's route can cost more than twice as much as the non-citb route, take considerably longer, yet lead to precisely the same qualification. many of these courses are not optional. small construction firms must keep up with industry standards and legal health and safety requirements. they need a system that is fast, clear, and good value, not one that makes compliance harder, especially for small and medium size enterprises that are so crucial to our economy. meanwhile, the levy is a tax by all but name, which must be paid regardless of the services offered, and the citb has expenditures in nearly 300 million pounds [?] by giving [but gives] less than half of that away in grants, while its wage bill and head count steadily rise. so i would be very grateful if the leader could ask the relevant ministers to write to me explaining how they intend to restore employer confidence, particularly amongst small construction companies in the citb. improve course access and value for money, and reform an organisation that appears to be losing its way.
+
+campbell
+- grateful to the hon member for his-- well, some of his remarks
+- on a serious matter, i'm sure the house will join me in sending our condolences to the families of the three young women who died yesterday in the tragic incident in brighton [13 may, 3 women found drowned]
+- local elections-- following the local elections which took place last week, i want to put on record my thanks to councillors for their service to their communities, irrespective of parties or whether they're not party-aligned, and particularly those who were not reelected.
+- mr speaker, the king's speech opened our new parliamentary session, and members will have heard your words about how we should conduct ourselves, and i fully support those remarks, of course, and i thank you for setting them out to the house. the king's speech, mr speaker-- uh-- this session will be about economic growth, building infrastructure, improving public services, and strengthening our national security. i've published a written ministerial statement this morning which lists the bills we have announced, and members will have an opportunity to debate the king's speech over the coming days. this is a serious long term plan bringing about change and putting the country back in the service of working people. curiously, mr speaker, and in contrast, the opposition brought forward an alternative king's speech, and like most of the country, i failed to notice until the leader of the opposition referred to it yesterday. and i have a copy here if anyone needs any nighttime reading to put them to sleep. i've read it with interest. now the shadow leader is a distinguished author. i've read some of his works. he writes with genuine interest, clear thinking, and even wit, sometimes. (members laugh). but all that demonstrates is he had absolutely nothing to do with this king's speech (members laugh including norman). the alternative king's speech is a description-- no more than a description of the long-term ills of our country, which merely serve as to remind us that the previous government had 12 legislative programmes and 14 long years to test these ideas and they failed. so we're not, mr speaker, going to take any lectures from them.
+- i'd also like to draw the house's attention to the report published by the modernisation committee this morning. the report recommends a new pilot to allow members to participate virtually in select committee meetings in limited circumstances. this is part of the committee's ongoing work to ensure that the house's procedures remain effective, accessible, and resilient, and a motion will be brought forwards in due course to allow the house to consider these proposals, which i hope will be supported.
+- let me turn now to the remarks, the other remarks, of the shadow leader of the house, and i certainly congratulate nmite in his hereford constituency. and i've said this before, but i'll say it again, mr speaker, the success of that organisation is due not least to the right hon. gentleman's commitment and leadership on this matter, and we should congratulate him on this.
+- i absolutely agree with him on the matter of the donation to the leader of the-- reform. these are serious allegations. i welcome the fact that the parliamentary commissioner for standards is looking into this, and i also welcome the independent rycroft review on foreign financial interference in our democracy.
+- as for the other comments that he makes about the current political situation, i would encourage him to stop doomscrolling. (slight laughter heard). the prime minister and the government are getting on with the job of governing, and this king's speech is spreading opportunity and building a fairer britain.
+- on the construction traineeship levy which he talked about, this is a serious issue, and i will raise the matter with the relevant minister and i will get him to write to him.
+
+-----
+
+[BMQs]
+
+~~Hello everyone. I am a human. I'm going to stop using characters outside of the ASCII range to avoid looking like a model. (Other than the ticks and Xs and scrolls obvs)~~
+[not going to post that]
+[should i say hello?]
+[no.]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered** (↑)
+
+[Happened at 9:35](https://parliamentlive.tv/event/index/dcaa2ba4-9ad2-4bcd-8827-66c5ef073c98?in=09:35:53). [Hansard](https://hansard.parliament.uk/commons/2026-05-14/debates/0DD1DD88-EEB1-4AAD-B5C1-C8DD51DF0C30/BusinessOfTheHouse).
+(right at the start of proceedings, which doesn't usually happen. the lighting looks nicer than usual I feel like)
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Reminding our cousins of the joy of constitutional monarchy
+
+> **NORMAN:** I'm sure the whole House will want to join me in congratulating His Majesty the King, not only on the gracious speech yesterday but his glorious triumph in the United States of America, and in particular of reminding our American cousins of the joy--not of monarchy, which they know well enough from recent experience and over the years--but of a genuinely constitutional monarchy.
+
+#### (2) 📜 REMARK: More on the new university at Norman's constituency that he always goes on about
+
+> **NORMAN:** The House will know of my obsession with building NMITE, our new university in Hereford. I hope colleagues across the House will join me in celebrating its second graduation ceremony last Saturday.
+
+> Its flagship degree was recently accredited for chartered certification by the prestigious Institution of Engineering and Technology, making its graduates, in that sense, holders of degrees equal of those to be found at Oxbridge or the Russell Group. Its latest crop of graduates has gone on to companies including Airbus, Hitachi Energy, and GKN, and there is huge interest from applicants in its new bachelor's and master's degree in autonomous robotics and drones technologies, which starts in September. So, if I may --excuse the pun--for engineering institutions, NMITE is really starting to motor. [*slight laughter is heard*]
+
+> I would strongly encourage any Members who might be interested and wish to know more to drop me a line, because this is a potential route to local economic growth which i think has a great potential and significance.
+
+→
+
+> **CAMPBELL:** I certainly congratulate NMITE in his Hereford constituency. And I've said this before, but I'll say it again, Mr Speaker, the success of that organisation is due not least to the right hon. Gentleman's commitment and leadership on this matter, and we should congratulate him on this.
+
+#### (3) 📜 REMARK: Donation to the leader of Reform that is being investigated
+
+> **NORMAN:** A previously undisclosed gift of 5 million pounds from a foreign cryptocurrency donor to the leader of Reform UK is now being investigated by the Parliamentary Commissioner for Standards. And is, we are reassured, entirely unrelated to the hon. Member's recent interests in investing in Bitcoin.
+
+→
+
+> **CAMPBELL:** I absolutely agree with him on the matter of the donation to the leader of the-- Reform. these are serious allegations. I welcome the fact that the Parliamentary Commissioner for Standards is looking into this, and I also welcome the independent Rycroft review on foreign financial interference in our democracy.
+
+#### (4) 📜 REMARK: Leader of the Green party also in the news
+
+> **NORMAN:** The leader of the Green party, Zack Polanski, has admitted that he failed to pay council tax, was not in fact a spokesman for the Red Cross, and was never a full member of the National Council for Hypnotherapy, something which I'm sure will come as a great relief to women across the country. [*several Members begin chuckling*]. He must be an acute embarrassment to my neighbour, the Member for North Herefordshire (Ellie Chowns), and we thank her for her resilience. All of which news will come as a surprise to precisely no one.
+
+Campbell doesn't comment on that one.
+
+#### (5) 📜 REMARK: Everyone seems to be calling for the PM's departure
+
+> **NORMAN:** Of course, lest we forget, nearly a hundred Labour Members of Parliament, including four Ministers, have gone public now with their opposition to the Prime Minister remaining in office. Three Cabinet Ministers have called on him to set a public timetable for his departure. Few--if any--Labour MPs, believe that the Prime Minister will lead them into the next election.
+
+> Mr Speaker, you will be aware, I'm sure, of that famous line "that boy stood on the burning decks, whence all but he had fled." It may be that the Leader of the House is the last person to occupy that position, Mr Speaker, of standing on the burning deck when all but he has fled. But others are fleeing, and it's astonishing that Buckingham Palace had reportedly been forced to ask whether the King's Speech was in fact really going ahead. Even now, I notice the slight sparsity of Members--actually on all sides of the House--in this earlier sitting.
+
+> The Secretary of State for Health is widely reported to be preparing a bid for the leadership of the Labour party.
+
+> King Lear asks, in his bewilderment, "who is it that can tell me who I am?" So it is with the Prime Minister. He does not know, and nor it seems does anyone around him.
+
+→
+
+> **CAMPBELL:** As for the other comments that he makes about the current political situation, I would encourage him to stop doomscrolling. The Prime Minister and the Government are getting on with the job of governing, and this King's Speech is spreading opportunity and building a fairer Britain.
+
+#### (6) ✔️ Q1: Can he ask the relevant Ministers to write to me how they intend to raise employer confidence in the CITB? → yes
+
+> **NORMAN:** Amid all this Westminster madness, it falls to me, if I may, to insert a nugget of something that actually affects every Member of this House in their own constituency. A matter of great local importance.
+
+> The House will know that the Construction of Industry Training Board (CITB) is meant to be the guardian of construction skills in this country, funded by a statutory levy on the industry itself. But employer confidence is rapidly being eroded by the CITB's recent behaviour, and Ofsted "requires improvement" judgement, the Farmer review's call for a fundamental reset, poor communications with levy payers, and a rarely updated website, a slow cumbersome booking system, all point in the same direction. At the same time, firms report duplication, delay, and poor value for money. For some courses, forklift training for example, the CITB's route can cost more than twice as much as the non-CITB route, take considerably longer, yet lead to precisely the same qualification. [..]
+
+> I would be very grateful if the Leader could ask the relevant Ministers to write to me explaining how they intend to restore employer confidence--particularly among small construction companies--in the CITB, improve course access and value for money, and reform an organisation that appears to be losing its way.
+
+→
+
+> **CAMPBELL:** On the construction traineeship levy which he talked about, this is a serious issue, and I will raise the matter with the relevant Minister and I will get him to write to him.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** [I've published a written ministerial statement this morning](https://questions-statements.parliament.uk/written-statements/detail/2026-05-14/hcws1558) which lists the Bills we have announced, and Members will have an opportunity to debate the King's Speech over the coming days. This is a serious long term plan bringing about change and putting the country back in the service of working people.
+
+> Curiously, Mr Speaker, and in contrast, the Opposition brought forward an alternative King's Speech, and like most of the country, I failed to notice until the Leader of the Opposition referred to it yesterday. And I have a copy here if anyone needs any nighttime reading to put them to sleep. I've read it with interest. Now, the Shadow Leader is a distinguished author. I've read some of his works. He writes with genuine interest, clear thinking, and even wit, sometimes. But all that demonstrates is he had absolutely nothing to do with this King's Speech. [*Members laugh, including Norman*]. The alternative King's Speech is no more than a description of the long-term ills of our country, which merely serve as to remind us that the previous Government had 12 legislative programmes and 14 long years to test these ideas, and they failed. So we're not, Mr Speaker, going to take any lectures from them.
+
+#### ∗ ∗ ∗ 2
+
+> **CAMPBELL:** I'd also like to draw the House's attention to [the report published by the Modernisation Committee this morning](https://committees.parliament.uk/publications/52995/documents/296231/default/). The report recommends a new pilot to allow Members to participate virtually in Select Committee meetings in limited circumstances. This is part of the Committee's ongoing work to ensure that the House's procedures remain effective, accessible, and resilient, and a motion will be brought forwards in due course to allow the House to consider these proposals, which I hope will be supported.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+~~I miss Mordaunt and Debbonaire.~~
+
+~~ukpol: streeting resigned, not triggered a leadership contest yet, and an mp wants to stand down so that burnham can stand. and there is also a little bit of discussion of the farage thing.~~
+
+## 2026-05-21
+steel industry nationalisation bill, cybersecurity and resilience bill, legacy of jo cox
+
+norman:
+- It's famously true that our present Prime Minister gets a 100 times more animated and passionate about the performance of his football club every weekend then he does about trivial details of social, economic, or foreign policy, and still more so when it comes to defeating the enemy from Manchester. So, while we have to have a heart of stone, Mr Speaker, not to congratulate the Prime Minister on the success of Arsenal Football Club in winning the Premier League--I notice the astonishing lack of reaction from the other side--as we, United fans, say: only 11 more premiership wins to go, and Mikel Arteta will still be one short of Alex Ferguson.
+- In this World Cup year, we remember with deep warmth and affection the heroes of 1966. I refer, of course, to the band of brothers who were so inspired by England's world cup victory, that they set up Westfield's Football Club in Hereford. And I pay special tribute to the legend that is Andy Morris, not ignoring his brilliant wife Sandra, who has been sononymous with Westfield ever since.
+- now, mr speaker, Whatever happens in Makerfield [byelection], it seems inevitable that there will soon be a leadership contest in the Labour party. The markets are spooked, the pundits are pontificating, the pollsters are rampant. But amid all the media speculation, there is one candidate, one extraordinary dark horse, who has not yet even been mentioned [*loud, sudden laughter*]. That is why I am delighted, in relation to the leadership of the Labour party, to announce my strong support in his bid for the top job for the Leader of the House. [*Campbell sighs theatrically*]. Colleagues will have noticed a certain coyness from the Leader about his own position last week in Business Questions [link]. Make no mistake, Mr Speaker, that's the clear sign of a man preparing to throw his hat into the ring. For months now, I have lived myself with a--I must admit--a secret fear that the Government will have a reshuffle and the Leader of the House will be relegated from the light of the Chamber back into the stygian depths of the Labour Whips Office. Luckily, the Prime Minister's remained far too weak even to contemplate a reshuffle. But I ask colleagues across this house, and especially on the Labour benches, to contemplate that hideous prospect, that drastic loss of warmth and wit and wisdom from these proceedings. As Ben Johnson said of Francis Bacon, "when he spoke, the fear of everyone was that he would make an end." now, some foolish and ill-advised people will say that this leadership bid is an improbably one. possibly even, in this age of botox, tiktok, and justin trudeau, that a prime minister should be constructed on more youthful, foolish, inexperienced, and dare i say, sleeker lines. to which i cry shame, mr speaker, and fi upon these unimaginative gloomsters and naysayers. what fools they are! it's precisely that apparently diffident ken clarke exterior that makes my candidate, our candidate, such a politically electrifying prospect. in a world in which a labour chancellor of the exchequer can seriously advance the total economic shambles of supermarket food price caps, any move is on the table. the leader of the house can therefore immediately become leader of the labour party. it's simple common sense, we barely even need to change the name. mr speaker, you will be relieved to know that under my steady hand, the leader's labour leadership campaign is ready to roll. the website is in hand, the baseball caps and t shirts have been ordered. as hilar bellock[?] says of lord lundy[?], the stocks were sold, the press was squared, the middle class was quite prepared. donors are falling over themselves in order to associate themselves with this extraordinary political intervention. the one crucial remaining question is what campaign slogan we should use. we thought about common sense with campbell. campbell for the country, all in for alan. but there are two slogans with which i think we really cannot fail. and when he responds, i know the leader will want to take the opportunity of formally launching the campaign himself from the despatch box, but perhaps he can also indicate which of these two slogans he prefers: is it to be yes we campbell, channeling the spirit of barack obama? or possibly more inclusively still, make britain campbell again? a nation awaits, mr speaker. so may we have a debate in government time on this vital question?
+
+who needs questions when you can have theatre. entertaining for the viewers (of which there are really not many, the house is almost empty, but maybe it would get some views on social media after), bad for the tracker
+
+hoyle:
+- [the leader of the house wants?] [or did he say speaker?] [no, he said leader of the house, then just to remind the house. like he's about to call him, but then quick note just to remind them. 11:20] just to remind the House that the most important game is being played on Sunday between Bolton Wanderers and Stockport. Good luck with [?] Bolton. Come on Leader.
+
+and he immediately sits down with a hand on his face embarrassed and looking at his clerk, who laughs
+
+campbell:
+- thank you, mr speaker, and i see the leader's [sic] had his weetabix again this morning
+- first of all, mr speaker, can i extend my sympathies to the family of [..] who lost her life in a tragic incident
+- tomorrow 9th anniversary of horrific manchester area attack
+- last year martyn's law received royal assent which delivered on our commitment to strengthen the security of public events
+- at the end of last week, the treasury announced an independent review on access to banking, to assess how changes to in-person banking services are affecting customers. the review will be chaired by richard lloyd, who many will know. this is an issue, mr speaker, which is regularly raised by members with me
+- flytipping is also an issue, mr speaker, that members have raised with me frequently, and the government is listening .. tightening the net on waste criminals
+- Cracking down on high street crime, rogue barber shops, vape stores, minimarts, and sweetshops linked to organised crime. They'll face raids, closures, and cash seizures under a new 30-million-pound crackdown targeting money laundering, tax evasion, and illegal working. Which again, these are issues that have been raised in sessions such as these, Mr Speaker, and therefore underlines the importance of the role that members play in influencing future policy and decision making.
+- mr speaker, I also hope that Members will be able to spend time in their constituencies over the recess, and enjoy the warmer weather, hopefully, over the next bank holiday. And as an MP for a coastal constituency, I know how dangerous the sea can be, and I want to highlight the RNLI's annual Float to Live campaign [several female members: "yep"]. And this year's campaign is being fronted by Euan Gray from Gateshead, [who with his brother Andrew got caught in a notorious riptide](https://rnli.org/magazine/magazine-featured-list/2026/may/float-to-live-euan-gray) [that article is super immersive] off my constituency, on Longsands Beach in May last year. And I want to pay tribute to the volunteers of [Cullercoats Lifeboat](https://rnli.org/find-my-nearest/lifeboat-stations/cullercoats-lifeboat-station) and [Tynemouth Lifeboat](https://rnli.org/find-my-nearest/lifeboat-stations/tynemouth-lifeboat-station), and indeed all the RNLI volunteers who tirelessly provide a critical service in coastal towns and villages across our-- across the UK.
+- let me turn, mr speaker, to the remarks of the right hon. gentleman, the shadow leader of the house. and I'm sure, as he acknowledged, that his gratitude for Arsenal beating Man City is genuine coming from a dedicated Man United supporter. I'm sure it was genuine.
+- He also reminds us of the heroes of 1966, and the last time that England won the World Cup, and I should remind the House that England has only ever won the World Cup under a Labour government, and therefore I look forward, Mr Speaker, to the World Cup which starts shortly.
+- On the other matter he seems preoccupied with, Mr Speaker, about my candidature to be the Prime Minister, let me just say that there is no vacancy for a prime minister [a scottish-sounding woman said yeah, hear hear] but i do-- I do thank him for his endorsement, which i'm sure is well intentioned. But I should just warn the House, Mr Speaker, that there's a double edge here, because every candidate which he has endorsed for the Tory leadership has either failed at the first hurdle, or is failing in her leadership now.
+
+very terse compared to the long speeches of norman
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **0/0 answered** (no questions)
+
+[Happened at 11:14](https://parliamentlive.tv/event/index/2002bf35-d040-4469-a90c-7c63369e0c46?in=11:14:02). [Hansard](https://hansard.parliament.uk/commons/2026-05-21/debates/4133CEC1-455F-4BF5-805D-E1A66AFE38B9/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Arsenal won the Premier League
+
+> **NORMAN:** It's famously true that our present Prime Minister gets a 100 times more animated and passionate about the performance of his football club every weekend then he does about trivial details of social, economic, or foreign policy, and still more so when it comes to defeating the enemy from Manchester. So, while we have to have a heart of stone, Mr Speaker, not to congratulate the Prime Minister on the success of Arsenal Football Club in winning the Premier League--I notice the astonishing lack of reaction from the other side--as we, United fans, say: only 11 more premiership wins to go, and Mikel Arteta will still be one short of Alex Ferguson.
+
+...
+
+> **HOYLE:** [the leader of the house wants?†] just to remind the House that the most important game is being played on Sunday between Bolton Wanderers and Stockport. Good luck with [?] Bolton. Come on Leader.
+
+† [or did he say speaker?] [no, he said leader of the house, then just to remind the house. like he's about to call him, but then quick note just to remind them. but then why did he say good luck "with" bolton? [11:20](https://parliamentlive.tv/event/index/2002bf35-d040-4469-a90c-7c63369e0c46?in=11:20:24)] [hansard says "to" bolton]
+
+→
+
+> **CAMPBELL:** I'm sure, as he acknowledged, that his gratitude for Arsenal beating Man City is genuine coming from a dedicated Man United supporter. I'm sure it was genuine.
+
+~~[btw when you search google for premier league winner there are fireworks]~~
+
+#### (2) 📜 REMARK: It's a World Cup year
+
+> **NORMAN:** In this World Cup year, we remember with deep warmth and affection the heroes of 1966. I refer, of course, to the band of brothers who were so inspired by England's world cup victory, that they set up Westfield's Football Club in Hereford. And I pay special tribute to the legend that is Andy Morris, not ignoring his brilliant wife Sandra, who has been synonymous with Westfield ever since.
+
+→
+
+> **CAMPBELL:** He also reminds us of the heroes of 1966, and the last time that England won the World Cup, and I should remind the House that England has only ever won the World Cup under a Labour government, and therefore I look forward, Mr Speaker, to the World Cup which starts shortly.
+
+Speaking of which, I have seen on Canadian subs how unhappy they are about it. And they refer to it as simply "FIFA".
+
+#### (3) 📜 REMARK: Can we have a debate on govt time about your candidacy for Prime Minister? (shenanigans, doesn't count as a question)
+
+> **NORMAN:** Whatever happens in Makerfield [byelection], it seems inevitable that there will soon be a leadership contest in the Labour party. The markets are spooked, the pundits are pontificating, the pollsters are rampant. But amid all the media speculation, there is one candidate, one extraordinary dark horse, who has not yet even been mentioned [*loud, sudden laughter*].
+
+> That is why I am delighted, in relation to the leadership of the Labour party, to announce my strong support in his bid for the top job for the Leader of the House. [*Campbell sighs theatrically*].
+
+> Colleagues will have noticed a certain coyness from the Leader about his own position [last week](https://www.reddit.com/r/ukpolitics/comments/1t8tqzb/rumours_speculation_questions_and_reaction/olv2dyv/) in Business Questions. Make no mistake, Mr Speaker, that's the clear sign of a man preparing to throw his hat into the ring.
+
+> For months now, I have lived myself with a--I must admit--a secret fear that the Government will have a reshuffle and the Leader of the House will be relegated from the light of the Chamber back into the stygian depths of the Labour Whips Office. Luckily, the Prime Minister's remained far too weak even to contemplate a reshuffle. But I ask colleagues across this house, and especially on the Labour benches, to contemplate that hideous prospect, that drastic loss of warmth and wit and wisdom from these proceedings. As Ben Johnson said of Francis Bacon, "when he spoke, the fear of everyone was that he would make an end."
+
+He goes on for a very, very long time.
+
+> Some foolish and ill-advised people will say that this leadership bid is an improbably one. Possibly even, in this age of botox, TikTok, and Justin Trudeau, that a Prime Minister should be constructed on more youthful, foolish, inexperienced, and dare I say, sleeker lines. To which I cry shame, Mr Speaker, and fi upon these unimaginative gloomsters and naysayers. What fools they are! It's precisely that apparently diffident Ken Clark exterior that makes my candidate, our candidate, such a politically electrifying prospect. In a world in which a Labour Chancellor of the Exchequer can seriously advance the total economic shambles of supermarket food price caps, any move is on the table.
+
+> The Leader of the House can therefore immediately become Leader of the Labour party. It's simple common sense, we barely even need to change the name. [..]
+
+> A nation awaits, Mr Speaker. So may we have a debate in Government time on this vital question?
+
+→
+
+> **CAMPBELL:** On the other matter he seems preoccupied with, Mr Speaker, about my candidature to be the Prime Minister, let me just say that there is no vacancy for a prime minister, but I do thank him for his endorsement, which I'm sure is well intentioned.
+
+> But I should just warn the House, Mr Speaker, that there's a double edge here, because every candidate which he has endorsed for the Tory leadership has either failed at the first hurdle, or is failing in her leadership now.
+
+-----
+
+#### ∗ ∗ ∗
+
+Campbell things:
+
+- Independent review on access to banking
+- Policies tightening the net on waste criminals (flytipping)
+
+And:
+
+> **CAMPBELL:** Cracking down on high street crime, rogue barber shops, vape stores, minimarts, and sweetshops linked to organised crime. They'll face raids, closures, and cash seizures under a new 30-million-pound crackdown targeting money laundering, tax evasion, and illegal working. Which again, these are issues that have been raised in sessions such as these, Mr Speaker, and therefore underlines the importance of the role that members play in influencing future policy and decision making.
+
+And:
+
+> **CAMPBELL:** I also hope that Members will be able to spend time in their constituencies over the recess, and enjoy the warmer weather, hopefully, over the next bank holiday. And as an MP for a coastal constituency, I know how dangerous the sea can be, and I want to highlight the RNLI's annual Float to Live campaign [*several female members: "yep"*]. And this year's campaign is being fronted by Euan Gray from Gateshead, [who with his brother Andrew got caught in a notorious riptide](https://rnli.org/magazine/magazine-featured-list/2026/may/float-to-live-euan-gray) [*that article is super immersive*] off my constituency, on Longsands Beach in May last year. And I want to pay tribute to the volunteers of [Cullercoats Lifeboat](https://rnli.org/find-my-nearest/lifeboat-stations/cullercoats-lifeboat-station) and [Tynemouth Lifeboat](https://rnli.org/find-my-nearest/lifeboat-stations/tynemouth-lifeboat-station), and indeed all the RNLI volunteers who tirelessly provide a critical service in coastal towns and villages across the UK.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+BMQs has latently become an exercise in how much of a reaction Norman (at length) can achieve out of the ever-nerveless Campbell. It would be interesting to see if things get much worse for Labour if he would ever show even slight weakness.
+
+personal note (won't be posted): last time i had a really bad time and contemplated stopping (which i can't really to be honest, i'm locked into doing it, so there's little risk of that), this time was a merciful reprieve, even if i am annoyed by affected theatricality and no questions put, i still was amused
+
+i made some mistakes like "then" instead of "than" in 1. "this leadership bid is an improbably one" in 3. also i should not have included my hesitations over what hoyle said, it was stupid and interrupts the flow of reading, i regret. i don't know why i did that. i thought in a way it would maybe encourage participation but then writing what it says on hansard makes it more stupid as there is no point other people going on it to check what he says to be able to tell me, if we can simply check hansard. (although hansard can be wrong too and changes and omits a bit of what people say)
+
+also, this week ukpol is suddenly back to being positive about the government and starmer [to the point of even [praising](https://www.reddit.com/r/ukpolitics/comments/1tfc504/rumours_speculation_questions_and_reaction/on2nyho/) a [tiktok video](https://www.tiktok.com/@keirstarmer/video/7642333547407084822) he did]. however, they're quite sure he will be replaced, that he cannot survive burnham, that even if burnham fails, it will only strengthen the desire to remove him.
+
+and apparently jess phillips resigned at some point?
+
+## 2026-06-04
+steel industry nationalisation bill, railways bill, legacy of jo cox, nhs dentistry, cybersecurity and resilience network and information systems bill
+
+norman:
+- may i welcome my guests to the gallery
+- As I see it, Madam Deputy Speaker, part of our jobs at Business Questions is to act as a place of record, and this has been a grim week. A week of mourning for us all. First we mourn for [Henry Novak](https://en.wikipedia.org/wiki/Murder_of_Henry_Nowak). The whole House will know the terrible circumstances of his murder, and will, I know, feel the deepest respect for the dignity of his family in the face of such a loss. We mourn too the tragic loss of the three Royal Navy crew killed yesterday when their helicopter crashed in Devon, and the loss of Lance Corporal James Freeman of the Royal Anglian Regiment, who died on Sunday during a training exercise in Erbil. And we mourn the early death of Sir Alex Younger, as has already mentioned in this chamber. a friend to many in and around this house, who did so much to protect this country in his long tenure as chief of the secret intelligence service. but finally, i hope i may record my personal sadness at the recent deaths of two true conservative parliamentarians: sir alan haselhurst and sir jeremy hanley, both great public servants. in all these cases we send our deepest condolences to their families, friends, and comrades.
+- madam deputy speaker, i have two matters to raise with the leader today, if i may. a first is a matter of housekeeping. Colleagues will know of my deep concerns about the current plans for the rebuild of the Palace of Westminster, the lack of scrutiny they have received to date, and in particular the prospect of an uncapped budget, potentially running up to an astounding 20 to 40 billion pounds [backbench member: shocking!]. The R&R Client Board last met on the 2nd of March. At that meeting, I requested information, and I understood that my request had been agreed. Three months later, as far as I'm aware, nothing has happened. I cannot even check the status of my request, because the minutes have not been published in either of the two--I note, two--parallel and apparently unconnected places on the parliamentary website. This is just not good enough. It is a disrespect to the Chamber and to the Palace as a whole. Very soon, the Government are expected to bring a motion forward asking colleagues to endorse a programme which could cost more than the original budget for HS2. Just think about that, Madam Deputy Speaker. I hope all Members will think about that. At present, colleagues are manifestly underinformed and underprepared. Can the Leader therefore reassure the House that there will be proper time for scrutiny, both in the Public Accounts Committee and on the floor of the House, and that at least three weeks notice will be given of any motion, so that both Houses may prepare properly?
+- Secondly, I raise a matter of both local and national importance. The Leader will know that thanks to the Hay Festival and now HowTheLightGetsIn, every year at the end of May, Hay and its environment in my constitency become the world capital of ideas. As Arthur Miller once described it, Hay is the woodstock of the mind. But Hay is also Hay-on-Wye, and the Wye, one of the loveliest rivers in Britain, remains in deep ecological distress. I have been campaigning on this issue now for six years, and progress, alas, has been fitful at best. The previous Government promised a River Wye action plan, with up to 30 billion pounds earmarked to help deal with poultry manure [?] and nutrient pollution [?], only for it to be discarded after the national election. But Herefordshire council and neighbouring councils have been working hard with farmers, conservation bodies, and local partners, most recently through a new charter for the River Wye, an evocative statement of shared purpose across the catchment. The root problem is a lack of joined-up collective action, and a regulatory system that remains woefully insufficient. The river runs through England and Wales, but pollution does not stop and the border, and nor should policy. We need one--and we've always needed--one single approach which brings everyone together, one source of authority for the river. And that is why I am proposing statutory River Wye commissioners, an inexpensive cross-border body for the whole catchment, created by an order in council with a single recovery plan, proper shared data, published milestones, and the authority to bring all parties: businesses, farmers, campaigners, ecologists, planning, conservation and enforcement to the same table. So maybe we could have a debate in Government time on the River Wye commissioners, and perhaps the government can pick up my River Wye cleaning private Member's Bill, so that this wonderful river can be given the clear, accountable, and empowered cross-border support it so urgently needs.
+
+campbell:
+- May I join the right hon. Gentleman in mentioning at the very beginning of my remarks Henry Novak. And I want to thank him, and I want to thank many many Members across the House who have dealt with this matter, a tragic matter, in a sensitive and responsible way. Unfortunately, it's not universal in this House, but I have to say, in many ways, Members have risen to the occasion, and we need to respect, as the Prime Minister said yesterday, the wishes of Henry's family, but above all that, we need to respect Henry himself, and I thank the right hon. Gentleman for the way in which he's raised this.
+- he's also given a list of other tragic events, and i just want to mention some of them, and run through perhaps some others too. as he says, we send our deepest condolences to the friends and families of the navy personnel killed tragically during the helicopter training exercise yesterday, and also pay tribute to lance corporal james freeman who was killed in a training exercise in northern iraq. i know that the thoughts of the whole house are with his family and his unit at this desperately sad time. and again, it underlines just how important it is that we respect our men and women of the services who do so much on behalf of our country. i'm also saddened, as he was, to hear the deaths of lord haselhurst. alan haselhurst was a distiguished deputy speaker and chairman of ways and means and the chair of the administration committee. a dedicated parliamentarian, mp for more than 47 years. i served with him on the honours committee from time to time, but more lately met up with him in the tea room, where we invariably discussed cricket, of which he knew a great deal, and clearly i did not. i also pay tribute to alex younger, the former head of mi6, who passed away this week. he was a distinguished and dedicated public servant, and the longest serving mi6 chief in 50 years, and our thoughts are with his family at this very very sad time.
+- i also want to place on record our tribute to baroness ramsay of cartvale, who sadly passed away. she lived an extraordinary life, and served as a role model to women everywhere, and i'm sure the whole house will join me in sending condolences to her family and friends.
+- and lastly but by no means least, i'm sure the whole house also joins me in sending our condolences to the friends and family of gladys dickson, a much loved character in the members tea room, and rightly proud of the mbe which she received, and she will be deeply missed by members across the house.
+- i just want to mention one or two matters, madam deputy speaker, before i get on to the remarks of the right hon. gentleman. patients across england will benefit from more services, treatments, and better access to medicines from their local pharmacy under a new 340 million government-funded deal with announced last week, and we are making the most of our highly-skilled pharmacists, while boosting access to services and giving patients more care right on their doorstep. and i know that this issue has been raised many times in business questions and indeed elsewhere, and i hope that pressure has influenced this decision, and that this announcement will be welcome.
+- at the weekend the biggest train operator, govia thameslink services, entered public ownership, which means that publicly-owned operators will deliver 8/10 passenger rail journeys, and millions of passengers will benefit from more accountability and reliable journeys. and i know that railway services are an issue, again, which is frequently raised by members with me and in other ways as well, and by setting up great british railways, we're putting passengers first, we're fixing what's broken, and we're delivering a better railway on behalf of the people.
+- on the two specific points that the right hon. gentleman raises: He's right to raise, and it is concerning, that the planning board has not produced the minutes of their meeting yet. There's no, I'm sure, no great conspiracy behind this, it's just a case of they haven't got round to doing it, but I give him the assurance that they will. And I also agree with him that it's really important that we lay the-- roll the ground, roll the pitch, for any decision on our-- a decision which i gen-- I truly believe will need to make one way or the other, because we can't tread water for many much longer, not least because it's costing us a great deal of money to do so, whichever route we take, it would cost a great deal of money. good governance and financial guidance on these matters, keeping tabs on the money is very important, it's the heart of what we do, and therefore I will be bringing forward a motion, and I listen to what he said about the time of that. It is the case that the PSC [PAC] is looking at this and we do need to learn lessons from people who have looked at this matter, so that if we make the decision, that we get it absolutely right.
+- in terms of the hay-on-wye festival, and indeed the river hay [sic], I too was on the Hay-on-Wye festival for a day and it's a tremendous event, and I encourage people to go along to that. He talks about rivers, we've got a water Bill in the King's Speech, we're determined to go on cleaning our rivers and our seas. And the Wye is, amongst others, a very beautiful river indeed, and it is important that it is cleaned up for communities along its route, but also for others who visit that particularly beautiful part of the world. I offer him a meeting with the water Minister to make his case for the actions he proposes so that he can put forward his proposals for a commissioner. If the Government isn't forthcoming in that, there are other routes that he could take. He mentions his private Member's Bill, but there are other routes he can take, because I know he is a determined campaigner to improve the situation.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/2 answered**
+
+[Happened at 11:16](https://parliamentlive.tv/event/index/b47263bd-cc42-4557-8e06-dbae8ff00d7e?in=11:16:21). [Hansard](https://hansard.parliament.uk/commons/2026-06-04/debates/90337D84-C733-42DE-A121-43AD0FE7E35F/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Recent losses (inexhaustive)
+
+> **NORMAN:** First we mourn for [Henry Novak](https://en.wikipedia.org/wiki/Murder_of_Henry_Nowak). The whole House will know the terrible circumstances of his murder, and will, I know, feel the deepest respect for the dignity of his family in the face of such a loss. We mourn too the tragic loss of the three Royal Navy crew killed yesterday when their helicopter crashed in Devon, and the loss of Lance Corporal James Freeman of the Royal Anglian Regiment, who died on Sunday during a training exercise in Erbil.
+
+→
+
+> **CAMPBELL:** May I join the right hon. Gentleman in mentioning at the very beginning of my remarks Henry Novak. And I want to thank him, and I want to thank many many Members across the House who have dealt with this matter, a tragic matter, in a sensitive and responsible way. Unfortunately, it's not universal in this House, but I have to say, in many ways, Members have risen to the occasion, and we need to respect, as the Prime Minister said yesterday, the wishes of Henry's family, but above all that, we need to respect Henry himself, and I thank the right hon. Gentleman for the way in which he's raised this.
+
+#### (2) ✔️ Q1: Can he reassure the House there will be proper time for scrutiny of plans for the rebuild of the Palace of Westminster? → Yes
+
+> **NORMAN:** Colleagues will know of my deep concerns about the current plans for the rebuild of the Palace of Westminster, the lack of scrutiny they have received to date, and in particular the prospect of an uncapped budget, potentially running up to an astounding 20 to 40 billion pounds [*Backbench Member: Shocking!*].
+
+> The R&R Client Board last met on the 2nd of March. At that meeting, I requested information, and I understood that my request had been agreed. Three months later, as far as I'm aware, nothing has happened. I cannot even check the status of my request, because the minutes have not been published in either of the two--I note, two--parallel and apparently unconnected places on the parliamentary website. This is just not good enough. It is a disrespect to the Chamber and to the Palace as a whole.
+
+> Very soon, the Government are expected to bring a motion forward asking colleagues to endorse a programme which could cost more than the original budget for HS2. Just think about that, Madam Deputy Speaker. I hope all Members will think about that. At present, colleagues are manifestly underinformed and underprepared. Can the Leader therefore reassure the House that there will be proper time for scrutiny, both in the Public Accounts Committee and on the floor of the House, and that at least three weeks notice will be given of any motion, so that both Houses may prepare properly?
+
+→
+
+> **CAMPBELL:** He's right to raise, and it is concerning, that the planning board has not produced the minutes of their meeting yet. There's no, I'm sure, no great conspiracy behind this, it's just a case of they haven't got round to doing it, but I give him the assurance that they will. And I also agree with him that it's really important that we lay the-- roll the ground, roll the pitch, for any decision on our-- a decision which I gen-- I truly believe will need to make one way or the other, because we can't tread water for many much longer, not least because it's costing us a great deal of money to do so, whichever route we take, it would cost a great deal of money. [..]
+
+> Keeping tabs on the money is very important, it's the heart of what we do, and therefore I will be bringing forward a motion, and I listen to what he said about the time of that. It is the case that the PAC is looking at this and we do need to learn lessons from people who have looked at this matter, so that if we make the decision, that we get it absolutely right.
+
+#### (3) ✔️ Q2: Can we have a debate in Government time on my River Wye cleaning proposal?
+
+> **NORMAN:** The Wye, one of the loveliest rivers in Britain, remains in deep ecological distress. I have been campaigning on this issue now for six years, and progress, alas, has been fitful at best. The previous Government promised a River Wye action plan, with up to 30 billion pounds earmarked to help deal with poultry manure and nutrient pollution, only for it to be discarded after the national election. But Herefordshire council and neighbouring councils have been working hard with farmers, conservation bodies, and local partners, most recently through a new charter for the River Wye, an evocative statement of shared purpose across the catchment.
+
+> The root problem is a lack of joined-up collective action, and a regulatory system that remains woefully insufficient. The river runs through England and Wales, but pollution does not stop and the border, and nor should policy. We need one--and we've always needed--one single approach which brings everyone together, one source of authority for the river. And that is why I am proposing statutory River Wye commissioners, an inexpensive cross-border body for the whole catchment, created by an order in council with a single recovery plan, proper shared data, published milestones, and the authority to bring all parties: businesses, farmers, campaigners, ecologists, planning, conservation and enforcement to the same table.
+
+> So maybe we could have a debate in Government time on the River Wye commissioners, and perhaps the Government can pick up my River Wye cleaning private Member's Bill, so that this wonderful river can be given the clear, accountable, and empowered cross-border support it so urgently needs.
+
+→
+
+> **CAMPBELL:** I too was on the Hay-on-Wye festival for a day and it's a tremendous event, and I encourage people to go along to that. He talks about rivers, we've got a water Bill in the King's Speech, we're determined to go on cleaning our rivers and our seas. And the Wye is, amongst others, a very beautiful river indeed, and it is important that it is cleaned up for communities along its route, but also for others who visit that particularly beautiful part of the world.
+
+> I offer him a meeting with the water Minister to make his case for the actions he proposes so that he can put forward his proposals for a commissioner. If the Government isn't forthcoming in that, there are other routes that he could take. He mentions his private Member's Bill, but there are other routes he can take, because I know he is a determined campaigner to improve the situation.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+~~Boring one~~ [and i guess i shouldn't say that given the deaths]
+
+personal notes: looks like everyone is talking about novak which made me think i should add this bit, but there were a lot of deaths and it would be too long to put everything but disrespectful to put only him, no?
+
+i guess i will only list the soldiers, the others are important public figures so maybe it's not disrespectful to not mention them because they would have got no lack of attention
 
 {% include fin.html %}

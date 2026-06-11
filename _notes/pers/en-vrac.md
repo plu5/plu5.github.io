@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-05-13 07:08
+modified_date: 2026-06-09 11:28
 categories: flou
 lang: fr
 ---
@@ -219,6 +219,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-03-04
 - [old] [soft] libresleur / translace
   + intégration mpv ?
+  + libreslur
 
 § 2026-03-10
 - section "how it works" sur les readmes de mes projets avec diagramme de flux de contrôle et explications comme [lalo-space/shellbeats](https://github.com/lalo-space/shellbeats)
@@ -351,5 +352,75 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-05-12
 - [art] bd homme grand colérique
   + meco
+
+§ 2026-05-13
+- [jeu] r.e.p.o.
+  + et un autre jeu plus tôt mais j'ai oublié
+
+§ 2026-05-15
+- [art] modèle simpliste de la chambre des communes en suivant sam
+  + pour utiliser comme réf ou dans un jeu
+  + mettre en ligne sur un site où on peut mettre en ligne des fichiers blend ?
+    - blendswap.com
+  + ou vers js ? (cf [1](https://www.reddit.com/r/3Dprinting/comments/19788x7/blender_to_web_an_opensource_project_to_turn_your/?tl=fr), [2](https://www.nothing-is-3d.com/article25/de-blender-vers-babylonjs))
+- [art] sculpter des créatures d'imagination
+
+§ 2026-05-16
+- [jeu] moba web où les héros sont des animaux
+  + art mspaint
+
+§ 2026-05-18
+- [art] escargot énorme dans un appartement le soir. c'est une idée visuelle ancienne.
+  + je pourrais en faire toute une série avec d'autres bestioles
+
+§ 2026-05-21
+- [art] horreurs sous l'eau
+- concours de tir où les participants sont jugés sur la qualité des dessins qu'ils réalisent avec les impacts de balles
+
+§ 2026-05-22
+- [jeu] world of guns
+- [jeu] steep
+- [art] the terror ours
+
+§ 2026-05-24
+- [livre] linux, l'extraordinaire histoire d'une révolution accidentelle
+
+§ 2026-05-26
+- langage de programmation lisp qui transpile à javascript
+  + lijsp
+  + https://gist.github.com/bradparker/a178743d08880f9361cd
+- langage de programmation qui transpile à c
+  + cf
+
+§ 2026-05-28
+- [jeu] r6 extraction
+
+§ 2026-05-30
+- [art] galois comme s'il était un pnj d'un jeu assassin's creed
+- [jeu] [old] la sangsue
+- [art] poster concepts dans les communautés de jeux ou autres
+  + photos / gifs / vidéos
+  + bateaux / meilleurs graphismes / ui / idées pour le fonctionnement des coéquipiers dans le community hub de esail
+  + armes / véhicules world of guns
+  + reddit
+
+§ 2026-05-31
+- retroachievements étudier le fonctionnement et créer une version plus permissive (ROMs européens supportés, sets téléchargeables, offline permis)
+  + openachievements
+  + l'accent mis sur l'accessibilité plutôt que sur la concurrence
+  + pas de anti-cheat du tout. leaderboards vont dire "top n players (or top n cheaters)"
+  + fonctionnalité import/export de ses propres données, même si le site meurt un autre pourrait prendre sa place
+  + version données locales
+
+§ 2026-06-02
+- [jeu] warcraft 1-3, dota 1
+- [soft] version open source de pureref
+  + https://github.com/FyorDev/PureRef-format
+  + https://github.com/lettucegoblin/AnimRef
+- [gh] images/gifs des projets sur gh readme
+  + comme https://github.com/lettucegoblin
+
+§ 2026-06-09
+- [jeu] fightifact ; dota spinoff fighting game
 
 {% include fin.html %}

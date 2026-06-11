@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-04-26 04:10
+modified_date: 2026-06-06 12:49
 categories: os
 lang: fr
 ---
@@ -212,6 +212,23 @@ Redirections dans une substitution de commande
 Pas de regex, mais il y a les motifs de globbing `*` `?` `[abc]` `[!abc]`.
 
 Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
+## Raccourcis shell
+- M-backspace : supprimer mot précédent ←
+- C-u : supprimer tout avant curseur ←
+- C-k : supprimer tout après curseur →
+- C-r : rechercher dans l'historique
+- C-s : figer (stop / suspend output)
+  + souvent appuyé par accident, à un point de devenir un mème dans la communauté
+- C-q : défiger
+- C-a / C-e : début/fin de ligne
+- C-c : arrêter le programme en cours d'exécution (keyboard interrupt)
+- C-z : suspend
+  + fg pour revenir
+  + bg pour le faire tourner en arrière plan
+- C-d : envoyer "fin de fichier"
+  + par ex. pour arrêter un `cat -`
+  + avec ranger ça sert à revenir à ranger après S
+  + avec rien en cours, le terminal se ferme
 
 ## Débogage
 - `journalctl --no-pager --since "1 hour ago"`
@@ -227,8 +244,27 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
   <br>`startx > ~/.xsession-errors 2>&1`
 
 ## Gestion des processus
+- top
+  + `>` `<` : changer colonne par laquelle trier (CPU par défaut, `>` une fois trie par MEM)
 - pkill onedrive
 - pstree | grep onedrive
+
+## DPMs
+- désactiver : xset -dpms
+- éteindre écran : xset dpms force off
+
+## Wacom
+- stylus=$(xsetwacom list devices | awk '/stylus/{print $8}')
+- xsetwacom set "$stylus" Mode Relative
+- xsetwacom set "$stylus" Mode Absolute
+- xsetwacom set "$stylus" Rotate cw
+  + mode vertical
+- xsetwacom set "$stylus" Area 14494 0 30210 27940
+  + proportions pour mode vertical
+- xsetwacom set "$stylus" Area 0 0 44704 25146
+  + proportions pour mode horizontal
+- xsetwacom set "$stylus" Threshold 800
+  + la pression nécessaire pour un clic
 
 ## Fichiers
 - Commande pour lister les fichiers avec date de création et modification, triés par création (birth) :
@@ -327,6 +363,11 @@ flottante :
 wid=$(wmctrl -l | grep Peek | awk '{print $1}'); bspc query --node $wid --tree | jq .client.floatingRectangle
 ```
 si non flottante, juste `.rectangle`
+
+#### Polybar couvre un truc en plein écran
+```sh
+xdo above -N "Polybar" -t $(xdo id -N Bspwm -n root)
+```
 
 ### Script
 #### Faire quelque chose seulement si l'utilisateur a la commande
