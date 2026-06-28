@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-06-03 10:37
+modified_date: 2026-06-28 12:17
 categories: lang
 lang: fr
 ---
@@ -981,5 +981,32 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-06-03
 - le montage (the edit), le monteur / la monteuse (the editor), faire le montage d'une vidéo
+
+§ 2026-06-11
+- Ce sont des politiciens, avec ceux-là il faut toujours se méfier. ([wr](https://www.wordreference.com/fren/ceux))
+
+§ 2026-06-18
+- Elle est vraiment fatigante. Je me contente de l'ignorer. ([wr](https://www.wordreference.com/enfr/ignore))
+- Il a ignoré les demandes d'aide. (^)
+
+§ 2026-06-19
+- L'ère des dinosaures s'est achevée il y a des millions d'années. ([wr](https://www.wordreference.com/enfr/aging))
+- des moyens de transformer une structure de données en mémoire en une série d’octets ([letsencrypt](https://letsencrypt.org/fr/docs/a-warm-welcome-to-asn1-and-der/))
+
+§ 2026-06-23
+- Il peut s'agir d'un froncement non pas de sourcil mais de paupière, comme quand on plisse les yeux pour mieux voir, ou pour interroger quelqu'un ? ([weefoot](https://forum.wordreference.com/threads/eyelid-squint.2502218/))
+- L'orthodontiste a (redressé / corrigé l'alignement de) ses dents. ([wr](https://forum.wordreference.com/threads/straighten-teeth.3342913/))
+- Pour moi, dans une cuisine, la paillasse est la partie de l'évier où l'on met la vaisselle à égoutter (émail, inox, ou aujourd'hui matériaux composites). J'appelle plans de travail les parties planes situées autour (mélaminé, bois, carrelages, ou aussi matériaux composites) sur lesquelles on prépare les repas. ([anne-kate](https://forum.wordreference.com/threads/kitchen-counter.2035954/))
+- "transformant le comptoir en table d'opération", "le plan de travail en table d'opération", tout dépend de ce que vous savez de l'agencement de cette cuisine. (^)
+
+§ 2026-06-25
+- hit hard : foudroyer
+- Les Letters de SB ne sont accessibles qu’en hardcover chez Cambridge UP. C’est vraiment se moquer des sans-dents. ([masud al-bukhari](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-1/#comments))
+
+§ 2026-06-26
+- barrette mémoire (ram stick)
+- Certes l’objectif est louable, mais pour l’atteindre Demoule réfute avec désinvolture, sans argument recevable, tout le corpus scientifique édifié au cours du siècle dernier avec les travaux des linguistes les plus solides ([DHH](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-1/#comments))
+- Les deux personnages (Estragon et Vladimir) ne sont pas identiques : Estragon est plus terre à terre, préoccupé de son corps, du moment présent. Vladimir est le plus « intellectuel » du duo, avec une nostalgie du passé, d’un certain passé glorieux, suivi d’une longue déchéance. (^ Widergänger)
+- Je n’interviendrai pas au sujet de Beckett, tout simplement parce qu’il est totalement surfait. Quand on creuse un peu, on s’aperçoit vite que ça ne vaut pas grand chose, ce genre d’art. (^ D.)
 
 {% include fin.html %}

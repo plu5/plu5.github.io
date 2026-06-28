@@ -2,7 +2,7 @@
 layout: post
 title: Blender
 date: 2026-05-17 16:39
-modified_date: 2026-05-21 11:15
+modified_date: 2026-06-20 20:39
 categories:
 lang: fr
 ---
@@ -48,6 +48,9 @@ lang: fr
 - édition proportionnelle falloff : S-o
 - appliquer transformations : C-a
 - sélection boîte/pinceau/lasso : w
+- (sculpture) brosse draw/claystrips/pinch/inflate/grab/snakehook/fill/crease : v/c/p/i/g/k/S-t/S-c
+- (sculpture) chercher brosse : S-space
+- (sculpture) basculer entre masque et brosse : m
 - (sculpture) **remesh : C-r**
 - (sculpture) **résolution de remesh : r**
 - (sculpture) **taille : f**

@@ -2,7 +2,7 @@
 layout: post
 title: Git
 date: 2026-04-21 22:15
-modified_date: 2026-05-27 19:11
+modified_date: 2026-06-14 11:34
 categories: git
 lang: fr
 ---
@@ -18,6 +18,8 @@ lang: fr
     - utile pour quand tu veux ajouter seulement certaines lignes ou certains hunks. ajouter le fichier avec `add -N` d'abord, puis ajouter ce que tu veux avec `add -i` ou avec magit. ([SE](https://stackoverflow.com/questions/6436681/how-to-stage-only-part-of-a-new-file-with-git))
     - avec des fichiers déjà existants c'est possible d'ajouter les changements en entier puis unstage certaines lignes / certains hunks, mais avec un nouveau fichier ça provoque l'erreur "error: new file fichier depends on old contents".
 - `git restore --staged fichier` : unstage
+- `git reset` : unstage tout
+  + avec `--hard` ça revert les changements dans les fichiers aussi
 - `git rm --cached nomdufichier` : untrack
   + attention ! sans le `--cached` ça va supprimer le fichier du disque en même temps
   + `git rm --cached -r nomdudossier` : untrack un dossier avec tout ce qu'il y a dedans

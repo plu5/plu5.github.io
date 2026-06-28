@@ -2,7 +2,7 @@
 layout: post
 title: site
 date: 2026-04-18 15:53
-modified_date: 2026-04-30 04:32
+modified_date: 2026-06-27 16:23
 categories: projet
 lang: fr
 ---
@@ -11,6 +11,7 @@ lang: fr
 § 2026-04-18
 - page /projects avec une liste
   + année de début de chaque projet (à remplir dans projects.yml)
+  + gifs (comme github.com/lettucegoblin, cbgamedev.com)
 - /notes : lister par chemin
 
 § 2026-04-22

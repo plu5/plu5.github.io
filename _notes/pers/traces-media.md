@@ -2,7 +2,7 @@
 layout: post
 title:  Traces média
 date:   2026-01-31 21:28
-modified_date: 2026-06-03 11:21
+modified_date: 2026-06-26 03:30
 categories: list
 lang: fr
 ---
@@ -36,10 +36,6 @@ Notes sur ce que je lis/écoute/regarde
 - [jeu] Space Invaders : « Plusieurs modes de jeu font leurs apparitions et intègrent de nouveaux éléments au concept original. Par exemple, dans _Space Invaders Extreme_, sorti sur Nintendo DS et PlayStation Portable en 2008, le _gameplay_ innove en proposant une expérience synesthésique basé sur les couleurs et le son. Sur la plate-forme de téléchargement de la Wii, le WiiWare, un spin-off intitulé _Space Invaders Get Even_ permet au joueur de contrôler les aliens au lieu du canon laser. »
   + « _Space Invaders_ et ses différentes suites sont inclus dans plusieurs compilations de jeux vidéo. Commercialisé en 2003 à l'occasion du 25e anniversaire de la série, _Space Invaders Anniversary_ est une borne d'arcade qui propose les neuf versions de _Space Invaders_ parues jusqu'ici en arcade, à la fois dans leur version originale et dans une version spéciale avec des effets graphiques inédits. Ce jeu est commercialisé sur PlayStation 2 et s'écoule à plus de 100 000 exemplaires au Japon. En 2005, un titre similaire intitulé _Space Invaders Pocket_ paraît sur la PlayStation Portable au Japon. _Space Invaders_, _Space Invaders Part II_ et _Return of the Invaders_ sont compris dans le titre _Taito Legends_, une compilation regroupant les grands classiques des jeux d'arcade réalisés par Taito. Ce dernier est sorti en 2005 sur PlayStation 2, Xbox et Microsoft Windows. _Space Invaders DX_ et _Space Invaders '95_ sont inclus dans _Taito Legends 2_, un jeu sorti en 2006 et correspondant à la suite de la compilation _Taito Legends_. »
   + « En 2008, en l'honneur du trentième anniversaire du jeu, Taito produit un album intitulé _Space Invaders 2008_. Il est publié par Avex Trax et propose des musiques inspirées par le jeu. »
-
-## [en] Dylan Abernethy
-..
-- [Creating Complex Props for Video Games Course](https://drive.google.com/drive/folders/1VgGFmc_CU3-Ec1DwEEVpeqrsElWT4nGy)
 
 ## Mondead
 ..
@@ -84,9 +80,6 @@ Notes sur ce que je lis/écoute/regarde
 § 2026-05-30
 - je remarque à nouveau que le travail des étudiants est exceptionnel. j'aime bien les hommes attaqués par une créature en mer w3-1 1h16 (par guillaume, comme toujours !)
 - il a dit à un moment "ça marcherait avec n'importe quel pinceau texturé" quand il a démontré comment adoucir un bord
-
-## [en] Devin Korwin
-..
 
 ## [en] Political Currency
 ..
@@ -352,5 +345,37 @@ Notes sur ce que je lis/écoute/regarde
 - cake-logic.itch.io/ultrakill-web-port
 - github.com/AssetRipper/AssetRipper
 - github.com/teker821/ULTRAKILL
+
+## [en] Marco Bucci
+..
+§ 2026-06-14
+- "there are no rules, just tools" (glenn vilppu)
+- "cross contour" "it's a line that goes over the form that defines the middle of the form" middle of the form ≠ middle of the shape
+- overlap accordion effect
+- il a dit qu'il n'a toujours pas le sentiment d'avoir tout maîtrisé, et qu'on n'y arrive jamais à son avis, mais qu'il est bcp mieux de ce qu'il était au début, et qu'il pense que c'est surtout à cause d'avoir fait bcp des études de la figure comme celles qu'il montre. et j'en doute.
+- 25 10m "go to youtube, search marco bucci hands, you'll find these two video lectures. and there is a part 1 part 2. look at this one first, draw better hands now the video's called, and then this one, draw great hand poses tips and tricks. this is more of the fundamentals, and this one, as the title implies, more tips and tricks. these two videos total about 40 minutes of lecturing, and they could just as easily be put in this class, but they're already on youtube. so check those out to fill in your knowledge of the hands. i feel it would just be redundant if i also put those same videos in here. and just like all my videos, i try not to make a distinction in quality between premium content and youtube content, to me they are the same, it's just that youtube tends to go a bit faster, to be a bit faster paced, but that hands lecture is actually not faster paced, it's about the pace of this class, so when it comes to hands, just refer to that. everything is in there, i promise."
+- 30 "i do recommend you put your figure drawings in your portfolio"
+- 32 32m "whole other class called understanding and painting the head where it's like 8 hours of just the head"
+- "aside from technical knowledge, i feel that the artist must have a certain reverence for the beauty of the construction of the head, the qualities of its forms that give it individuality, plus a desire for beauty and craftsmanship in the rendering. let them experiment constantly with the expression of basic knowledge." (andrew loomis)
+- "planes are a study of a change in direction. both big and small."
+
+§ 2026-06-15
+- yt ambient occlusion
+- "train your eye to see small changes in value" "combination of your knowledge [..] and your eyes"
+- 15 21m smudge
+- "only shooting for the critical information, not dilly-dallying with fancy brushwork, get the information down first, that is what will progress you the most"
+- 30m "your studies should be aimed in my opinion more at capturing the relationship between things like value and things like change of direction of plane, colour, and stuff like that. because those relationships are universal, those are not just tied to one specific reference. in other words you will be able to use your knowledge of relationships on any subject."
+- avoids hard lines, even if they are in the reference. "doesn't fit in the language of painting"
+- 35m angled strokes filter
+- 39m alla prima book, erase and redo your work, killing your darlings
+- 16 17m 2 planes meeting, crest light (highlight). various sizes depending on roundness of the form. reflection of the light source
+- 18 12m "the middle of the lips and the corner of the lips are my favourite places to put the dark accents. i try not to draw a line between the lips; i want that delineation made with planes, not lines."
+- 19 38m clean shapes, avoid roadmappy shapes [old], merging shapes
+- 45m miscalculation of what is light and what is shadow. look at the cast shadow, the shadow is on that side
+
+## [fr] Autorité Politique
+..
+§ 2026-06-16
+- on ne devient pas majeur qu'à la mort de ses parents
 
 {% include fin.html %}

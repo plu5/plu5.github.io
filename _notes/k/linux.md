@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-06-06 12:49
+modified_date: 2026-06-21 15:01
 categories: os
 lang: fr
 ---
@@ -258,7 +258,9 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - xsetwacom set "$stylus" Mode Relative
 - xsetwacom set "$stylus" Mode Absolute
 - xsetwacom set "$stylus" Rotate cw
-  + mode vertical
+  + mode vertical (boutons en bas)
+- xsetwacom set "$stylus" Rotate ccw
+  + mode vertical inversé (boutons en haut)
 - xsetwacom set "$stylus" Area 14494 0 30210 27940
   + proportions pour mode vertical
 - xsetwacom set "$stylus" Area 0 0 44704 25146

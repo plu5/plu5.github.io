@@ -3,18 +3,17 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-06-04 17:36
+modified_date: 2026-06-26 03:30
 categories: ukpol
 lang: en
 ---
 
-## 2026-01
-### 2026-01-08
+## 2026-01-08
 lamont
 - wish to everyone and all the staff a very happy new yhaer
 - will not add unduly to his discomfort
 - want to start with a humble request no significant policy annoucenements when parliament is not sitting
-- u turn family farms tax (!! vraiment ?) shouldn't have been announced to media
+- u turn family farms tax (!) shouldn't have been announced to media
 - some labour mp annouced to media that he was always against it and was workign behidhn teh scenes to get it reversed. will not wash with teh public, they will remeber the labour mps clapping like seals every time the pm insisted it waws the right thing to do. there is oen exception ; pimwith and solway. knows right from wrong, voted against, he knew labour promised before the election not to introduce such a tax, events proved the member correct, when will the whip be resotred to him? if you accept policy was wrong you have to qaccept punishing those who oppose it
 - the leader told us he does not make new year resolutions, can can i ask him to think agqain? what is he going to do to make sure the govt is more honest and more stable?
 - from issue to isseu govt announcement to reversal
@@ -119,7 +118,7 @@ Look at all these questions though, Norman never reached six. His average is ~1.
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
-### 2026-01-15
+## 2026-01-15
 norman
 - people of iran facing oppression
 - one small one and one big one he wants to raise
@@ -209,7 +208,7 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/2 answer
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
-### 2026-01-22
+## 2026-01-22
 debates coming up
 chagos
 removing child limit
@@ -296,7 +295,7 @@ He had a joke prepared about Reform too:
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
-### 2026-01-29
+## 2026-01-29
 - some of the same things like last time like child limit, genocide debate
 - 12 february recess
 
@@ -404,8 +403,7 @@ What happened to Hoyle?
 
 2026-01-29 21:13 i rapidly checked yesterday to see if the answer to waht happened to hoyle is obvious if one looks at yesterday (pmqs) and hoyle was there so whatever happened to him must have happened after
 
-## 2026-02
-### 2026-02-05
+## 2026-02-05
 uk-india free trade agreement, increasing survival rate of brain tumours, pension increase, benefits uprating, .., extensions of veterans relief, lgbt+ history month, mobile connectivity in rural areas, february recess conclusion of 13th until 23rd, debate on estimates 2nd march
 
 norman
@@ -522,7 +520,7 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/2 answer
 
 - [Parliament's restoration and renewal costed proposals report](https://committees.parliament.uk/publications/51442/documents/285576/default/) released today
 
-### 2026-02-12
+## 2026-02-12
 industry and exports financial assistance bill, removal two child limit bill, libdem thing, budget responsibility, general debate on ukraine, general debate on st david's day, bereaved children, represenation of the people bill, spring statement, consideration of lords amendments, house asked to agree all outstanding estimates, general debate on contributions of commonwealth troops in the first world war, debate on motion of future of palliative care, recess dates for like summer and conference and christmas recess in ages from now
 
 deputy speaker: 1st of september does clash with my brithday
@@ -607,7 +605,7 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions
 
 House rises for recess until 23 February not including
 
-### 2026-02-26
+## 2026-02-26
 same things almost in the statement
 
 morrisson (standing in):
@@ -710,8 +708,7 @@ Morrissey standing in as Shadow LotH for the fourth time, but her first time goi
 
 Morrissey in her usual style of just asking for debates, which is apparently what you're meant to do. She did ask for one assurance as well (Q1), but an assurance of what? a debate. I remember erskinematt saying this is the only thing actually in the remit of the LotH.
 
-## 2026-03
-### 2026-03-05
+## 2026-03-05
 before bmqs hoyle read a letter from a departing clerk [tom goldsmith]
 "you're the best jazz pianist i know that costs us nothing"
 
@@ -849,7 +846,7 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answer
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
-### 2026-03-12
+## 2026-03-12
 before bmqs angry hoyle statement because of last night govt mps including the whip delaying a vote for 22 minutes
 
 ministerial salaries amendment bill ("The proposal is to add another Secretary of State (from 21 to 22), 4 more Ministers of State (from 50 to 54), and 11 more Undersecretaries (83 to 94), for a total addition of 16." —[UnsaddledZigadenus](https://reddit.com/r/ukpolitics/comments/1rns5l7/rumours_speculation_questions_and_reaction/o9ulu8v/)), opposition day, debate on progress in tackling climate change, debate on online harms
@@ -972,7 +969,7 @@ Was preceded by an angry statement from Hoyle about Government-whips-led delays 
 
 I didn't know they could read Hansard while going through the lobbies. Suddenly this archaic voting system seems a lot more tolerable.
 
-### 2026-03-19
+## 2026-03-19
 transport accessibility for disabled people backbench business debate
 
 before hoyle called jesse norman we hear the clerk beside him whisper to him "jesse norman", as if he doesn't do this every week. does the speaker just phase out?
@@ -1089,7 +1086,7 @@ I like the slight breaking of the fourth wall, at the end of what appears to be 
 
 Or: Shadow LotH doesn't ask any questions, doesn't want a debate, tries to convince the LotH to convince the PM to change policy. LotH responds by saying the speech was an admirable case for the opposite.
 
-### 2026-03-26
+## 2026-03-26
 general debate on the modernisation committee first report on hoc accessibility and the house administration response
 
 state opening of parliament on wed 13 may
@@ -1219,8 +1216,7 @@ I don't know which one of them is wrong, if it's national or international. When
 
 recess until the 13th (apr)
 
-## 2026-04
-### 2026-04-16
+## 2026-04-16
 various considerations of lords messages to bills, general debate on reform of vehicle licensing agency.
 
 by the end it became just "consideration of lords message, tuesday the 28th of april consideration of lords messages, wednesday the 29th of april consideration of lords messages" without even consideration to what anymore
@@ -1338,7 +1334,7 @@ another thing to mention is i have this error with hansard when trying to view t
 
 but only with the direct link, from hansard search or linking to a particular contribution like [this](https://hansard.parliament.uk/Commons/2026-04-16/debates/1C2E9F0D-A8EB-44F3-9751-0EA62A457023/BusinessOfTheHouse?contribution-F2D0006F-852C-4C58-A8F4-50CB610F38C5) it works.
 
-### 2026-04-23
+## 2026-04-23
 carry over motions
 and many consideration of lords messages
 
@@ -1456,8 +1452,7 @@ See also [mamamia's comment from earlier](https://www.reddit.com/r/ukpolitics/co
 
 what people are talking about in ukpol are committee hearings surrounding mandelson thing
 
-## 2026-05
-### 2026-05-14
+## 2026-05-14
 norman
 - congratulating the king, not only on the gracious speech yesterday but his glorious triumph in the united states of america and reminding our american cousins of the joy, not of monarchy, which they know well enough from recent experience and over the years, but of a genuinely constitutional monarchy.
 - the house will know of my obsession with building nmite, our new university in hereford. i hope colleagues across the house will join me in celebrating its second graduation ceremony last saturday. its flagship degree was recently accredited for charter certification by the prestigious institution of engineering and technology, making its graduates in that sense holders of degrees equal of those to be found at oxbridge or the russell group. its latest crop of graduates has gone on to companies including airbus, hitachi, energy, and gkn, and there is huge interest from applicants in its new bachelors and masters degree in autonomous robotics and drones technologies, which starts in september. so, if i may, excuse the pun, for engineering institutions nmite is really starting to motor. (very slight laughter is heard). i would strongly encourage any members who might be interested and wish to know more to drop me a line, because this is a potential route to local economic growth which i think has a great potential and significance.
@@ -1765,5 +1760,288 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/2 answer
 personal notes: looks like everyone is talking about novak which made me think i should add this bit, but there were a lot of deaths and it would be too long to put everything but disrespectful to put only him, no?
 
 i guess i will only list the soldiers, the others are important public figures so maybe it's not disrespectful to not mention them because they would have got no lack of attention
+
+## 2026-06-11
+the house is expected to debate estimates
+
+lamont:
+- knife attack
+- ~~marathon?~~
+- local identity
+  + May I wish all those taking part in the common ridings and festivals across the Scottish Borders a successful and enjoyable season? Communities are gathering to celebrate traditions that had been passed down through generations. Last week, I was in Hawick [pronounced hoik] for the Hawick common riding, and I pay tribute to the Hawick cornet, Jordan Nuttall, and his lass, Alix Martin, for the dignified way in which they carried out their duties. Tomorrow, I will be in Selkirk for their common riding, and I hope the standard bearer, Sam Coltherd, has a successful and enjoyable day. These celebrations are a reminder of the strength of local identity, community spirit, and public service that continue to define our part of Scotland.
+- Q: can we have time to debate standards in public life? sth about the snp. how such substantial sums of money can disappear? so many questions left unanswered despite so many years. accountability is not optional.
+  + Can the Leader of the House find time for a debate on standards in public life and accountability in government? Particularly in light of the continuing questions surrounding the SNP and the Peter Murrell scandal. Following Peter Murrell's conviction for embezzling hundreds of thousands of pounds, many people across Scotland remain deeply concerned, and significant questions remain unanswered, particularly given reports that public money may have been involved. The Scottish Conservatives, lead by Russell Findlay, have rightly called for a full independent enquiry into what happened and who knew what. The Scottish public deserve answers. They deserve to know how such substantial sums of money could disappear over such a prolongued period without detection. They deserve to know what oversight and governance arrangements were in place within the SNP, and why those arrangements appear to have failed so comprehensively. They deserve to know what [role] senior figures in the party played during this period, and what information was available to them. There are also serious questions about the handling and timing of the wider investigation, and about decisions that have been taken throughout the process. So why did it take so long for these matters to come to light? Why were concerns not identified earlier? And why do so many questions continue to go unanswered, despite years of scrutiny and investigation? Mr Speaker, at a time where public confidence in politics is already fragile, the perception that there is one rule for those in positions of power and another for everyone else is profoundly damaging. transparency is not optional. accountability is not optional. the public have a right to know that those who seek elected office are subject to proper scrutiny and that serious failings will be investigated openly and thoroughly. So will the Leader of the House therefore consider providing Government time for a debate on transparency and accountability in public institutions, and in doing so support calls for all outstanding questions surrounding this scandal to be properly examined?
+- while the media and the labour party follow every twist and turn byelection in makerfield, there is also an important election in aberdeen south
+  + While the media and the Labour party are busy poring over every twist and turn of the byelection in Makerfield, the election that may tell us far more about the future direction of Scottish politics is the one taking place next week in Aberdeen South. There the contest is now clearly a straight fight between the SNP and the Scottish Conservatives candidate, Douglas Lumsden. As public confidence in the SNP continues to be undermined by scandal and mismanagement, there is a growing recognition that only the Scottish Conservatives can defeat the SNP and send a message to both of Scotland's governments that the jobs of thousands of workers in Aberdeen's vital oil and gas sector must be protected. The people of Scotland deserve a politics that is open, accountable, and focused on delivering results rather than just distracted by scandal. So will the Leader of the House join me in recognising the importance of transparency in public life, and ensuring that the many unanswered questions surrounding this affair are not simply brushed aside but receive the scrutiny and answers that the Scottish and the British public rightly deserve?
+
+campbell:
+- join the deputy leader of the house in sending best wishes to man injured in belfast attack. place on record our thanks and support to police officers and wider community
+- anniversaries before the next bmqs. 10 years to death of jo cox, 9th anniversary grenfell fire [i didn't realise there was such a short time between these two events]
+- driving tests. further changes made in how they can be booked. working to make it easier
+- plague of potholes. new rules to get potholes fixed. councils required to reveal exactly
+- and Last week, Mr Speaker, the Modernisation Committee launched a new opportunity for Members to directly shape the work of the Committee by pitching ideas for what we should be doing next. More information is available on ParliNet, and I strongly encourage Members to take part and share ideas.
+- And also, Mr Speaker, as the House will know, today the World Cup kicks off, so I'm sure the whole House will join me in wishing England and Scotland the very best of luck. Members will be pleased to know that the pubs across the country are set to benefit from extensions to licensing hours and special screenings, and as I've said before, Mr Speaker, England has only ever won a World Cup under a Labour government, so that is a test, that is a theory which I-- that is a theory which I expect to be tested not just in this World Cup, but indeed the next one.
+- let me turn to the remarks of the hon. gentleman. and He talked about the importance of the common ridings and festival, and he's absolutely right that events like the border common ridings are a reminder and display of a local identity and community spirit that has endured for centuries, and I'm pleased to know-- see that he's able to attend and take part in such events, and I join him in wishing all those taking part an enjoyable season. He says that he will be at the Selkirk common ridings, which I believe takes place tomorrow, which commemorate the town's last and only survivor from the Battle of Flodden in 1513, so I hope that the weather is better tomorrow than it was on the day of the battle.
+- mr speaker, he raised two substantive points, the first around standards in public life, and I absolutely agree with him that it is important that the public get the answers that they deserve when there are scandals like the one that we've seen north of the border, and I encourage people to be open about what has happened, and if the authorities need to carry out further investigations, then it is right that they do so.
+- He talks, and not surprisingly in the context of next week's byelection, about the important question of oil and gas, and I would point out two things: one is that this Government is absolutely committed to nuclear [new clean?] [yes, it's apparently new clean] energy and energy independence, and we'll be bringing forward measures on the latter shortly, but oil and gas will continue to flow for many years ahead, Mr Speaker, as we make that transition. The international situation is again underlying the importance of that transition. But on the final point, about what is happening to jobs, and we should be concerned about what happens to jobs in transitions, but I would gently point out to him that in 14 years of Conservative government, 17 thousand jobs were lost in oil and gas, and i'm sure the voters of Aberdeen will want to bear that in mind.
+
+i did search hansard for common riding to see how it is spelled (in terms of capitalisation) and saw that lamont talked about it this time last year also. 12 june. he wasn't in the leader / shadow leader role though, it was just a normal short question.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **2/2 answered** (-)
+
+John Lamont standing in for Norman for the sixth time. I think this is the first time all the questions are about Scotland.
+
+[Happened at 10:44](https://parliamentlive.tv/event/index/54052775-1583-43bc-81ca-ba1dda9e1ea6?in=10:44:14). [Hansard](https://hansard.parliament.uk/commons/2026-06-11/debates/3EDFEB51-5B98-45DB-9B2F-655E877DDDCA/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by John Lamont, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Common ridings
+
+> **LAMONT:** May I wish all those taking part in the [common ridings](https://en.wikipedia.org/wiki/Common_riding) and festivals across the Scottish Borders a successful and enjoyable season? Communities are gathering to celebrate traditions that had been passed down through generations. Last week, I was in Hawick [pronounced hoik] for the Hawick common riding, and I pay tribute to the Hawick cornet, Jordan Nuttall, and his lass, Alix Martin, for the dignified way in which they carried out their duties. Tomorrow, I will be in Selkirk for their common riding, and I hope the standard bearer, Sam Coltherd, has a successful and enjoyable day. These celebrations are a reminder of the strength of local identity, community spirit, and public service that continue to define our part of Scotland.
+
+[This time last year](https://hansard.parliament.uk/Commons/2025-06-12/debates/D551228E-E9D7-43B1-932B-2CC22209520A/BusinessOfTheHouse?highlight=%22common%20ridings%22#contribution-F7B2090D-974C-435B-BB15-B79BE0D685B9), he asked for a debate about it.
+
+→
+
+> **CAMPBELL:** He's absolutely right that events like the border common ridings are a reminder and display of a local identity and community spirit that has endured for centuries, and I'm pleased to see that he's able to attend and take part in such events, and I join him in wishing all those taking part an enjoyable season. He says that he will be at the Selkirk common ridings, which I believe takes place tomorrow, which commemorate the town's last and only survivor from the [Battle of Flodden](https://en.wikipedia.org/wiki/Battle_of_Flodden) in 1513, so I hope that the weather is better tomorrow than it was on the day of the battle.
+
+#### (2) ✔️ Q1: SNP scandal questions linger
+
+> **LAMONT:** Can the Leader of the House find time for a debate on standards in public life and accountability in government? Particularly in light of the continuing questions surrounding the SNP and the Peter Murrell scandal. Following Peter Murrell's conviction for embezzling hundreds of thousands of pounds, many people across Scotland remain deeply concerned, and significant questions remain unanswered, particularly given reports that public money may have been involved.
+
+> The Scottish Conservatives, lead by Russell Findlay, have rightly called for a full independent enquiry into what happened and who knew what. The Scottish public deserve answers. They deserve to know how such substantial sums of money could disappear over such a prolonged period without detection. They deserve to know what oversight and governance arrangements were in place within the SNP, and why those arrangements appear to have failed so comprehensively. They deserve to know what [role] senior figures in the party played during this period, and what information was available to them. There are also serious questions about the handling and timing of the wider investigation, and about decisions that have been taken throughout the process. So why did it take so long for these matters to come to light? Why were concerns not identified earlier? And why do so many questions continue to go unanswered, despite years of scrutiny and investigation? [..]
+
+> So will the Leader of the House therefore consider providing Government time for a debate on transparency and accountability in public institutions, and in doing so support calls for all outstanding questions surrounding this scandal to be properly examined?
+
+→
+
+> **CAMPBELL:** I absolutely agree with him that it is important that the public get the answers that they deserve when there are scandals like the one that we've seen north of the border, and I encourage people to be open about what has happened, and if the authorities need to carry out further investigations, then it is right that they do so.
+
+#### (3) ✔️ Q2: There is a byelection in Aberdeen South. And does he join me in recognising the importance of transparency in public life?
+
+> **LAMONT:** While the media and the Labour party are busy poring over every twist and turn of the byelection in Makerfield, the election that may tell us far more about the future direction of Scottish politics is the one taking place next week in Aberdeen South. There the contest is now clearly a straight fight between the SNP and the Scottish Conservatives candidate, Douglas Lumsden. As public confidence in the SNP continues to be undermined by scandal and mismanagement, there is a growing recognition that only the Scottish Conservatives can defeat the SNP and send a message to both of Scotland's governments that the jobs of thousands of workers in Aberdeen's vital oil and gas sector must be protected.
+
+> The people of Scotland deserve a politics that is open, accountable, and focused on delivering results rather than just distracted by scandal. So will the Leader of the House join me in recognising the importance of transparency in public life, and ensuring that the many unanswered questions surrounding this affair are not simply brushed aside but receive the scrutiny and answers that the Scottish and the British public rightly deserve?
+
+^ I'm not sure why he asked it as part of this question, surely this is part of the previous question?
+
+→
+
+> **CAMPBELL:** He talks, and not surprisingly in the context of next week's byelection, about the important question of oil and gas, and I would point out two things: one is that this Government is absolutely committed to new clean energy and energy independence, and we'll be bringing forward measures on the latter shortly, but oil and gas will continue to flow for many years ahead, Mr Speaker, as we make that transition. The international situation is again underlying the importance of that transition. But on the final point, about what is happening to jobs, and we should be concerned about what happens to jobs in transitions, but I would gently point out to him that in 14 years of Conservative Government, 17 thousand jobs were lost in oil and gas, and I'm sure the voters of Aberdeen will want to bear that in mind.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** Last week, Mr Speaker, the Modernisation Committee launched a new opportunity for Members to directly shape the work of the Committee by pitching ideas for what we should be doing next. More information is available on ParliNet, and I strongly encourage Members to take part and share ideas.
+
+#### ∗ ∗ ∗ 2
+
+> **CAMPBELL:** And also, Mr Speaker, as the House will know, today the world cup kicks off, so I'm sure the whole House will join me in wishing England and Scotland the very best of luck. Members will be pleased to know that the pubs across the country are set to benefit from extensions to licensing hours and special screenings, and as I've said before, Mr Speaker, England has only ever won a world cup under a Labour government, so that is a test, that is a theory which I expect to be tested not just in this world cup, but indeed the next one.
+
+[world cup not capitalised]
+
+[and they also capitalised government here. which is weird because it's "a" labour government. maybe it's an inconsistency because for example "a committee" would not be capitalised]
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+febrile in ukpol because defence sec resigned
+
+even optio has stopped supporting starmer
+
+and the knife attack was apparently an attempted beheading published on social media, followed by what claire hanna described as a pogrom against people of colour
+
+it's very disturbing
+
+and it feels stupid to talk about common ridings at times like these so i get downvoted even though i left an instruction for how to collapse the comment (this always happens when it's febrile)
+
+everything is so horrible at the moment :-(
+
+## 2026-06-18
+morrissey:
+- pleasure again
+- england doing well in the world cup
+- Many of our colleagues are pounding the pavement for the byelection. And I am sure the right hon. Gentleman is waiting with bated breath to see if the self-anointed king of the north is shortly to begin his long march south to save the Labour party from the Greens. Or maybe he is waiting more keenly for the next intervention from the former Health Secretary bemoaning the Prime Minister's, and I quote, poor leadership, poor judgement, and bad politics. The truth is, Mr Speaker, that while the comedy of errors, the comedy of this Labour Government is playing out, the serious issues facing our country go unaddressed. Grooming gangs, the murder of Henry Novak, the two-tier justice system, and benefit britain, but none more so than the irresponsible failure of the Prime Minister and this Labour Government to support our armed forces with a defence investment plan fit for the dangerous world we face. A Prime Minister and Labour Government also prepared to see our veterans subjected to continuing persecution and relentless lawfare. It is a failure of leadership. It is a failure to put our country before party, it is a failure to put our brave servicemen and women before personal political survival, and it is a failure to protect those who have fought to keep us safe and free. It is easy to say the first duty of government is protecting the country. It is much harder to make that choice. The choice is needed to deliver on that duty. We know that the root cause of this failure is that Labour MPs put benefit street before anything or anyone else. The DWP Secretary of State kindly confirmed it when he told Peter Mandelson that the only question Labour MPs ask him is who they can tax to pay more benefits. The Prime Minister didn't have the backbone to confront his backbenchers and tackle the out-of-control welfare bill. 333 billion pounds of welfare spending this year. 18 billion pounds higher than last year. As the Centre for Social Justice pointed out recently, 18 billion pounds could have been invested in our armed forces. 18 billion pounds could have bought 200 fighter jets. 18 billion pounds could have bought 12 warships. 18 billion pounds could have funded 250,000 extra soldiers. Labour is taking the wealth created by hard-working families, small businesses, and millions of britons, and making clear that in Labour's Britain, working just doesn't pay. That in Labour's Britain, benefit street comes first. Which brings me back to Andy Burnham. A twice-failed Labour leadership candidate who has shown he has exactly the same flexibility of principle as the current Labour leader. A twice-failed Labour leadership candidate, who thinks governing will be as simple as outgreening the Greens. Spend more, tax more, repeat. This Labour party can never and will never change. Our armed forces, hard-working families, and small businesses across Britain deserve better. It is time for this Government to keep their promises, or it is time for this Government to go.
+
+campbell:
+- i welcome the hon. lady to her place [wait, is she replacing norman for good??] [no]
+- i was saddened to hear this week of the passing of roy hattersley, a former labour deputy leader
+- condolences to the family and colleagues of pc jess turnbull who was killed on duty as a northumbria police officer
+- i also want to congratulate the parliamentarians and those associated with parliament who were recognised in the king's birthday honours last week. it's right and proper that people who make an exemplary contribution to public service are recognised in the way that many others across our country are recognised too.
+- This week we've announced that social media will be banned for under 16s. We're going further than any country in the world by banning social media for under 16s, and we're putting wider protections in place to give young people their childhood back.
+- and yesterday, mr speaker, this house passed the national security state threats bill, and many members have raised this with me in this forum, and they'll be pleased to see that the bill gave the home secretary new counter-terrorism-style powers to stand up to foreign-state organisations and state-linked groups that threaten the UKs national security and the safety of our communities.
+- i join with the hon. lady in congratulating england and scotland winning their opening world cup matches, particularly scotland's performance, which was their first win in the men's world cup for 36 years.
+- let me turn now to the remarks of the hon. lady, and she started by referring to the king of the north, and disappointing her remarks were, because I thought for a moment she was referring to me. As king of the north. But clearly not. But she's right to say that leadership is a serious matter. She's a late convert to this, Mr Speaker, because as I have pointed out before, she was one of the last people in the bunker with Boris Johnson [*camera turns to her laughing*], and then when that ended, she leapt to Liz Truss, so I'd just ask her a question: how did that turn out then? But on a serious point, this Prime Minister has done more than his predecessors, much more than his predecessors, to make our country safe. Both by working hard on the diplomatic stage, but also on defence. And I just remind the House that her Government, and I quote, hollowed out defence, and they're not my words, they're the words of a former Defence Secretary in the Government that she served in. [he mentioned this before and i think i was able to find who it was then and a source, but can't find it now because results are polluted with the recent stuff after last week's resignation]
+- and as for tackling-- As for welfare, we are tackling the broken welfare system that they left behind, and we're getting on with the job of that. But let me just say this: we are renewing public services, but we're also keeping our country safe. It's not a choice of either/or, we're doing both of those things.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions asked.
+
+[Happened at 11:02](https://parliamentlive.tv/event/index/4dc0a556-520e-484a-8e65-72519f48cffd?in=11:02:30). [Hansard](https://hansard.parliament.uk/commons/2026-06-18) (will be under "Business of the House"; not up yet).
+
+Joy Morrissey standing in for the 5th time. She breaks from her usual tradition of asking for debates by asking nothing this time.
+
+*(Business Questions main exchange. `Q`s by Joy Morrissey, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Byelection and defence stuff
+
+> **MORRISSEY:** Many of our colleagues are pounding the pavement for the byelection, and I am sure the right hon. Gentleman is waiting with bated breath to see if the self-anointed king of the north is shortly to begin his long march south to save the Labour party from the Greens. Or maybe he is waiting more keenly for the next intervention from the former Health Secretary bemoaning the Prime Minister's, and I quote, poor leadership, poor judgement, and bad politics.
+
+> The truth is, Mr Speaker, that while the comedy of errors, the comedy of this Labour Government is playing out, the serious issues facing our country go unaddressed. Grooming gangs, the murder of Henry Novak, the two-tier justice system, and benefit Britain, but none more so than the irresponsible failure of the Prime Minister and this Labour Government to support our armed forces with a defence investment plan fit for the dangerous world we face. A Prime Minister and Labour Government also prepared to see our veterans subjected to continuing persecution and relentless lawfare. It is a failure of leadership, it is a failure to put our country before party, it is a failure to put our brave servicemen and women before personal political survival, and it is a failure to protect those who have fought to keep us safe and free.
+
+> It is easy to say the first duty of Government is protecting the country. It is much harder to make that choice. The choice is needed to deliver on that duty. We know that the root cause of this failure is that Labour MPs put benefit street before anything or anyone else. The DWP Secretary of State kindly confirmed it when he told Peter Mandelson that the only question Labour MPs ask him is who they can tax to pay more benefits. The Prime Minister didn't have the backbone to confront his backbenchers and tackle the out-of-control welfare bill.
+
+> 333 billion pounds of welfare spending this year. 18 billion pounds higher than last year. As the Centre for Social Justice pointed out recently, 18 billion pounds could have been invested in our armed forces. 18 billion pounds could have bought 200 fighter jets. 18 billion pounds could have bought 12 warships. 18 billion pounds could have funded 250,000 extra soldiers. Labour is taking the wealth created by hard-working families, small businesses, and millions of britons, and making clear that in Labour's Britain, working just doesn't pay. That in Labour's Britain, benefit street comes first.
+
+> Which brings me back to Andy Burnham. A twice-failed Labour leadership candidate who has shown he has exactly the same flexibility of principle as the current Labour leader. A twice-failed Labour leadership candidate, who thinks governing will be as simple as outgreening the Greens. Spend more, tax more, repeat. This Labour party can never and will never change. Our armed forces, hard-working families, and small businesses across Britain deserve better. It is time for this Government to keep their promises, or it is time for this Government to go.
+
+→
+
+> **CAMPBELL:** She started by referring to the king of the north, and disappointing her remarks were, because I thought for a moment she was referring to me. As king of the north. But clearly not. But she's right to say that leadership is a serious matter. She's a late convert to this, Mr Speaker, because as I have pointed out before, she was one of the last people in the bunker with Boris Johnson [*camera turns to her laughing*], and then when that ended, she leapt to Liz Truss, so I'd just ask her a question: how did that turn out then?
+
+> But on a serious point, this Prime Minister has done more than his predecessors, much more than his predecessors, to make our country safe. Both by working hard on the diplomatic stage, but also on defence. And I just remind the House that her Government, and I quote, hollowed out defence, and they're not my words, they're the words of a former Defence Secretary in the Government that she served in.
+
+> As for welfare, we are tackling the broken welfare system that they left behind, and we're getting on with the job of that. But let me just say this: we are renewing public services, but we're also keeping our country safe. It's not a choice of either/or, we're doing both of those things.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** This week we've announced that social media will be banned for under 16s. We're going further than any country in the world by banning social media for under 16s, and we're putting wider protections in place to give young people their childhood back.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+finished before hansard. but it was unusually short.
+
+## 2026-06-25 14:08
+norman's back
+
+estimates
+
+norman:
+- I know the whole House will want to join me in thinking of the victims of the earthquakes in Venezuela of which we just had news, and of course the victims of the train crash in Bedford, and of course the victims of what now have been deemed aggravated terrorism-related attacks in Edinburgh. It's been a difficult week, Mr Speaker.
+- but on a brighter note, i'm sure all will want to join me in celebrating armed forces week and thanking all the men and women across this country and abroad who serve his majesty in the armed forces. and a matter of particular interest i remind the house in herefordshire
+- mr speaker, We weep for the Scotland football team, but perhaps less so for Peter Murrell [sounded like moro], who began a 5-year sentence this week for theft and embezzlement. The Scottish police asked him in 2024: "What does the SNP need over 19 thousand pounds of luxury pens for?", quite a good question. One might ask the same of a Jaguar I-Pace, a state of the art motorhome, a men's slouch pouch onesie, whatever that is. [house breaks into laughter, mr speaker might have said something off mic]. I'm not looking for guidance from the Chair on this matter, Mr Speaker. The real question is not just whether Nicola Sturgeon knew or should have known of these thefts, including the sudden appearance of a 2,500 pound Lalique salt and pepper set on the kitchen table, it's about the culture and probity of a Scottish Government that still refuses to appoint a KC to lead an independent inquiry.
+- And while we're on the topic of vehicles, Mr Speaker, the leader of Reform UK has publicly reserved the right to spend the five-million-pound donation--definitely not related to politics--from his Thailand-based crypto billionaire on Ferraris if he wishes, it appears that none of that money has been spent on personal security from what he said, and he's now been referred to the Financial Conduct Authority, alongside the current investigation by the Commissioner for Standards.
+- and so to the government. mr speaker, I know the House will share my sadness at the tragic decision by the Leader not to stand in the Labour leadership election, resulting in a coronation, alas, of the member for Makerfield, and I'm sad to say, the tawdry sight of Cabinet Ministers trailing their coats. Once again, we can only regret that decision not to throw his hat into the ring, but I simply ask: what is the Government policy on the defence investment plan? The Prime Minister wants to publish it now, his successor wants a delay, but the defence investment plan that may be reopened within weeks is not a plan, it is a hanging IOU with a NATO deadline attached.
+- mr speaker, I turn now to a matter of the greatest sensitivity. The case of Lucy Letby. Members of whose family are my constituents. It is essential to respect the independence of the judiciary in this matter. Nor, crucially, must we ever lose sight of the suffering of the families whose babies died or were gravely injured. But I believe there is also a proper public concern here as to the security of the verdict. Since the convictions, a number of serious and reputable people have raised concerns about the expert scientific and statistical evidence from this case. Both the evidence presented to the jury and the evidence that the jury never saw. Those concerns come from neonatologists, pathologists, statisticians, and most recently from Dame Sue Black, one of the country's most distinguished forensic scientists. Like me, Dame Sue makes no claim as to whether Lucy Letby is innocent or guilty, but she has said in measured terms that she is troubled by the conviction, and by the apparent lack of forensic evidence. When someone of her public scientific standing speaks in these terms, I do not think the issue she raises can be properly avoided. Her and other expert concerns raise profound questions as to the fairness of the trial, and indeed about the status of the evidential test used by the CCRC in considering whether to reopen it. I remind the House that there were no witnesses, no CCTV footage, no forensic evidence, and no confession in this case. Everything therefore depended on the testimony of experts. But when it came to the defence, in the words of Dame Sue Black, there were no medical or statistical experts put forward at all. I also highlight that Lucy Letby had had a prior complaint against the consultants in the hospital. This was upheld after a detailed investigation and report, which found there was absolutely nothing to prevent her returning to work, and that doctors had bullied and harassed her. This evidence, too, was never heard by the jury. The Thirlwall inquiry into the Countess of Chester hospital has yet to publish its final report despite many delays. But yesterday's Nottingham University hospitals report is a powerful reminder that in a neonatal maternity setting, grave harm can arise not only from individual malfeasance, but also from systematic clinical failure. [hoyle indicating he has gone on too long]. If I may conclude, the Criminal Cases Review Commission is now considering to let-- [hoyle interrupting]
+
+hoyle: Please. I have allowed the time. It is a minute over. All I would say is please can you conclude now?
+
+norman: I think it's unfortunate that I'm not allowed to conclude in the terms that I--
+
+hoyle: We will leave it at that. Can I-- Leader of the House, I'm not going to be challenged. Sorry [he didn't say sorry to apologise but to indicate for norman to sit down, like a stern sorry]. I am not going to be challenged like that. I think that's totally unfair. I gave a full minute, I allowed it to continue, I was going to allow you to come back. I would have expected better from the Shadow Leader of the House [than] to challenge the Chair in that way. It's never-- I've never had that before. Leader of the House.
+
+campbell:
+- can i welcome the right hon. gentleman back to his place? and may i also wish him a happy birthday for earlier this week? [oof]
+- i join with him in sending our condolences to the people of venezuela for those caught in the earthquake. our thoughts are with the victims and their families.
+- and as the prime minister said yesterday, mr speaker, our thoughts are also with those injured in the rail collision last friday, and the friends and family of the driver who lost his life. i send my deepest sympathies at this dreadful time.
+- our thoughts are also with those injured, as the shadow leader said, in the horrific anti-muslim attacks in edinburgh. we send our thanks and appreciation to all the emergency services who responded to both incidents with bravery and professionalism in very difficult circumstances.
+- i also echo his words about the importance of armed forces week. this week is armed forces week, and we will mark armed forces day this weekend. events are taking place across the country to celebrate the work of our armed forces and show our support for the men and women who make up the armed forces community. and i want to thank you, mr speaker, for the events that you put on in parliament this week.
+- members across the house will also be pleased to know that the great british summer of saving has started. families across the UK can take advantage of lower prices on children's days out, meals and travel. and we're cutting VAT to reduce the cost of children's restaurant meals, children's tickets for theatres and cinemas, and all tickets for attractions like soft play [?], amusement parks, and museums. and in august, children aged between 5 and 15 will also be able to travel on local bus services in england for free, keeping the cost down further.
+- before i turn to the specifics remarks of the right hon. gentleman, let me also say, mr speaker, that I very much welcome the three new Members to the House this week, and I wish them all well, irrespective of whichever party they serve. It has, Mr Speaker, in many ways, been a momentous week, following the Prime Minister's announcement on Monday. He will leave office [... i have not been paying attention so as i write this this is the first i'm hearing of this, damn. campbell so chipper as if nothing happened? how are all these disturbing events hitting all the time like little drops of water with no impact? slow descent and more and more chaotic things are just normalised.] with a record of stabilising the economy, driving down waiting lists in the NHS, lifting half a million children out of poverty, as well as a proud record on the international stage and defending our national interest. Mr Speaker, standing for election and representing your community and your country is the essence of politics, and we will do well to remember that regardless of party affiliation, at the heart of this are human beings for whom toxic political discourse only makes their job harder, and it can take a toll on them and their families, and I hope that we all bear that in mind, Mr Speaker, and recognise that the onus is on all of us to moderate political discourse and ensure that it does not cross the line into abuse or intimidation. And reflecting on that, Mr Speaker, reflecting on Prime Minister's questions yesterday, made me even more grateful for the tone of the Shadow Leader of the House, who, during these sessions, despite our party political differences, we share good-natured exchanges for which I thank him. It's an old habit of a-- it's a habit of an old Chief Whip, or an old habit of a Chief Whip, that while exchanges are taking place in Prime Minister's questions, I do tend to watch the faces of the party opposite, and including the right hon. Gentleman, and I think I'm safe in saying that staring at the ground or looking at your phone is one way of demonstrating that you're not very happy with the tone which has been set by the leader of their party.
+- on the remarks that he made, in particular of peter murrell [it sounded like he said murray], As the Prime Minister made clear, the SNP should step up, Mr Speaker, to the mark, and address this matter. But so should the necessary, appropriate authorities where that needs to be done.
+- and similarly, with regard to the leader of reform, I expect that he will be held to account, and his account of what the five million pounds was all about will be tested, because I suspect it doesn't really hold water.
+- In terms of the defence investment plan, it will be published, as the Prime Minister has said before the NATO summit. And I would expect that a statement will be made to the House once it is published. But let me reassure the House, Mr Speaker: this Prime Minister, and any future Labour Prime Minister, will be absolutely committed to the defence of our country, and finding the money to pay for it.
+- In terms of Lucy Letby, the right hon. Gentleman does raise a serious matter, and I know it is of concern, not just on his side of the House, but on our side of the House too, and it is important that that decision was sound and safe. And therefore I will raise it with ministerial colleagues, and should he wish to express his concern directly to ministerial colleagues, I'll arrange that for him too.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: No questions
+
+[Happened at 11:15](https://parliamentlive.tv/event/index/98320d19-9f67-4347-948b-24dc51b52e89?in=11:15:48). [Hansard](https://hansard.parliament.uk/commons/2026-06-25/debates/9138A59E-A38A-424E-B8F3-13FF79AA9E69/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Difficult week
+
+> **NORMAN:** I know the whole House will want to join me in thinking of the victims of the earthquakes in Venezuela of which we just had news, and of course the victims of the train crash in Bedford, and of course the victims of what now have been deemed aggravated terrorism-related attacks in Edinburgh. It's been a difficult week, Mr Speaker.
+
+Campbell echoes his remarks.
+
+#### (2) 📜 REMARK: Peter Murrell begins his sentence
+
+> **NORMAN:** We weep for the Scotland football team, but perhaps less so for Peter Murrell, who began a 5-year sentence this week for theft and embezzlement. The Scottish police asked him in 2024: "What does the SNP need over 19 thousand pounds of luxury pens for?", quite a good question. One might ask the same of a Jaguar I-Pace, a state of the art motorhome, a men's slouch pouch onesie, whatever that is. [*House breaks into laughter, Hoyle might have said something off mic*]. I'm not looking for guidance from the Chair on this matter, Mr Speaker.
+
+> The real question is not just whether Nicola Sturgeon knew or should have known of these thefts, including the sudden appearance of a 2,500 pound Lalique salt and pepper set on the kitchen table, it's about the culture and probity of a Scottish Government that still refuses to appoint a KC to lead an independent inquiry.
+
+→
+
+> **CAMPBELL:** As the Prime Minister made clear, the SNP should step up, Mr Speaker, to the mark, and address this matter. But so should the necessary, appropriate authorities where that needs to be done.
+
+#### (3) 📜 REMARK: Reform Ferraris
+
+> **NORMAN:** And while we're on the topic of vehicles, Mr Speaker, the leader of Reform UK has publicly reserved the right to spend the five-million-pound donation--definitely not related to politics--from his Thailand-based crypto billionaire on Ferraris if he wishes, it appears that none of that money has been spent on personal security from what he said, and he's now been referred to the Financial Conduct Authority, alongside the current investigation by the Commissioner for Standards.
+
+→
+
+> **CAMPBELL:** With regard to the leader of Reform, I expect that he will be held to account, and his account of what the five million pounds was all about will be tested, because I suspect it doesn't really hold water.
+
+#### (4) 📜 REMARK: A defence investment plan that may be reopened
+
+> **NORMAN:** I know the House will share my sadness at the tragic decision by the Leader not to stand in the Labour leadership election, resulting in a coronation, alas, of the member for Makerfield (Burnham), and I'm sad to say, the tawdry sight of Cabinet Ministers trailing their coats. Once again, we can only regret that decision not to throw his hat into the ring, but I simply ask: what is the Government policy on the defence investment plan? The Prime Minister wants to publish it now, his successor wants a delay, but the defence investment plan that may be reopened within weeks is not a plan, it is a hanging IOU with a NATO deadline attached.
+
+→
+
+> **CAMPBELL:** In terms of the defence investment plan, it will be published, as the Prime Minister has said before the NATO summit. And I would expect that a statement will be made to the House once it is published. But let me reassure the House, Mr Speaker: this Prime Minister, and any future Labour Prime Minister, will be absolutely committed to the defence of our country, and finding the money to pay for it.
+
+#### (5) 📜 REMARK: Lucy Letby case issues
+
+> **NORMAN:** I turn now to a matter of the greatest sensitivity. The case of Lucy Letby. Members of whose family are my constituents. It is essential to respect the independence of the judiciary in this matter. Nor, crucially, must we ever lose sight of the suffering of the families whose babies died or were gravely injured. But I believe there is also a proper public concern here as to the security of the verdict. Since the convictions, a number of serious and reputable people have raised concerns about the expert scientific and statistical evidence from this case. Both the evidence presented to the jury and the evidence that the jury never saw. Those concerns come from neonatologists, pathologists, statisticians, and most recently from Dame Sue Black, one of the country's most distinguished forensic scientists.
+
+> Like me, Dame Sue makes no claim as to whether Lucy Letby is innocent or guilty, but she has said in measured terms that she is troubled by the conviction, and by the apparent lack of forensic evidence. When someone of her public scientific standing speaks in these terms, I do not think the issue she raises can be properly avoided. Her and other expert concerns raise profound questions as to the fairness of the trial, and indeed about the status of the evidential test used by the CCRC in considering whether to reopen it.
+
+> I remind the House that there were no witnesses, no CCTV footage, no forensic evidence, and no confession in this case. Everything therefore depended on the testimony of experts. But when it came to the defence, in the words of Dame Sue Black, there were no medical or statistical experts put forward at all.
+
+> I also highlight that Lucy Letby had had a prior complaint against the consultants in the hospital. This was upheld after a detailed investigation and report, which found there was absolutely nothing to prevent her returning to work, and that doctors had bullied and harassed her. This evidence, too, was never heard by the jury.
+
+> The Thirlwall inquiry into the Countess of Chester hospital has yet to publish its final report despite many delays. But yesterday's Nottingham University hospitals report is a powerful reminder that in a neonatal maternity setting, grave harm can arise not only from individual malfeasance, but also from systematic clinical failure. [*Hoyle indicating he has gone on too long*]. If I may conclude, the Criminal Cases Review Commission is now considering to let--
+
+> **[HOYLE](https://parliamentlive.tv/event/index/98320d19-9f67-4347-948b-24dc51b52e89?in=11:24:05):** Please. I have allowed the time. It is a minute over. All I would say is please can you conclude now?
+
+> **NORMAN:** I think it's unfortunate that I'm not allowed to conclude in the terms that I--
+
+> **HOYLE:** We will leave it at that. Can I-- Leader of the House, I'm not going to be challenged. Sorry, I am not going to be challenged like that. I think that's totally unfair. I gave a full minute, I allowed it to continue, I was going to allow you to come back. I would have expected better from the Shadow Leader of the House [than] to challenge the Chair in that way. It's never-- I've never had that before. Leader of the House.
+
+Campbell then gets up and welcomes Norman back (he's been gone two weeks) and wishes him happy birthday.
+
+→
+
+> **CAMPBELL:** In terms of Lucy Letby, the right hon. Gentleman does raise a serious matter, and I know it is of concern, not just on his side of the House, but on our side of the House too, and it is important that that decision was sound and safe. And therefore I will raise it with ministerial colleagues, and should he wish to express his concern directly to ministerial colleagues, I'll arrange that for him too.
+
+-----
+
+#### ∗ ∗ ∗
+
+> **CAMPBELL:** I very much welcome the three new Members to the House this week, and I wish them all well, irrespective of whichever party they serve. It has, Mr Speaker, in many ways, been a momentous week, following the Prime Minister's announcement on Monday. He will leave office with a record of stabilising the economy, driving down waiting lists in the NHS, lifting half a million children out of poverty, as well as a proud record on the international stage and defending our national interest.
+
+> Mr Speaker, standing for election and representing your community and your country is the essence of politics, and we will do well to remember that regardless of party affiliation, at the heart of this are human beings for whom toxic political discourse only makes their job harder, and it can take a toll on them and their families, and I hope that we all bear that in mind, Mr Speaker, and recognise that the onus is on all of us to moderate political discourse and ensure that it does not cross the line into abuse or intimidation.
+
+> And reflecting on that, Mr Speaker, reflecting on Prime Minister's questions yesterday, made me even more grateful for the tone of the Shadow Leader of the House, who, during these sessions, despite our party political differences, we share good-natured exchanges for which I thank him. It's an old habit of a-- it's a habit of an old Chief Whip, or an old habit of a Chief Whip, that while exchanges are taking place in Prime Minister's questions, I do tend to watch the faces of the party opposite, and including the right hon. Gentleman, and I think I'm safe in saying that staring at the ground or looking at your phone is one way of demonstrating that you're not very happy with the tone which has been set by the leader of the party.
+
+It is quite romantic that he watches his counterpart during PMQs. I always wondered if they do that.
+
+It also seems to me that normally when the speaker puts someone down, the opposite side is quite happy and sneering, but Campbell's instincts here were to defend him and go out of his way to validate his concerns.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+ukpol are mainly talking about the heatwave, burnham, and a bit of starmer retrospective
+
+it's so bizarre to me the thing with burnham can happen like this. just coming into parliament and starmer making way. i guess it will be interesting to see what happens with this setup.
 
 {% include fin.html %}

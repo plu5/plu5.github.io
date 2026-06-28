@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-06-09 11:28
+modified_date: 2026-06-13 09:03
 categories: flou
 lang: fr
 ---
@@ -422,5 +422,15 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-06-09
 - [jeu] fightifact ; dota spinoff fighting game
+
+§ 2026-06-11
+- [old] [art] abomination idée héros dota
+  + bd comme celles qu'ils faisaient il y a une décennie+
+  + fille du [keeper](https://dota2.fandom.com/wiki/The_Shopkeeper)
+
+§ 2026-06-13
+- [art] étudier le travail de raphael boyon
+  + [bohemond.artstation.com](https://bohemond.artstation.com/)
+- [art] jeune caravaggio comme s'il était un pnj d'un jeu assassin's creed
 
 {% include fin.html %}

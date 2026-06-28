@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-06-04 17:04
+modified_date: 2026-06-11 16:15
 categories: ukpol
 lang: en
 ---
@@ -30,6 +30,8 @@ lang: en
   + Governments
   + system of government
   + SNP Government[^chiefs]
+  + Conservative Government[^congov] (despite the fact it's talking about a past govt)
+  + both of Scotland's Governments[^congov]
 - Parliament
   + parliamentary business
   + parliamentary Session[^chiefs]
@@ -83,6 +85,7 @@ lang: en
 - Lords amendments[^chiefs]
 - middle east[^chiefs]
 - devolution[^chiefs]
+- world cup[^congov]
 
 ## Inconsistent
 - Dispatch Box / Despatch Box
@@ -113,5 +116,6 @@ lang: en
 [^north-sea-caps]: [Lords, 2026-04-16](https://hansard.parliament.uk/Lords/2026-04-16/debates/4AC6B49B-3115-44B9-AE94-F8EEA56A845B/DataCentresEnergyDemand?highlight=%22north%20sea%22#contribution-AB96E383-C26A-4BE9-BAB2-80AA826A8023)
 [^chiefs]: [2026-04-23](https://hansard.parliament.uk/commons/2026-04-23/debates/9BCB5C4D-8199-46BC-88A6-244350C8F66A/BusinessOfTheHouse). "four chiefs of staff, five directors of communications, three Cabinet Secretaries and four principal private secretaries". I think this sentence illustrates well how bizarre the Hansard spelling conventions are at times.
 [^palace]: [2026-06-04](https://hansard.parliament.uk/commons/2026-06-04/debates/90337D84-C733-42DE-A121-43AD0FE7E35F/BusinessOfTheHouse)
+[^congov]: [2026-06-11](https://hansard.parliament.uk/commons/2026-06-11/debates/3EDFEB51-5B98-45DB-9B2F-655E877DDDCA/BusinessOfTheHouse)
 
 {% include fin.html %}

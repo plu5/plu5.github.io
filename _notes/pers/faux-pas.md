@@ -2,7 +2,7 @@
 layout: post
 title: Faux pas
 date: 2026-04-19 17:58
-modified_date: 2026-05-27 13:49
+modified_date: 2026-06-18 05:48
 categories:
 lang: en
 ---
@@ -31,5 +31,7 @@ More permissive licences still carry some of those requirements, and still repul
 Because of being put off every time I try to look at this subject, I left all of my code unlicenced for years. So long as I live, I can give permission for anyone to use it should they need explicit permission, but if I die, and someone needs it?
 
 It may not be considered legally valid, but I'll try just having a COPYING file and state the licence I need to have to be compliant with my dependencies, list all files with contributors and the licence that "wins over" for each, and add a line that any code solely authored by me is in the public domain, or CC0 in countries where that is not possible. At least it states my wishes, so it's better than nothing? I have to assume that the risk of getting sued for not perfectly complying with the licence by stating it in one place instead of pasting it everywhere verbatim is incredibly minimal. The spirit of copyleft licences is that the source code of derivative programs is accessible to the user [+ the freedoms to use, modify, and redistribute], and it is. In reality, of course, no one is likely to care or use my code anyway.
+
+Counterpoint: Blender. The fact it's GPL made all the addons GPL and the users have the freedom to modify and redistribute them, and it has made a massive difference.
 
 {% include fin.html %}
