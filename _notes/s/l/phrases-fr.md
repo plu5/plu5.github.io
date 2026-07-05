@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-06-28 12:17
+modified_date: 2026-07-02 17:08
 categories: lang
 lang: fr
 ---
@@ -1008,5 +1008,33 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - Certes l’objectif est louable, mais pour l’atteindre Demoule réfute avec désinvolture, sans argument recevable, tout le corpus scientifique édifié au cours du siècle dernier avec les travaux des linguistes les plus solides ([DHH](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-1/#comments))
 - Les deux personnages (Estragon et Vladimir) ne sont pas identiques : Estragon est plus terre à terre, préoccupé de son corps, du moment présent. Vladimir est le plus « intellectuel » du duo, avec une nostalgie du passé, d’un certain passé glorieux, suivi d’une longue déchéance. (^ Widergänger)
 - Je n’interviendrai pas au sujet de Beckett, tout simplement parce qu’il est totalement surfait. Quand on creuse un peu, on s’aperçoit vite que ça ne vaut pas grand chose, ce genre d’art. (^ D.)
+
+§ 2026-06-28
+- Mais attention à ce qu’on ne prenne pas trop ses désirs pour des réalités : les personnages peuvent à tout moment se révolter contre ceux qui ont tendance à surinterpréter leurs comportements. On l’a bien vu chez Flaubert, Kafka ou Beckett. ([nal](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-1/#comments))
+- ICS ? pourquoi dissimuler le sens dans des sigles ? ([JC.....](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-2/#comments))
+- Bloom est l’anti-Beckett par excellence : suffisance puante, grandes certitudes, affirmation de soi par le statut social… Mais le fait qu’il l’ait lu (à ce qu’il dit) ne signifie pas que ce soit son auteur de chevet. (^ E. Lamier)
+- Les ennuis volent toujours en escadrille quand ils te tombent dessus ([Garsbriel](https://www.reddit.com/r/Motardie/comments/1mzp8qn))
+
+§ 2026-06-29
+- Si vous en êtes là, c’est sans doute que vous traîniez de sacrées casseroles depuis un fichu bout de temps. Sachez vous remettre en question et tout ira bien. ([D.](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-2/#comments))
+
+§ 2026-06-30
+- pardon de cet oubli ([Paul edel](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-3/#comments))
+- Prétendre avec une certitude en béton (en s’appuyant sur Beckett lui-même) qu’un arbre mort sur une scène de théâtre ne serait pas un symbole, quel qu’en soit le sens, relève tout simplement de la sottise la plus ordinaire. (^ Widergänger)
+- à mon sens (^ Clopine, l'une des pages précédentes)
+- Il y avait un exemple d’une femme qui avait voté Sarko puis Hollande et maintenant Le Pen. Typique de la France d’aujourd’hui. Pas des voyous, mais de pauvres gens désemparés. (^ Widergänger)
+- Reste une singularité peu débattue: pourquoi le fascisme français a-t-il pour incarnation deux femmes de la même famille? (^ Bloom)
+- Quand j’enseignais à Drancy et à Dourges, je disais qu’ils (les élèves) nous mettraient le FN au pouvoir dans dix ou quinze ans. Je ne me trompais pas, hélas ! (^ Widergänger)
+- il s’extasiait sur les monuments debouts, bien conservés, disant que chez lui tout n’était que ruine, me faisant sentir l’univers prospère que nous a légué le passé. j’ai tenté de lui expliquer que nous aussi nous avions vécus trois guerres successives, mais il m’a regardé d’un air sombre et dit laconiquement que je ne pouvais pas comprendre la situation, chez vous il y a le droit, les règles, chez moi cela n’existe plus. (^ chantal)
+- est-ce qu’on peut espérer voir débarquer cette fonctionnalité dont je parle ? ([Vivavie](https://forum.vivaldi.net/topic/78631/gestion-des-tags-pour-les-bookmarks-comme-sous-firefox))
+- Euh, on fait comment pour voter pour une feature ? On met juste un pouce en l’air, comme sous FB ? (^)
+
+§ 2026-07-01
+- L'incipit met l'eau à la bouche. On se dit alors que la montée en puissance des personnages sera phénoménale et la liberté d'action grisante. J'ai malheureusement vite déchanté. On est sur des rails quasiment toute la partie, les choix n'influent pas sur l'histoire du tout, il y très peu de quêtes annexes et le niveau des personnages bloque à 20. ([Mitraillix](https://steamcommunity.com/profiles/76561198019010022/recommended/1069160))
+- se retenir d'uriner
+- Que vous soyez frontiste, c’est votre droit le plus strict, que nous n’apprécions pas c’est le nôtre. ([Réons](https://larepubliquedeslivres.com/sur-godot-nattendait-plus-que-beckett/comment-page-3/#comments))
+
+§ 2026-07-02
+- entre de mauvaises mains
 
 {% include fin.html %}

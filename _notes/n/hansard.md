@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-06-11 16:15
+modified_date: 2026-07-02 15:41
 categories: ukpol
 lang: en
 ---
@@ -86,6 +86,7 @@ lang: en
 - middle east[^chiefs]
 - devolution[^chiefs]
 - world cup[^congov]
+- northern powerhouse
 
 ## Inconsistent
 - Dispatch Box / Despatch Box

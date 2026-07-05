@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-06-26 03:30
+modified_date: 2026-07-02 16:30
 categories: ukpol
 lang: en
 ---
@@ -1924,7 +1924,7 @@ Joy Morrissey standing in for the 5th time. She breaks from her usual tradition 
 
 finished before hansard. but it was unusually short.
 
-## 2026-06-25 14:08
+## 2026-06-25
 norman's back
 
 estimates
@@ -2043,5 +2043,88 @@ It also seems to me that normally when the speaker puts someone down, the opposi
 ukpol are mainly talking about the heatwave, burnham, and a bit of starmer retrospective
 
 it's so bizarre to me the thing with burnham can happen like this. just coming into parliament and starmer making way. i guess it will be interesting to see what happens with this setup.
+
+## 2026-07-02
+national security state threats bill, waste, infected blood compensation, industrial training levy, opposition motion, uk rearmement, ban on trade with illegal settlements, steel industry nationalisation, summer adjournment conclusion thu 16th july
+
+norman:
+- i know that he and the whole of the house will want to join me in congratulating the england football team on their win last night. i must say, i'm not sure we should be thanking them for the trauma and heartstoking cardiovascular workout that i at least experienced right to the end.
+- The Prime Minister was quite punishing about the Liberal Democrats at Prime Minister's questions yesterday for their sanctimoniousness, and let's be clear, I think we can all agree he was spot on. But sanctimoniousness is not exactly something that the Prime Minister has been immune from himself. He was extremely rude about the state of the public finances before-- after the general election. He promised tough decisions, I quote, to fix the foundations. The imaginary 22 billion pounds black hole he inherited needed, he said, candour, discipline, and hard choices. These tests should apply here too now, with the defence investment plan. That plan commits 15 billion pounds in additional defence spending over four years, of which 4.7 billion will be confirmed budget 2026. In other words, the plan, which comes 394 days after the defence review, and on the eve of a NATO summit, is partly unfunded from the moment it was published. This is not what candour looks like, Mr Speaker, or discipline, or hard choices. And irony of ironies, the further 10 billion pounds reportedly needed for the DIP, is itself precisely the kind of unfunded bequest to the next Government that the Prime Minister himself claims to condemn. And of course, the plan is too small. The Government says 3% is its ambition for the next Parliament. Getting to 3.5%, the UK's core NATO commitment by 2035, requires about 25 billion pounds a year more in today's terms. The Government's offered no funded pathway to either figure. Little wonder the plan has been so roundly criticised by defence experts across the board. I know the Leader will feel tempted to make comparisons with 2010. Perhaps I may remind him that the UK was reeling from the global financial crisis that time, a very different US president was in the White House, Ukraine was not at war, and Russia was not threatening members of NATO directly.
+- But of course, cost escalation in defence is just part of a wider British problem with major national projects. HS2 is the starkest warning. As far as I'm aware--and I spent two years at the Treasury trying and failing to stop it--HS2 is still constructing a gigantic so-called bat protector at a cost of more than 100 million pounds, in order to protect 20 or so pairs of endangered bats. There's little or no evidence that such a bat protector will do so, or indeed to think that a few nets with some bells on them would not be at least as effective. In other words, Edward Lear himself could not make this nonsense up.
+- Now we have northern powerhouse rail. This week the Public Accounts Committee reported that the Government still lacks a convincing plan to manage spend or prioritise benefits within the 45-billion-pound rail budget. Unclear scope, optimistic costing, weak governance, late tradeoffs; that is how large projects get into serious difficulty. Other nations have shown they can do it better: Norway built the world's longest and deepest subsea tunnel for about 450 million pounds at time of completion. We should be asking why we cannot do the same. We've got a great model nearby of our own in the Buckingham Palace reservicing programme, which cost 369 million pounds over 10 years. But this is the lesson for restoration and renewal of the House of Commons, the House of Lords, and the Palace of Westminster, the cost of which is currently estimated at up to an astonishing 12 to 19 billion pounds. No one doubts that the Palace of Westminster badly needs restoration. And it needs a decision on that soon. No one disputes these points. The fire risk, asbestos, failing electrical and mechanical systems, are real. But Parliament cannot ask parliamentarians, and through them, the poor long-suffering taxpayer, to support a project of this scale without demonstrating the same disciplines it requires of others. Cost forecasts, not merely, but a stated and effective governance, a kept budget, independent challenge, and proper named accountability. So I ask the Leader if we can have at least two debates in this House on restoration and renewal: one to discuss the issues in detail, and then another in relation to an authorising motion.
+
+campbell:
+- let me join the right hon. gentleman in sending our congratulations to the english football team, and we look forward to the early hours of-- i think monday morning.
+- let me uh... for a personal tribute. to my predecessor, sir neville trotter, who was the conservative MP for tynemouth for more than 20 years, and who, unfortunately, passed away at the weekend. we, of course, mr speaker, had our political differences. when he was a much respected politician who dedicated his life to public service, and my thoughts, and i'm sure the whole house's thoughts, are with his family and friends.
+- i also want to congratulate, mr speaker, the new clerk of the house, eve samson, on her appointment as the 53rd clerk of the house. eve has worked in the house for almost 40 years, she brings a wealth of experience into the role, and will be a distinguished successor to tom goldsmith. and, mr speaker, she will also make history as the first woman clerk of the house.
+- this week the youth jobs grant was launched, businesses who take on jobless youngsters will be offered thousands of pounds in the latest boost to youth employment support. it's a practical step that helps business investment in young people, while giving them the confidence, the skills, the experience, and the support that they need to embark on their careers.
+- this week the outdated and harmful vagrancy act has been repealed, bringing an end to nearly two decades of legislation that has criminalised rough sleeping and begging. repealing the act is a vital step to ending a system which has failed to address the causes of rough sleeping, and shifts the focus towards prevention and long-term solutions. many members have raised this with me in this forum, including the chair of the backbench business committee, and i know that they will be pleased to see the act has finally been repealed.
+- [I] remind him that since 2024, tough decisions have been taken, which is why inflation is lower, interest rates have fallen, and at the same time, we've invested more in public services. However, we accept that the security situation has deteriorated, the challenges are there, which is why the Government has brought forward the defence investment plan, and plans on how we're going to fund it. He reminds the House that the situation in 2010 internationally was different. Of course it was. And he says that then, in 2010, the then Government was reeling from the global economic crisis. Well, let me remind him that in 2024, this Government was reeling from--and the country--was reeling from 14 years of Tory mismanagement. Now let me return now to the key issue of defence expenditure. The Government has already delivered the biggest sustained boost to defence spending since the cold war. It's surpassed the promises that we made in our manifesto. The plan that we brought forward provides funding to strengthen military readiness, accelerate drone transformation, boost future fighter jets, and strenghten our nuclear [nukilar!!] deterrent. And at the same time, Mr Speaker, will create nearly 60 thousand extra UK industry jobs by the end of this decade. We inherited a situation where 54 billion pounds was being spent on defence, and under this Government this figure rises to almost 80 billion pounds a year by 2029, and of course, any plan will have its critics, but I note that the NATO chief, Mark Rutte, as well as the Chief of Defence Staff, have backed our plan. And we are on track to increase defence spending to 3% of GDP in the next Parliament. The vast majority of this package has already been funded through the right and tough decisions to prioritise departmental spending. This will give the MOD the certainty that it needs to get on with it, and the remaining one billion pounds a year over four years will be confirmed in the usual way in the Budget.
+- With regard to R&R, the right hon. Gentleman is absolutely right about the need for any major project to be managed properly and to make sure that where taxpayers' money is concerned, that we get value for money. And in that regard, I hope to bring forward a motion shortly to allow the House a long overdue debate on the next steps, because the right hon. Gentleman is absolutely right. There is broadly a consensus in this House about the need to get on with restoration and renewal, and that is the message which comes in the recent polling from the public, 3/4 people want to see us get on and take the action which is necessary to restore this place. But there isn't a consensus about how we actually do it. And what I'm very keen to do is to build that consensus as far as we can to make sure that the safeguards that the right hon. Gentleman, and others who are perhaps critical of some of the report which has been produced, that we can build that consensus, which is why I'm very grateful to the NAO for their recent report, and very grateful indeed to the Public Accounts Committee, and I look forwards to their investigation so that they can bring forward recommendations, and I hope at the end of it all the House can come together and we can get on with this, because it's long overdue.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered**
+
+[Happened at 10:38](https://parliamentlive.tv/event/index/632fb680-d094-401d-b4b6-4aa69cd85787?in=10:38:52). [Hansard](https://hansard.parliament.uk/Commons/2026-07-02/debates/80B137FB-8C53-4E59-A1D2-4B7B51B8A937/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: The defence investment plan is partly unfunded and too small
+
+> **NORMAN:** The Prime Minister was quite punishing about the Liberal Democrats at Prime Minister's questions yesterday for their sanctimoniousness, and let's be clear, I think we can all agree he was spot on. But sanctimoniousness is not exactly something that the Prime Minister has been immune from himself. He was extremely rude about the state of the public finances after the general election. He promised tough decisions, I quote, to fix the foundations. The imaginary 22 billion pounds black hole he inherited needed, he said, candour, discipline, and hard choices.
+
+> These tests should apply here too now, with the defence investment plan. That plan commits 15 billion pounds in additional defence spending over four years, of which 4.7 billion will be confirmed budget 2026. In other words, the plan, which comes 394 days after the defence review, and on the eve of a NATO summit, is partly unfunded from the moment it was published. This is not what candour looks like, Mr Speaker, or discipline, or hard choices.
+
+> And irony of ironies, the further 10 billion pounds reportedly needed for the DIP, is itself precisely the kind of unfunded bequest to the next Government that the Prime Minister himself claims to condemn. And of course, the plan is too small. The Government says 3% is its ambition for the next Parliament. Getting to 3.5%, the UK's core NATO commitment by 2035, requires about 25 billion pounds a year more in today's terms. The Government's offered no funded pathway to either figure. Little wonder the plan has been so roundly criticised by defence experts across the board.
+
+> I know the Leader will feel tempted to make comparisons with 2010. Perhaps I may remind him that the UK was reeling from the global financial crisis that time, a very different US president was in the White House, Ukraine was not at war, and Russia was not threatening members of NATO directly.
+
+→
+
+> **CAMPBELL:** [I] remind him that since 2024, tough decisions have been taken, which is why inflation is lower, interest rates have fallen, and at the same time, we've invested more in public services. However, we accept that the security situation has deteriorated, the challenges are there, which is why the Government has brought forward the defence investment plan, and plans on how we're going to fund it.
+
+> He reminds the House that the situation in 2010 internationally was different. Of course it was. And he says that then, in 2010, the then Government was reeling from the global economic crisis. Well, let me remind him that in 2024, this Government was reeling from--and the country--was reeling from 14 years of Tory mismanagement.
+
+> Now let me return now to the key issue of defence expenditure. The Government has already delivered the biggest sustained boost to defence spending since the cold war. It's surpassed the promises that we made in our manifesto. The plan that we brought forward provides funding to strengthen military readiness, accelerate drone transformation, boost future fighter jets, and strenghten our nuclear deterrent. And at the same time, Mr Speaker, will create nearly 60 thousand extra UK industry jobs by the end of this decade.
+
+> We inherited a situation where 54 billion pounds was being spent on defence, and under this Government this figure rises to almost 80 billion pounds a year by 2029, and of course, any plan will have its critics, but I note that the NATO chief, Mark Rutte, as well as the Chief of Defence Staff, have backed our plan. And we are on track to increase defence spending to 3% of GDP in the next Parliament. The vast majority of this package has already been funded through the right and tough decisions to prioritise departmental spending. This will give the MOD the certainty that it needs to get on with it, and the remaining one billion pounds a year over four years will be confirmed in the usual way in the Budget.
+
+#### (2) ✔️ Q1: Westminster restoration: Can we have have two separate debates to be able to discuss the issues in detail?
+
+> **NORMAN:** But of course, cost escalation in defence is just part of a wider British problem with major national projects. HS2 is the starkest warning. As far as I'm aware--and I spent two years at the Treasury trying and failing to stop it--HS2 is still constructing a gigantic so-called bat protector at a cost of more than 100 million pounds, in order to protect 20 or so pairs of endangered bats. There's little or no evidence that such a bat protector will do so, or indeed to think that a few nets with some bells on them would not be at least as effective. In other words, Edward Lear himself could not make this nonsense up.
+
+> Now we have northern powerhouse rail. This week the Public Accounts Committee [reported](https://committees.parliament.uk/committee/127/public-accounts-committee/news/214596/northern-powerhouse-rail-considerable-uncertainty-still-clouds-project-pac-warns/) that the Government still lacks a convincing plan to manage spend or prioritise benefits within the 45-billion-pound rail budget. Unclear scope, optimistic costing, weak governance, late tradeoffs; that is how large projects get into serious difficulty.
+
+> Other nations have shown they can do it better: Norway built the world's longest and deepest subsea tunnel for about 450 million pounds at time of completion. We should be asking why we cannot do the same. We've got a great model nearby of our own in the Buckingham Palace reservicing programme, which cost 369 million pounds over 10 years. But this is the lesson for restoration and renewal of the House of Commons, the House of Lords, and the Palace of Westminster, the cost of which is currently estimated at up to an astonishing 12 to 19 billion pounds.
+
+> No one doubts that the Palace of Westminster badly needs restoration. And it needs a decision on that soon. No one disputes these points. The fire risk, asbestos, failing electrical and mechanical systems, are real. But Parliament cannot ask parliamentarians, and through them, the poor long-suffering taxpayer, to support a project of this scale without demonstrating the same disciplines it requires of others. Cost forecasts, not merely, but a stated and effective governance, a kept budget, independent challenge, and proper named accountability.
+
+> So I ask the Leader if we can have at least two debates in this House on restoration and renewal: one to discuss the issues in detail, and then another in relation to an authorising motion.
+
+→
+
+> **CAMPBELL:** With regard to R&R, the right hon. Gentleman is absolutely right about the need for any major project to be managed properly and to make sure that where taxpayers' money is concerned, that we get value for money. And in that regard, I hope to bring forward a motion shortly to allow the House a long overdue debate on the next steps, because the right hon. Gentleman is absolutely right.
+
+> There is broadly a consensus in this House about the need to get on with restoration and renewal, and that is the message which comes in the recent polling from the public, 3/4 people want to see us get on and take the action which is necessary to restore this place. But there isn't a consensus about how we actually do it. And what I'm very keen to do is to build that consensus as far as we can to make sure that the safeguards that the right hon. Gentleman, and others who are perhaps critical of some of the report which has been produced, that we can build that consensus, which is why I'm very grateful to the NAO for [their recent report](https://www.nao.org.uk/reports/restoration-and-renewal-of-the-palace-of-westminster-2026-update/), and very grateful indeed to the Public Accounts Committee, and I look forwards to their investigation so that they can bring forward recommendations, and I hope at the end of it all the House can come together and we can get on with this, because it's long overdue.
+
+-----
+
+#### ∗ ∗ ∗
+
+- Youth Jobs Grant - thousands of pounds for companies who hire jobless youth
+- Repeal of Vagrancy Act which criminalised rough sleeping and begging
+- Campbell pronounces 'nuclear' 'nukilar'
+- Eve Samson 53rd Clerk of the House
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+starmer historic forced adoption apology after
+
+ukpol have somehow secured an AMA with burnham
 
 {% include fin.html %}
