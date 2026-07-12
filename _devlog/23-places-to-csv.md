@@ -2,8 +2,8 @@
 layout: post
 title: 23 — Places to CSV
 date: 2026-06-28 23:38
-modified_date: 2026-07-05 06:22
-categories: firefox sqlite csv
+modified_date: 2026-07-08 04:15
+categories: firefox sqlite csv python
 lang: en
 redirect_from: /devlog/23
 ---
@@ -2038,7 +2038,7 @@ Options: {", ".join([f"{k} ({v})" for k, v in BFORMATOPTIONS.items()])}."""}),
                        [x for k in BFORMATOPTIONS for x in (k, k + 'r')],
                        "help": """Sort by a given metadata field.
 Options are the same as for -f/--format, or followed by r for reverse order.
-(Example: vr -> sort by visit epoch, reverse order.)"""}),
+(Example: ar -> sort by added epoch, reverse order.)"""}),
      ]},
 }
 

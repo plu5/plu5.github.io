@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-06-21 15:01
+modified_date: 2026-07-09 04:14
 categories: os
 lang: fr
 ---
@@ -10,6 +10,7 @@ lang: fr
 ## Basique mais j'oublie
 - `~` ne s'expanse pas entre guillemets. utilise `$HOME` à la place.
 - `pwd` : chemin actuel
+- `sudo !!` : lancer la commande précédente avec sudo
 - `time` : avant une commande pour mesurer son temps d'exécution
   + `-v` pour plus d'informations
 - `df` : utilisation d'espace disque
@@ -32,6 +33,8 @@ lang: fr
 - `pkill [pid]` : tuer gentillement (par pid)
 - `pkill monprocessus` : tuer gentillement (par nom)
 - `sudo strace -p [pid]` : voir ce que fait un processus
+- `systemctl status`
+- `systemctl status sshd` : status d'un service particulier (sshd dans ce cas)
 - `systemctl list-units --type=service --user --all` : lister services utilisateur
   <br>(c'est agaçant mais faut se souvenir du --user. de même pour `systemctl status monservice` et `journalctl -u monservice`)
 - option `-f` (`--follow`) avec journalctl pour voir les messages en direct
@@ -212,6 +215,7 @@ Redirections dans une substitution de commande
 Pas de regex, mais il y a les motifs de globbing `*` `?` `[abc]` `[!abc]`.
 
 Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
+
 ## Raccourcis shell
 - M-backspace : supprimer mot précédent ←
 - C-u : supprimer tout avant curseur ←
@@ -232,10 +236,12 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 
 ## Débogage
 - `journalctl --no-pager --since "1 hour ago"`
+  + `-p err..alert` pour limiter aux messages d'erreur, critiques, et d'alerte
 - `strings -n 8` : pour voir des journals tronqués
 - `sudo dmesg -HP` : messages du noyau (kernel ring buffer) human readable, no pager
 - `coredumpctl list --no-pager` : liste de crashs. même si la génération de coredumps est désactivée.
   <br>l'affichage dépend de la taille de la fenêtre alors je mets mon terminal en plein écran avant.
+- `ss -tulpn` : afficher les ports ouverts
 
 ### Xorg
 - Les logs pour une session non-root se trouve dans `~/.local/share/xorg`. Si X est en cours, `Xorg.0.log` est le log de la session actuelle, et `Xorg.0.log.old` de la précédente.
@@ -248,6 +254,12 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
   + `>` `<` : changer colonne par laquelle trier (CPU par défaut, `>` une fois trie par MEM)
 - pkill onedrive
 - pstree | grep onedrive
+
+## pacman
+[wiki](https://wiki.archlinux.org/title/Pacman_(Fran%C3%A7ais))
+- `pacman -Qe` : afficher les paquets qu'on a installé explicitement. sans le `e` pour afficher tout.
+- `pacman -Qi [nom]` : afficher des informations sur un paquet, notamment ses dépendances. `-Ql` pour afficher les fichiers. `-Qk` pour afficher le nombre de fichiers.
+- `pacman -Qm` : afficher les paquets étrangers (AUR)
 
 ## DPMs
 - désactiver : xset -dpms
@@ -287,6 +299,8 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - sysfs
 - dbus
 - ibus
+- sysrq
+  + « nous pourrions faire en sorte que logind écoute les touches sysrq spéciales qui désactivent la session en cours et activent la console d'urgence. » [dvdhrm](https://dvdhrm.wordpress.com/2013/07/08/thoughts-on-linux-system-compositors/) (fin de #2)
 
 ### Pas spécifique à Linux
 ...
@@ -415,6 +429,8 @@ done
 - `sudo udevadm trigger` tue le serveur X
 
 ## Références
+- [Arch Wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))
 - [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [The Rad Lectures](https://www.youtube.com/watch?v=8Oz4CIB4YjU)
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: Hansard spelling
 date: 2026-04-05 21:36
-modified_date: 2026-07-02 15:41
+modified_date: 2026-07-09 16:53
 categories: ukpol
 lang: en
 ---
@@ -41,6 +41,7 @@ lang: en
 - Government Benches[^chiefs]
 - Cabinet member[^chiefs]
 - Leader of the House[^chiefs]
+  + shadow Leader[^shadl]
 - party leader[^chiefs]
 - Prime Minister[^chiefs]
   + Prime Ministers[^pms]
@@ -118,5 +119,6 @@ lang: en
 [^chiefs]: [2026-04-23](https://hansard.parliament.uk/commons/2026-04-23/debates/9BCB5C4D-8199-46BC-88A6-244350C8F66A/BusinessOfTheHouse). "four chiefs of staff, five directors of communications, three Cabinet Secretaries and four principal private secretaries". I think this sentence illustrates well how bizarre the Hansard spelling conventions are at times.
 [^palace]: [2026-06-04](https://hansard.parliament.uk/commons/2026-06-04/debates/90337D84-C733-42DE-A121-43AD0FE7E35F/BusinessOfTheHouse)
 [^congov]: [2026-06-11](https://hansard.parliament.uk/commons/2026-06-11/debates/3EDFEB51-5B98-45DB-9B2F-655E877DDDCA/BusinessOfTheHouse)
+[^shadl]: [2026-07-09](https://hansard.parliament.uk/commons/2026-07-09/debates/7D1C451C-563A-49E5-95BE-4F1EDECA7B69/BusinessOfTheHouse)
 
 {% include fin.html %}

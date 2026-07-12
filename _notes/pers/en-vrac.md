@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-06-13 09:03
+modified_date: 2026-07-10 15:37
 categories: flou
 lang: fr
 ---
@@ -432,5 +432,12 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [art] étudier le travail de raphael boyon
   + [bohemond.artstation.com](https://bohemond.artstation.com/)
 - [art] jeune caravaggio comme s'il était un pnj d'un jeu assassin's creed
+
+§ 2026-07-08
+- [jeu] cruelty squad
+
+§ 2026-07-09
+- [jeu] ikea
+- [jeu] pas dans la neige
 
 {% include fin.html %}

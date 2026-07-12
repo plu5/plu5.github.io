@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-07-02 16:30
+modified_date: 2026-07-09 18:24
 categories: ukpol
 lang: en
 ---
@@ -2126,5 +2126,108 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answer
 starmer historic forced adoption apology after
 
 ukpol have somehow secured an AMA with burnham
+
+## 2026-07-09
+clerk of the table in front of him [in front of hoyle] retiring today after 32 years. he worked at first on hansard. he's also a writer and playwright. camera zooms on him for his reaction. never seen before this much attention on a clerk while he's right there and in service. he does look embarrassed
+
+immigration bill, steel industry nationalisation bill, opposition day, statutory instrument relating to national security, summer adjournment. house will rise at the conclusion of business thursday 16 july and return tuesday 1 sept
+
+norman:
+- What a sporting week this has been, Mr Speaker. Youth, vitality, incredible physical stamina in the most testing of environments. And that's just the Leader of the House, whose birthday it was yesterday. The Leader has never begrudged me my own naïvety and inexperience, and I know everyone present will wish to join me in wishing him a massively happy birthday.
+- in other news, the england football team decisively defeated mexico at the azteca, and we look forward with keen anticipation of their taking on norway on saturday evening.
+- Mr Speaker, we send our congratulations and commiserations to the United States of America on the tragic wrong turn they took towards independence 250 years ago. As Edmund Burke famously said, in this character of the Americans, a love of freedom is the predominating feature. Whatever temporary disagreement we may have, let us never forget this deepest of shared commitments.
+- and finally, Kim Jong Un himself would admire the North-Korean precision of the Labour leadership vote, which has opened today, with precisely one candidate on the ballot paper. How very different from the forthcoming byelection in Clacton, which appears to be a choice between a novelty comedy act with no real policies, and Count Binface [entire house goes "eyyyyyy", and stops to have a laugh with the reform MPs present]. Mr Speaker, it's a long time since we had a count in the House of Commons, and when the time comes, as it surely will, we will have to leave to you the delicate question of whether and how to suspend the rules on headgear in the Chamber for the new Member.
+- on a more serious note, the house has already expressed its great sorrow at the recent death of sir george howarth. but i would also like, if i may, to draw attention to the very sad death on monday, at the age of 99, of james mackay. lord mackay of clashfern. he was a brave, energetic, and imaginative reformer of the law as lord advocate in scotland, and then as lord chancellor. it's hard to think of a man more widely respected in public life. we send our very best to his wife beth and their family.
+- I have just one item of business today, it's related to the River Wye, which the House will know is not only a particular obsession of mine, but an issue of national importance. When the last Government cancelled the action plan for the Wye, it also cancelled the accompanying commitment of 35 million pounds in cleanup funding, and replaced it with a paltry one million pounds, supposedly aimed at research. But I was very distressed to receive the news this week that only 115 thousand pounds of that 1 million pounds will actually be spent on research, and that even that tiny sum will be spend over three years, and that the balance of the one million pounds will be consumed by administrative costs. Could the Leader instigate an immediate inquiry and ensure that Ministers clarify to me, my constituents, and national campaigners on this issue, that the full one million pounds will be kept intact and used for the purposes for which it was intended?
+
+two people behind norman laughing at all his jokes is a new one
+[he also turned to them later when campbell suggested other people can put themselves forwards to the leadership contest]
+
+11:18
+
+campbell:
+- Can I thank the shadow Leader for his remarks, particularly on wishing me a happy birthday for yesterday? Can I just advise him and other Members that as they approach this age themselves, the more birthdays you have, generally the less you have to celebrate. But there you are. [*House: sad noises*]. I do thank him, I do thank him for his kind remarks.
+- Can i also join you, mr speaker, and the shadow leader of the house in thanking david weir for his service to the house [the clerk which is retiring] over 33 years. and let me just say that i look forward to his play or book based on his experiences in this house.
+- The shadow Leader mentions that the Labour leadership contest has started. He's misread the rules, I'm afraid, because it's the opening of the nominations today. Therefore, to be so presumptive as to say there will only be one candidate, it rather depends on how the next few days play out. [house excitement that he will put himself forwards]. That is-- that is simply a statement of fact, it's not a statement of anything else, Mr Speaker.
+- can i also join him and thank him for his kind tribute to sir george howarth who recently passed away. george was a dedicated politician who served his constituency of knowsley for 38 years, and i'm sure the house will join me in sending our condolences to his wife julie and to his families and friends at this time, and can i echo his words about the death of lord mackay. and also, mr speaker, i'm sorry to say that this matter having been raised with me reasonably recently at business questions, i'm also very sad to learn today of the death of bonnie tyler. and i thank my hon. friends the member for neath and swansea east (carolyn harris) for giving us the opportunity at that point to wish her well, and i'm sure her family and friends are devastated by their loss and we send them our very best wishes indeed.
+- also, mr speaker, this year marks 21 years since the london 7/7 bombings, which killed 52 people and injured many more. i know that the thoughts of the whole house will be with those whose lives were changed on that terrible day, and recall the bravery and commitment of our emergency services, including particularly the NHS, who continue to show such exemplary service.
+- it's also since our last business questions we've celebrated the two years-- second anniversary of the election of this labour government, which show a huge intake of new and talented MPs, on both sides of this house, and we thank them for the contribution that they have made thus far. and since that election we've taken action as a government to fix the foundations of our country and deliver the long-term change that britain needs. that means cutting waiting lists, cutting net migration and the asylum backlog, half a million children lifted out of poverty, and we have the fastest growing economy in the g7. we're also, mr speaker, and i just need to update the house in the reference to what the deputy prime minister said yesterday: through the hillsborough law we are changing the balance of power in britain and ensuring that the state can never hide from the people that it is supposed to serve, and as my right hon. friend the deputy prime minister (david lammy) outlined yesterday, significant progress has been made to bring the bill back-- has been made, and i hope that we can bring back the bill to the house soon.
+- turning to other matters, an issue that's been raised with me during the sessions on a number of occasions, on the veterinary sector: pets are a part of the family, but for too many households the costs of caring for them has become a real worry, so today we're setting out the biggest reforms to the vet sectors in half a century, which helps owners avoid unexpected bills, compare prices more easily, and get the best value of care for their pets. and i know that's something that you take a keen interest in, mr speaker.
+- In terms of the Wye valley, the-- I will raise this matter with DEFRA, but I understand, and I haven't seen the response of the Minister, but I understand that the matter was raised in DEFRA questions before, earlier today. But I will take that back to DEFRA colleagues.
+- and on the matter which he also raises on the question of the byelection in clacton: This is a byelection that should not be taking place, let me make clear from the Despatch Box. When we stand for election in this place, which in order to do so we give an undertaking that the highest standards should be kept, including openness and transparency in terms of political donations, and that, Mr Speaker, is the issue here. That would be the issue in this unnecessary byelection. Nigel Farage has serious questions to answer and he can't run away from them.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered**
+
+[Happened at 11:13](https://parliamentlive.tv/event/index/0a378fe5-0a46-4985-b945-4618db6cb14d?in=11:13:13). [Hansard](https://hansard.parliament.uk/commons/2026-07-09/debates/7D1C451C-563A-49E5-95BE-4F1EDECA7B69/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: >!LotH birthday!<
+
+> **NORMAN:** What a sporting week this has been, Mr Speaker. Youth, vitality, incredible physical stamina in the most testing of environments. And that's just the Leader of the House, whose birthday it was yesterday. The Leader has never begrudged me my own naïvety and inexperience, and I know everyone present will wish to join me in wishing him a massively happy birthday.
+
+→
+
+> **CAMPBELL:** Can I thank the shadow Leader for his remarks, particularly on wishing me a happy birthday for yesterday? Can I just advise him and other Members that as they approach this age themselves, the more birthdays you have, generally the less you have to celebrate. But there you are. [*House: sad noises*]. I do thank him, I do thank him for his kind remarks.
+
+Their birthdays are a week apart then?
+
+23 june, 8 july
+
+and the dude is 69 (vs 64)
+
+#### (2) 📜 REMARK: Independence
+
+> **NORMAN:** Mr Speaker, we send our congratulations and commiserations to the United States of America on the tragic wrong turn they took towards independence 250 years ago. As Edmund Burke famously said, in this character of the Americans, a love of freedom is the predominating feature. Whatever temporary disagreement we may have, let us never forget this deepest of shared commitments.
+
+This is really familiar, so I thought the same joke had been made last year, but apparently not. And if you go back two years, it was when Labour just came into office and we had the first BMQs with them in government, Powell vs Philp.
+
+#### (3) 📜 REMARK: Labour leadership contest
+
+> **NORMAN:** Kim Jong Un himself would admire the North-Korean precision of the Labour leadership vote, which has opened today, with precisely one candidate on the ballot paper.
+
+→
+
+> **CAMPBELL:** The shadow Leader mentions that the Labour leadership contest has started. He's misread the rules, I'm afraid, because it's the opening of the nominations today. Therefore, to be so presumptive as to say there will only be one candidate, it rather depends on how the next few days play out. [*House: excited noises*]. That is-- that is simply a statement of fact, it's not a statement of anything else, Mr Speaker.
+
+#### (4) 📜 REMARK: Clacton byelection
+
+> **NORMAN:** How very different from the forthcoming byelection in Clacton, which appears to be a choice between a novelty comedy act with no real policies, and Count Binface [*entire House goes "eyyyyyy"*]. Mr Speaker, it's a long time since we had a count in the House of Commons, and when the time comes, as it surely will, we will have to leave to you the delicate question of whether and how to suspend the rules on headgear in the Chamber for the new Member.
+
+→
+
+> **CAMPBELL:** This is a byelection that should not be taking place, let me make clear from the Despatch Box. When we stand for election in this place, which in order to do so we give an undertaking that the highest standards should be kept, including openness and transparency in terms of political donations, and that, Mr Speaker, is the issue here. That would be the issue in this unnecessary byelection. Nigel Farage has serious questions to answer and he can't run away from them.
+
+#### (5) ✔️ Q1: River Wye: Could Ministers clarify spending of the 1 million pounds intended for research?
+
+> **NORMAN:** I have just one item of business today, it's related to the River Wye, which the House will know is not only a particular obsession of mine, but an issue of national importance. When the last Government cancelled the action plan for the Wye, it also cancelled the accompanying commitment of 35 million pounds in cleanup funding, and replaced it with a paltry one million pounds, supposedly aimed at research. But I was very distressed to receive the news this week that only 115 thousand pounds of that 1 million pounds will actually be spent on research, and that even that tiny sum will be spend over three years, and that the balance of the one million pounds will be consumed by administrative costs.
+
+> Could the Leader instigate an immediate inquiry and ensure that Ministers clarify to me, my constituents, and national campaigners on this issue, that the full one million pounds will be kept intact and used for the purposes for which it was intended?
+
+→
+
+> **CAMPBELL:** In terms of the Wye valley, I will raise this matter with DEFRA, but I understand--and I haven't seen the response of the Minister--but I understand that the matter was raised in DEFRA questions before, earlier today. But I will take that back to DEFRA colleagues.
+
+-----
+
+#### ∗ ∗ ∗
+
+- Clerk at the table (David Weir?) retiring, and this announced while he is sitting right there; I've never seen before clerks interacted with in proceedings while they are sitting there working. He is reportedly a writer and playwright; Campbell: "let me just say that I look forward to his play or book based on his experiences in this House."
+- 21 years since 7/7 bombings
+- 2nd anniversary of the election of this Labour government
+- Hillsborough law: "we are changing the balance of power in Britain and ensuring that the state can never hide from the people that it is supposed to serve", "I hope that we can bring back the Bill to the House soon."
+- Reforms to veterinary sector
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+ukpol is all count binface and the byelection. what's happening, why are the main parties not standing a candidate?
+
+if i understand correctly it's because it's a stunt that MPs can do, call their own by-election, which is only ever done in a safe seat where they are sure to win, as is thought to be the case here, so the main parties refuse to engage with it to make it be ridiculous/humiliating, which was also done the last few times something like this happened.
 
 {% include fin.html %}

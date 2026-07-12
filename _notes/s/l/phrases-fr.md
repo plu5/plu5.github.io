@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-07-02 17:08
+modified_date: 2026-07-11 23:30
 categories: lang
 lang: fr
 ---
@@ -1036,5 +1036,11 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-07-02
 - entre de mauvaises mains
+
+§ 2026-07-05
+- bords-côtes
+
+§ 2026-07-11
+- Comment est-ce possible ? Quelles en sont les causes ? ([Prof Mosser](https://www.youtube.com/watch?v=jd3Mp7TiJEE))
 
 {% include fin.html %}
