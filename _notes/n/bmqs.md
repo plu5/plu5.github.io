@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-07-09 18:24
+modified_date: 2026-07-16 16:42
 categories: ukpol
 lang: en
 ---
@@ -2229,5 +2229,83 @@ This is really familiar, so I thought the same joke had been made last year, but
 ukpol is all count binface and the byelection. what's happening, why are the main parties not standing a candidate?
 
 if i understand correctly it's because it's a stunt that MPs can do, call their own by-election, which is only ever done in a safe seat where they are sure to win, as is thought to be the case here, so the main parties refuse to engage with it to make it be ridiculous/humiliating, which was also done the last few times something like this happened.
+
+## 2026-07-16
+sovereign grants, message from the king, remaining stages of representation of the people bill, sports bill, private members bills, remaining stages of the health bill
+
+norman:
+- this seems a moment for the words of philip larkin: what will survive of us is love. a day of sadness and departings. i know the whole house will want to join me in saluting the england football team. i simply say this to them: you went out to a foreign field, you fought like true lions, and you did us proud. thank you.
+- Let us also pay tribute to Ann Widdecombe for her bravery, her spirit, her independence of mind. There is a book of condolence in the Members Library which I know many Members will wish to sign. Hers were not especially my politics, Mr Speaker, but let me tell you one story which illustrates her a little bit from my personal experience: we were at a dinner at the Holborn and St Pancras Conservatives, a vibrant local organisation, in the time of the late Frank Dobson, and she was the guest speaker, and at the end of the evening a bottle signed by her was thrust into my hands and I was asked to invite her to auction it. And you'll recall that she just had a bit of a dustup with the noble Lord Howard, as he then was, on the topic of... she said something about him having something of the night. So quick as a flash, holding this bottle of whiskey, she said: ladies and gentlemen, what will you give me for something of the nightcap? Which I thought was pretty fair game under the circumstances.
+- mr speaker, This week has featured a certain amount of rancour, as the late Roy Jenkins might have put it. The Government found itself changing the business twice, cancelling an Opposition day debate it had itself scheduled and reaffirmed only the previous day, on the entirely bogus excuse that it wanted an urgent debate on Iran. A debate so urgent, so important, Mr Speaker, that it was opened by the most junior Minister in Government, it finished two hours early, and it featured precisely three--count them--three speeches by labour backbenchers. It would be tragedy if we lose the Leader of the House from Business Questions, I think we can all agree, but if he is not promoted after the embarrassing heroics he had performed this week on behalf of the new Prime Minister, it will be a huge injustice. But we are not going to cast nasturtiums, in the words of a friend of mine, on any of this nonsense, not even on Baroness Lloyd and the hopeless BDUK who have entirely failed to address the issue of fiber broadband and neglected parts of my constituency and simply repeated the same language of incompetence and failure to me for more than a year now--I hope the leader will pick that up--no, we will cast no nasturtiums. There will be no rancour from this side of the house. I come to praise the outgoing Prime Minister, not to bury him. He is a transparently decent and honourable man. He's dedicated to public service, he rescued the Labour party, and he worked with great diligence to lead this country. No one who has not been close to leadership of this kind can have any idea of how hard it is. We all owe him a great debt of gratitude. As for the incoming Prime Minister, my advice is simply this: be careful what you wish for. He has had a coronation, an election hustings with just one candidate, a single name on the ballot paper, but on monday afternoon he will start to learn the true difficulty of the decisions that face him. There will be hard tradeoffs which cannot be abolished by tinkering with the fiscal rules or still more tax and spend. Vibes will not be a solution to these problems. Eyelashes will not suffice. He will have to stand up and say, or perhaps decide, what it is he believes in. We can only hope he will bring energy, frugality, a long-term focus, and a talented team, adequate to the tasks ahead, and we wish him very well.
+- and i wish you, mr speaker, the leader, and all the staff and members of this house, a summer break full of rest and happiness.
+
+wow. maybe it's usual laying down arms for the summer, but no i've never heard it this soft
+
+campbell:
+- Let me join him in paying tribute to Ann Widdecombe. Ann dedicated her life to public service and the causes that she believed in. The circumstances of her death are of course extremely distressing, and I'm sure my thoughts and the thoughts of the whole House are with Ann's family and loved ones. I can't claim to have known her well. We didn't agree on many issues, but we agreed very strongly on the issue of fox hunting, on which she was extraordinarily brave in the stand that she took. We shared a belief in public service, and that politics matters to people, and I smiled at the anecdote that the shadow Leader of the House told and the reference to the nightcap, I suspect we'll be reading about it in one of his books later in the future.
+- can i also pay tribute, mr speaker, to lord christopher, who passed away this week? he had an incredible career in public service, he was the oldest serving british parliamentarian, and the last member of parliament to have served in world war 2. my thoughts, and i'm sure the whole house, are with his friends and family.
+- on house matters, briefly, mr speaker: this morning the modernisation committee published a report on a formless[?] scheme for acting select committee chairs. select committees perform a vital role in scrutinising the government. the recommendations will ensure that committees continue their critical work, even if their chairs need to take a period of absence, and sets out a new framework for the appointment status and remuneration of acting select committee chairs. I want to thank the Liaison and Procedure Committees for their work in this regard, and I will put the matter before the House in due course.
+- on the issue that the right hon. gentleman raises, i join with him in thanking the england football team, it wasn't the result the nation had hoped for, but there was the passion and the energy that the team showed, certainly in previous rounds, and we should be proud of that team.
+- In terms of the Iran debate, I thought he was uncharacteristically churlish about that, because actually I watched-- or certainly, what I didn't see I read in Hansard, and I have to say, and maybe after my remarks on Tuesday I need to build some bridges, but the right hon. Lady for Aldridge-Brownhills made a really really good speech on Iran, and set out her party's position. But also I think crucially important, actually set out the need for us in this House to show a bipartisan approach to this issue, and I wouldn't undermine in any way--and I'm sure he wasn't--but I wouldn't undermine in any way the powerful speeches that were made on both sides of the House, because it was important, I did feel it was important, that before the recess that we set out very clearly what this House thinks, and I fervently hope, Mr Speaker, that we won't need to recall the House over the recess, but if we need to, for this or any other matter, then we would stand ready to do so.
+- I will take up the points that the right hon. Gentleman made on broadband with the Minister, and I certainly-- I just want to close by thanking the shadow Leader of the House for his remarks about the Prime Minister. I pay tribute to the Prime Minister, Mr Speaker. He has made this country a stronger and fairer country. The duty of prime minister is to leave a country in a better place than when you found it. Without question, the Prime Minister has done that. He does leave a lasting legacy, and just this week he fulfilled his commitment to the Hillsborough families and secured the future of British steel. We wish-- I wish him well, and I wish his family well for the future.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions asked
+
+[Happened at 11:16](https://parliamentlive.tv/event/index/a44ee3be-f62c-4181-a5c4-571f91dc0b8e?in=11:16:00). [Hansard](https://hansard.parliament.uk/commons/2026-07-16) (will be under "Business of the House"; not up yet).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Tribute to Widdecombe
+
+> **NORMAN:** Let us [] pay tribute to Ann Widdecombe for her bravery, her spirit, her independence of mind. There is a book of condolence in the Members Library which I know many Members will wish to sign.
+
+> Hers were not especially my politics, Mr Speaker, but let me tell you one story which illustrates her a little bit from my personal experience. We were at a dinner at the Holborn and St Pancras Conservatives, a vibrant local organisation, in the time of the late Frank Dobson, and she was the guest speaker, and at the end of the evening a bottle signed by her was thrust into my hands and I was asked to invite her to auction it. And you'll recall that she just had a bit of a dustup with the noble Lord Howard, as he then was, on the topic of... she said something about him having something of the night. So quick as a flash, holding this bottle of whiskey, she said: ladies and gentlemen, what will you give me for something of the nightcap? Which I thought was pretty fair game under the circumstances.
+
+→
+
+> **CAMPBELL:** Let me join him in paying tribute to Ann Widdecombe. Ann dedicated her life to public service and the causes that she believed in. The circumstances of her death are of course extremely distressing, and I'm sure my thoughts and the thoughts of the whole House are with Ann's family and loved ones. I can't claim to have known her well. We didn't agree on many issues, but we agreed very strongly on the issue of fox hunting, on which she was extraordinarily brave in the stand that she took. We shared a belief in public service, and that politics matters to people, and I smiled at the anecdote that the shadow Leader of the House told and the reference to the nightcap, I suspect we'll be reading about it in one of his books later in the future.
+
+#### (2) 📜 REMARK: Debate on Iran yesterday
+
+> **NORMAN:** This week has featured a certain amount of rancour, as the late Roy Jenkins might have put it. The Government found itself changing the business twice, cancelling an Opposition day debate it had itself scheduled and reaffirmed only the previous day, on the entirely bogus excuse that it wanted an urgent debate on Iran. A debate so urgent, so important, Mr Speaker, that it was opened by the most junior Minister in Government (Calvin Bailey), it finished two hours early, and it featured precisely three--count them--three speeches by Labour backbenchers.
+
+> It would be tragedy if we lose the Leader of the House from Business Questions, I think we can all agree, but if he is not promoted after the embarrassing heroics he had performed this week on behalf of the new Prime Minister, it will be a huge injustice.
+
+→
+
+> **CAMPBELL:** In terms of the Iran debate, I thought he was uncharacteristically churlish about that, because actually I watched-- or certainly, what I didn't see I read in Hansard, and I have to say, and maybe after my remarks on Tuesday I need to build some bridges, but the right hon. Lady for Aldridge-Brownhills made a really really good [speech](https://hansard.parliament.uk/Commons/2026-07-15/debates/630D32F3-9592-4BAB-AA1B-60565E890269/Iran#contribution-8E96205F-207D-4BD5-89CC-0BAD1D0BC7E1) on Iran, and set out her party's position, but also I think crucially important, actually set out the need for us in this House to show a bipartisan approach to this issue, and I wouldn't undermine in any way--and I'm sure he wasn't--but I wouldn't undermine in any way the powerful speeches that were made on both sides of the House, because it was important, I did feel it was important, that before the recess that we set out very clearly what this House thinks, and I fervently hope, Mr Speaker, that we won't need to recall the House over the recess, but if we need to, for this or any other matter, then we would stand ready to do so.
+
+#### (3) 📜 REMARK: Broadband diss and Starmer tribute
+
+> **NORMAN:** But we are not going to cast nasturtiums, in the words of a friend of mine, on any of this nonsense, not even on Baroness Lloyd and the hopeless BDUK who have entirely failed to address the issue of fiber broadband and neglected parts of my constituency and simply repeated the same language of incompetence and failure to me for more than a year now--I hope the leader will pick that up--no, we will cast no nasturtiums. There will be no rancour from this side of the House.
+
+> I come to praise the outgoing Prime Minister, not to bury him. He is a transparently decent and honourable man. He's dedicated to public service, he rescued the Labour party, and he worked with great diligence to lead this country. No one who has not been close to leadership of this kind can have any idea of how hard it is. We all owe him a great debt of gratitude.
+
+→
+
+> **CAMPBELL:** I will take up the points that the right hon. Gentleman made on broadband with the Minister, and I certainly-- I just want to close by thanking the shadow Leader of the House for his remarks about the Prime Minister. I pay tribute to the Prime Minister, Mr Speaker. He has made this country a stronger and fairer country. The duty of prime minister is to leave a country in a better place than when you found it. Without question, the Prime Minister has done that. He does leave a lasting legacy, and just this week he fulfilled his commitment to the Hillsborough families and secured the future of British steel. We wish-- I wish him well, and I wish his family well for the future.
+
+#### (4) 📜 REMARK: Vibes will not be a solution
+
+> **NORMAN:** As for the incoming Prime Minister, my advice is simply this: be careful what you wish for. He has had a coronation, an election hustings with just one candidate, a single name on the ballot paper, but on Monday afternoon he will start to learn the true difficulty of the decisions that face him. There will be hard tradeoffs which cannot be abolished by tinkering with the fiscal rules or still more tax and spend. Vibes will not be a solution to these problems. Eyelashes will not suffice. He will have to stand up and say, or perhaps decide, what it is he believes in. We can only hope he will bring energy, frugality, a long-term focus, and a talented team, adequate to the tasks ahead, and we wish him very well.
+
+-----
+
+#### ∗ ∗ ∗
+
+- Death of the oldest and last parliamentarian who served in World War II, [Tony Christopher](https://en.wikipedia.org/wiki/Tony_Christopher,_Baron_Christopher)
+- [Modernisation committee report published this morning](https://committees.parliament.uk/publications/54282/documents/301748/default/) on a scheme for appointing and remunerating acting select committee chairs, to allow them to continue while chairs are on leave. "I want to thank the Liaison and Procedure Committees for their work in this regard, and I will put the matter before the House in due course."
+- There was apparently an [emergency BMQs on the 14th](https://hansard.parliament.uk/Commons/2026-07-14/debates/04138863-1B88-4983-95F8-6A50CB94A182/BusinessOfTheHouse) and I missed that. Unless I missed any others, this was the first one for this government. Not sure what to do, go back and do it? I may leave a comment on the MT for it at an unsocial hour just to be able to add it to the tracker.
+- That's it until the end of the summer. Recess until 1 Sept.
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+i usually get downvoted when it's busy. this time getting downvoted though it's not. ukpol mostly talking about argentina (falklands banner at semi-finals), disappointment at burnham already due to who is reportedly going to be in the cabinet (mahmood chancellor, whom the left dislike), and a bit about starmer departure / last pmqs yesterday.
 
 {% include fin.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-07-10 15:37
+modified_date: 2026-07-16 17:03
 categories: flou
 lang: fr
 ---
@@ -439,5 +439,16 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 § 2026-07-09
 - [jeu] ikea
 - [jeu] pas dans la neige
+
+§ 2026-07-12
+- [art] gavroche guidant le peuple
+  + liberté par terre. je suis tombée par terre !
+
+§ 2026-07-15
+- [jeu] construction sous-marine [https://www.reddit.com/r/submechanophobia/comments/1pzehzo/] (Suspicious-Smoke7970)
+
+§ 2026-07-16
+- [jeu] simulation de plongée y compris sélection et mise en place des équipements
+- [jeu] football des années 70
 
 {% include fin.html %}

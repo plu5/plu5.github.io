@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-07-11 23:30
+modified_date: 2026-07-18 08:37
 categories: lang
 lang: fr
 ---
@@ -1042,5 +1042,10 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-07-11
 - Comment est-ce possible ? Quelles en sont les causes ? ([Prof Mosser](https://www.youtube.com/watch?v=jd3Mp7TiJEE))
+
+§ 2026-07-18
+- respirer par la bouche, respirer par le nez
+- cartouches pour respirateur / masque respiratoire / masque à gaz
+- Le petit boîtier respiratoire consiste en un masque facial en tissu caoutchouté relié par un tuyau en tissu caoutchouté à une cartouche en fer blanc contenant un absorbant chimique ([frwik](https://fr.wikipedia.org/wiki/Masque_%C3%A0_gaz_avec_respirateur))
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: Blender
 date: 2026-05-17 16:39
-modified_date: 2026-06-20 20:39
+modified_date: 2026-07-18 03:28
 categories:
 lang: fr
 ---
@@ -28,7 +28,8 @@ lang: fr
 - options snap : C-S-tab
 - basculer entre modes objet/édition : tab
 - **modes pie menu : C-tab**
-- vue pie menu : \`
+- **vue pie menu** : \` (grave)
+  + utile pour centrer la sélection
 - joindre des objets : C-j
 - sélectionner faces liées : l
 - séparer : p
