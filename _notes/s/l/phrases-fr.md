@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-07-18 08:37
+modified_date: 2026-07-24 10:43
 categories: lang
 lang: fr
 ---
@@ -1047,5 +1047,19 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - respirer par la bouche, respirer par le nez
 - cartouches pour respirateur / masque respiratoire / masque à gaz
 - Le petit boîtier respiratoire consiste en un masque facial en tissu caoutchouté relié par un tuyau en tissu caoutchouté à une cartouche en fer blanc contenant un absorbant chimique ([frwik](https://fr.wikipedia.org/wiki/Masque_%C3%A0_gaz_avec_respirateur))
+
+§ 2026-07-21
+- Nous finirons par tomber d'accord... J'ai peut-être pris la mouche un peu trop vite ([Micharlemagne 14 juillet 2008 à 05:22](https://fr.wikipedia.org/wiki/Discussion:Bataille_de_Waterloo))
+- faire une pause (prendre → anglicisme)
+
+§ 2026-07-22
+- faire profil bas ([Harfangs](https://forum.wordreference.com/threads/to-keep-your-head-down.884672/))
+- se faire discret (^ aroumpf)
+
+§ 2026-07-23
+- j'ai rattrapé mon retard
+
+§ 2026-07-24
+- il existe de nombreuses ressources en ligne pour apprendre ce logiciel si la curiosité vous y pousse ([cqa14](https://github.com/cqa14/TutoRaylib/blob/master/docs/exemples/6.md))
 
 {% include fin.html %}

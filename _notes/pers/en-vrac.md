@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-07-16 17:03
+modified_date: 2026-07-24 21:56
 categories: flou
 lang: fr
 ---
@@ -118,6 +118,8 @@ La plupart de ces idées sont tarées mais je n'y peux rien
   + voilu
   + « inspired by but not affiliated with esail, sailwind, sailaway, a painted ocean, marineverse »
   + https://itch.io/games/tag-sailing
+  + possibilité de construire son propre bateau
+  + simulation physique
 
 § 2026-01-30
 - [soft] wincompose qui marche sous win98
@@ -449,6 +451,23 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-07-16
 - [jeu] simulation de plongée y compris sélection et mise en place des équipements
+    + ptet combine avec voilu
 - [jeu] football des années 70
+
+§ 2026-07-19
+- [art] [yt izzo](https://www.youtube.com/watch?v=w90PUm6iVyg) en 3d
+
+§ 2026-07-22
+- [jeu] [shapeup](https://github.com/danielchasehooper/ShapeUp-public) ([article](https://danielchasehooper.com/posts/shapeup/))
+  + multi
+- [jeu] [sokol](https://github.com/floooh/sokol)
+- [livre] graphics programming black book
+  + et articles par abrash
+
+§ 2026-07-24
+- [soft] timelapsemode interface graphique
+  + gestion de timelapses krita et blender
+  + ptet opengl pour avoir la même interface sur toutes les plateformes. ou ptet juste qt ou gtk mais pas envie d'un gros exécutable
+- [soft] rguiicons avec animation et import/export braille
 
 {% include fin.html %}
