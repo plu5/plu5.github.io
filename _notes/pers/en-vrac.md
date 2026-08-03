@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-07-24 21:56
+modified_date: 2026-07-30 21:08
 categories: flou
 lang: fr
 ---
@@ -469,5 +469,16 @@ La plupart de ces idées sont tarées mais je n'y peux rien
   + gestion de timelapses krita et blender
   + ptet opengl pour avoir la même interface sur toutes les plateformes. ou ptet juste qt ou gtk mais pas envie d'un gros exécutable
 - [soft] rguiicons avec animation et import/export braille
+
+§ 2026-07-26
+- [art] navires
+- [art] the terror captain's quarters
+
+§ 2026-07-29
+- [art] le roi et son crâne, à la [ian spriggs scott](https://ianspriggs.com/portfolio/scott) "reverse forensics"
+  + ou plusieurs rois ou premiers ministres
+
+§ 2026-07-30
+- [art] [représentation de la statue de la liberté](https://www.instagram.com/p/CHP0tEwHJXg/) comme pnj
 
 {% include fin.html %}

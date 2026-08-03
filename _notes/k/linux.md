@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-07-09 04:14
+modified_date: 2026-07-27 23:31
 categories: os
 lang: fr
 ---
@@ -10,6 +10,7 @@ lang: fr
 ## Basique mais j'oublie
 - `~` ne s'expanse pas entre guillemets. utilise `$HOME` à la place.
 - `pwd` : chemin actuel
+- `ls -d .*/ */` : ls dossiers uniquement
 - `sudo !!` : lancer la commande précédente avec sudo
 - `time` : avant une commande pour mesurer son temps d'exécution
   + `-v` pour plus d'informations

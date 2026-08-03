@@ -2,7 +2,7 @@
 layout: post
 title: Blender
 date: 2026-05-17 16:39
-modified_date: 2026-07-18 03:28
+modified_date: 2026-08-03 01:50
 categories:
 lang: fr
 ---
@@ -83,5 +83,16 @@ lang: fr
 ## Réfs
 - sam carr blender for illustration 2022
 - moreno character sculpting 2021
+
+## Ressources
+- [fr] [formation-blender.org](https://www.formation-blender.org/)
+  + [shaders graphs](https://www.formation-blender.org/blender2.8/page/rendu/cycles/galerieShader/galerieShader.html)
+- [en] [local-guru.net](https://www.local-guru.net/blog/tag/blender) expériences avec fichiers blend
+- [en] [articles [passivestar](https://passivestar.xyz/)
+  + surtout son [tuto ucupaint](https://passivestar.xyz/posts/texturing-in-blender-with-ucupaint/)
+- [itch.io textures gratuits](https://itch.io/game-assets/free/tag-textures)
+- [thebasemesh.com modèles gratuits](https://www.thebasemesh.com/model-library)
+- [ressources pablander.academy](https://www.pablander.academy/resources) (alphas, matcaps, modèles)
+  + [tutos](https://www.pablander.academy/tutorials) (pas blender)
 
 {% include fin.html %}

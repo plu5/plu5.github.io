@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-07-24 10:43
+modified_date: 2026-08-01 16:25
 categories: lang
 lang: fr
 ---
@@ -1061,5 +1061,16 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-07-24
 - il existe de nombreuses ressources en ligne pour apprendre ce logiciel si la curiosité vous y pousse ([cqa14](https://github.com/cqa14/TutoRaylib/blob/master/docs/exemples/6.md))
+
+§ 2026-07-30
+- la barre des tâches : taskbar
+- la zone de notification : systray
+
+§ 2026-07-31
+- une case de bd : comic panel
+- une planche de bd : page
+
+§ 2026-08-01
+- R roulé, R grasseyé
 
 {% include fin.html %}

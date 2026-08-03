@@ -2,7 +2,7 @@
 layout: post
 title: 25 — Raylib C web fps
 date: 2026-07-10 05:49
-modified_date: 2026-07-26 05:03
+modified_date: 2026-07-26 15:43
 categories: game raylib c emscripten cwebfps
 lang: en
 redirect_from: /devlog/25
@@ -1596,8 +1596,166 @@ If I leave it running for a long time, the ground disappears and velocity len is
 
 Seems like no, and you can also move the mouse without ill effects, but moving even a little with wasd causes this bug. It looks like the velocity goes to inf while it's off-screen and the camera position values get really high, or all become -nan
 
-## fov?
+## fov change when moving?
 I find it annoying that when moving forwards or backwards the fov changes (I think). Or maybe it's just tilting?
+
+In the function `movement`:
+```c
+    if (player.grounded && ((forward != 0) || (side != 0))) {
+        head_timer += delta*3.0f;
+        walk_lerp = Lerp(walk_lerp, 1.0f, 10.0f*delta);
+        camera.fovy = Lerp(camera.fovy, 55.0f, 5.0f*delta);
+    } else {
+        walk_lerp = Lerp(walk_lerp, 0.0f, 10.0f*delta);
+        camera.fovy = Lerp(camera.fovy, 60.0f, 5.0f*delta);
+    }
+```
+Let's try just removing the `camera.fovy` lines from here
+
+and remember to hard refresh or it might give us the previous build
+
+There's still tilt, which could just be the bobbing. It could be desireable, but I'm trying to remove features one by one until being left with the most basic movement, so let's try to remove that too.
+
+The functions to look at are `movement` and `update_camera`. `update_body` doesn't do any leaning or bobbing, it only deals with direction, position, velocity, and jumping.
+
+It's quite hard because there's a lot of logic for leaning and camera angle and I don't know how to decouple it.
+
+The last two lines of `update_camera` are:
+```c
+    camera.position = Vector3Add(camera.position, Vector3Scale(bob, walk_lerp));
+    camera.target = Vector3Add(camera.position, pitch);
+```
+what would happen if I just comment them out? It could be everything would break, but I think not because the camera position is already updated to the player position in `movement`. But that last line in `update_camera` is the only thing that updates `camera.target`, so that one I think is necessary. I'm only going to comment out the line before last, then.
+
+No noticeable difference. Even after hard refresh. There may be a slight difference that I can't really see. The camera is still tilting, both forwards/backwards when you start moving, then gently left and right as you walk.
+
+A little further up in `update_camera`, there is:
+```c
+    // Head animation
+    // Rotate up direction around forward axis
+    float head_sin = sinf(head_timer*PI);
+    float head_cos = cosf(head_timer*PI);
+    const float step_rot = 0.01f;
+    camera.up = Vector3RotateByAxisAngle(up, pitch, head_sin*step_rot + lean.x);
+```
+Let's comment that out.
+
+Blank screen.
+
+Looking at raymath.h, Vector3RotateByAxisAngle rotates a vector around an axis using [Euler-Rodrigues formula](https://en.wikipedia.org/wiki/Euler%E2%80%93Rodrigues_formula). It takes `Vector3 v, Vector3 axis, float angle`.
+
+camera.position (0, 1.5, 0), target (0, 1.5, -1)
+
+If I put back the line:
+
+camera.position (0, 1.5, 0), target (0, 1.5, -1)
+
+Ah wait, it's camera.up that we're concerned with here. Let's add it to the onscreen text.
+```c
+    DrawText(TextFormat
+             ("velocity len (%06.3f) \
+camera.position (%06.3f, %06.3f, %06.3f) \
+camera.target (%06.3f, %06.3f, %06.3f) \
+camera.up (%06.3f, %06.3f, %06.3f)",
+              Vector2Length((Vector2){player.velocity.x, player.velocity.z}),
+              camera.position.x, camera.position.y, camera.position.z,
+              camera.target.x, camera.target.y, camera.target.z,
+              camera.up.x, camera.up.y, camera.up.z),
+             15, 10, 10, BLACK);
+```
+
+With the line in place, it's (0, 1, 0). Without it, it's (0, 0, 0). And we already established earlier in the camera confusions section that the camera breaks when camera.up is a zero vector.
+
+Then let's try adding just:
+```c
+    camera.up = (Vector3){0, 1, 0};
+```
+
+We can see and walk again
+
+Now there is no longer the swaying motion as we walk, and moving side to side there is no tilting at all, like I want, but moving forwards or backwards, there is still a tilt. Despite the fact nothing is modifying camera.up anymore, it is now static at (0, 1, 0).
+
+I think this tilt is in the y coordinate of camera.target. It's normally 1.5, when I walk forwards it goes down to 1.485, and when I walk backwards it goes up to 1.515.
+
+It's probably this in `update_camera`:
+```c
+    // Rotate view vector around right axis
+    float pitch_angle = -look_rot.y - lean.y;
+    // Clamp angle so it doesn't go past straight up or straight down
+    pitch_angle = Clamp(pitch_angle, -PI/2 + 0.0001f, PI/2 - 0.0001f);
+    Vector3 pitch = Vector3RotateByAxisAngle(yaw, right, pitch_angle);
+```
+combined with the last line of `update_camera`:
+```c
+    camera.target = Vector3Add(camera.position, pitch);
+```
+
+We established in camera confusions that camera position and target should never be equal, or the camera breaks. But in his case they are the same other than this 0.015 tilt I'm observing.
+
+If I do:
+```c
+    camera.target = camera.position;
+```
+then as expected, it breaks (blank screen).
+
+I need the target to be the same as position, just a little bit further on in the right direction. I don't know how to do that.
+
+I tried adding position and position for some reason:
+```c
+    camera.target = Vector3Add(camera.position, camera.position);
+```
+The result is weird. Rotating around.
+
+Let's maybe try a scalar?
+```c
+camera.target = Vector3Scale(camera.position, 1.1);
+```
+I don't know what I'm doing
+
+Still rotating around
+
+Wait, we don't actually want them to stay the same, they only stay the same if we don't move the mouse, which I'm not doing bc I'm lazily testing with just the keyboard. We do still need his calculation of the pitch. Just instead of the tilt we need it to be a bit further on in the same direction, without tilt.
+
+[i think the above camera is confused, the camera rotation stuff for the mouse changes position, it's not related to the calculation of target, which uses the same vector as position just with an added tilt]
+
+In the code the only 0.015 value is in the last line of `movement`:
+```c
+    lean.y = Lerp(lean.y, forward*0.015f, 10.0f*delta);
+```
+lean.y is then used to calculate `pitch_angle`, as seen above, then pitch is yaw rotated by that much
+
+It's silly but one way to deal with it is rotate it by a very small value
+```c
+    Vector3 pitch = Vector3RotateByAxisAngle(yaw, right, 0.00001f);
+```
+
+Or just use yaw directly?
+```c
+    Vector3 pitch = yaw;
+```
+
+This works. And if I move around without rotating the camera, position and target are the same value bar -1 on the z axis of target
+
+Initial:
+- pos: (0, 1.5, 0)
+- tar: (0, 1.5, -1)
+
+Moved forwards a bit:
+- pos: (0, 1.5, -2)
+- tar: (0, 1.5, -3)
+
+Moved left a bit:
+- pos: (-2, 1.5, -2)
+- tar: (-2, 1.5, -3)
+
+## Potential cause for velocity inf/-nan
+Hypothesis for velocity inf/-nan bug: maybe it's caused by velocity not being at 0 yet when the tab/window loses focus/visibility?
+
+Maybe not. I make sure it's 0 then come back some time later to find it's -nan
+
+but maybe that's because I accidentally switched to the tab and made some kind of movement input accidentally then quickly switched to another?
+
+No, I can confirm it goes crazy in the background without further inputs whatsoever (so long as, as I said earlier, you made at least one movement input in the window before switching to something else, even if you make sure to wait for it to go down to 0)
 
 TODO
 
