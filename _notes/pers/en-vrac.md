@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-07-30 21:08
+modified_date: 2026-08-09 03:30
 categories: flou
 lang: fr
 ---
@@ -480,5 +480,11 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-07-30
 - [art] [représentation de la statue de la liberté](https://www.instagram.com/p/CHP0tEwHJXg/) comme pnj
+
+§ 2026-08-03
+- [soft] addon blender pour randomiser le matcap
+
+§ 2026-08-08
+- [old] dépôt d'alphas cc0 512x512 fait à partir d'images cc0
 
 {% include fin.html %}

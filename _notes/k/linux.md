@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-07-27 23:31
+modified_date: 2026-08-07 14:41
 categories: os
 lang: fr
 ---
@@ -20,6 +20,7 @@ lang: fr
   <br>(`-h` : human readable. `-d0` : depth 0, pareil à `-s` `--summarize`.)
    + `taille=$(du -kd0 "$nom" | cut -f 1)` : si besoin d'avoir juste un chiffre, par ex. pour un script 
      <br>(`-k` : block size 1K, c-à-d kilobits.)
+   + `du -h <dir> | grep '[0-9\.]\+G'` ([Ben Collins](https://unix.stackexchange.com/a/125433))
 - `swapon --show` : l'état du swap
 - `stat monfichier` : les dates, taille, permissions d'un fichier
 - `file monfichier` : le type d'un fichier
@@ -31,9 +32,11 @@ lang: fr
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)
     <br>les crochets autour de la première caractère permettent d'éviter de trouver le processus du grep aussi (puisque dans le processus grep il va y avoir `[m]onprocessus` qui ne correspond pas au regex).
   + `ps -eo pid,lstart,cmd`
-- `pkill [pid]` : tuer gentillement (par pid)
+- `kill [pid]` : tuer gentillement (par pid)
+  + avec `-9` ou `-KILL` pour le forcer
 - `pkill monprocessus` : tuer gentillement (par nom)
 - `sudo strace -p [pid]` : voir ce que fait un processus
+  + `sudo cat /proc/[pid]/stack`
 - `systemctl status`
 - `systemctl status sshd` : status d'un service particulier (sshd dans ce cas)
 - `systemctl list-units --type=service --user --all` : lister services utilisateur
@@ -43,6 +46,7 @@ lang: fr
 ### Pipes
 - `.. | head -n1` : première ligne
 - `.. | tail -n1` : dernière ligne
+- `.. | wc -l` : compter les lignes
 - `.. | less` : pager (permet de naviguer et chercher la sortie)
   + <kbd>/</kbd> : chercher
 - `.. | awk '{print $1}'` : extraire une donnée dans position 1 quand tu as une ligne de sortie avec des données séparées par espace ou tab (avec plusieurs lignes ça extrait la donnée en position 1 de chacune)

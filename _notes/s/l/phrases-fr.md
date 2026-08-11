@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-08-01 16:25
+modified_date: 2026-08-09 14:31
 categories: lang
 lang: fr
 ---
@@ -1072,5 +1072,23 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-08-01
 - R roulé, R grasseyé
+
+§ 2026-08-04
+- L'infinitif est comme un ordre donné à "on". ([Fred_C](https://forum.wordreference.com/threads/do-not-spray-near-eyes.1289879/))
+- Un flacon doseur ou un flacon pompe ([Locape](https://forum.wordreference.com/threads/spray-bottle.134591/))
+- Prends une tenue de rechange avec toi aussi au cas où le bagage en soute est perdu. ([Mysterious_Sleep8653](https://www.reddit.com/r/AskFrance/comments/1sb76tn/conseils_pour_un_premier_vol_en_avion/oe196ke/))
+- Je dirais qu’ils sont sans gêne plus qu’idiots ([kpouer](https://www.reddit.com/r/AskFrance/comments/1vammmv/la_place_r%C3%A9serv%C3%A9e_dans_les_tgv_cest_%C3%A0_titre/p0mlpu9/))
+
+§ 2026-08-06
+- Je bosse sur Bordeaux, j’ai vu des gens qui viennent de Paris, Poitiers ou Tours en TGV 2 ou 3 jours par semaine. Certains prennent des airbnb mais il y en a qui font les aller-retour tous les jours. ([`Sick_and_destroyed`](https://www.reddit.com/r/AskFrance/comments/1e0lid7/distance_la_plus_d%C3%A9lirante_pour_aller_travailler/lcoj1qo/))
+  + [utilisation de _sur_ au lieu de _à_](https://forum.wordreference.com/threads/fr-sur-dans-%C3%A0-ville-paris-lyon-sydney-etc.9414/)
+- Le plus dur pour moi c'est que la vie a rapidement repris son cours et j'ai mal vécu la sensation que le monde se fichait de sa disparition. ([microry](https://www.reddit.com/r/AskFrance/comments/1hutuha/aux_personnes_qui_ont_perdu_un_parent_quils/m5o8wfh/))
+- Les pensées et plans suicidaires sont souvent associés à un modèle de pensée rigide et étroit pouvant être comparé à une vision tunnellaire et un rétrécissement du champ visuel. La personne suicidaire est temporairement incapable ou peu disposée à adopter un comportement efficace de résolution des problèmes et peut considérer ses options en termes extrêmes de type tout ou rien. ([BEA p40](https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125-LR.pdf))
+
+§ 2026-08-07
+- certains d'entre eux travaillent de nuit ([BEA p46](https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125-LR.pdf))
+
+§ 2026-08-09
+- Obtenez Ghost Recon Future Soldier gratuitement pour une durée limitée ! Dans Ghost Recon Future Soldier, vous intégrez une unité d'élite composée d'agents spéciaux surentraînés. Bardés de technologies militaires d'exception, les Ghosts sont déployés dans les zones les plus dangereuses de la planète pour traquer les criminels les plus recherchés. ([ubisoft](https://register.ubisoft.com/ghost-recon-future-soldier/fr-FR))
 
 {% include fin.html %}

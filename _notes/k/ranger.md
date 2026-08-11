@@ -2,7 +2,7 @@
 layout: post
 title: Notes ranger (gestionnaire de fichiers)
 date: 2026-04-22 21:31
-modified_date: 2026-07-11 15:50
+modified_date: 2026-08-07 05:23
 categories: soft
 lang: fr
 ---
@@ -13,6 +13,7 @@ lang: fr
 - `yp` : copier le chemin (yank path)
 - `Espace` : marquer
 - `d` : supprimer
+- `cw` : renommer
 - `S-j`, `S-k` : pg préc, pg suiv
 
 ## Références
