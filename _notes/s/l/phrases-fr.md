@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-08-09 14:31
+modified_date: 2026-08-23 02:34
 categories: lang
 lang: fr
 ---
@@ -979,6 +979,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-05-28
 - Un mélange énergétique est pour moi autre chose : c'est souvent une barre de céréales avec du sucre de raisin, du chocolat et d'autres produits transformés du même genre, alors que le mélange randonnée que l'on trouve par ici est fait uniquement de fruits séchés et de noix. ([Maître Capello](https://forum.wordreference.com/threads/trail-mix.632587/))
 
+## 2026-06
 § 2026-06-03
 - le montage (the edit), le monteur / la monteuse (the editor), faire le montage d'une vidéo
 
@@ -1029,6 +1030,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - est-ce qu’on peut espérer voir débarquer cette fonctionnalité dont je parle ? ([Vivavie](https://forum.vivaldi.net/topic/78631/gestion-des-tags-pour-les-bookmarks-comme-sous-firefox))
 - Euh, on fait comment pour voter pour une feature ? On met juste un pouce en l’air, comme sous FB ? (^)
 
+## 2026-07
 § 2026-07-01
 - L'incipit met l'eau à la bouche. On se dit alors que la montée en puissance des personnages sera phénoménale et la liberté d'action grisante. J'ai malheureusement vite déchanté. On est sur des rails quasiment toute la partie, les choix n'influent pas sur l'histoire du tout, il y très peu de quêtes annexes et le niveau des personnages bloque à 20. ([Mitraillix](https://steamcommunity.com/profiles/76561198019010022/recommended/1069160))
 - se retenir d'uriner
@@ -1070,6 +1072,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - une case de bd : comic panel
 - une planche de bd : page
 
+## 2026-08
 § 2026-08-01
 - R roulé, R grasseyé
 
@@ -1090,5 +1093,41 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-08-09
 - Obtenez Ghost Recon Future Soldier gratuitement pour une durée limitée ! Dans Ghost Recon Future Soldier, vous intégrez une unité d'élite composée d'agents spéciaux surentraînés. Bardés de technologies militaires d'exception, les Ghosts sont déployés dans les zones les plus dangereuses de la planète pour traquer les criminels les plus recherchés. ([ubisoft](https://register.ubisoft.com/ghost-recon-future-soldier/fr-FR))
+
+§ 2026-08-13
+- external media : supports externes / supports amovibles / périphériques de stockage externes / périphériques amovibles
+
+§ 2026-08-17
+- Je bute sur les mots. Je peine à trouver mes mots / J'ai du mal à trouver mes mots. ([Maped40](https://forum.wordreference.com/threads/i-stumble-trip-over-my-words.2356232/))
+- parler entre ses dents (^ Pirwet)
+- je cherchais il y a peu une manière de traduire l'idée d'une bouillie sonore/auditive mais n'ai pas trouvé de formulation intéressante. Le contexte était celui d'un amplificateur audio ayant un problème de distorsion lorsque le volume est trop élevé, rendant l'ensemble brouillon, telle une bouillie. ([StraightDown](https://forum.wordreference.com/threads/bouillie-sonore-amplificateur-audio.3891982/))
+- Oui, moi aussi j'en mange et je n'ai pas trop de mal à en trouver. Toutefois beaucoup de Français ne connaissent pas ce plat. J'ai déjà essayé de parler de "porridge" ou de "gruau" autour de moi, peu de gens comprennent. Parfois ils savent que le porridge est quelque chose que les Anglais mangent au petit-déjeuner, mais ils ont bien du mal à voir de quoi il s'agit. De ce point de vue, "bouillie d'avoine" a au moins le mérite d'être compris de tous. ([silk67](https://forum.wordreference.com/threads/porridge-bouillie-gruau.3597698/))
+- Le salut à trois doigts est réalisé avec le pouce, l'index et le majeur tendus et les autres doigts pliés. [..] Avec index, majeur et annulaire : le salut scout, utilisé dans la série Hunger Games puis devenu le salut à trois doigts (pro-démocratie) en Asie ; avec majeur, annulaire et auriculaire : geste du OK. ([frwik](https://fr.wikipedia.org/wiki/Salut_%C3%A0_trois_doigts))
+
+§ 2026-08-18
+- les erreurs ou les réussites du passé vous ont servi de leçon
+- Elles s'investissent la premiere fois, la deuxieme fois mais au bout de 10 ans, je comprends que ça doit être lassant. ([skikinoune](https://www.infirmiers.com/forum/des-difficultes-stage-t147900-30.html))
+
+§ 2026-08-19
+- Je vois bien que les deux sont des déjections liquides, mais la vraie différence, c'est quoi ? Et "fumier" se trouverait où dans ce monde terminologique ? ([SAIP0](https://forum.wordreference.com/threads/lisier-purin-fumier.2680015/))
+- En plus je portais la poisse aux patients. ([Bec](https://www.infirmiers.com/forum/des-difficultes-stage-t147900-45.html))
+- La première fois on m'a demandé si mes parents ne m'avaient pas obligée à devenir infirmière :choque: La seconde fois, j'étais en cancéro et je me suis rendue compte que je n'arrivais pas à prendre le dessus sur mes émotions (beaucoup de choses personnelles dont je n'avais pas fait le deuil sont remontées violemment à la surface). J'en ai discuté avec les infirmières qui m'encadraient, et elles n'en n'ont absolument pas tenu compte, ça a été un véritable calvaire. ([Lafleurdedemon](https://www.infirmiers.com/forum/des-difficultes-stage-t147900-105.html))
+- les stages comme ça faut encaisser. ([Nephilim](https://www.infirmiers.com/forum/des-difficultes-stage-t147900-165.html))
+- il faut apprendre à prendre des initiatives de façon autonome (dans la limite de la prise de risque pour le patient bien sûr) et à assumer les éventuelles bêtises et engueulades, c'est ça devenir responsable ([yuyu7](https://www.infirmiers.com/forum/des-difficultes-stage-t147900-210.html))
+
+§ 2026-08-20
+- que chaque chef de poste prenne le temps de le faire avec son équipe de manière régulière, et de dire : comment tu te sens ? est-ce que tu te sens à l'aise dans l'exercice de ton travail ? est-ce que tu as rencontré des situations qui t'ont heurté ? ([Alice Girard 48m](https://videos.assemblee-nationale.fr/video.15801678_6735b3250fde7.violences-commises-dans-les-secteurs-artistiques-et-mediatiques--auditions-diverses-14-novembre-2024))
+- oui parce qu'en fait le micro déclenche la caméra et donc on avait un siège vide ce qui est quand même très dommage compte tenu de la qualité de votre question monsieur mazars (^ Sandrine Rousseau 1h15)
+
+§ 2026-08-21
+- Ça devait être une parenthèse de quelques jours, mais elle s'est étalée sur presque deux mois.
+- ça s'est prolongé, semaine après semaine
+- dépassement de la durée prévue
+- ça devait être court et c'est devenu interminable
+- si vous aviez 22 ans aujourd'hui, est-ce que vous vous lanceriez dans un doctorat de mathématiques ? perso, je pense que ce serait non, mais il faudrait faire une évaluation comparative des débouchés potentiels pour un étudiant ayant un master 1 de maths. ([parisse](https://les-mathematiques.net/vanilla/discussion/2342713/terence-tao-evolution-de-la-recherche-en-maths-avec-les-ia))
+- C'est surtout en cela que les humains ne peuvent pas rivaliser, nous sommes beaucoup trop lents et avons des impératifs biologiques ou sociaux qui limitent le temps qu'on peut consacrer aux maths. (^ Silvain)
+
+§ 2026-08-22
+- être sur la défensive
 
 {% include fin.html %}

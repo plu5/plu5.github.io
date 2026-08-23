@@ -2,7 +2,7 @@
 layout: post
 title: Référence de symboles
 date: 2026-05-01 22:06
-modified_date: 2026-05-08 08:08
+modified_date: 2026-08-22 02:13
 categories: maths
 lang: fr
 ---
@@ -28,16 +28,20 @@ lang: fr
   + xcompose : { ^
 - ∪ : union
   + xcompose : { U
+- ∖ : différence d'ensembles
+- ∁ : complément
 - {x} : singleton x
   + { } désigne un ensemble ; un seul élément dedans signifie un ensemble d'un seul élément
   + l'ensemble dont l'unique élément est x
 - {x ∈ ℝ | x > 0} : l'ensemble des x dans ℝ tels que x > 0
-- ∈ : est un élément de
+- ∈ : appartient à / est un élément de
   + xcompose : i n
-- ∉ : n'est pas un élément de
+- ∉ : n'appartient pas à / n'est pas un élément de
   + xcompose : ! i n
 - ∅ : ensemble vide
   + xcompose : 0 /
+- ⊂ : sous-ensemble
+  + xcompose : { (
 - x' : x prime
   + (autre variable/objet lié à x)
   + prononcé comme en anglais
@@ -55,6 +59,8 @@ lang: fr
 - ⌈ ⌉ : ceil (partie entière supérieure)
 - ∑ : somme
   + xcompose : compose×2 s u m
+- ¬ : non (not, négation)
+  + xcompose : - ,
 
 ## Réfs
 - [Wikipédia: Table de symboles mathématiques](https://fr.wikipedia.org/wiki/Table_de_symboles_math%C3%A9matiques)

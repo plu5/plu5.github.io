@@ -2,7 +2,7 @@
 layout: post
 title:  "retype"
 date:   2026-01-21 03:05
-modified_date: 2026-06-05 08:18
+modified_date: 2026-08-11 16:59
 categories: projet
 lang: fr
 ---
@@ -114,5 +114,8 @@ lang: fr
   + non car conflit avec next/prev word non ? sauf que ça ne marcherait que si BookView est en focus... ce qui n'est quasiment jamais le cas car on tape dans la console. on devrait faire en sorte que les raccourcis BookView marchent dans la console alors ? en fait c'est déjà le cas pour certains raccourcis (C-l, C-n, ...)
   + PgUp PgDown, et avec ctrl pour déplacer le curseur
   + 2026-05-28 implementé
+
+§ 2026-08-11
+- menu add : local file, web page, interlacer
 
 {% include fin.html %}

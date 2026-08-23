@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-08-07 14:41
+modified_date: 2026-08-15 15:58
 categories: os
 lang: fr
 ---
@@ -183,6 +183,7 @@ Dans un script, il faudrait soit supprimer le fichier, soit le nommer différemm
   + [POSIX] ``eval set -- `awk 'BEGIN{for(i=1;i<'$#';i++) printf " \"$%d\"",i;}'` ``, puis `$@` va avoir tous les arguments sauf le dernier ([Anders](https://stackoverflow.com/a/54271792/18396947))
 
 ### Boucles
+- POSIX : `for arg in "$@"; do echo $arg; done`
 - Bash : `for ((i=0; i<10; i++)); do echo $i; done`  
   POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
 
@@ -270,6 +271,30 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - désactiver : xset -dpms
 - éteindre écran : xset dpms force off
 
+## Disques
+- lister :
+  + lsblk
+  + lsblk -o NAME,MODEL,SERIAL,TRAN,SIZE,MOUNTPOINTS
+- surveiller :
+  + sudo dmesg
+  + udisksctl status
+  + udisksctl monitor
+  + sudo busctl monitor org.freedesktop.UDisks2
+  + dbus-monitor --system "interface='org.freedesktop.UDisks2'"
+- udisksctl mount -b /dev/sdXN
+- udisksctl unmount -b /dev/sdXN
+- udisksctl power-off -b /dev/sdX
+- ou caja eject
+
+rappel :
+- le disque ne doit pas être déplacé tant que connecté à l'alim ; non seulement à l'ordi, à l'alim ! avant tout déplacement, unmount tout (vérification avec lsblk mountpoints), power-off, vérification disque s'est arrêté, déconnection alim / mettre sur off, puis retirer le câble à l'ordi.
+- éventuellement `sudo sg_sync` de `sg3_utils` après unmount et avant power-off
+
+incertain :
+- hdparm -y
+- réglage particulier préconisé pour les disques western digital green sous linux (cf [hdparm section 3.6](https://wiki.archlinux.org/title/Hdparm_(Fran%C3%A7ais)))
+- après plantage / coupure, une vérification d'erreurs du système de fichiers (filesystem errors) est automatiquement effectuée pour les disques internes. comment faire pareil pour les périphériques de stockage externes ? (fsck ? sans monter)
+
 ## Wacom
 - stylus=$(xsetwacom list devices | awk '/stylus/{print $8}')
 - xsetwacom set "$stylus" Mode Relative
@@ -290,6 +315,11 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
   ```bash
   alias lshorodatage='shopt -s dotglob && stat * --format "%.16w %.16y %n" | sort -n'
   ```
+
+## ffmpeg
+- ajouter des chapitres à une vidéo existante sans réencondage : `ffmpeg -i in.mp4 -f ffmetadata -i chapters.txt -map 0 -map_metadata 1 -map_chapters 1 -c copy out.mp4`
+- vérifier chapitres : `ffprobe -v error -show_chapters -of json out.mp4`
+- sans chapters.txt : `<(commandepourgenererleschapitres)` ou `-` et passer le ffmetadata via stdin
 
 ## Termes
 - PAM : [Linux Pluggable Authentication Modules](https://wiki.archlinux.org/title/PAM). En dehors de Linux c'est un terme plus général qui veut dire gestion des accès privilégiés (Privileged Access Management)
