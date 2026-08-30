@@ -2,7 +2,7 @@
 layout: post
 title: Ensembles
 date: 2026-05-03 02:51
-modified_date: 2026-08-22 22:42
+modified_date: 2026-08-26 04:01
 categories:
 lang: fr
 ---
@@ -54,6 +54,16 @@ deux ensembles qui ont les mêmes éléments sont égaux.
   + différence
   + lorsque F ⊂ E, l'ensemble E ∖ F est appelé complémentaire de F dans E et noté ∁_EF
     - (E contient tous les éléments de F, et E ∖ F est E sans les éléments de F)
+    - pour faire simple, je vais noter le complément par la suite sans le subscript : ∁EF
+- si F et G désignent des parties de l'ensemble E,
+  + E ∩ F = F ∩ E = F  (E est neutre pour l'intersection)
+  + E ∪ F = F ∪ E = E  (E est absorbant pour la réunion)
+  + ∁E(∁EF) = F  (involuité du passage au complémentaire)
+    - découle de l'équivalence Ɐx∈E, x∉F ⇔ x∈∁EF.
+  + ∁E(F∪G) = (∁EF)∩(∁EG)  (le passage au complémentaire est un morphisme ∪→∩)
+  + ∁E(F∩G) = (∁EF)∪(∁EG)  (le passage au complémentaire est un morphisme ∩→∪)
+    - lois de morgan
+    - démontrables par des règles logiques : !(P&&Q) = !P||!Q. !(P||Q) = !P&&!Q. appliqués à P ≔ x∈F et Q ≔ x∈G.
 ## Réfs
 - _Mathématiques Tout-en-un pour la Licence 1_ 4e 2022
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-08-23 02:34
+modified_date: 2026-08-29 17:05
 categories: lang
 lang: fr
 ---
@@ -1129,5 +1129,27 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-08-22
 - être sur la défensive
+
+§ 2026-08-23
+- n'hésitez pas à nous donner--c'est ma conclusion pour cette question--des propositions d'angles morts législatifs que vous voyez, pour ne pas nous refaire après le reproche de ne pas avoir fait, voilà. de ne pas avoir évolué dans les évolutions nécessaires. ([Erwan Balanant 1h55](https://www.youtube.com/watch?v=MthLd7NHzYQ))
+- on voit que réalisateur c'est aussi un métier de la gestion de la frustration. frustration parce que la cascade qu'on avait prévue dans la scénario n'est pas possible parce qu'il fait mauvais et que le plan de tournage permettra pas de le faire, frustration parce que le comédien ou la comédienne n'est pas exactement comme on aurait imaginé qu'il soit en termes de prestation et en termes de jour de forme [?] ([Erwan Balanant 47m](https://www.youtube.com/watch?v=7jJwy3PIEYg))
+- merci d'avoir été présent et présentes, merci pour vos paroles. nous reviendrons vers vous évidemment au moment de la sortie du rapport qui devrait avoir lieu en avril, et j'imagine qu'il y aura une restitution auprès des personnes qui sont venues témoigner, donc vous serez sans doute appelé à ce moment-là. (Sandrine Rousseau 1h12 ^)
+
+§ 2026-08-24
+- vous avez allègrement répondu aux questions sans trop prendre le temps de réfléchir. ([becel](https://forum.wordreference.com/threads/all%C3%A9grement.2187945/))
+- Si je n'ai jamais reconnu un enfant, je le nie comme mon enfant, je l'ai toujours nié, j'ai toujours nié en être le père et je persiste. Même chose si je nie ma signature : j'ai toujours dit qu'elle était un faux ou qu'elle avait été extorquée. Si j'ai d'abord reconnu mon enfant et qu'un jour je ne le reconnaisse plus, je le renie. Le préfixe re- s'explique je pense par la remise en cause de ce qui était acquis, par un retour à la case départ qui prétend effacer tout ce qui s'était passé jusqu'alors. Même chose si je renie ma signature : je l'avais d'abord honorée - assumée, reconnue -, et tout-à-coup je me ravise. Dans le dictionnaire, _contre toute vérité_ veut dire encore contre toute évidence ou contre toute raison. En effet, même si je n'ai jamais reconnu un enfant mais que tout ou tout le monde crie que j'en suis le père, on considère que cela revient au même que de le renier. Il y a le plus souvent une notion de déni de la réalité ou de la vérité dans renier, et par là une notion de déraison, d'irresponsabilité, de lâcheté, de trahison, de fuite, d'infidélité, de mauvaise foi. ([Logospreference-1](https://forum.wordreference.com/threads/renier.3107736/))
+- le site de l'accident est localisé en montagne, sur la commune de prads-haute-bléone (04) à 1 550 m d'altitude. l'épave s'est fragmentée en de nombreux débris répartis sur une surface de 4 hectaires dans une ravine rocheuse en pente. le plus gros éléments de l'avion mesurent environ 3 à 4 m de long. ([BEA D-AIPX rapport préliminaire p24](https://bea.aero/uploads/tx_elydbrapports/d-px150324.pdf))
+
+§ 2026-08-27
+- On appelle une personne qui vit à Mayotte un Mahorais
+- au grand désarroi de, à mon grand désarroi
+
+§ 2026-08-28
+- Lorsque les garçons muent, un cursus spécial leur est prop osé afin qu'ils continuent et complètent leur formation au sein de la Maîtrise. [..] Les garçons ayant mué ne peuvent pas se présenter au concours. ([frwik](https://fr.wikipedia.org/wiki/Ma%C3%AEtrise_de_Radio_France))
+- son avocat est très procédurier et tente d’obtenir la nullité de plusieurs actes de la procédure, ce qui entraîne des lenteurs ([leparisien](https://archive.is/aOxuN))
+
+§ 2026-08-29
+- Ce n'est pas du tout comme cela qu'il faut voir les choses, car Md Veil ne porte aucune responsabilité particulière, c'est la société toute entière qui définit ses normes, et pas une personne donnée, fut elle cheffe de Radio France. La société, par ses productions artistiques, sa vie sociale, ses mœurs, ses traditions, etc, porte cette responsabilité et personne d'autre. Mais le fait qu'on recherche des responsabilités ou des personnes d'autorités, pour pallier ~~à~~ un manque de norme venant du social, c'est le fait de ce que Durkheim nomme l'anomie, a-nomos, l'absence de norme, le délitement de la société. ([laurenth7187](https://www.youtube.com/watch?v=XsJQH5mrL5Q))
+  + "pallier à un manque" [faute courante](https://forum.wordreference.com/threads/pallier-%C3%A0-un-manque.1351024/), c'est censé être "pallier un manque"
 
 {% include fin.html %}

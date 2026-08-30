@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-08-15 15:58
+modified_date: 2026-08-30 04:21
 categories: os
 lang: fr
 ---
@@ -315,6 +315,13 @@ incertain :
   ```bash
   alias lshorodatage='shopt -s dotglob && stat * --format "%.16w %.16y %n" | sort -n'
   ```
+- Partager le dossier courant sur le réseau local :
+  python -m http.server
+
+## 7z
+- 7z x fichier -odossier
+  + sans espace entre le `-o` et le chemin vers lequel extraire
+  + ça marche même si le dossier n'existe pas
 
 ## ffmpeg
 - ajouter des chapitres à une vidéo existante sans réencondage : `ffmpeg -i in.mp4 -f ffmetadata -i chapters.txt -map 0 -map_metadata 1 -map_chapters 1 -c copy out.mp4`

@@ -2,11 +2,10 @@
 layout: post
 title: 27 — retype advance chapter crash investigation
 date: 2026-08-15 17:47
-modified_date: 2026-08-23 04:24
+modified_date: 2026-08-27 07:32
 categories: retype debugging python
 lang: en
 redirect_from: /devlog/27
-wip: true
 ---
 
 ## What
@@ -513,10 +512,154 @@ I'm actually mocking the console also and the mock's clear function does nothing
 
 We need a test that uses the real console. I'm sure there was a reason why I did it this way, and that I'm about to enter into a world of pain again.
 
+## Test with the real console
 Or not. I just tried the same setup except the real console instead of FakeConsole with no ill effects. It's unclear why I mocked it in the first place. All the existing tests pass. It's supposed to be a unit test though and it could still be that something is subtly broken that would make these tests not fail as expected when they should, so I will leave it as is and put my highlighting+console tests in a separate file, `tests/test_highlighting_plus_console.py`.
 
 With the same `test_ends_with_empty_line` as before, now with the real console, the result is the same, the last assert doesn't pass, and nextChapter never gets called. I still have a fake BookView and a fake book, and in this fake book there is only one chapter, so it could be that which is preventing it from being called.
 
-TODO
+onLastChapter returns False though, because my mock is hard-coded to give that
+
+It seems to not skip the last line that's "empty". After having typed the first line, `v.line_pos` remains 1 and `v.current_line` remains `"\ufffc \n"` by the time we do the assertion.
+
+Is it because rdict isn't the same, so it doesn't consider `\ufffc` as "effectively space"?
+
+Yeah, it's BookView that's supposed to handle that and I'm using a mock that doesn't.
+
+Since the theory is the issue will happen irrespective of the character `\ufffc` in particular, let's change this to just `"  \n"`.
+
+It just gets rid of my spaces and sees only `"\n"`. Maybe if I put it in a pre instead of a span.
+
+No, that causes it to add an extra line with just `\n`.
+```python
+        def test_ends_with_empty_line(self):
+            SAMPLE = '''<html><body>ends with an empty line<br/>
+    <pre>  \n</pre></body></html>'''
+            (console, v, service, cursor) = _setup(SAMPLE)
+    
+>           assert len(v.tobetyped_list) == 2
+E           AssertionError: assert 3 == 2
+E            +  where 3 = len(['ends with an empty line\n', '\n', '  \n'])
+E            +    where ['ends with an empty line\n', '\n', '  \n'] = <tests.test_highlighting_plus_console.FakeBookView object at 0x7f40b21ef140>.tobetyped_list
+```
+
+Also `\ufffc` is hard-coded in space.py as "garbage character", it's not dependent on rdict, so I don't think this will help.
+[I was blind and wrong, it's in rdict too]
+
+Since I've never written a test before where chapter pos advances, let's try to make it happen by whatever way first, empty line or not.
+
+- With a single line, nextChapter does get called.
+- Same with two lines, after we type both of them.
+- If the first line is empty, it doesn't advance automatically unless I do `console.setText("")` first. That is abnormal because in the real retype we do expect it to advance automatically.
+- If there are empty lines sandwiched between non-empty lines, they do get skipped automatically.
+- If there is an empty line in the end, it does get skipped automatically, and chapter pos does advance. And there's no infinite recursion or anything.
+- If there is `\ufffc` in the "empty" line, it doesn't get skipped automatically (no matter its position. `console.setText("\ufffc")` does work to get past it, `console.setText(" ")` doesn't).
+
+This is bad. I feel like I'm back to square zero because my theory for what causes the infinite recursion doesn't seem to happen, why `\ufffc` isn't considered "space" in this test is probably an unrelated rabbit hole, and I feel pressured to push out a fix because this is a serious bug.
+
+The reason `\ufffc` isn't skipped is simply because `nrspacerstrip` on it doesn't strip it. The functions in space.py are confusing and not documented. I thought "garbage characters" are considered space by `nrspacerstrip`, but it actually only strips space and "effectively space" characters, and `\ufffc` isn't one of them. It's `nrspacerstrip` that is used when deciding whether to advance:
+```python
+    def _maybeAdvance(self, v, text, require_enter=False):
+        # type: (HighlightingService, BookView, str, bool) -> None
+        # Next line / chapter, skipping trailing spaces if present
+        if text == v.current_line or text == nrspacerstrip(v.current_line):
+            if require_enter and endsinn(v.current_line):
+                return
+            self.advanceLine()
+```
+
+Separately, BookView uses `isspaceorempty` to decide whether to skip an "empty" line or chapter, which can skip "garbage" characters too, but by default doesn't:
+```python
+# Characters that are effectively space but not detected by isspace
+effectively_space = ['\ufeff', '\u180e', '\u200b', '\u000a']
+
+
+# Characters I hate and want to ignore even though they are not really space
+garbage_characters = ['\ufffc']
+
+
+def isspace(s, orgarbage=False):
+    # type: (str | UserString, bool) -> bool
+    """
+    Extension of str.isspace that also checks for other unicode characters that
+    are effectively space.
+    """
+    if s.isspace():
+        return True
+    extra_characters = effectively_space + garbage_characters if orgarbage\
+        else effectively_space
+    for char in s:
+        if not char.isspace() and char not in extra_characters:
+            return False
+    return True
+
+
+def isspaceorempty(s, orgarbage=False):
+    # type: (str | UserString, bool) -> bool
+    if isspace(s, orgarbage) or s == '':
+        return True
+    return False
+```
+and BookView doesn't pass True to it.
+
+This is weird because we did see it getting skipped, and for example when, as often happens, a book starts with a page with just a cover image, that "chapter" gets skipped so that you start immediately at the first thing there is to type. How does that happen then, are there not `\ufffc` standing in for that image? Or is it in rdict after all?
+
+Argh
+```json
+    "rdict": {
+        "\ufffc": [" "],
+```
+
+## Test with the real console and manifold
+Let's rename `test_highlighting_plus_console.py` to `test_highlighting_plus_console_plus_manifold.py`. Yes, it's important to be clear to avoid such confusions in future. Then in my mock's `_setLine` function, instead of `self.current_line = self.tobetyped_list[pos]`, I'll copy the logic from the real BookView `_setLine`:
+```python
+    def _setLine(self, pos):
+        if self.tobetyped_list:
+            if self.line_pos is not None and \
+               self.line_pos > len(self.tobetyped_list):
+                return logger.warning("line_pos out of range")
+            if self.rdict:
+                self.current_line = ManifoldStr(
+                    self.tobetyped_list[pos],
+                    self.rdict)  # type: str | ManifoldStr
+            else:
+                self.current_line = self.tobetyped_list[pos]
+
+            if isspaceorempty(self.current_line):
+                logger.debug("Skipping empty line")
+                self.advanceLine()
+        else:
+            logger.error("Bad tobetyped_list; {}".format(self.tobetyped_list))
+```
+and will set the mock's `self.rdict` to the default rdict, and add `advanceLine`.
+
+and now yes, I finally have a test that reproduces the bug! `\ufffc` on its own or on the last line causes maximum recursion depth exceeded, with a stack similar to what we saw in the beginning of this devlog.
+
+It also happens with space or any other character(s) that is ignored/considered equivalent to space, like `\r`, `\ufeff`, `\u180e`, `\u200b`, `\u000a`.
+
+## Clear without textChanged signal firing
+We could add a method to console called `clearWithoutNotify` for clearing the console without triggering textChanged. This could be achieved with [QObject.blockSignals](https://doc.qt.io/archives/qt-5.15/qobject.html#blockSignals), or better yet, [QSignalBlocker](https://stackoverflow.com/questions/60384734/how-to-use-qsignalblocker-in-python), which can be used like a context manager.
+```python
+    def clearWithoutNotify(self):
+        # type: (Console) -> None
+        with QSignalBlocker(self):
+            self.clear()
+```
+The textChanged signal is not on Console itself but rather a class it inherits, but this still works.
+
+Do we even want clear to ever provoke signals? Should we not instead make `clear` block them always?
+
+No. (1) it's better to be explicit, and (2) I think there are still situations where highlighting does need to update after clear, for example when calling `gotoCursorPosition`.
+
+The only thing left to do is to change the `clear` call in HighlightingService's `advanceLine` to `clearWithoutNotify`, and the problem is solved.
+
+I looked at the `clear` calls in BookView (one in `gotoCursorPosition`, and one in `setChapter`), and I don't think they need to be changed to not notify.
+
+## pytest -s
+One last confusion, the tests "silently" crashing. This is due to the lack of the new `clearWithoutNotify` in the `FakeConsole` of the old highlighting service test. I expected to see the traceback, but one has to run with `-s` to see it.
+
+Looks like I already noted that in my [project notes](/notes/pers/proj/retype).
+
+## retype 1.7.2
+The fix will be in the next release, 1.7.2. I was going to release it today, but while testing a build I noticed another bug, this time with certain library paths. I will work on that in the [next devlog](/devlog/28).
 
 {% include fin.html %}

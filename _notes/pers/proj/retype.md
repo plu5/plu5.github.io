@@ -2,7 +2,7 @@
 layout: post
 title:  "retype"
 date:   2026-01-21 03:05
-modified_date: 2026-08-11 16:59
+modified_date: 2026-08-27 06:47
 categories: projet
 lang: fr
 ---
@@ -12,7 +12,7 @@ lang: fr
 ## Notes
 ### Avant une release
 - tests automatiques
-  + `pytest -s`. `-s` laisse voir stdout et traceback
+  + `pytest -s`. `-s` permet de voir stdout et traceback
 - **changer bien la version**
   + (bump version file)
 - vérification manuelle :
