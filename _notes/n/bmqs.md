@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-07-26 03:36
+modified_date: 2026-09-03 17:13
 categories: ukpol
 lang: en
 ---
@@ -2380,5 +2380,103 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: no questions
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 i usually get downvoted when it's busy. this time getting downvoted though it's not. ukpol mostly talking about argentina (falklands banner at semi-finals), disappointment at burnham already due to who is reportedly going to be in the cabinet (mahmood chancellor, whom the left dislike), and a bit about starmer departure / last pmqs yesterday.
+
+## 2026-09-03
+11:48 hoyle: we now come to business questions, but can i say, the reshuffle has left the old guard, the old team, so let us start off with shadow leader of the house, jesse norman
+
+health, civil aviation, social housing, conference recess 15 sept - 12 oct
+
+norman:
+- the past few weeks have brought news of the deaths of dolly parton, tim curry, and wendell berry. i'm sure many colleagues will share my sense of shock and sadness at the loss of these extraordinary figures, but also great thanks.
+- Truly we live in a world of change. Rather unexpectedly, a new Government, a new Prime Minister, and a reshuffle on the Treasury Bench and among the Opposition. But amid all this risk and uncertainty, I am delighted to say that there has been one beacon of stability, Mr Speaker, one oasis of calm, one single unmoving axle at the still centre of our politics. I refer of course to the Leader of the House and myself. Each of us has emerged, phoenix-like, blinking but resolute, from the ashes of political reconstruction. I rather fear that given our longevity and at least the level of banter on the other side of the Despatch Box, we will be seen over time as the Morecambe and Wise, or perhaps the Two Ronnies. I won't invite the House to say which of us is which, but i will simply say to you, Mr Speaker, and to all members returning from recess, it's hello from me, and it's hello from him.
+  + [it's times like these i ask what am i doing with my life, because i am tired of the westminster cheap and obvious humour, and i don't know how they are laughing and not tired too at this point]
+  + [i guess hoyle ruined the joke because he mentioned it himself so it was incredibly obvious what was coming]
+- now to more serious matters, I invite the Leader to clarify where the Government stands on defence spending, given the different briefings and the public challenges that the Government and the Prime Minister have received over the last two weeks. but i also have two specific questions:
+- 11:51 the first is on restoration and renewal. The Government's had since February to table a motion on this topic. In view of the new Prime Minister's spending priorities, it now seems highly unlikely that the ruinously expensive current plans will be put to this House before the end of this year. Seven months have already passed with no action. Will the Government now recognise the delay and use it to give the R&R team time to develop a sane and far less costly alternative?
+- My second question is about an issue at the very heart of the new Government: the status and functions of No 10 North. As this House knows well, in our system of government, the Prime Minister may have political power, but No 10 is not a spending department, and it does not possess independent fiscal authority. Yet this new Prime Minister has insisted again and again that No 10 North will not just be a paper exercise. You see the difficulty, Mr Speaker? Will No 10 North have real spending powers of its own? If the answer is yes, then this will be a new kind of cross-departmental ministry, perhaps a territorial ministry, like a regional government, but with no defined scope or mandate. We will need to see the legal instruments delegating Treasury authority and functions to it. After all, in this scenario the Chancellor of the Exchequer will not be fully in charge of the public finances. We will have to have new forms of accountability in this House, with the No 10 North Select Committee and questions, so that Members can press the First Secretary of State, or perhaps the Prime Minister as the ultimately responsible Minister, should the spending decisions No 10 North take turn out as they plan, or indeed, as they do not plan. But if the answer is no, and No 10 North will not have spending power of its own, then ultimately the Treasury and the Chancellor will continue to sign off on its public spending, and indeed on any taxing matters. Decentralisation is really important, but No 10 North will not be a means of decentralisation in this scenario, it will be just another layer of government. It doesn't feel like the Government has thought this issue through at all, so I'd be very grateful for answers to these questions, both now from the Leader of the House and in writing from the First Secretary of State.
+
+campbell:
+- 11:53 let me begin by saying that i'm sure the thoughts of the whole house are with the people of nepal and all those affected by the recent devastating flash floods, including the loved ones of 36 missing british nationals. as the prime minister said to the house on tuesday, we will do everything we can to support british nationals impacted in the region, and are working closely with the nepalese authorities.
+- this summer has seen a significant number of wildfires
+- tribute to farmers protecting their livelihoods and communities
+- tribute to two police officers who have lost their lives
+- and as the shadow leader has said, we've lost a great number of great people from across the world, not least in sports and entertainment, billy boston, mr speaker, who[m] i know you were a great admirer of, one of the greatest and most popular rugby league players of all times. kevin keegan, a football legend who played for liverpool, newcastle, and england, and went on to manage the national side. but also as the shadow leader has said, pay tribute to dolly parton. beyond her legacy as the queen of country music, she will also be remembered through the work of her imagination library, which has provided 7 million books to children here in the uk and helped children across the world discover a love of reading.
+- mr speaker, earlier this week the house heard from the new prime minister. his administration will oversee the rewiring of the british state--and i'll get on to the specifics of what the right hon. gentleman raised in a moment--but also rebuilding the resilience of our communities, and tackling the reindustrialisation of our regions. and later this year, our ten-year plan for britain will set out plans for stronger public control over these essentials, making them work for people and places once again.
+- I'm pleased, Mr Speaker, as you are, that the Shadow Leader has survived the reshuffle, and I welcome him back to his place. He was very generous in his offer to run my campaign to continue in my role, which was a very successful campaign on his part. I have to say, I was very ready to reciprocate, but that proved unnecessary. I am genuinely pleased-- I'm not sure I'm genuinely pleased with the way that we were described, but I'm genuinely pleased that he's remained in his post, because we do have our political differences, which is an obvious thing to say, but we do have a shared deep respect for this place, and I look forward to working with him going forwards. I'm not sure about his suggestion that we're either Morecambe and Wise or the Two Ronnies. I think that he flatters himself about his sense of humour in that case. but it's uh, we shall see, mr speaker, as we go on.
+- he talks about defence spending, there is no confusion, as he seems to suggest, about defence spending. The Prime Minister set out clearly what our position is, and of course we'll have a budget in the not too distant future, which will set out clearly what those proposals are. The Prime Minister faced this House on Tuesday for 3 hours and 20 minutes, and then came back to do Prime Minister's questions yesterday, so there was no shortage of an opportunity for the Opposition to find out exactly what this Government is going to do.
+- in terms of r&r, he knows, because we talked about this before. Of course there was a set of proposals put forward, and we have thought deeply about when is the best time to bring forward those proposals. I don't think he should assume, Mr Speaker, that he will have to wait that much longer for this House to be given the opportunity to make a decision. I agree with him on one thing, which is that this decision has been delayed for too long, and as a result there are costs to that delay which we're paying, whether or not the House decides to do something in the long-term about it or not. But I don't agree with him that the answer is another delay, that we go back and have another look at this again; we've been round that track so many times, that it explains why we've actually got to this particular place. And while I'm on that subject, Mr Speaker, it's very odd where a member of the Shadow Cabinet leaves in order to run for office and begin his support for London and criticise this side of the House, when that side of the House as far as I understand are actually whipped against the restoration of this place, which is an iconic building--_the_ iconic building, actually--in London, it's part of UNESCO World Heritage Sites, its work[?] is long overdue, it will create not only jobs and opportunities in London, but throughout the regions of our country. So the Opposition can't have it both ways.
+- 11:59 In terms of No 10 North, it's really important, Mr Speaker, that as the Prime Minister has said, that we pursue--in fact, go further--on the devolution agenda, and setting up No 10 North is--will be--the biggest transfer of power in decision-making out of Whitehall in a generation. But I can assure you that the Chancellor of the Exchequer will be in charge of the nation's finances, and he will set out, as I've said, his proposals on that. But having said that, it's important that we get decisions made closer to where those affected will feel that. But what I would say is I have some agreement with him on the point that he makes about scrutiny about this House, because I think there is an issue around for example how mayors are scrutinised, actually. But I think as power is transferred away, and as decision-making is transferred, it does raise the issue of how this House will continue to be able to scrutinise that, and I'll take that away and think about it more.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answered**
+
+[Happened at 11:48](https://parliamentlive.tv/event/index/9c568e17-a1d6-4538-ba26-f5338bb1b787?in=11:48:11). [Hansard](https://hansard.parliament.uk/commons/2026-09-03/debates/E0938342-E3ED-44D9-A0E1-41145A35CEF2/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: Cast survived
+
+> **NORMAN:** Truly we live in a world of change. Rather unexpectedly, a new Government, a new Prime Minister, and a reshuffle on the Treasury Bench and among the Opposition. But amid all this risk and uncertainty, I am delighted to say that there has been one beacon of stability, Mr Speaker, one oasis of calm, one single unmoving axle at the still centre of our politics. I refer of course to the Leader of the House and myself. Each of us has emerged, phoenix-like, blinking but resolute, from the ashes of political reconstruction.
+
+> I rather fear that given our longevity and at least the level of banter on the other side of the Despatch Box, we will be seen over time as the Morecambe and Wise, or perhaps the Two Ronnies. I won't invite the House to say which of us is which, but i will simply say to you, Mr Speaker, and to all members returning from recess, it's hello from me, and it's hello from him.
+
+→
+
+> **CAMPBELL:** I'm pleased, Mr Speaker, as you are, that the Shadow Leader has survived the reshuffle, and I welcome him back to his place. He was very generous in his offer to run my campaign to continue in my role, which was a very successful campaign on his part. I have to say, I was very ready to reciprocate, but that proved unnecessary.
+
+> I am genuinely pleased-- I'm not sure I'm genuinely pleased with the way that we were described, but I'm genuinely pleased that he's remained in his post, because we do have our political differences, which is an obvious thing to say, but we do have a shared deep respect for this place, and I look forward to working with him going forwards.
+
+> I'm not sure about his suggestion that we're either Morecambe and Wise or the Two Ronnies. I think that he flatters himself about his sense of humour in that case.
+
+#### (2) ✔️ Q1: Where does the govt stand on defence spending?
+
+> **NORMAN:** I invite the Leader to clarify where the Government stands on defence spending, given the different briefings and the public challenges that the Government and the Prime Minister have received over the last two weeks.
+
+→
+
+> **CAMPBELL:** There is no confusion, as he seems to suggest, about defence spending. The Prime Minister set out clearly what our position is, and of course we'll have a budget in the not too distant future, which will set out clearly what those proposals are. The Prime Minister faced this House on Tuesday for 3 hours and 20 minutes, and then came back to do Prime Minister's questions yesterday, so there was no shortage of an opportunity for the Opposition to find out exactly what this Government is going to do.
+
+#### (3) ✔️ Q2: Will the govt recognise their delay in putting forwards the restoration and renewal motion and use it to develop a less costly alternative?
+
+> **NORMAN:** In view of the new Prime Minister's spending priorities, it now seems highly unlikely that the ruinously expensive current [restoration and renewal] plans will be put to this House before the end of this year. Seven months have already passed with no action. Will the Government now recognise the delay and use it to give the R&R team time to develop a sane and far less costly alternative?
+
+→
+
+> **CAMPBELL:** [H]e knows, because we talked about this before. Of course there was a set of proposals put forward, and we have thought deeply about when is the best time to bring forward those proposals. I don't think he should assume, Mr Speaker, that he will have to wait that much longer for this House to be given the opportunity to make a decision. I agree with him on one thing, which is that this decision has been delayed for too long, and as a result there are costs to that delay which we're paying, whether or not the House decides to do something in the long-term about it or not. But I don't agree with him that the answer is another delay, that we go back and have another look at this again; we've been round that track so many times, that it explains why we've actually got to this particular place.
+
+> And while I'm on that subject, Mr Speaker, it's very odd where a member of the Shadow Cabinet leaves in order to run for office and begin his support for London and criticise this side of the House, when that side of the House as far as I understand are actually whipped against the restoration of this place, which is an iconic building--_the_ iconic building, actually--in London, it's part of UNESCO World Heritage Sites. This work is long overdue, it will create not only jobs and opportunities in London, but throughout the regions of our country. So the Opposition can't have it both ways.
+
+#### (4) ✔️ Q3: Will No 10 North have spending powers?
+
+> **NORMAN:** As this House knows well, in our system of government, the Prime Minister may have political power, but No 10 is not a spending department, and it does not possess independent fiscal authority. Yet this new Prime Minister has insisted again and again that No 10 North will not just be a paper exercise. You see the difficulty, Mr Speaker? Will No 10 North have real spending powers of its own?
+
+> If the answer is yes, then this will be a new kind of cross-departmental ministry, perhaps a territorial ministry, like a regional government, but with no defined scope or mandate. We will need to see the legal instruments delegating Treasury authority and functions to it. After all, in this scenario the Chancellor of the Exchequer will not be fully in charge of the public finances. We will have to have new forms of accountability in this House, with the No 10 North Select Committee and questions, so that Members can press the First Secretary of State, or perhaps the Prime Minister as the ultimately responsible Minister, should the spending decisions No 10 North take turn out as they plan, or indeed, as they do not plan.
+
+> But if the answer is no, and No 10 North will not have spending power of its own, then ultimately the Treasury and the Chancellor will continue to sign off on its public spending, and indeed on any taxing matters. Decentralisation is really important, but No 10 North will not be a means of decentralisation in this scenario, it will be just another layer of government.
+
+> It doesn't feel like the Government has thought this issue through at all, so I'd be very grateful for answers to these questions, both now from the Leader of the House and in writing from the First Secretary of State.
+
+→
+
+> **CAMPBELL:** In terms of No 10 North, it's really important, Mr Speaker, that as the Prime Minister has said, that we pursue--in fact, go further--on the devolution agenda, and setting up No 10 North is--will be--the biggest transfer of power in decision-making out of Whitehall in a generation. But I can assure you that the Chancellor of the Exchequer will be in charge of the nation's finances, and he will set out, as I've said, his proposals on that. But having said that, it's important that we get decisions made closer to where those affected will feel that.
+
+> But what I would say is I have some agreement with him on the point that he makes about scrutiny about this House, because I think there is an issue around for example how mayors are scrutinised, actually. But I think as power is transferred away, and as decision-making is transferred, it does raise the issue of how this House will continue to be able to scrutinise that, and I'll take that away and think about it more.
+
+-----
+
+#### ∗ ∗ ∗
+
+- Deaths of Dolly Parton, Tim Curry, Wendell Berry, Billy Boston, Kevin Keegan, two police officers
+- Nepal floods, 36 missing British nationals
+- Wildfires
+- New Prime Minister "will oversee the rewiring of the British state", "rebuilding the resilience of our communities, and tackling the reindustrialisation of our regions", "ten-year plan for Britain will set out plans for stronger public control"
+- Conference recess 15 sept to 12 oct (noninclusive, i.e. off 16 sept to 11 oct)
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 {% include fin.html %}

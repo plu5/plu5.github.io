@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-08-29 17:05
+modified_date: 2026-09-05 10:55
 categories: lang
 lang: fr
 ---
@@ -1151,5 +1151,39 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-08-29
 - Ce n'est pas du tout comme cela qu'il faut voir les choses, car Md Veil ne porte aucune responsabilité particulière, c'est la société toute entière qui définit ses normes, et pas une personne donnée, fut elle cheffe de Radio France. La société, par ses productions artistiques, sa vie sociale, ses mœurs, ses traditions, etc, porte cette responsabilité et personne d'autre. Mais le fait qu'on recherche des responsabilités ou des personnes d'autorités, pour pallier ~~à~~ un manque de norme venant du social, c'est le fait de ce que Durkheim nomme l'anomie, a-nomos, l'absence de norme, le délitement de la société. ([laurenth7187](https://www.youtube.com/watch?v=XsJQH5mrL5Q))
   + "pallier à un manque" [faute courante](https://forum.wordreference.com/threads/pallier-%C3%A0-un-manque.1351024/), c'est censé être "pallier un manque"
+
+§ 2026-08-30
+- Bon, on jacte, on pérore, mais en attendant, on arrive à plus de 20 pages sans l’ombre d’une notion de physique. C’est quand qu’on travaille, hein ? Allez, en selle ! (moissard étudier la physique c1.4)
+- sans vergogne
+- le fluorure est assez petit pour se glisser partout, y compris à l’intérieur de l’émail dentaire. Lors du brossage des dents, il pénètre dans l’émail et expulse les ions hydroxyde. Cela semble méchant, mais en fait, c’est une bonne chose. (tout est chimie dans notre vie c3)
+- Aujourd’hui, on fabrique toujours le savon selon le même principe, mais on utilise de la soude caustique (NaOH) à la place des cendres végétales ou des sels de potassium. Cette base très forte est particulièrement adaptée à la saponification. La réaction fonctionne avec tous les corps gras possibles : on utilise traditionnellement des graisses bon marché, comme le suif, le saindoux ou la graisse d’os. Pas très appétissant, mais on obtient des savons parfaits. (^)
+
+§ 2026-08-31
+- « échéant » vient du verbe échoir, qui peut signifier « survenir / arriver ». Littéralement, « le cas échéant » correspond donc à peu près à « si le cas se présente ».
+- si les conditions s'y prêtent
+- C’est un verbiage si détaillé et si alambiqué qu’il est fichtrement difficile d’en déduire une conclusion claire. (tout est chimie dans notre vie c4)
+- un tant soit peu
+- Le mètre étalon, en matière de méthode, est ce qu’on appelle l’essai randomisé contrôlé ou ERC (en anglais Randomised Controlled Trial, RCT). (tout est chimie dans notre vie c5)
+- Le bureau d'essais a mis au point le prototype en 6 mois. ([wr](https://www.wordreference.com/fren/mettre%20au%20point))
+- Tu as beaucoup de travail, tu ferais bien de t'y atteler tout de suite si tu veux finir avant la nuit. ([wr](https://www.wordreference.com/fren/atteler))
+- système éducatif français
+- L'étudiant exposera ses connaissances ou résoudra l'exercice au tableau, face à l'enseignant, lequel notera la prestation de l'élève qui pourra ainsi évaluer sa progression tout au long de l'année. ([frwik](https://fr.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_biologie,_chimie,_physique_et_sciences_de_la_Terre))
+
+## 2026-09
+§ 2026-09-01
+- waouh
+- On me signale en régie que l'invité vient d'arriver. ([wr](https://www.wordreference.com/fren/r%C3%A9gie))
+- Les bruitages sont très importants, ils donnent l'ambiance du film. ([wr](https://www.wordreference.com/fren/bruitage))
+
+§ 2026-09-02
+- Cet élément est dans la liste.
+- être sur la liste des invités, être sur une liste d'attente
+
+§ 2026-09-04
+- L'eau bouillante est en train de bouir à 100 °C, tandis que l'eau bouillie a été portée à ébullition par le passé
+
+§ 2026-09-05
+- backtick/grave ` : apostrophe inversée
+- underscore _ : tiret bas / tiret du bas / trait de soulignement
 
 {% include fin.html %}

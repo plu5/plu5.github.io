@@ -2,7 +2,7 @@
 layout: post
 title:  "retype"
 date:   2026-01-21 03:05
-modified_date: 2026-08-27 06:47
+modified_date: 2026-09-01 20:02
 categories: projet
 lang: fr
 ---
@@ -117,5 +117,17 @@ lang: fr
 
 § 2026-08-11
 - menu add : local file, web page, interlacer
+
+§ 2026-08-30
+- mode défilement
+- possibilité de laisser des notes comme foliate
+
+§ 2026-08-31
+- gotocursorposition: n'efface pas la console si on est dans le même chapitre que le curseur
+- possibilité de cacher des livres qu'on ne veut pas avoir dans la liste
+- largeur maximale du texte (le centrer à partir d'une largeur donnée), sans pour autant limiter les images
+
+§ 2026-09-01
+- ajouter … au rdict par défaut
 
 {% include fin.html %}

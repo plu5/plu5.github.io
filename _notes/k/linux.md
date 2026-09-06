@@ -2,12 +2,13 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-08-30 04:21
+modified_date: 2026-09-05 18:53
 categories: os
 lang: fr
 ---
 
 ## Basique mais j'oublie
+- `cd -` : revenir au pwd précédent
 - `~` ne s'expanse pas entre guillemets. utilise `$HOME` à la place.
 - `pwd` : chemin actuel
 - `ls -d .*/ */` : ls dossiers uniquement
@@ -49,6 +50,8 @@ lang: fr
 - `.. | wc -l` : compter les lignes
 - `.. | less` : pager (permet de naviguer et chercher la sortie)
   + <kbd>/</kbd> : chercher
+  + <kbd>=</kbd> : afficher la position actuelle
+  + <kbd>b</kbd> : pageup
 - `.. | awk '{print $1}'` : extraire une donnée dans position 1 quand tu as une ligne de sortie avec des données séparées par espace ou tab (avec plusieurs lignes ça extrait la donnée en position 1 de chacune)
 - `echo "hi123" | sed 's/.\{3\}$//'` → hi
   <br>(traduction : remplacer 3 caractères avant la fin de ligne par rien)
@@ -269,6 +272,8 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 
 ## DPMs
 - désactiver : xset -dpms
+- xset s off -dpms
+- xset dpms 0 0 0
 - éteindre écran : xset dpms force off
 
 ## Disques
@@ -282,13 +287,23 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
   + sudo busctl monitor org.freedesktop.UDisks2
   + dbus-monitor --system "interface='org.freedesktop.UDisks2'"
 - udisksctl mount -b /dev/sdXN
+  + read-only : sudo blockdev --setro /dev/sdX; udisksctl mount -b /dev/sdXN -o ro
 - udisksctl unmount -b /dev/sdXN
 - udisksctl power-off -b /dev/sdX
 - ou caja eject
 
+si power-off/eject échoue :
+- echo 1 | sudo tee /sys/block/sdX/device/delete
+- puis vérification avec lsblk
+
 rappel :
 - le disque ne doit pas être déplacé tant que connecté à l'alim ; non seulement à l'ordi, à l'alim ! avant tout déplacement, unmount tout (vérification avec lsblk mountpoints), power-off, vérification disque s'est arrêté, déconnection alim / mettre sur off, puis retirer le câble à l'ordi.
 - éventuellement `sudo sg_sync` de `sg3_utils` après unmount et avant power-off
+
+clear ntfs dirty flag :
+- Sous Windows (recommandé) : chkdsk /f X:
+  + il y a des risques là aussi ; si le disque se déconnecte pendant le processus, il pourrait devenir impossible à monter. sans le `/f` fait le scan en mode readonly qui ne risque pas ça mais ne clear pas le dirty flag.
+- ~~Sous Linux (dangereux) : sudo ntfsfix -d /dev/sdXN~~
 
 incertain :
 - hdparm -y
@@ -327,6 +342,19 @@ incertain :
 - ajouter des chapitres à une vidéo existante sans réencondage : `ffmpeg -i in.mp4 -f ffmetadata -i chapters.txt -map 0 -map_metadata 1 -map_chapters 1 -c copy out.mp4`
 - vérifier chapitres : `ffprobe -v error -show_chapters -of json out.mp4`
 - sans chapters.txt : `<(commandepourgenererleschapitres)` ou `-` et passer le ffmetadata via stdin
+
+## yt-dlp
+lister vidéos d'une chaîne (cf manpage pour les champs disponibles)
+- yt-dlp --flat-playlist --print "%(timestamp>%Y-%m-%d)s %(title)s %(duration_string)s - %(id)s" "https://www.youtube.com/@lcpassembleenationale/videos"
+
+## sqlite3
+- sqlite3 'file:chemin?mode=ro'
+- ; à la fin de chaque commande sql
+  + SELECT * FROM nom;
+  + PRAGMA table_info(nom);
+- .tables
+- .mode line
+- .quit
 
 ## Termes
 - PAM : [Linux Pluggable Authentication Modules](https://wiki.archlinux.org/title/PAM). En dehors de Linux c'est un terme plus général qui veut dire gestion des accès privilégiés (Privileged Access Management)
