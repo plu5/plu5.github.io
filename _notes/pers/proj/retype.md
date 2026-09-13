@@ -2,7 +2,7 @@
 layout: post
 title:  "retype"
 date:   2026-01-21 03:05
-modified_date: 2026-09-01 20:02
+modified_date: 2026-09-11 11:46
 categories: projet
 lang: fr
 ---
@@ -129,5 +129,8 @@ lang: fr
 
 § 2026-09-01
 - ajouter … au rdict par défaut
+
+§ 2026-09-11
+- plusieurs book views en même temps pour pouvoir lire 2+ livres en même temps
 
 {% include fin.html %}

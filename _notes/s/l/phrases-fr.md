@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-09-05 10:55
+modified_date: 2026-09-12 18:15
 categories: lang
 lang: fr
 ---
@@ -1185,5 +1185,43 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-09-05
 - backtick/grave ` : apostrophe inversée
 - underscore _ : tiret bas / tiret du bas / trait de soulignement
+
+§ 2026-09-06
+- Lorsque le narrateur ou l’observateur se trouvent happés par le malaise décrit dans la fiction, le lecteur a le sentiment d’être confiné dans un univers mental souvent clos, étroit, imaginaire et peut-être même fantasmé. ([jack and jekyll c3](https://books.openedition.org/enseditions/47241?lang=fr))
+- Dans les récits gothiques britanniques de la fin du siècle, la dégénérescence est davantage ancrée dans un moment historique et véhicule un message social. (^)
+- Le besoin d’une « réaction » s’impose irrésistiblement : quelque chose risque d’être perdu, quelque chose est menacé, quelque chose doit être protégé. (^)
+
+§ 2026-09-08
+- un sac monobretelle ([matmenmil](https://forum.wordreference.com/threads/sac-mono-bretelle.1304994/))
+- maintenance schedule : le programme d'entretien
+- Dans le cas d'une valise "trolley", la partie repliable qui sert à tirer la valise en la faisant rouler s'appelle une poignée de traction, et est différente de la (ou des) poignée qui sert à la soulever. ([JeanDeSponde](https://forum.wordreference.com/threads/anse-poign%C3%A9e-pour-une-valise.1145229/))
+
+§ 2026-09-09
+- emdash : tiret cadratin
+
+§ 2026-09-11
+- Qu’est-ce que je veux dire par là ? (tout est chimie dans notre vie c5)
+- l’erreur se cache au cœur des méthodes (^)
+- en fait moi ça m'est arrivé récemment, j'avais un collaborateur qui me faisait des blagues et que je ne comprenais pas parce que j'étais très premier degré, et du coup je me suis dit bon, je vais aller le voir, et je lui ai dit écoute, je sais que c'est vraiment pas méchant et que c'est une blague, mais en fait je la comprends pas et je le prends mal, et du coup ça me dérange. mais j'ai pris, même moi, directrice de production, j'ai pris mon courage avec toutes mes mains pour aller le voir, et il m'a dit oh là là désolé, vraiment, et le problème a été résolu en deux minutes. ([Anaïs Ascaride 48m](https://www.youtube.com/watch?v=KXQwebcmlo0))
+- appartenir à un rang social élevé, à la haute bourgeoisie, à la noblesse ([wr](https://forum.wordreference.com/threads/belonging-to-a-high-social-class.448387/))
+- Je te mets au défi de faire un truc pareil (moissard étudier la physique 2.3.2.1)
+- ce qui est génial, c’est qu’une telle équation contient une quantité monstrueuse d’informations, que l’on peut extraire relativement aisément, et ça je ne vois pas comment on pourrait imaginer s’y prendre avec des mots. (^)
+- Je ne suis pas arrivé là en apprenant par cœur ces équations. Loin s’en faut. J’ai juste patiemment redémontré tout le reste en fonction de ce qui me paraissait le plus logique. Et à chaque fois je suis retombé sur celles-ci [2e loi de Newton, Maxwell-Flux, Maxwell-Faraday, Maxwell-Gauss, Maxwell-Ampère, Gibbs, Fick], que je ne vois pas bien comment je pourrais redémontrer. Et parce que j’ai fait ce travail, il est évident dans ma tête que l’équation de Navier-Stokes, par exemple, c’est juste ma = F. Le premier principe de la thermodynamique aussi, en étant patient et en faisant quelques écritures osées. Ou que les lois de l’électricité sont une soupe des équations de Maxwell mélangées dans le bon sens. Ou que l’optique c’est encore Maxwell, avec quelques épices. (^)
+- ce que l'auteur veut faire sentir
+- la complexité d'une équation ne doit pas être confondue avec la complexité du principe physique dont elle découle.
+- liminaire vs préliminaire
+- Le contexte est la désignation, dans la description d'un édifice, d'un espace dont on veut caractériser qu'il a une fonction de lieu de passage, mais plus particulièrement de lieu qui permet d'accéder à un espace plus important, plus sacré en l'occurrence, puisqu'il s'agit d'une église. En français, l'expression espace liminaire est assez banale dans une situation de ce genre. ([Demetr](https://forum.wordreference.com/threads/espace-liminaire.3069974/))
+- je dois introduire une remarque importante au début d'un travail littéraire, remarque qui ne rentre donc pas dans l'analyse littéraire qui suit. En français on appelle cela une "note liminaire" ([pejmana](https://forum.wordreference.com/threads/note-liminaire.2409149/))
+- je cherche à traduire [œuvre liminaire] qui signifie que c'est une des premières oeuvres (littéraires) majeures d'un auteur, qui annonce et a en germe les thèmes et le style des prochaines. ([alban77](https://forum.wordreference.com/threads/%C5%93uvre-liminaire.2283598/))
+- Je parvins tout juste devant la porte de l'usine, mais je demeurai figé à cet endroit liminaire, et la perspective de toutes ces machines qui m'attendaient en tournant, anéantit en moi sans appel ces velléités travailleuses ([wr](https://forum.wordreference.com/threads/un-propos-liminaire.984707/))
+- Une astuce possible est de te rappeler que le problème s’attache à savoir combien de temps tu auras pour apprécier le paysage le jour où tu seras en train de tomber de la tour Eiffel, et la réponse t’importe, pas vrai ? Une autre astuce est de te dire que tu auras probablement terminé bientôt, et que tu auras bien vite oublié tes peines, heureux d’avoir un résultat correct. Une autre encore, est de te rappeler que si tu ne finis pas ce calcul, tu auras une sale note. (moissard étudier la physique 2.4.1)
+- Quand on croit que certaines personnes ont des métiers de rêve... et que l’on se prend le mur de la réalité. ([Louisette-k3g](https://www.youtube.com/watch?v=H2suBLgNGpk))
+- Quand le film sur Serge Gainsbourg est sortit il y a quelques années un dessinateur de bd (Mathieu Sapin) avait publié deux tomes autour du film ; un pour le tournage et un autre pour après le tournage. J’ai lu les deux tomes et souvent on riait jaune sur ce « merveilleux monde » du cinéma. (^ marcl2213)
+
+§ 2026-09-12
+- Si tu pouvais trouver une ficelle (lacet de chaussure ?) et une masse quelconque et fabriquer un pendule, ce serait parfait. (moissard étudier la physique 2.4.2)
+- C’est l’erreur stratégique la plus courante lorsqu’on résout un exercice. Et je ne vais pas te mentir : je continue de plaider coupable de temps à autres mais ce n’est pas bien. (^)
+- Parfois, par contre, je te l’accorde volontiers, c’est compliqué. (^)
+- il est essentiel de se détacher au plus possible des corrigés, de ne pas en être dépendant. (^)
 
 {% include fin.html %}

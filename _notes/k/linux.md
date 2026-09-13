@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-09-05 18:53
+modified_date: 2026-09-12 22:29
 categories: os
 lang: fr
 ---
@@ -343,9 +343,15 @@ incertain :
 - vérifier chapitres : `ffprobe -v error -show_chapters -of json out.mp4`
 - sans chapters.txt : `<(commandepourgenererleschapitres)` ou `-` et passer le ffmetadata via stdin
 
+combiner vidéos sans réencodage :
+1. créer un fichier txt où chaque ligne indique un chemin vers une vidéo dans le format suivant : `file 'chemin/vers/fichier1'`
+  + s'il y a un `'` dans le chemin, remplacer avec `'\''`
+2. ffmpeg -f concat -safe 0 -i list.txt -c copy résultat
+
 ## yt-dlp
 lister vidéos d'une chaîne (cf manpage pour les champs disponibles)
 - yt-dlp --flat-playlist --print "%(timestamp>%Y-%m-%d)s %(title)s %(duration_string)s - %(id)s" "https://www.youtube.com/@lcpassembleenationale/videos"
+  + mais je reçois NA au lieu du timestamp
 
 ## sqlite3
 - sqlite3 'file:chemin?mode=ro'

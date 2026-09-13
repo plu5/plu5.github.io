@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-09-03 17:13
+modified_date: 2026-09-10 16:48
 categories: ukpol
 lang: en
 ---
@@ -2474,6 +2474,85 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answer
 - Wildfires
 - New Prime Minister "will oversee the rewiring of the British state", "rebuilding the resilience of our communities, and tackling the reindustrialisation of our regions", "ten-year plan for Britain will set out plans for stronger public control"
 - Conference recess 15 sept to 12 oct (noninclusive, i.e. off 16 sept to 11 oct)
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+## 2026-09-10
+sovereign grant bill, motions to approve recommendations by the modernisation committee and committee of privileges, machinery of government changes, debate on merits of a full ban on fracking, world sepsis awareness month, conference recess 15 sept - 12th oct, baby loss awareness week, courts and tribunals bill, carry over motion relating to the northern ireland troubles bill, official opposition day, highways financing bill 2nd reading, northern ireland troubles bill committee of the whole house, november recess 4th nov - 10th nov, christmas recess 17th dec - 5th jan, february recess 11th feb - 22nd feb, easter 25th march - 12th april, may bank holiday 29th april - 4th may, whitsun recess 27th may - 7th june, summer recess 22nd july
+
+lamont:
+- anniversary of 9/11. had the privilege of visiting the memorial in new york.
+- The Leader has announced that the Northern Ireland Troubles Bill will be rushed through the House over a couple of days in October, with no separate report stage. This is very little time to consider such a complex Bill, particularly as the Government is reported to be preparing to table over a hundred amendments. I therefore ask the Leader of the House if he will ensure that the Government amendments are tabled before the House rises on Tuesday, and will he explain why the Government is not providing a separate report stage?
+- There seems to be growing chatter on the Government Benches about an early general election, with some apparently wondering if the new Prime Minister might even go to the country before Christmas. The Leader of the House is, of course, a man right at the heart of the Government decision making, and will know better than most what is being discussed in Downing Street. So for the benefit of an increasingly nervous Labour Back Bench, can he give the House a simple assurance today: will this Parliament run its full course, or will the new Prime Minister already be running away from difficult decisions?
+- Turning to Scotland, last week the SNP Government published its latest programme for government. After nearly two decades in power, Scotland was promised renewal. Instead, as Russell Findlay put it, we got more meddling and gimmicks, more centralisation, more bureaucracy, and yet more attempts to distract from the SNP's dire record in office. This was in full display when the PISA school results were published recently, showing Scotland's once world-class education system is now considered to be just average. A particular concern to my constituents is the extraordinary proposal by the SNP Government to abolish Scotland's 14 territorial health boards, and replace them with just two. This means the abolition of NHS Borders as we know it. People in my constituency in the Scottish Borders have already experienced the consequences of SNP centralisation, with Police Scotland and the Scottish Fire and Rescue Service. They did not want vital healthcare decisions taken further away from the communities those services exist to serve. So will the Leader of the House join me in paying tribute to the hard-working staff in NHS Borders, and call on an increasingly centralising SNP Government not to forget rural and remote communities in Scotland?
+- Finally, farming is the backbone of communities across the Borders and across rural Britain. Despite the enormous concern expressed by farmers and farming businesses, Labour's family farm tax is now in force. Ahead of the Budget next month, will the Leader of the House convey a very simple message to the Chancellor: listen to our farmers, recognise the damage that this tax is doing to confidence and succession planning, and finally do the right thing; scrap the family farm tax.
+
+campbell:
+- i thank him for his remarks, before i respond can i remind everyone today is world suicide prevention day [paraphrased]. this government is firmly committed to tackling suicide, and new mental health hubs and emergency centres announced over the summer represent a crucial step forward in delivering early community-based support.
+- as the shadow deputy leader said, tomorrow marks the 25th anniversary of the 9/11 terrorist attack, and i too have seen the site of the attacks and it is a harrowing reminder. we remember the 2977 innocent lives lost, including 67 british citizens, and the countless families whose lives were forever changed.
+- it's been an important week for government announcements. on tuesday, the foreign secretary set out our response to illegal settlements in the palestinian territories. the government has announced targeted sanctions, introduced an important ban on goods originating from illegal settlements, and taking action against companies and individuals providing services, infrastructure, or finance, for settlement expansion. and as we have made clear, madam deputy speaker, these settlements are illegal, and the occupation of palestinian territories is unlawful.
+- the chancellor also set out this week how the government will make great britain growth britain again, we will drive devolution, provide more public leadership and control, more investment, more innovation, and more jobs. and there will be growth, madam deputy speaker, in every postcode.
+- let me now turn to the remarks of the shadow deputy leader. On the Northern Ireland Bill, which I've just announced we will be taking shortly after the conference recess, I haven't announced two days on the floor of the House for the committee stage and also remaining stages, it is often the case when matters are dealt with on the floor of the House the report stage is either unnecessary or there isn't a great deal of time, but I take away what he says, and I also take away what he says about making sure that amendments are timely, because Madam Deputy Speaker, we want to go further at the committee stage, with a substantial package of amendments safeguarding our Operation Banner veterans. None of these protections were included in previous legislation, which instead left our veterans in legal limbo, so I do take into account what he says, but we're not going to take any lessons from the party opposite.
+- He talks about chatter about an early general election. If there is any, it's on the other side, and I would just say to the--[*dissent*]--I would just say to the other side of the House be careful what you wish for. As the Prime Minister has made clear, he has no intention to call an early general election, because there is an important job to do, he is determined to get on with that job, I think he's made a fantastic start, and he intends to continue to do everything that we can to make our country a better place to live and work in again.
+- He talks about the situation in north of the border and mentioned Scottish education. I remember when Scottish education was the model for education, not just in the United Kingdom, but often around the world as well, and all I would say on this matter is that the lack of ambition which appears to be north of the border from the current Government is in stark contrast to the ambition that we have for every young person this side of the border. And I am happy to pay tribute to NHS staff in his area, as I would do NHS staff everywhere else, but I think, and I would agree with him, I think this Prime Minister and this new administration is very clear that we believe that devolution is the way forward, decisions maken [sic] locally, where they affect people, is the way forward, rather than centralisation, and therefore I do agree with what the shadow deputy Leader has said.
+- and as far as farming is concerned, I'm not going to comment, obviously, on anything that might be or might not be in the Budget, but I would simply point out that we are supporting farming, not least with the 65 million pounds extra that we provided.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **5/5 answered** (-)
+
+[Happened at 11:19](https://parliamentlive.tv/event/index/d83e275a-c9b6-4668-b9d7-8fd821816c14?in=11:19:19). [Hansard](https://hansard.parliament.uk/commons/2026-09-10/debates/F6E9AB72-395B-4C77-9643-084029ACC336/BusinessOfTheHouse).
+
+Lamont standing in for the seventh time.
+
+*(Business Questions main exchange. `Q`s by John Lamont, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) ✔️ Troubles Bill: Q1: Can the govt table its amendments before the House rises? Q2: Why no separate report stage?
+
+> **LAMONT:** The Leader has announced that the Northern Ireland Troubles Bill will be rushed through the House over a couple of days in October, with no separate report stage. This is very little time to consider such a complex Bill, particularly as the Government is reported to be preparing to table over a hundred amendments. I therefore ask the Leader of the House if he will ensure that the Government amendments are tabled before the House rises on Tuesday, and will he explain why the Government is not providing a separate report stage?
+
+→
+
+> **CAMPBELL:** On the Northern Ireland Bill, which I've just announced we will be taking shortly after the conference recess, I haven't announced two days on the floor of the House for the committee stage and also remaining stages, it is often the case when matters are dealt with on the floor of the House the report stage is either unnecessary or there isn't a great deal of time, but I take away what he says, and I also take away what he says about making sure that amendments are timely, because Madam Deputy Speaker, we want to go further at the committee stage, with a substantial package of amendments safeguarding our Operation Banner veterans. None of these protections were included in previous legislation, which instead left our veterans in legal limbo, so I do take into account what he says, but we're not going to take any lessons from the party opposite.
+
+#### (2) ✔️ Q3: Early election: Can he give assurance this Parliament will run its full course?
+
+> **LAMONT:** There seems to be growing chatter on the Government Benches about an early general election, with some apparently wondering if the new Prime Minister might even go to the country before Christmas. The Leader of the House is, of course, a man right at the heart of the Government decision making, and will know better than most what is being discussed in Downing Street. So for the benefit of an increasingly nervous Labour Back Bench, can he give the House a simple assurance today: will this Parliament run its full course, or will the new Prime Minister already be running away from difficult decisions?
+
+→
+
+> **CAMPBELL:** He talks about chatter about an early general election. If there is any, it's on the other side, and I would just say to the--[*dissent*]--I would just say to the other side of the House be careful what you wish for. As the Prime Minister has made clear, he has no intention to call an early general election, because there is an important job to do, he is determined to get on with that job, I think he's made a fantastic start, and he intends to continue to do everything that we can to make our country a better place to live and work in again.
+
+#### (3) ✔️ Q4: Join me in praising the NHS and attacking the SNP?
+
+> **LAMONT:** Turning to Scotland, last week the SNP Government published its latest programme for government. After nearly two decades in power, Scotland was promised renewal. Instead, as Russell Findlay put it, we got more meddling and gimmicks, more centralisation, more bureaucracy, and yet more attempts to distract from the SNP's dire record in office. This was in full display when the PISA school results were published recently, showing Scotland's once world-class education system is now considered to be just average.
+
+> A particular concern to my constituents is the extraordinary proposal by the SNP Government to abolish Scotland's 14 territorial health boards, and replace them with just two. This means the abolition of NHS Borders as we know it. People in my constituency in the Scottish Borders have already experienced the consequences of SNP centralisation with Police Scotland and the Scottish Fire and Rescue Service. They did not want vital healthcare decisions taken further away from the communities those services exist to serve. So will the Leader of the House join me in paying tribute to the hard-working staff in NHS Borders, and call on an increasingly centralising SNP Government not to forget rural and remote communities in Scotland?
+
+→
+
+> **CAMPBELL:** I remember when Scottish education was the model for education, not just in the United Kingdom, but often around the world as well, and all I would say on this matter is that the lack of ambition which appears to be north of the border from the current Government is in stark contrast to the ambition that we have for every young person this side of the border. And I am happy to pay tribute to NHS staff in his area, as I would do NHS staff everywhere else, but I think, and I would agree with him, I think this Prime Minister and this new administration is very clear that we believe that devolution is the way forward, decisions maken [sic] locally, where they affect people, is the way forward, rather than centralisation, and therefore I do agree with what the shadow deputy Leader has said.
+
+#### (4) ✔️ Q5: Can he tell the Chancellor to scrap the family farm tax?
+
+> **LAMONT:** Finally, farming is the backbone of communities across the Borders and across rural Britain. Despite the enormous concern expressed by farmers and farming businesses, Labour's family farm tax is now in force. Ahead of the Budget next month, will the Leader of the House convey a very simple message to the Chancellor: listen to our farmers, recognise the damage that this tax is doing to confidence and succession planning, and finally do the right thing; scrap the family farm tax.
+
+→
+
+> **CAMPBELL:** [A]s far as farming is concerned, I'm not going to comment, obviously, on anything that might be or might not be in the Budget, but I would simply point out that we are supporting farming, not least with the 65 million pounds extra that we provided.
+
+-----
+
+#### ∗ ∗ ∗
+
+- 9/11 anniversary, both have been to the memorial in NY. 67 British citizens died.
+- World suicide prevention day. "This Government is firmly committed to tackling suicide, and new mental health hubs and emergency centres announced over the summer represent a crucial step forward in delivering early community-based support."
+- Sanctions against illegal settlements in the Palestinian territories.
+- "Growth Britain", drive devolution, "growth in every postcode"
 
 -----
 

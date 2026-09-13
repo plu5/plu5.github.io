@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-08-09 03:30
+modified_date: 2026-09-07 06:08
 categories: flou
 lang: fr
 ---
@@ -486,5 +486,8 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-08-08
 - [old] dépôt d'alphas cc0 512x512 fait à partir d'images cc0
+
+§ 2026-09-06
+- [livre] [old] l'ile du dr moreau
 
 {% include fin.html %}
