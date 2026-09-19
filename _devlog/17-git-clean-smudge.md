@@ -2,7 +2,7 @@
 layout: post
 title: 17 — Encryption with git clean/smudge filters
 date: 2026-05-15 05:49
-modified_date: 2026-09-19 16:35
+modified_date: 2026-09-19 17:22
 categories: git cryptography
 lang: en
 redirect_from: /devlog/17
@@ -1904,7 +1904,7 @@ Cloning is broken too. I had tested that, but maybe I only checked the files are
 >
 > If you accidentally did this to a file that does have changes that need to be committed and you don\'t want to have to touch the actual file on disk, you can do `git ls-files -s path/to/file | git update-index --index-info`. This will replace the entry of the file in the index with one with no stored metadata, forcing a recheck the next time you do `git status`.
 
-> See [intelfx's 2018 question](https://stackoverflow.com/questions/53721816/how-do-i-manipulate-dump-and-load-git-index-as-text) and [update-index: using `--index-info`](https://git-scm.com/docs/git-update-index#_using_index_info).
+> See [intelfx\'s 2018 question](https://stackoverflow.com/questions/53721816/how-do-i-manipulate-dump-and-load-git-index-as-text) and [update-index: using `--index-info`](https://git-scm.com/docs/git-update-index#_using_index_info).
 ' %}
 
 Risk: Something changing the metadata on files en masse and provokes this problem without the user knowing which files really changed.

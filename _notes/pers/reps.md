@@ -2,7 +2,7 @@
 layout: post
 title: Repositories
 date: 2026-09-19 15:17
-modified_date: 2026-09-19 15:50
+modified_date: 2026-09-19 17:20
 categories: list
 lang: en
 ---
@@ -12,9 +12,9 @@ lang: en
 
 ## Shelved projects
 - [`eisenhour`](https://github.com/plu5/eisenhour)
-  + doesn't work anymore due to js ecosystem obsolescence and i quit using timers or calendars
+  + js timer-based time-management application that syncs with google calendar, served me for half a decade. doesn't work anymore due to js ecosystem obsolescence and i quit using timers and calendars
 - [`mwin`](https://github.com/plu5/mwin)
-  + i moved os and lost motivation. i want to rewrite it in c and cross-platform and compatible back to win98, but this is not an important project in my life it is more like a délire
+  + a tool for automatic resizing and repositioning of windows. there were many versions of it made before this one. it started as a clone of [grismar's shiftwindow](https://grismar.net/shiftwindow/) in cpp and vcl which i thought would take a few weeks, tried to improve the ui but only made it worse, got fed up with vcl and rewrote it in pure win32 (this is the version on the repo), moved os and lost motivation. i want to rewrite it in c and cross-platform and compatible back to win98, but this is not an important project in my life it is more like a délire
 
 ## Game mods
 - [`p-borderlands`](https://github.com/plu5/p-borderlands)
