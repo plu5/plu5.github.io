@@ -2,7 +2,7 @@
 layout: post
 title: Git
 date: 2026-04-21 22:15
-modified_date: 2026-06-14 11:34
+modified_date: 2026-09-16 12:30
 categories: git
 lang: fr
 ---
@@ -28,6 +28,9 @@ lang: fr
   + et il faut committer ce changement seul (sans modifier le contenu du fichier) pour ne pas casser l'historique
 - `git commit` / `git commit -m "message"`
 - `git commit --amend`
+- `git show HEAD` : examiner le dernier commit
+  + `--stat` : sommaire
+  + `--numstat` : sommaire avec le nombre de lignes ajoutées/supprimées pour chaque fichier
 - `git clone https://github.com/{utilisateur}/{projet}.git`
   + dans pwd : `.` après
 - `git reset HEAD~` : annuler le commit précédent

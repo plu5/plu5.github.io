@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-09-12 22:29
+modified_date: 2026-09-13 22:46
 categories: os
 lang: fr
 ---
@@ -37,7 +37,9 @@ lang: fr
   + avec `-9` ou `-KILL` pour le forcer
 - `pkill monprocessus` : tuer gentillement (par nom)
 - `sudo strace -p [pid]` : voir ce que fait un processus
+  + augmenter longueur des strings affichés : `-s 1000`
   + `sudo cat /proc/[pid]/stack`
+  + `sudo gdb -p PID`, `thread apply all bt`
 - `systemctl status`
 - `systemctl status sshd` : status d'un service particulier (sshd dans ce cas)
 - `systemctl list-units --type=service --user --all` : lister services utilisateur
@@ -251,6 +253,7 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - `coredumpctl list --no-pager` : liste de crashs. même si la génération de coredumps est désactivée.
   <br>l'affichage dépend de la taille de la fenêtre alors je mets mon terminal en plein écran avant.
 - `ss -tulpn` : afficher les ports ouverts
+- cf [Basique mais j'oublie] (notamment strace, stack)
 
 ### Xorg
 - Les logs pour une session non-root se trouve dans `~/.local/share/xorg`. Si X est en cours, `Xorg.0.log` est le log de la session actuelle, et `Xorg.0.log.old` de la précédente.
@@ -263,6 +266,7 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
   + `>` `<` : changer colonne par laquelle trier (CPU par défaut, `>` une fois trie par MEM)
 - pkill onedrive
 - pstree | grep onedrive
+- cf [Basique mais j'oublie] et [Débogage]
 
 ## pacman
 [wiki](https://wiki.archlinux.org/title/Pacman_(Fran%C3%A7ais))

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-09-12 18:15
+modified_date: 2026-09-19 15:08
 categories: lang
 lang: fr
 ---
@@ -1171,7 +1171,7 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 ## 2026-09
 § 2026-09-01
-- waouh
+- wow : waouh
 - On me signale en régie que l'invité vient d'arriver. ([wr](https://www.wordreference.com/fren/r%C3%A9gie))
 - Les bruitages sont très importants, ils donnent l'ambiance du film. ([wr](https://www.wordreference.com/fren/bruitage))
 
@@ -1223,5 +1223,48 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - C’est l’erreur stratégique la plus courante lorsqu’on résout un exercice. Et je ne vais pas te mentir : je continue de plaider coupable de temps à autres mais ce n’est pas bien. (^)
 - Parfois, par contre, je te l’accorde volontiers, c’est compliqué. (^)
 - il est essentiel de se détacher au plus possible des corrigés, de ne pas en être dépendant. (^)
+
+§ 2026-09-13
+- quand le tournage se termine et qu'enfin vous relâchez tout, [..] c'est là qu'on se retrouve à avoir des courbatures, qu'on se rend compte qu'on en fait s'est fait une demi entorse, qu'on tombe malade et qu'on attrape un rhume, le truc qui passait dans le coin ([Jérémie Steib 1h4](https://www.youtube.com/watch?v=H2suBLgNGpk))
+- je pense qu'il y a beaucoup de gens qui n'ont pas parlé aussi parce que de parler ça veut dire rester dans le traumatisme et rester dans le moment qu'on a vécu, et donc la date de fin ça fait qu'on passe à autre chose, qu'on a envie de passer à autre chose, et que du coup on a pas forcément l'énergie de rester dans ce qu'on a vécu, qui était franchement pas marrant (^ Noémie Lance 1h22)
+- Cette course inopinée nous a courbaturés. ([wr](https://www.wordreference.com/fren/courbature))
+- Sers-toi de la réalité pour modeler ton imagination mais n’essaie pas de modeler la réalité pour qu’elle corresponde à ton imagination. C’est sur cet écueil que de trop nombreux étudiants et scientifiques se heurtent et restent longtemps bloqués (moissard étudier la physique 3.2)
+- L’autre écueil est celui, peut-être encore plus courant, des étudiants qui alignent des équations sans avoir la moindre image à laquelle les rattacher, et avancent dans un brouillard permanent. (^)
+- Une autre métaphore fumeuse. (^ 3.3)
+- Tu connais bien ton cours, tu te débrouilles bien pour les calculs, et tu sais vérifier tes résultats. Mais tu te retrouves souvent devant une feuille blanche à te demander quoi faire et par où commencer. Alors pourquoi bloques-tu ? (^)
+- Si à un seul moment tu te sens dépassé par ce que tu y trouves, ferme ce livre et va lire Feynman ou jouer à la Playstation. (^ 4)
+
+§ 2026-09-14
+- La vie a bien plus à offrir que des journées remplies de passivité et de petites activités semi-intéressantes faites dans la clandestinité (^ 4.2)
+- La première chose, et je suis certain qu’elle est évidente pour toi mais qu’il est possible que, dans un accès de flemme ou par mauvaise habitude, tu sois tenté d’ignorer, est que la concentration joue un rôle décisif. (^)
+- pendant que tout ça se passe dans le cerveau de l’enseignant, il essaie tant bien que mal, mais surtout mal, de poursuivre son intelligente tirade à propos du rapport entre l’essor de la thermodynamique et le colonialisme anglais. Tout le monde y perd. (^)
+- Je te propose d’essayer ([tu] vois comme j’y vais doucement) de remplacer cette chaîne malencontreuse d’évènements par quelque chose de moins ambitieux et de plus fonctionnel. (^ 4.4)
+- souviens-toi que tes cours, livres, formules etc. ne sont que des symboles, qu’une passerelle vers ce qui compte vraiment : la compréhension du monde. Prend le temps de former une image, un petit monde intérieur, pour chaque sujet que tu étudies. C’est ce petit monde que tu pourras facilement réutiliser lors d’un examen, que tu pourras complexifier (ou simplifier !) et affiner au fil de tes études, ou plus longtemps si tu continues la physique. C’est ce petit monde qui rend tout plus intéressant, plus vivant et plus simple. (^ 4.5)
+- Maintenant, tu vas me répondre : “Oui mais justement, je n’ai pas accès à des livres quand je suis en examen...” (^ 4.6)
+- un léger signal rassurant dont je t’ai parlé dans le chapitre sur les équations : il y a vraiment peu de choses à retenir, a priori (^)
+
+§ 2026-09-15
+- [old] Si tu as lu le cours plus vite que le professeur l’a expliqué, temporise en faisant des exercices. Si tu as traîné un peu, tant pis, note où tu as dû faire une pause dans le cours, et passe au chapitre suivant. Cette organisation permet à ce que tu lis et au bruit de fond de la classe d’être en résonance. Sans ça, suivre l’un ou l’autre relève de l’exploit. (^ 4.11)
+- expériences de pensée
+- te fixer toi-même une date butoir relativement proche à laquelle tu dois avoir terminé cette étape (^ 4.13)
+
+§ 2026-09-16
+- tu t’acharnes à rattraper un truc déjà parti de travers (^ 4.14)
+- Travaille, explore et détends-toi. Au bout d’un moment, tu en auras marre, ton cerveau va commencer à sauter de tous les côtés, tu ne sauras plus pourquoi tu es là, ni quoi faire. Ce que tu apprends te paraîtra de plus en plus obscur et confus. (^ 4.16)
+- Si tu t’y prends de cette manière-ci, tu t’entraînes à faire de la physique principalement dans de bonnes conditions et ton cerveau va associer “faire de la physique” avec “exploration, détente, truc intéressant et pas contraint”. En bonus, tu t’entraînes à te pousser un peu plus chaque fois, un peu au delà de ta zone de confort, qui elle-même s’étend, et c’est comme ça qu’on progresse. (^)
+- Il pense à ses cours tout le temps. (^)
+- Au bout d’un mois Georges commence à fatiguer. (^)
+
+§ 2026-09-17
+- Pour reprendre (et complètement travestir) une idée trouvée dans [nom d'un livre] (^ 4.18)
+- Enfin, rendons à César ce qui appartient à César : 8 secondes pour faire évaporer complètement une bouteille d’eau, c’est balèze quand même. (^ 6)
+- TODO ([Éric Malbrunot 22m](https://www.youtube.com/watch?v=oa1fKYLmk2w))
+- Les démarches sur l'économie de guerre, elles ont été confiées à la direction générale de l'armement qui les a mené selon sept axes d'effort : la visibilité, les commandes, la relocalisation, l'identification des goulets d'étranglement, l'optimisation des dispositifs internationaux, les ressources humaines, et la résilience, la sécurisation de la base industrielle de technologie et de défense. (Éric Malbrunot 3m ^)
+
+§ 2026-09-18
+- TODO britanniques quetsion + réponse
+- Pour ce qui nous concerne, la dissuasion nucléaire, qui est la clé de voûte de notre défense nationale, est bien l'assurance vie de notre pays face à toute menace existentielle, pour justement éviter d'être confronté de nouveau à la situation catastrophique que je viens de décrire. En tout cas, catastrophique... extrêmement compliqué. Cette considération est structurante. (4m30 ^)
+- Bien que la plupart des commandes et des concepts clés sont encore valables aujourd’hui vu que l’équipe du cœur de Git est assez fantastique pour garder la compatibilité ascendante, il y a eu quelques ajouts significatifs et des changements dans la communauté qui entoure Git. (pro git préface)
+- Certains peuvent plutôt trouver utile d’installer Git depuis les sources car on obtient la version la plus récente. (pro git démarrage rapide)
 
 {% include fin.html %}

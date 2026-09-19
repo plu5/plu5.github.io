@@ -2,11 +2,16 @@
 layout: post
 title: 17 — Encryption with git clean/smudge filters
 date: 2026-05-15 05:49
-modified_date: 2026-06-28 05:19
+modified_date: 2026-09-19 16:35
 categories: git cryptography
 lang: en
 redirect_from: /devlog/17
 ---
+
+{% include note.html content='
+> [!NOTE]
+> There are issues with my approach, see the [final section](#filter-stability).
+' %}
 
 ## Git attributes
 Smudge and clean filters are set in [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) ([fr](https://git-scm.com/book/fr/v2/Personnalisation-de-Git-Attributs-Git)) (or `.git/info/attributes`), which I currently know only as "the thing controlling what happens to line endings". I personally prefer for line endings to be kept as they are, so I often have a `.gitattributes` with `* -text` (disable "text" attribute for all files, which means it doesn't try to do line endings normalisation). Git attributes can also be used to control what diff does for different file types, avoid diffing certain files altogether (mark as binary), [exclude files from export](https://coder-joey.github.io/Utilising-Git-Attributes/), substitute format strings in export (`export-subst`, I imagine this is rarely used), ignore or prioritise certains files in a merge, or transform file contents.
@@ -1880,4 +1885,73 @@ git config --global filter.crypt.required true
 
 That's all. It's a lot simpler.
 
+## Filter stability
+A few months later: there are problems with this approach. Metadata can change on the files without the files content changing, which will provoke git to run the filter again on all of them, re-encrypting them, which will result in a different ciphertext despite the cleartext not having changed, and can also be very slow if it is a lot of files. Backup utilities for example alter change time (ctime) on files which will provoke this en masse.
+
+I had not realised git would run the filter first when it checks the file content. I had thought that it would compare the plaintext.
+
+To detect whether a file has changed, git first checks just the metadata on the file compared to what it has in `.git/index`. You can see them with `git ls-files --debug path/to/file` (ctime, mtime, dev[^1], ino, uid, guid, size, flags). Only if there is a mismatch does it look at the file content. That is why the re-encryption issue does not occur normally if you are working on a single local repository.
+
+For the ctime issue specifically, there is a config option `git config core.trustctime false` that sorts it, since the other fields still match.
+
+For ignoring other metadata fields that might be changed by some external program, there exists `git config core.checkstat minimal` which I saw user grotesque mention on his answer [here](https://stackoverflow.com/questions/12126247/why-does-git-index-change-when-i-havent-done-anything-to-my-repository) in 2020. According to [git-config](https://git-scm.com/docs/git-config#Documentation/git-config.txt-corecheckStat) docs, this will exclude the uid, gid, inode, and the sub-second part of mtime and ctime.
+
+Cloning is broken too. I had tested that, but maybe I only checked the files are ok and didn't run git status. After a clone, the files are not tracked; maybe the checkout / creation of the index can't finish properly? Then if adding the files or running `git reset HEAD`, all the files are re-encrypted despite not having changed. A workaround is to then run: `git -c filter.crypt.clean="git show HEAD:%f" update-index --really-refresh`.
+
+{% include note.html content='
+> [!NOTE]
+> That command is a bit dangerous, because if a file *was* changed, that change will be ignored, and more update-index calls will not help here unless the file\'s metadata changes again, because the content will not even be checked.
+>
+> If you accidentally did this to a file that does have changes that need to be committed and you don\'t want to have to touch the actual file on disk, you can do `git ls-files -s path/to/file | git update-index --index-info`. This will replace the entry of the file in the index with one with no stored metadata, forcing a recheck the next time you do `git status`.
+
+> See [intelfx's 2018 question](https://stackoverflow.com/questions/53721816/how-do-i-manipulate-dump-and-load-git-index-as-text) and [update-index: using `--index-info`](https://git-scm.com/docs/git-update-index#_using_index_info).
+' %}
+
+Risk: Something changing the metadata on files en masse and provokes this problem without the user knowing which files really changed.
+
+Afterwards I was confused about whether the problem is clean(x) ≠ clean(x), or clean(clean(x)) ≠ clean(x). [gitattributes](https://git-scm.com/docs/gitattributes) only talks about the latter. In our case, the filter doesn't satisfy either equality. I think the latter would be easier to resolve because we could change the filter to check if it's already encrypted first (by checking if it's in jwe format).
+
+> For best results, clean should not alter its output further if it is run twice ("clean→clean" should be equivalent to "clean"), and multiple smudge commands should not alter clean's output ("smudge→smudge→clean" should be equivalent to "clean"). See the section on merging below.  
+[—*gitattributes docs*](https://git-scm.com/docs/gitattributes)
+
+I ran `git -c 'filter.crypt.clean=tee /tmp/test | cat' update-index --really-refresh` and it is the plaintext that gets passed through the filter, so in this particular case it is clean(x) ≠ clean(x) which is the problem. I think this is unfixable without weakening the encryption by using a static iv or something like that. Unless the filter can check the file that is being compared against, decrypt it, and if it's the same plaintext, return the same ciphertext.
+
+In [this article by Nesbitt](https://nesbitt.io/2025/11/26/extending-git-functionality.html) about ways to extend git's functionality, the example for clean/smudge filters is encryption. git crypt and lfs use filters. So it should be possible to do it properly. He only mentions clean(clean(x)) and smudge(clean(x)), and not the problem with two separate cleans returning different results.
+
+> The constraint: filters must be idempotent. Running clean twice should produce the same output as running it once. And smudge(clean(x)) should equal x for anything you want to round-trip.
+
+I found this possibly relevant comment by Ben Boeckel [on a cmake forum discussion](https://discourse.cmake.org/t/externalproject-avoid-triggering-git-clean-filter-with-update-command/8662), but I don't completely understand it:
+
+> I don’t think there’s a general way to “turn off” filters without `-c` commands to `clone` (as this will also perform a checkout). `git-lfs` has an environment variable to no-op itself. Maybe your filter could be a script that does so around the “real” command?
+
+I also found [this 2017 devops.SE question](https://devops.stackexchange.com/questions/106/git-clean-smudge-filters-for-ansible-vault-secrets) by a user named Guido. The one answer he receives suggests to change the encryption to use a "fixed salt" (iv), which is unacceptable to me. But his own efforts to work around the problem interest me:
+
+> If you check the code, I am using a checksum to workaround the variable salt issue, ie. decrypt the HEAD vault in a tmp folder first and compare the checksums of plain text files before generating the new binary blob. That's a bit slow but actually ok. My problem is on merges now; in certain situations it works, in others I get the blob automerged before i can decrypt it and it breaks. – ᴳᵁᴵᴰᴼ Commented Mar 14, 2017 at 8:29
+
+What are all the properties the filters must satisfy? So far we have seen:
+
+- clean(x) = clean(x) # determinism
+- clean(clean(x)) = clean(x) # idempotence
+- clean(smudge(clean(x))) = clean(x) # cycle stability
+
+I am not sure what else.
+
+- clean needs to be able to handle content already passed by smudge the same as original content
+- smudge then clean should return to the same state
+- the clean result as "canonic representation"
+
+Searching for existing filters:
+
+(1) [dracon-warden-secret-encrypt-age-git-filter/src/main.rs](https://gitlab.com/DraconDev/dracon-warden-secret-encrypt-age-git-filter/-/blob/main/src/main.rs): It's long (4100 lines) and seems to be by an AI company so I'm not sure about it, but a lot of explanatory comments, for example that they use a timeout because:
+
+> If the parent (git) crashes or never sends EOF, the filter process would otherwise hang forever (`read_to_end` blocks indefinitely). 30s is generous for normal operations (a 100MB file encrypts in <1s) but caps the worst-case hang. On timeout we exit non-zero so git knows the filter failed; returning passthrough would silently corrupt data.
+
+(2) [dotagents/install-git-filter.sh](https://github.com/cormacc/dotagents/blob/main/install-git-filter.sh):
+
+> This script registers a git clean filter that drops those volatile fields when the file is staged, while leaving the working-tree copy untouched (smudge = cat). Pi keeps writing whatever it likes; git only ever sees the durable subset" "Safe to re-run; idempotent.
+
+(3) Presumably should look more into git crypt and lfs.
+
 {% include fin.html %}
+
+[^1]: According to [racy-git](https://git-scm.com/docs/racy-git), by default dev is not used in the comparison, "because this member is not stable on network filesystems."
