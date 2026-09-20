@@ -2,7 +2,7 @@
 layout: post
 title: Repositories
 date: 2026-09-19 15:17
-modified_date: 2026-09-19 17:20
+modified_date: 2026-09-20 00:26
 categories: list
 lang: en
 ---
@@ -25,6 +25,7 @@ lang: en
 
 ## Text
 - [`site`](https://github.com/plu5/plu5.github.io)
+- [`wog-quiz-guide`](https://github.com/plu5/wog-quiz-guide) (steam guide)
 
 ## Small tools and code snippets
 - [`tool`](https://github.com/plu5/tool)
@@ -63,5 +64,23 @@ lang: en
 - [`testing-actions-github`](https://github.com/plu5/testing-actions-github) (fork)
 - [`testing-staticx`](https://github.com/plu5/testing-staticx)
 - [`git-filters-test`](https://github.com/plu5/git-filters-test)
+
+## Contributions: Accepted
+- imenu-list (emacs)
+  + i still use that package daily so it's cool to have contributed a tiny thing, which was iirc just to prevent the face for nested entries from extending over the entire line instead of just the text
+- bl-sdk.github.io
+  + to add my borderlands mods to the registry
+- ebooklib
+  + just to fix a little warning. i am so proud to be in the list of authors and also in the list of projects that use ebooklib :-D
+
+## Contributions: Rejected/ignored
+- smart-mode-line (emacs)
+  + options to make it possible to customise it to look more like powerline (like rearranging some elements)
+- PythonSDK
+  + attempts to improve the documentation, and an attempt to fix a mod that was included (the result of which was reminding the maintainers it even exists and resulting in its deletion...)
+- file_watchtower
+  + path handling on windows
+- mpv-handler-queue ([`#1`](https://github.com/gabreek/mpv-handler-queue/pull/1))
+  + a fix for newer versions of mpv where the format of the loadfile command changed
 
 {% include fin.html %}

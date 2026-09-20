@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-09-19 15:08
+modified_date: 2026-09-20 01:31
 categories: lang
 lang: fr
 ---
@@ -1258,8 +1258,9 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-09-17
 - Pour reprendre (et complètement travestir) une idée trouvée dans [nom d'un livre] (^ 4.18)
 - Enfin, rendons à César ce qui appartient à César : 8 secondes pour faire évaporer complètement une bouteille d’eau, c’est balèze quand même. (^ 6)
-- TODO ([Éric Malbrunot 22m](https://www.youtube.com/watch?v=oa1fKYLmk2w))
-- Les démarches sur l'économie de guerre, elles ont été confiées à la direction générale de l'armement qui les a mené selon sept axes d'effort : la visibilité, les commandes, la relocalisation, l'identification des goulets d'étranglement, l'optimisation des dispositifs internationaux, les ressources humaines, et la résilience, la sécurisation de la base industrielle de technologie et de défense. (Éric Malbrunot 3m ^)
+- Sur le temps court, on va privilégier le calendrier, la délivrance, quitte à avoir des performances moindres. C'est pas très français, ça demande un effort important, et un coût bien sûr moindre pour avoir des quantités plus importantes. Dans le temps long, on va privilégier plutôt la performance, bien sûr la tenue du calendrier, c'est là où ce que je vous disais dans mon propos introductif, on s'attache à trouver le bon niveau d'ambition, le bon niveau de besoin, pour ne pas rechercher forcément un coin de domaine, mais avoir quelque chose dont on va pouvoir tenir le calendrier et que les capacités-- que les forces-- pardon, dont les forces vont disposer ensuite assez rapidement. ([Éric Malbrunot 23m](https://www.youtube.com/watch?v=oa1fKYLmk2w))
+- Alors sur l'accès au financement des PME, là je suis pour le coup complètement en dehors de ma ligne d'eau (27m45 ^)
+- Les démarches sur l'économie de guerre, elles ont été confiées à la direction générale de l'armement qui les a mené selon sept axes d'effort : la visibilité, les commandes, la relocalisation, l'identification des goulets d'étranglement, l'optimisation des dispositifs internationaux, les ressources humaines, et la résilience, la sécurisation de la base industrielle de technologie et de défense. (3m ^)
 
 § 2026-09-18
 - TODO britanniques quetsion + réponse

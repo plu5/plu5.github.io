@@ -2,7 +2,7 @@
 layout: post
 title: Git
 date: 2026-04-21 22:15
-modified_date: 2026-09-16 12:30
+modified_date: 2026-09-19 20:54
 categories: git
 lang: fr
 ---
@@ -36,6 +36,7 @@ lang: fr
 - `git reset HEAD~` : annuler le commit précédent
   + il m'est arrivé de casser un dépôt avec ça, je pense que ce dépôt était déjà corrompu / reflog déglingué, mais n'empêche que je préfère de nos jours si besoin de modifier le dernier commit d'utiliser `git commit --amend` ou juste faire un autre commit et accepter que l'erreur va être dans l'historique.
 - `git push` / `pull`
+- `git checkout HEAD fichier`
 
 ## Branches
 - `git checkout -b nouvellebranche`
@@ -68,5 +69,19 @@ Exemples :
 - changer input à textarea dans le DOM pour passer du texte multiligne à workflow dispatch
   + j'ai écrit un userscript pour le faire automatiquement https://gist.github.com/plu5/dbbe0c3ba407c1e8ed432342edcd70e8
 - ajouter .patch à la fin du lien vers un commit pour voir plus d'informations, y compris l'adresse mail du contributeur
+
+## Plomberie
+- ajouter un objet : echo "hi" | git hash-object -w --stdin
+- afficher contenu : git cat-file -p [hash]
+- afficher type (blob/tree/...) : git cat-file -t [hash]
+- indexer et stager : git update-index --add --cacheinfo 100644 [hash] "nom"
+- git write-tree
+- git commit-tree [hash] -m "commit msg"
+- git update-ref refs/heads/master [hash]
+
+les sous-dossiers de .git/objects sont les deux premières lettres des objets qu'ils contiennent (pour avoir le hash de l'objet il faut concatener le nom du sous-dossier et le nom du fichier). vous n'avez pas besoin de fournir le hash entier, ni même le 7 premiers caractères, juste la quantité suffisante pour qu'il soit unique.
+
+## Ressources
+- [en] [JavaZone 2012 talk _Advanced Git_](https://vimeo.com/49444883) de Tim Berglund
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: 17 — Encryption with git clean/smudge filters
 date: 2026-05-15 05:49
-modified_date: 2026-09-19 17:22
+modified_date: 2026-09-19 19:16
 categories: git cryptography
 lang: en
 redirect_from: /devlog/17
@@ -1951,6 +1951,8 @@ Searching for existing filters:
 > This script registers a git clean filter that drops those volatile fields when the file is staged, while leaving the working-tree copy untouched (smudge = cat). Pi keeps writing whatever it likes; git only ever sees the durable subset" "Safe to re-run; idempotent.
 
 (3) Presumably should look more into git crypt and lfs.
+
+Potentially useful: [2012 SO question](https://stackoverflow.com/questions/10883350/git-pass-different-variable-to-smudge-filter-according-to-the-project-it-is-invo) by  Momo Rosin. Passing information to filters by reading/writing config or a file in the working directory.
 
 {% include fin.html %}
 
