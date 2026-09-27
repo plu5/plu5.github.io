@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-09-13 22:46
+modified_date: 2026-09-25 01:58
 categories: os
 lang: fr
 ---
@@ -270,6 +270,8 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 
 ## pacman
 [wiki](https://wiki.archlinux.org/title/Pacman_(Fran%C3%A7ais))
+- `sudo pacman -S paquet1 paquet2 ...` : installer
+- `sudo pacman -R paquet1` : supprimer
 - `pacman -Qe` : afficher les paquets qu'on a installé explicitement. sans le `e` pour afficher tout.
 - `pacman -Qi [nom]` : afficher des informations sur un paquet, notamment ses dépendances. `-Ql` pour afficher les fichiers. `-Qk` pour afficher le nombre de fichiers.
 - `pacman -Qm` : afficher les paquets étrangers (AUR)
@@ -356,6 +358,8 @@ combiner vidéos sans réencodage :
 lister vidéos d'une chaîne (cf manpage pour les champs disponibles)
 - yt-dlp --flat-playlist --print "%(timestamp>%Y-%m-%d)s %(title)s %(duration_string)s - %(id)s" "https://www.youtube.com/@lcpassembleenationale/videos"
   + mais je reçois NA au lieu du timestamp
+- des champs alternatifs séparés par une virgule : `%(timestamp>%Y-%m-%d,upload_date,release_timestamp,release_date,release_year,modified_timestamp,modified_date|?)s`
+- `id`, `title`, `fulltitle`, `ext`, `alt_title`, `description`, `display_id`, `uploader`, `uploader_id`, `uploader_url`, `license`, `creators`, `timestamp`, `upload_date`, `release_timestamp`, `release_date`, `release_year`, `modified_timestamp`, `modified_date`, `channel`, `channel_id`, `channel_url`, `channerl_follower_count`, `channel_is_verified`, `location`, `duration`, `duration_string`, `view_count`, `concurrent_view_count`, `like_count`, `dislike_count`, `repost_count`, `average_rating`, `comment_count`, `save_count`, `age_limit`, `live_status`, `is_live`, `was_live`, `playable_in_embed`, `availability`, `media_type`, `start_time`, `end_time` (liste non exhaustive)
 
 ## sqlite3
 - sqlite3 'file:chemin?mode=ro'
@@ -363,7 +367,9 @@ lister vidéos d'une chaîne (cf manpage pour les champs disponibles)
   + SELECT * FROM nom;
   + PRAGMA table_info(nom);
 - .tables
-- .mode line
+- .mode line -limits off
+- .mode --list
+  + available modes: ascii box c column count csv html insert jatom jobject json line list markdown off psql qbox quote split table tabs tcl batch tty
 - .quit
 
 ## Termes

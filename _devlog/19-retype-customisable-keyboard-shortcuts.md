@@ -2,7 +2,7 @@
 layout: post
 title: 19 — retype customisable keyboard shortcuts
 date: 2026-05-20 12:57
-modified_date: 2026-06-05 06:51
+modified_date: 2026-09-22 15:41
 categories: retype
 lang: en
 redirect_from: /devlog/19
@@ -2690,8 +2690,8 @@ Our ActionInfo dictionary is getting annoyingly complicated, but maybe something
                 'tooltip': 'Go to the cursor position. Hold Ctrl to move\
  cursor to your current position',
                 'icon': 'cursor',
-                'widget': self.toolbar,
-                'widget_ui': self,
+                'widget': self,
+                'widget_ui': self.toolbar,
                 'args_regex': '(m|move)',
                 'args_func': lambda m: self.gotoCursorPosition(move=True),
             },

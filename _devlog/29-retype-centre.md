@@ -2,7 +2,7 @@
 layout: post
 title: 29 — retype centreAroundCursor issues
 date: 2026-09-19 01:52
-modified_date: 2026-09-19 11:58
+modified_date: 2026-09-20 12:01
 categories: retype
 lang: en
 redirect_from: /devlog/29
@@ -45,5 +45,7 @@ Could connect `centreAroundCursor` to the scrollbar's `rangeChanged`, but the ra
 TODO debug with a breakpoint in a scrollbar range change event handler
 
 TODO workaround for now: try checking scrollbar max and if it's higher than the value calculated schedule another call. this risks an infinite loop however
+
+or maybe just do the 1 ms delay because although it's unsatisfying it's the simplest way to fix it. and the cursor being centred on the wrong position is a lot more annoying than the flash. though we have to be subjected to the flash every time while the centring issue is somewhat rare...
 
 {% include fin.html %}

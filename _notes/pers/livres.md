@@ -2,7 +2,7 @@
 layout: post
 title: Livres finis
 date: 2026-09-18 00:15
-modified_date: 2026-09-18 00:32
+modified_date: 2026-09-22 01:55
 categories: suivi
 lang: fr
 ---
@@ -13,5 +13,8 @@ lang: fr
 
 § 2026-09-17
 - [fr] _Étudier la physique_ de Clément Moissard
+
+§ 2026-09-21
+- [fr] _Ne ferme pas les yeux_
 
 {% include fin.html %}
