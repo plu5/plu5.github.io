@@ -2,7 +2,7 @@
 layout: post
 title: Notes ranger (gestionnaire de fichiers)
 date: 2026-04-22 21:31
-modified_date: 2026-08-07 05:23
+modified_date: 2026-10-04 07:55
 categories: soft
 lang: fr
 ---
@@ -14,7 +14,9 @@ lang: fr
 - `Espace` : marquer
 - `d` : supprimer
 - `cw` : renommer
+  + yn cw C-y
 - `S-j`, `S-k` : pg préc, pg suiv
+- `o` : trier
 
 ## Références
 - [Cheatsheet par heroheman](https://gist.github.com/heroheman/aba73e47443340c35526755ef79647eb)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-09-25 01:58
+modified_date: 2026-10-04 06:49
 categories: os
 lang: fr
 ---
@@ -310,6 +310,10 @@ clear ntfs dirty flag :
 - Sous Windows (recommandé) : chkdsk /f X:
   + il y a des risques là aussi ; si le disque se déconnecte pendant le processus, il pourrait devenir impossible à monter. sans le `/f` fait le scan en mode readonly qui ne risque pas ça mais ne clear pas le dirty flag.
 - ~~Sous Linux (dangereux) : sudo ntfsfix -d /dev/sdXN~~
+
+sur un système avec un ssd, il est conseillé de lancer une fois par semaine :
+- sudo fstrim -av
+[https://www.linuxtricks.fr/wiki/linux-lancer-un-trim-sur-le-disque]
 
 incertain :
 - hdparm -y

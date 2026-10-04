@@ -2,7 +2,7 @@
 layout: post
 title: Règles personnelles
 date: 2026-05-02 05:15
-modified_date: 2026-09-22 04:31
+modified_date: 2026-10-02 07:16
 categories: conneries
 lang: fr
 ---
@@ -33,6 +33,9 @@ lang: fr
 § 2026-09-21
 - ne pas laisser de traces inutilement. mieux vaut l'absence d'information qu'une information qui ne sert qu'à distraire et polluer l'esprit
 - pas qu'un seul plan, et des choses à faire si ça ne marche pas, de la flexibilité et assez de réalisme et de sobriété pour reconnaître qu'il y a peu de chance que ça se passe comme prévu
+
+§ 2026-10-01
+- ne pas gaspiller les petits moments, chaque moment compte, je dois m'assurer que je suis toujours en train de faire avancer les choses.
 
 {% include fin.html %}
 

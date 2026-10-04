@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-09-26 20:06
+modified_date: 2026-10-03 20:04
 categories: lang
 lang: fr
 ---
@@ -1296,5 +1296,22 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
   + [pas _sur_ ? "travailler à un tableau" renvoie très peu de résultats]
 - La contemplation de la toile paraissait lui avoir donné envie de travailler, il retroussa ses manches, saisit quelques crayons, et K. vit leurs pointes frémissantes créer progressivement une ombre rougeâtre qui, partant de la tête du juge, rayonnait vers les bords du tableau, où elle s'estompait. Ce jeu d'ombres finit par faire autour de la tête comme une parure ou comme le signe d'une haute distinction. (^ p.180)
 - Il ne faut pas faire des aller-retours incessants entre _nous_ et _on_ ([joelooc](https://forum.wordreference.com/threads/dont-keep-switching-back-and-forth-between.3296062/))
+
+§ 2026-09-28
+- Je ne reste pas souvent au même endroit parce que je me lasse vite. ([wr](https://www.wordreference.com/fren/se%20lasser))
+- il se faisait des illusions
+
+§ 2026-10-01
+- Le cinéma a souvent tiré parti de ce genre de situation et de ses puissances dramatiques : là où l'on voit une vieille juive rescapée des camps d'extermination nazis se faire traiter de folle lorsqu'elle hurle en pleine rue et se heurte à l'indifférence des passants, ayant reconnu l'un de ses bourreaux – par exemple (Schlesinger, 1976). ([Alain Brossat](https://www.peren-revues.fr/revue-k/185?file=1))
+- il va naturellement se sentir fort coupable d’imposer tout ce tracas à ses parents (^)
+- se peut-il que ce soit moi, ce déchet humain, cette loque, cette carcasse qui geint…? (^)
+- la belle mort antique, chrétienne, guerrière et sainte, c'est le mensonge de la civilisation par excellence. (^)
+- truchement ici, peut-être, de l'auteur (^)
+
+§ 2026-10-02
+- ce n'est pas parce que l'on ne peut pas s'empêcher de fantasmer que l'on peut pour autant se délier de la honte qu'il y a à vivre sous l'emprise de ses fantasmes... (^)
+
+§ 2026-10-03
+- Je veux juste rappeler une chose : depuis six ans, ce pays, grâce à la politique de l'offre des gouvernements précédents, a créé 150 mille emplois industriels, et a créé plus de sites qu'il n'en [a] fermé. Ça c'est factuel, ce [sont] les chiffres de l'INC. Deuxième élément, ils ont baissé-- les industriels ont baissé leurs émissions de gaz à effet de serre dans le rythme qui était attendu. Ce [sont] les chiffres de l'INC, monsieur. Je sais que ça heurte, parce qu'on voudrait dire le contraire, mais ce sont les chiffres de l'INC. Donc on peut dire que l'INC ment, mais vous voyez, à un moment faut quand même revenir... moi je suis quelqu'un très très _facts and data_, donc je vous donne les chiffres. ([Agnès Pannier-Runacher 35m](https://www.youtube.com/watch?v=8m9I7iSRuJE))
 
 {% include fin.html %}
