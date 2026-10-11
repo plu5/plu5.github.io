@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-10-04 06:49
+modified_date: 2026-10-11 04:44
 categories: os
 lang: fr
 ---
@@ -22,6 +22,7 @@ lang: fr
    + `taille=$(du -kd0 "$nom" | cut -f 1)` : si besoin d'avoir juste un chiffre, par ex. pour un script 
      <br>(`-k` : block size 1K, c-à-d kilobits.)
    + `du -h <dir> | grep '[0-9\.]\+G'` ([Ben Collins](https://unix.stackexchange.com/a/125433))
+- `wc fichier` : le nombre de lignes, mots, octets d'un fichier
 - `swapon --show` : l'état du swap
 - `stat monfichier` : les dates, taille, permissions d'un fichier
 - `file monfichier` : le type d'un fichier
@@ -248,8 +249,10 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 ## Débogage
 - `journalctl --no-pager --since "1 hour ago"`
   + `-p err..alert` pour limiter aux messages d'erreur, critiques, et d'alerte
+  + `-k` dmesg
 - `strings -n 8` : pour voir des journals tronqués
 - `sudo dmesg -HP` : messages du noyau (kernel ring buffer) human readable, no pager
+  + ça ne montre que le boot actuel, pour les précédents utilise journalctl avec `-k` et `-b -1` pour le boot précédent
 - `coredumpctl list --no-pager` : liste de crashs. même si la génération de coredumps est désactivée.
   <br>l'affichage dépend de la taille de la fenêtre alors je mets mon terminal en plein écran avant.
 - `ss -tulpn` : afficher les ports ouverts

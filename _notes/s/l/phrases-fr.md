@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-10-03 20:04
+modified_date: 2026-10-10 08:57
 categories: lang
 lang: fr
 ---
@@ -1312,6 +1312,18 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 - ce n'est pas parce que l'on ne peut pas s'empêcher de fantasmer que l'on peut pour autant se délier de la honte qu'il y a à vivre sous l'emprise de ses fantasmes... (^)
 
 § 2026-10-03
-- Je veux juste rappeler une chose : depuis six ans, ce pays, grâce à la politique de l'offre des gouvernements précédents, a créé 150 mille emplois industriels, et a créé plus de sites qu'il n'en [a] fermé. Ça c'est factuel, ce [sont] les chiffres de l'INC. Deuxième élément, ils ont baissé-- les industriels ont baissé leurs émissions de gaz à effet de serre dans le rythme qui était attendu. Ce [sont] les chiffres de l'INC, monsieur. Je sais que ça heurte, parce qu'on voudrait dire le contraire, mais ce sont les chiffres de l'INC. Donc on peut dire que l'INC ment, mais vous voyez, à un moment faut quand même revenir... moi je suis quelqu'un très très _facts and data_, donc je vous donne les chiffres. ([Agnès Pannier-Runacher 35m](https://www.youtube.com/watch?v=8m9I7iSRuJE))
+- Je veux juste rappeler une chose : depuis six ans, ce pays, grâce à la politique de l'offre des gouvernements précédents, a créé 150 mille emplois industriels, et a créé plus de sites qu'il n'en [a] fermé. Ça c'est factuel, ce [sont] les chiffres de l'INC. Deuxième élément, ils ont baissé-- les industriels ont baissé leurs émissions de gaz à effet de serre dans le rythme qui était attendu. Ce [sont] les chiffres de l'INC, Monsieur Peu. Je sais que ça heurte, parce qu'on voudrait dire le contraire, mais ce sont les chiffres de l'INC. Donc on peut dire que l'INC ment, mais vous voyez, à un moment faut quand même revenir... moi je suis quelqu'un très très _facts and data_, donc je vous donne les chiffres. ([Agnès Pannier-Runacher 35m](https://www.youtube.com/watch?v=8m9I7iSRuJE))
+
+§ 2026-10-04
+- attention, comparaison n'est pas raison (^ 58m)
+- attention à ce qu'on raconte parce que ça induit beaucoup de gens en erreur (^ 1h2)
+- beaucoup d'approximations dans votre propos (^ 1h5)
+  + vos ?
+
+§ 2026-10-07
+- Très intéressant le débat sur le droit du travail et le rapport de subordination. C'est fascinant comme on en revient toujours à ce choix impossible : vous préférez indépendance+précarité ou sécurité+servitude ? (sans oublier ceux qui n'ont même pas ce choix et qui subissent la servitude doublée de la précarité) ([pierrettecitrouille](https://www.youtube.com/watch?v=WRyCePXAYZA))
+
+§ 2026-10-10
+- j'ai l'impression que ça fait une éternité
 
 {% include fin.html %}
