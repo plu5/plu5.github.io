@@ -2,7 +2,7 @@
 layout: post
 title: Règles personnelles
 date: 2026-05-02 05:15
-modified_date: 2026-10-02 07:16
+modified_date: 2026-10-16 03:39
 categories: conneries
 lang: fr
 ---
@@ -36,6 +36,9 @@ lang: fr
 
 § 2026-10-01
 - ne pas gaspiller les petits moments, chaque moment compte, je dois m'assurer que je suis toujours en train de faire avancer les choses.
+
+§ 2026-10-15
+- don't make assumptions, either verify or say what you actually saw rather than what you conclude from it
 
 {% include fin.html %}
 

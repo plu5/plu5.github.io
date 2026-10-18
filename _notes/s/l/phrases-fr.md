@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-10-10 08:57
+modified_date: 2026-10-17 13:33
 categories: lang
 lang: fr
 ---
@@ -1325,5 +1325,22 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-10-10
 - j'ai l'impression que ça fait une éternité
+
+§ 2026-10-12
+- je suis parano à l'idée de me faire tirer dessus
+
+§ 2026-10-13
+- guillemets simples `'`, guillemets doubles `"`
+
+§ 2026-10-15
+- bury your head in your hands par exaspération : (se prendre / s'enfouir) (la/sa tête / le/son visage) dans (les / ses) mains
+- se tenir la tête entre les mains
+- se cacher le visage dans les mains
+- faire des suppositions
+- tirer des conclusions hâtives
+- partir du principe que...
+
+§ 2026-10-17
+- une partie qui dépasse
 
 {% include fin.html %}

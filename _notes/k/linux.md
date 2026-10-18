@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-10-11 04:44
+modified_date: 2026-10-17 12:06
 categories: os
 lang: fr
 ---
@@ -29,11 +29,13 @@ lang: fr
   + `--mime-type` (ex. `text/plain`)
   + `--mime-encoding` (ex. `utf-8`)
 - `find | wc -l` : nombre de fichiers dans le dossier actuel (récursif)
+- `find ~/.local/share/icons /usr/share/icons -path '*/mimetypes/*' -iname '*pdf*' -o -iname '*epub*'`
 - Trouver un processus
   + `pgrep -x monprocessus` : pid d'un processus par nom exact
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)
     <br>les crochets autour de la première caractère permettent d'éviter de trouver le processus du grep aussi (puisque dans le processus grep il va y avoir `[m]onprocessus` qui ne correspond pas au regex).
   + `ps -eo pid,lstart,cmd`
+  + `ps -eo args` : arguments de lancement des processus en cours
 - `kill [pid]` : tuer gentillement (par pid)
   + avec `-9` ou `-KILL` pour le forcer
 - `pkill monprocessus` : tuer gentillement (par nom)
@@ -278,6 +280,7 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - `pacman -Qe` : afficher les paquets qu'on a installé explicitement. sans le `e` pour afficher tout.
 - `pacman -Qi [nom]` : afficher des informations sur un paquet, notamment ses dépendances. `-Ql` pour afficher les fichiers. `-Qk` pour afficher le nombre de fichiers.
 - `pacman -Qm` : afficher les paquets étrangers (AUR)
+- `grep [nom] /var/log/pacman.log` : dates d'installation / mise à jour
 
 ## DPMs
 - désactiver : xset -dpms
@@ -463,6 +466,14 @@ sudo ln -s /media/Windows/Users/pm/dev/reps/plu5.github.io ~/OneDrive/backups/re
 2. Connecter le téléphone
 3. Déverrouiller le téléphone et 'Trust This Computer'
 4. Le réseau est considéré comme filaire (wired) et prioritaire sur le wifi
+
+#### Cacher une icône tray
+- `xdotool search --class [class]`
+  + ou bien `--name [name]`
+- la bonne fenêtre va être 10x10 avec XY absolus qui correspondent à la position de l'icône sur l'écran, on peut vérifier chaque id avec une commande comme : xwininfo -id [id]
+- xdotool windowunmap [id]
+- pour la faire revenir : xdotool windowmap [id]
+- cf [man xdotool](https://man.archlinux.org/man/xdotool.1.en)
 
 ### bspwm
 #### La position d'une fenêtre

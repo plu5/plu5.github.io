@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-09-10 16:48
+modified_date: 2026-10-15 17:31
 categories: ukpol
 lang: en
 ---
@@ -2553,6 +2553,92 @@ Lamont standing in for the seventh time.
 - World suicide prevention day. "This Government is firmly committed to tackling suicide, and new mental health hubs and emergency centres announced over the summer represent a crucial step forward in delivering early community-based support."
 - Sanctions against illegal settlements in the Palestinian territories.
 - "Growth Britain", drive devolution, "growth in every postcode"
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+## 2026-10-15
+ni troubles bill, church appointment repeal of discriminatory provisions bill, libdems opposition day, tributes to the clerk of the house, black history month, performance of the royal mail, emerging risks of advanced ai, building safety remediation of unsafe cladding etc bill, budget
+
+norman:
+- let me associate myself first of all with everything that's been said in the previous debate about the fiasco of the sustainable farming incentive.
+- we meet today on the 5th anniversary of the death, the murder, of sir david amess. i know all colleagues will want to join me in celebrating david, his perennial optimism, his beaming smile, his enormous gift for friendship, and his unfailing energy in assisting and supporting his constituents. the independent report into his murder, let by sir robert buckland, cannot come too soon.
+- i have three matters to raise. the first relates indirectly to david amess.
+- As the Leader will know, at Prime Minister's questions yesterday, the Prime Minister described the man charged with the murder of our former colleague, Anne Widdecombe, as the man responsible for her murder. That statement breached the legal presumption of innocence, discussed a case which is sub judice, and mislead the House. It must have been inadvertent, but there has been no clarification yet--
+- GHANI: Order. We don't accuse each other of misleading the House, inadvertently is the word we use prior to that, Jesse Norman.
+- Thank you, Madam Deputy Speaker. As I think I said, it was inadvertent, whatever took place, but there has been no clarification from the Prime Minister or any Minister, no withdrawal of the remark, and no apology. That is deeply dispecful-- disrespectful of this House and of the Chair. Will the Leader now correct the record, withdraw the remark, and apologise on behalf of the Prime Minister?
+- Secondly, as the House will know, Manchester City has been found guilty by an independent commission of 114 of the 115 charges brought against it by the Premier League, including inaccurate financial reporting, undisclosed remuneration, and failure to co-operate with the investigations. This week, having previously been neutral on the issue, the Prime Minister thought to distance himself personally from the club and its owners, but otherwise he and Ministers have remained remarkably quiet, especially since his own club, Everton, had an eight-point deduction for two breaches, that's 112 fewer than have been found here, just three years ago. So can the Leader set out the Government position? does it regard these breaches as extremely serious, or does it believe that a few eggs may have been broken, but broadly speaking, everything is all right? And when will we get a statement from the Sports Minister on this subject?
+- Finally, last November, I highlighted the severe flooding suffered by Ewyas Harold in my constituency. Homes were inundated, people and businesses were evacuated, families left with huge financial and emotional costs. Insurance premiums have gone up where insurance remains available at all. The school, the doctor's surgery, and access for emergency services were cut off. Other nearby villages, including Clodock, Kentchurch, and Allt-yr-ynys were similarly afflicted. But now, 11 months later, despite an all-parties meeting which I convened last March, and repeated representations to Ministers, to the Environment Agency, and Herefordshire Council, there has been no substantive progress. Madam Deputy Speaker, the Government's own Office for Science believes El Niño is likely to be bigger than ever this year. My constituents are deeply anxious that floods this winter will drive them yet again from their homes and businesses. Fixing this does not require some vast engineering project. Better drainage, watercourse maintenance, management of runoff, and other practical mitigations could all make the difference. But the residents are in a catch 22 situation that will be familiar to many people across this House; no one in authority is taking any responsibility, but they are not allowed, by law, to help themselves. The works could all be done legally, quickly, and effectively this year by local companies at less than half the cost of the EA's framework contractors, but that is prohibited. No one will come to the aid of these people, but put one foot into the watercourse just to clear the debris, and they risk prosecution. I've made a final-- a formal budget submission to the Chancellor on this matter, but will the Leader now take it up personally with the Chancellor and the Environment Secretary and make funding this scheme the first order of business for the Government's new flood resilience taskforce?
+
+campbell:
+- may i first of all associate myself absolutely with the comments of the shadow leader of the house with regard to sir david amess. as he said, today is the anniversary, the fifth anniversary of his tragic murder, and i know that the thoughts of the whole house will remain with his loved ones. he was well-regarded on both sides of the house. he was a mentor to lots of new members, and a fantastic constituency mp, and what happened was an absolute tragedy.
+- madam deputy speaker, i want to welcome members back to the house after the conference recess, and congratulate the new member for holborn and st pancras [!] to her place, as she joined us on monday.
+- it's also good, madam deputy speaker, to see the shadow leader in his place. we missed him earlier in the week [shit. i missed it too] [or not?], and i was concerned that he was still in an half-empty conference hall in birmingham, wondering whether the shadow chancellor had actually finished his speech or not.
+- it was a busy conference season, and at the labour conference the prime minister made several important announcements, including outlining plans for a national care service, which will provide the elderly with free personal care. the government has also announced that the triple lock will remain until the end of this parliament, following which it will be adjusted, not least to pay for the new national care service. now i don't blame the official opposition for doing this, because partly it's their job, but they did jump in very quickly to oppose any change to the triple lock, and i find that quite surprising, madam deputy speaker, because in august 2021, the shadow chancellor wrote a comment piece entitled Unpick the Triple Lock, and i understand that this view that it should be unpicked is shared by the current shadow secretary for communities, and at least one former chancellor, and it appears to me, madam deputy speaker, that the party opposite are really tying themselves in knots on this matter, and it would be very helpful if the leader of the opposition, or someone from her shadow cabinet, came to the house to clear up the confusion.
+- i want to turn to the budget, and i did announced in the forthcoming business the date of the budget and the beginning of the debate which will follow, and in that debate i hope that the house will be able to reflect on britain's economic outlook, and to that end the house's attention to the positive report of the IMF this week, upgrading our growth to 1.3% this year, joint-second highest in the g7. also the comments of the IMF's chief economist, who said that the uk stands out--his words, not mine--on deficit reduction, with our deficit falling significantly more than other g7 nations. and also other good news this morning with the GDP having grown more than expected. we're not complacent, madam deputy speaker, but the chancellor is absolutely focused on priorities to boost business, help with the cost of living, and support people in every postcode, all underpinned by the fiscal discipline which characterises this government.
+- i also want to talk about flood action week, and this ties in really with what the right hon. gentleman said about the situation in his constituency. Monday marked the start of Flood Action Week, and the Government has invested 4.2 billion pounds in flood protection measures, and with new targets to improve flood protections for 200 thousand properties. We've also launched the Flood Action Online portal on Monday, which brings together clear actionable guidance for people to check their flood risk and find the latest weather alerts. This is an issue which has been raised regularly at Business Questions by Members from both sides of the House, and I thank them for doing so.
+- That doesn't address the particular issue that the right hon. Gentleman rightly raised on behalf of his constituents, so let me say two things further on flooding. One is that if he wants to make his case to the Floods Minister, I will arrange for him to do so. and he asks about making representation to the Chancellor; I'll make sure that the Chancellor hears what he has said today. I'm not going to say, obviously, because I don't know what is in the Budget, but I will make sure that the Chancellor hears that.
+- in terms of the other points that he made, i'm not sure that he's being characteristically fair as he normally is, because the Prime Minister has acknowledged that he misspoke. The right hon. Gentleman was out quite quickly, and rightly, to make his case yesterday, and the Prime Minister did respond. He said that he misspoke, he has apologised, and he has corrected the record. And I think, Madam Deputy Speaker, that there isn't an excuse for misspeaking in the House, and I'm not trying to explain that away, but this Prime Minister is characterised by an authenticity and a passion in the way that he responds. It's not unusual, either for Prime Ministers or for anybody else to [mis]speak in the House. As long as you correct the record, which he has done, then I think that that should be put into perspective.
+- he also raises the issue of manchester city, and the Prime Minister, again, has been characteristically very clear about this. He has made clear that the initial judgement on the club is very serious, and there's no one suggesting that anybody is above the rules. There is an ongoing independent process, it's important that it is allowed to run its course as quickly and as fairly as possible, and at the end of that, if the Sports Minister needs to come to make a statement to this House, I'm quite sure that she'll do that.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answered**
+
+[Happened at 11:24](https://parliamentlive.tv/event/index/83ea1b47-4cf9-45da-b880-642b6f6cb7dd?in=11:24:03). [Hansard](https://hansard.parliament.uk/commons/2026-10-15/debates/524D5B7F-8BE9-432D-9DEB-90E4302A691E/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) ✔️ Q1: Will he apologise for the Prime Minister misleading the House in PMQs?
+
+> **NORMAN:** As the Leader will know, at Prime Minister's questions yesterday, the Prime Minister described the man charged with the murder of our former colleague, Anne Widdecombe, as the man responsible for her murder. That statement breached the legal presumption of innocence, discussed a case which is sub judice, and mislead the House. It must have been inadvertent, but there has been no clarification yet--
+
+> **GHANI:** Order. We don't accuse each other of misleading the House, inadvertently is the word we use prior to that, Jesse Norman.
+
+> **NORMAN:** Thank you, Madam Deputy Speaker. As I think I said, it was inadvertent, whatever took place, but there has been no clarification from the Prime Minister or any Minister, no withdrawal of the remark, and no apology. That is deeply disrespectful of this House and of the Chair. Will the Leader now correct the record, withdraw the remark, and apologise on behalf of the Prime Minister?
+
+→
+
+> **CAMPBELL:** The right hon. Gentleman was out quite quickly, and rightly, to make his case yesterday, and the Prime Minister did respond. He said that he misspoke, he has apologised, and he has corrected the record. And I think, Madam Deputy Speaker, that there isn't an excuse for misspeaking in the House, and I'm not trying to explain that away, but this Prime Minister is characterised by an authenticity and a passion in the way that he responds. It's not unusual, either for Prime Ministers or for anybody else to [mis]speak in the House. As long as you correct the record, which he has done, then I think that that should be put into perspective.
+
+#### (2) ✔️ Q2: What is the Government position on Manchester City and when will we get a statement?
+
+> **NORMAN:** Secondly, as the House will know, Manchester City has been found guilty by an independent commission of 114 of the 115 charges brought against it by the Premier League, including inaccurate financial reporting, undisclosed remuneration, and failure to co-operate with the investigations.
+
+> This week, having previously been neutral on the issue, the Prime Minister thought to distance himself personally from the club and its owners, but otherwise he and Ministers have remained remarkably quiet, especially since his own club, Everton, had an eight-point deduction for two breaches, that's 112 fewer than have been found here, just three years ago.
+
+> So can the Leader set out the Government position? does it regard these breaches as extremely serious, or does it believe that a few eggs may have been broken, but broadly speaking, everything is all right? And when will we get a statement from the Sports Minister on this subject?
+
+→
+
+> **CAMPBELL:** [T]he Prime Minister, again, has been characteristically very clear about this. He has made clear that the initial judgement on the club is very serious, and there's no one suggesting that anybody is above the rules. There is an ongoing independent process, it's important that it is allowed to run its course as quickly and as fairly as possible, and at the end of that, if the Sports Minister needs to come to make a statement to this House, I'm quite sure that she'll do that.
+
+#### (3) ✔️ Q3: Will you prioritise funding the scheme to protect my constituents from flooding?
+
+> **NORMAN:** Finally, [last November](https://www.reddit.com/r/ukpolitics/comments/1oy9gqi/rumours_speculation_questions_and_reaction/npvtil4/), I highlighted the severe flooding suffered by Ewyas Harold in my constituency. Homes were inundated, people and businesses were evacuated, families left with huge financial and emotional costs. Insurance premiums have gone up where insurance remains available at all. The school, the doctor's surgery, and access for emergency services were cut off. Other nearby villages, including Clodock, Kentchurch, and Allt-yr-ynys were similarly afflicted. But now, 11 months later, despite an all-parties meeting which I convened last March, and repeated representations to Ministers, to the Environment Agency, and Herefordshire Council, there has been no substantive progress. Madam Deputy Speaker, the Government's own Office for Science believes El Niño is likely to be bigger than ever this year. My constituents are deeply anxious that floods this winter will drive them yet again from their homes and businesses.
+
+> Fixing this does not require some vast engineering project. Better drainage, watercourse maintenance, management of runoff, and other practical mitigations could all make the difference. But the residents are in a catch 22 situation that will be familiar to many people across this House; no one in authority is taking any responsibility, but they are not allowed, by law, to help themselves. The works could all be done legally, quickly, and effectively this year by local companies at less than half the cost of the EA's framework contractors, but that is prohibited. No one will come to the aid of these people, but put one foot into the watercourse just to clear the debris, and they risk prosecution.
+
+> I've made a formal budget submission to the Chancellor on this matter, but will the Leader now take it up personally with the Chancellor and the Environment Secretary and make funding this scheme the first order of business for the Government's new flood resilience taskforce?
+
+→
+
+> **CAMPBELL:** Monday marked the start of Flood Action Week, and the Government has invested 4.2 billion pounds in flood protection measures, and with new targets to improve flood protections for 200 thousand properties. We've also launched the Flood Action Online portal on Monday, which brings together clear actionable guidance for people to check their flood risk and find the latest weather alerts. This is an issue which has been raised regularly at Business Questions by Members from both sides of the House, and I thank them for doing so.
+
+> That doesn't address the particular issue that the right hon. Gentleman rightly raised on behalf of his constituents, so let me say two things further on flooding. One is that if he wants to make his case to the Floods Minister, I will arrange for him to do so. and he asks about making representation to the Chancellor; I'll make sure that the Chancellor hears what he has said today. I'm not going to say, obviously, because I don't know what is in the Budget, but I will make sure that the Chancellor hears that.
+
+-----
+
+#### ∗ ∗ ∗
+
+- 5 years to the murder of Sir David Amess
+- ~~There was an emergency BMQs on Monday and a Campbell motion on Tuesday too (missed)~~ (or not? it was just a motion moved formally? why did campbell say "we missed him earlier in the week"?)
+- National care service, changes to triple lock. Campbell had things prepared to attack members of the opposition who had written/said things against the triple lock. "it would be very helpful if the leader of the opposition, or someone from her shadow cabinet, came to the house to clear up the confusion."
+- Budget 28 Oct. Positive economic stats (joint-second highest growth in g7, deficit falling most in g7, gdp grown more than expected). "the chancellor is absolutely focused on priorities to boost business, help with the cost of living, and support people in every postcode, all underpinned by the fiscal discipline which characterises this government."
+- [Category:Villages in Herefordshire](https://en.wikipedia.org/wiki/Category:Villages_in_Herefordshire) (which Allt-yr-ynys isn't on so it was difficult to find. it sounds like *alterinius*)
 
 -----
 
