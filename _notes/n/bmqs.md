@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-10-15 17:31
+modified_date: 2026-10-22 16:42
 categories: ukpol
 lang: en
 ---
@@ -2643,5 +2643,87 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **3/3 answer
 -----
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+## 2026-10-22
+performance of royal mail, emerging risks of advanced ai, building safety remediation of unsafe cladding, budget (28th), sporting events bill, november recess end 4 nov - return 10 nov
+
+norman:
+- mr speaker, as the prime minister, the leader of the opposition, and others mentioned yesterday, in this week of the 60th anniversary of the aberfan disaster, let us never forget its victims, including 116 children, and its terrible cost to their families and their community.
+- on a far happier note, the house will shortly come together in celebration of the clerk on his retirement. but let me pay a personal tribute now to tom for his unfailing genius, sense of service and curtesy to the house, and the assistance he's given us all as members over 30 years. as a jobbing trumpeter, coming very much from the opposite end of the quality spectrum, i can testify that tom is a superb jazz pianist. now, like any great jazzer, he's got a remarkable ability to improvise under pressure, while never losing sight of the underlying material. as in the gig, so at the table. that's not small achievement with 650 would-be miles davises all playing in different keys. [laughter and hoyle saying something 11:01:21] some, mr speaker, more in tune than others. among tom's heroes, art tatem was famous for taking a familiar tune and turning it into something almost unrecognisable. tom has often performed the reverse feat with members legislative amendments; taking something almost unrecognisable, and turning it into something more familiar.
+- mr speaker, i hope you and the leader will forgive another toot from me on my constitency trumpet, but this week has seen the publication of a brilliantly positive new report by Policy Exchange on NMITE, our new engineering university in Hereford. Among other things, it highlights that thanks to its accelerated degrees, it offers at least 20% better value for money for students than elsewhere, and for local students, it's almost half the cost of an equivalent chartered engineering degree anywhere else. But the report goes further, and I think this is a matter of general interest to the House. It identifies 57 suitable towns and cities across the UK, places such as Hartlepool, Grimsby, Barnsley, Burnley, Scunthorpe in the north alone, in which this model could be rolled out across the country. Again, I'd be delighted to discuss with colleagues how we could do this with any areas and constituencies that may be interested.
+- i end, if i may, on a more serious note. In May 2024, Lord Walney's report, _Protecting our Democracy from Coercion_, made over 40 recommendations to tackle political intimidation and disruptive extremism. Two years into its term of office--more than two years--this Government has yet to respond fully. Indeed, Ministers abolished Lord Walney's position last year. When they did so, they promised that his report would continue to shape the Government's approach to political violence, yet they rejected key recommendations in passing the Crime and Policing Act, including stronger powers to prevent particularly harmful marches, and they did that despite very strong appeals from Jewish community groups facing the present rising tide of antisemitism, and who are still more concerned, be it said, after the Green party's appalling resolution that zionism is racism. The threat is clear--and I know that this is an issue of particular concern to you, Mr Speaker, on behalf of all of us--96% of Members of Parliament responding to the Speaker's Conference in 2025 reported harassment, intimidation, or abuse. It's a matter of public record that last September arson destroyed the constituency office of one of our colleagues, and that another and their son received death threats. Peaceful protest is fundamental to democracy, of course, but so is the right of every person to live free from intimidation, and so is the right of every elected representative to be able to serve--and their staves-- elected representatives and their staff to be able to serve without intimidation, abuse, and coercion. So will the Leader of the House ask the Home Secretary to publish a full recommendation-by-recommendation response to Lord Walney's report, and will he arrange a debate in Government time on that response, to that this House can collectively scrutinise what the Government is doing and proposes to do to meet these dreadful threats?
+
+11:04
+campbell:
+- can i first of all join with the right hon. gentleman, and as he says, the leaders of all parties, in reflecting on the 60th anniversary of the aberfan disaster, which was 60 years ago yesterday. we remember 116 children and 28 adults who tragically lost their lives when tip seven collapsed onto Pantglas junior school and nearby homes, and pay tribute to the rescuers and the enduring resilience of the aberfan community. and i think it's fair to say, mr speaker, because you and i are contemporaries, we are old enough, i am old enough, to remember the disaster. we have been fortunate enough to live 60 years of our lives that 116 of our contemporaries were unable to do so, is, to say the least, sobering, but actually it's a tragedy. and i want to put our thoughts with the aberfan community and families on record.
+- before i turn to the other comments of the shadow leader, mr speaker, i also want to mention andy king, the former member of parliament for rugby and kennelworth, from 1997 to 2005, who sadly passed away this week, and i'm sure the whole house joins me in sending our condolences to his friends and family.
+- i am also sure that the whole house will join me in condemning the horrific attack on the australian independent mp dr helen haines, which took place outside her electoral office. my thoughts are with dr haines, her family, and her team, as she recovers from this appalling assault.
+- on lighter matters, i want to extend my congratulations, i'm sure the house's congratulations, to the member for boston and skegness on his recent marriage, and also further congratulations to the shadow secretary of state for business, innovation, science and trade, who announced the birth of her son this week, and we wish them well.
+- mr speaker, today marks the start of the 2026 royal british legion poppy appeal, as thousands of volunteers gather across our country to distribute the red poppy [and he is wearing one i just noticed], they raise funds for our brave service personnel, veterans and their families, and we thank them all for everything that they do.
+- turning to other matters mr speaker, this summer was filled with record high temperatures, but as we are seeing, winter is now drawing in, and the changing climate will bring more severe and uncertain weather in the years to come, and we need to make sure that we are fully prepared, across the nhs, our transport system, and our energy security. I think it's fair to say, and it's not a party-political point, I think it's just true that the UK has been a bit of an outlier really in not looking sufficiently and not sufficiently early at this right across Government, and I just want to reassure the House that we are putting that right.
+- also, mr speaker, we've taken a crucial step forward this week in protecting motorists from unfair enforcement and car sales scams with a new private parking code of practice providing motorists the right to challenge unfair private parking charges. and this has been an issue which has been raised with me several times at business questions.
+- and also, mr speaker, potholes are an issue frequently raised by me-- to me by members in this forum, and data published today shows that more than 700 thousand miles [actually 7,000] of road resurfacing has taken place this year, up 10% on last year, but clearly there is more to do.
+- and on another theme, with your indulgence, mr speaker, we've also-- i've also faced questions on matters of heritage and restoration, and i just want to mention my constituents kevin and alison wilson, who have been involved in the successful restoration of cullercoats watchtower, who are joining us in the house today.
+- let me turn to the points that the hon. gentleman raised. first of all [norman looking up at the gallery] about the success of his higher education-- higher education in his constituency. and I have said this before, and I'm happy to repeat it, I absolutely commend the hon. Gentleman for his work, which has been recognised as a-- a-- really, an excellent model, and as he says, I hope that other areas will look at that. The higher education sector is an engine of economic growth in his area and elsewhere, and providers play an essential role in training students not just for jobs now, but for the future. I'm very happy if he wishes, and i'm sure he's spoken to them already, if he wishes to speak to Ministers to discuss this matter further [_Norman nodding_], but I just want to put that on record, because he's right to raise it in the way that he does, this is not, or it shouldn't be, a party political matter, this side of the House can learn from best experience from the other side of the House as well, and that is very much in keeping with the practical approach that the Prime Minister wants to see across a number of policies.
+- He then raises another very important matter, Mr Speaker, on the issue of security and tackling and preparing against terrorism, and of course, Mr Speaker, there is the Speaker's Conference, which is of crucial importance. There is also the Defending Democracy Taskforce that continues to look at these issues. On the specific point about Lord Walney's report, let me take that away, Mr Speaker, and raise it with Ministers, and see if there is something that the Home Secretary needs to come back to the House to update the House on, or indeed to update the right hon. Gentleman. But let me make it absolutely clear that we stand with all faiths, including and particularly the Jewish faith as they come under sustained attack, and it's just a sad fact that both antisemitism and islamophobia have increased in recent months. The Government is absolutely committed to tackling that. That means putting money into the physical protection of places of worship, but it also means making social cohesion a top priority. And I'll just finally point out that Sir David Bell's review of this week on antisemitism and how schools need to do more going forward is an excellent piece of work and the Government intends to accept all 27 recommendations.
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered** (-)
+
+[Happened at 10:58](https://parliamentlive.tv/event/index/2b593041-ebc7-4235-816e-4b8de8437610?in=10:58:49). [Hansard](https://hansard.parliament.uk/commons/2026-10-22/debates/B3153003-E558-4391-9844-FE89EE2971A1/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: NMITE positive report
+
+> **NORMAN:** [T]his week has seen the publication of a brilliantly positive new [report](https://policyexchange.org.uk/publication/engineered-for-success/) by Policy Exchange on NMITE, our new engineering university in Hereford. Among other things, it highlights that thanks to its accelerated degrees, it offers at least 20% better value for money for students than elsewhere, and for local students, it's almost half the cost of an equivalent chartered engineering degree anywhere else. But the report goes further, and I think this is a matter of general interest to the House. It identifies 57 suitable towns and cities across the UK, places such as Hartlepool, Grimsby, Barnsley, Burnley, Scunthorpe in the north alone, in which this model could be rolled out across the country. Again, I'd be delighted to discuss with colleagues how we could do this with any areas and constituencies that may be interested.
+
+→
+
+> **CAMPBELL:** I have said this before, and I'm happy to repeat it: I absolutely commend the hon. Gentleman for his work, which has been recognised as a-- a-- really, an excellent model, and as he says, I hope that other areas will look at that. The higher education sector is an engine of economic growth in his area and elsewhere, and providers play an essential role in training students not just for jobs now, but for the future.
+
+> I'm very happy if he wishes, and I'm sure he's spoken to them already, if he wishes to speak to Ministers to discuss this matter further [_Norman nodding_], but I just want to put that on record, because he's right to raise it in the way that he does, this is not, or it shouldn't be, a party political matter, this side of the House can learn from best experience from the other side of the House as well, and that is very much in keeping with the practical approach that the Prime Minister wants to see across a number of policies.
+
+#### (2) ✔️ Q1: Will he ask the Home Sec to publish a response to Walney's report on political intimidation?
+
+> **NORMAN:** In May 2024, Lord Walney's report, [_Protecting our Democracy from Coercion_](https://assets.publishing.service.gov.uk/media/66462426b7249a4c6e9d3687/E03131940_HC_775_Walney_Review_v02_PRINT.pdf), made over 40 recommendations to tackle political intimidation and disruptive extremism. Two years into its term of office--more than two years--this Government has yet to respond fully. Indeed, Ministers abolished Lord Walney's position last year. When they did so, they promised that his report would continue to shape the Government's approach to political violence, yet they rejected key recommendations in passing the Crime and Policing Act, including stronger powers to prevent particularly harmful marches, and they did that despite very strong appeals from Jewish community groups facing the present rising tide of antisemitism, and who are still more concerned, be it said, after the Green party's appalling resolution that zionism is racism.
+
+> The threat is clear,--and I know that this is an issue of particular concern to you, Mr Speaker, on behalf of all of us--96% of Members of Parliament responding to the Speaker's Conference in 2025 reported harassment, intimidation, or abuse. It's a matter of public record that last September arson destroyed the constituency office of one of our colleagues, and that another and their son received death threats. Peaceful protest is fundamental to democracy, of course, but so is the right of every person to live free from intimidation, and so is the right of every elected representative and their staff to be able to serve without intimidation, abuse, and coercion.
+
+> So will the Leader of the House ask the Home Secretary to publish a full recommendation-by-recommendation response to Lord Walney's report, and will he arrange a debate in Government time on that response, to that this House can collectively scrutinise what the Government is doing and proposes to do to meet these dreadful threats?
+
+→
+
+> **CAMPBELL:** He then raises another very important matter, Mr Speaker, on the issue of security and tackling and preparing against terrorism, and of course, Mr Speaker, there is the Speaker's Conference, which is of crucial importance. There is also the Defending Democracy Taskforce that continues to look at these issues.
+
+> On the specific point about Lord Walney's report, let me take that away, Mr Speaker, and raise it with Ministers, and see if there is something that the Home Secretary needs to come back to the House to update the House on, or indeed to update the right hon. Gentleman.
+
+> But let me make it absolutely clear that we stand with all faiths, including and particularly the Jewish faith as they come under sustained attack, and it's just a sad fact that both antisemitism and islamophobia have increased in recent months. The Government is absolutely committed to tackling that. That means putting money into the physical protection of places of worship, but it also means making social cohesion a top priority. And I'll just finally point out that Sir David Bell's [review](https://www.gov.uk/government/publications/independent-review-into-antisemitism-in-schools-and-colleges) of this week on antisemitism and how schools need to do more going forward is an excellent piece of work and the Government intends to accept all 27 recommendations.
+
+-----
+
+#### ∗ ∗ ∗
+
+- 60 years to the Aberfan Disaster. Campbell: "_I think it's fair to say, Mr Speaker, because you and I are contemporaries, we are old enough, I am old enough, to remember the disaster. We have been fortunate enough to live 60 years of our lives that 116 of our contemporaries were unable to_" (116 children and 28 adults)
+- Preparing for severe and uncertain weather. Campbell: "_I think it's fair to say, and it's not a party-political point, I think it's just true that the UK has been a bit of an outlier really in not looking sufficiently and not sufficiently early at this right across Government, and I just want to reassure the House that we are putting that right._"
+- New [Private Parking Code of Practice](https://www.gov.uk/government/collections/private-parking-code-of-practice-2026) providing motorists the right to challenge unfair private parking charges.
+- Pothole news: [New data published](https://www.gov.uk/government/news/record-funding-record-results-7000-miles-of-smoother-journeys-as-government-tackles-potholes) showing ~7,000 miles road surfacing will be completed this year, up 10% on last year.
+- In the gallery: Kevin and Alison Wilson, constituents of Campbell, who have been involved in the successful restoration of Cullercoats "Watchtower" (Watch House)
+- Passing of [Andy King](https://en.wikipedia.org/wiki/Andy_King_%28British_politician%29), MP for Rugby and Kenilworth 1997-2005
+- Attack on Australian MP [Dr Helen Haines](https://en.wikipedia.org/wiki/Helen_Haines)
+- Celebration of the clerk on his retirement. He is a jazz pianist and Norman plays the trumpet.
+- MP for Boston and Skegness (Tice) got married
+- Shadow Secretary of State for Business, Innovation, Science and Trade (Coutinho) had a son
+- The Poppy Appeal has began and Campbell has one already
+- November recess from end of 4 Nov - return 10 Nov
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
+
+note to self: harassment is spelled with 1 r
 
 {% include fin.html %}

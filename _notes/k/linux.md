@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-10-17 12:06
+modified_date: 2026-10-19 06:35
 categories: os
 lang: fr
 ---
@@ -30,6 +30,7 @@ lang: fr
   + `--mime-encoding` (ex. `utf-8`)
 - `find | wc -l` : nombre de fichiers dans le dossier actuel (récursif)
 - `find ~/.local/share/icons /usr/share/icons -path '*/mimetypes/*' -iname '*pdf*' -o -iname '*epub*'`
+- `find dossier -iname '*.png' -exec feh {} +;` (ouvrir toutes les images png trouvées dans une seule instance feh)
 - Trouver un processus
   + `pgrep -x monprocessus` : pid d'un processus par nom exact
   + `ps aux | grep [m]onprocessus` : plus d'informations (cf les titres de colonnes `ps aux | head -n1`), possibilité de chercher par commande (possible aussi avec pgrep en utilisant `-af`)

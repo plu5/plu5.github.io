@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-10-17 13:33
+modified_date: 2026-10-24 12:55
 categories: lang
 lang: fr
 ---
@@ -1342,5 +1342,30 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-10-17
 - une partie qui dépasse
+
+§ 2026-10-19
+- À tout prendre, et compte tenu des inexactitudes dont il est parsemé, cet article du _Précurseur_ me paraît donc autant confirmer qu’infirmer l’information transmise par Dumas. ([Olivier Courcelle](https://images.math.cnrs.fr/billets/ladversaire-de-galois-i/))
+- Le suspense est à son comble ! (^ Christine Huyghe)
+
+§ 2026-10-20
+- tapis roulant / convoyeur
+- Des preuves scientifiques limitées et non concluantes suggèrent qu'ingérer environ deux cuillères à soupe (23 grammes) d'huile d'olive par jour pourrait réduire le risque de maladie coronarienne en raison des acides gras mono-insaturés de l'huile d'olive. Pour obtenir ce résultat éventuel, l'huile d'olive doit remplacer une quantité similaire de graisses saturées et ne pas augmenter le nombre total de calories que vous ingérez dans une journée. ([frwik](https://fr.wikipedia.org/wiki/Huile_d'olive))
+
+§ 2026-10-21
+- L’exercice est laissé au lecteur. ([Xavier Caruso](https://images.math.cnrs.fr/freeze/Les-imaginaires-de-l-arithmetique.html))
+
+§ 2026-10-23
+- Tout cela n'est que le produit de son imagination, elle poursuit des chimères. ([wr](https://www.wordreference.com/fren/chim%C3%A8re))
+- c'est donc sans intention de déplaire à M. Galois, ni de manquer à ce qu'on doit à un prévenu, que nous l'avons traité d'_énergumène_; mais, puisque le mot est dit, nous le tenons pour vrai, et nous n'en démorderons pas. ([gazette des écoles](https://gallica.bnf.fr/ark:/12148/bpt6k9792314p/f3.item))
+  + "un énergumène" attracts attention on purpose; "il fait le zouave" we also say ([philosophia](https://forum.wordreference.com/threads/ce-pr%C3%A9sident-est-un-%C3%A9nergum%C3%A8ne.1540013/))
+  + To me, [it] rather means: "c'est un excentrique, un original, un spécimen curieux, un personnage imprévisible et inclassable" (^ Chimel)
+  + Je me demande si le terme n'était pas plus fort auparavant (^ Locape) (TLFi "Personne au comportement exalté, qui s'agite et parle violemment", voire "P. ext. Individu au comportement inquiétant.")
+  + même si _énergumène_ n'est pas un terme rare, on ne le rencontre pas tous les jours. L'entendre fait réagir car il n'est pas usuel. (^ Philippides)
+- Trump aurait été élu en utilisant la « tactique » du clash, celle employée du reste à travers les réseaux sociaux par les gens énervés, les citoyens énergumènes, qui ont trouvé en la personne de Trump un président énergumène. Il ne s’agit plus de raconter des récits mais de provoquer afin d’attaquer les adversaires en misant sur la sidération. (^ OLN citant bdugue.typepad)
+  + qualifier Trump et ses supporters d'énergumènes est beaucoup trop sympa et ne correspond pas à ma compréhension du terme. Pour moi, comme pour @Chimel, c'est quelqu'un qui détonne, d'un peu excentrique. [..] Employer ce terme pour Nicolas Sarkosy qui fait des grands gestes, tutoie les journalistes et fait un show permanent, d'accord. Mais pour Trump et ses violences verbales, ça n'est pas le terme approprié pour moi. (^ Locape)
+
+§ 2026-10-24
+- Un billet, que dis-je un livre, que dis-je une encyclopédie ne suffirait sans doute pas à chanter ce grand chemin de fer qui, pour sa seule partie sud, partant de Saint-Michel-Notre Dame ou Luxembourg, autant dire le Quartier latin, traverse de riants environs jalonnés d’une pléthore d’institutions ou de lieux diversement attachés aux mathématiques : l’École polytechnique, la maison de campagne de Poincaré, l’Institut des hautes études scientifiques, l’Université Paris-Sud… Il y en a tant, en vérité, qu’en citer un, c’est en oublier dix ! ([Olivier Courcelle](https://images.math.cnrs.fr/billets/lalignement-de-galois/))
+- J’espère à ce stade vous avoir convaincu de plusieurs mérites de ma classification : elle permet à la fois d’évaluer la qualité d’une information, par la distance à l’ours, et de dégager une nouvelle branche de théories, en l’occurrence que la coquette soit un homme, par le simple truchement d’une espèce de manipulation algébrique. ([Olivier Courcelle](https://images.math.cnrs.fr/billets/le-duel-de-galois/))
 
 {% include fin.html %}

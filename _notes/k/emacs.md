@@ -2,7 +2,7 @@
 layout: post
 title: Notes Emacs
 date: 2026-04-08 12:10
-modified_date: 2026-09-16 13:16
+modified_date: 2026-10-18 13:58
 categories: emacs soft
 lang: fr
 ---
@@ -19,6 +19,11 @@ lang: fr
 Un effet secondaire est que ça active le débogage sur C-g. Désactiver :
 - (setq debug-on-quit nil)
 - ou : M-x toggle-debug-on-quit
+
+## Sauvegarder sans déclencher les hooks de sauvegarde
+C-x C-q C-x C-s C-x C-q
+
+read-only, save, revert read-only ([Nicolas Douma, 2019](https://stackoverflow.com/a/59032112/18396947)
 
 ## Sous Linux
 - `setxkbmap -option lv3:ralt_switch`
