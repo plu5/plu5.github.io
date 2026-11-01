@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-10-24 12:55
+modified_date: 2026-10-28 16:24
 categories: lang
 lang: fr
 ---
@@ -1367,5 +1367,8 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 § 2026-10-24
 - Un billet, que dis-je un livre, que dis-je une encyclopédie ne suffirait sans doute pas à chanter ce grand chemin de fer qui, pour sa seule partie sud, partant de Saint-Michel-Notre Dame ou Luxembourg, autant dire le Quartier latin, traverse de riants environs jalonnés d’une pléthore d’institutions ou de lieux diversement attachés aux mathématiques : l’École polytechnique, la maison de campagne de Poincaré, l’Institut des hautes études scientifiques, l’Université Paris-Sud… Il y en a tant, en vérité, qu’en citer un, c’est en oublier dix ! ([Olivier Courcelle](https://images.math.cnrs.fr/billets/lalignement-de-galois/))
 - J’espère à ce stade vous avoir convaincu de plusieurs mérites de ma classification : elle permet à la fois d’évaluer la qualité d’une information, par la distance à l’ours, et de dégager une nouvelle branche de théories, en l’occurrence que la coquette soit un homme, par le simple truchement d’une espèce de manipulation algébrique. ([Olivier Courcelle](https://images.math.cnrs.fr/billets/le-duel-de-galois/))
+
+§ 2026-10-28
+- Non, ça n'a rien « réparé ». Ça a juste déplacé le problème d'un cran vers la droite. - jasonwryan (traduction automatique de la signature de [Slithery](https://bbs.archlinux.org/viewtopic.php?pid=1715656#p1715656))
 
 {% include fin.html %}

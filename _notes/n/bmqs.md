@@ -3,7 +3,7 @@ layout: post
 title: BMQs
 date: 2026-01-08
 conversion_date: 2026-02-06 00:05
-modified_date: 2026-10-22 16:42
+modified_date: 2026-10-29 15:08
 categories: ukpol
 lang: en
 ---
@@ -2725,5 +2725,105 @@ BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answer
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 note to self: harassment is spelled with 1 r
+
+## 2026-10-29
+budget debate, sporting events bill, carryover motion relating to railways bill, carryover motion relating to the cybersecurity and resilience network and information systems bill, november recess conclusion wed 4th nov - return tuesday 10th nov, financial services and marketing bill, opposition day, debate 110th anniversary of the battle of the somme, debate nolan principles
+
+norman:
+- as the house will be aware, this is a day of very mixed feelings. we mourn the deaths and the injuries sustained in the spanish high-speed rail disaster yesterday, but in a far happier vein, it's impossible not to celebrate the triumph of harry kane in the ballon d'or, the first british winner for 26 years, and of giant killing fleetwood town in conquering arsenal in the carabao cup.
+- Just in time for Halloween, Mr Speaker, we learned that the SNP Government in Scotland has assembled an army of nearly 800 ghost workers on the public payroll, costing taxpayers 27 million pounds a year. The jobs have vanished, but the salaries remain. One of these people has been non-working in the NHS for 17 years. That's the SNP in a nutshell, Mr Speaker. Needless to say, the Scottish Government have no plans to change this state of affairs.
+- Hundreds of people being paid to pretend they have jobs is the perfect metaphor for this Labour Government, and so to the Chancellor of the Exchequer, who spoke after the usual orgy of prebriefings to the media yesterday, and avoided, I have to say, to his credit, some of the more lunatic ideas of his colleagues. He tried his best, Mr Speaker, but frankly Harry Kane, Fleetwood Town, hell, Fleetwood Mac would have done better with that Budget. It was a Budget for a May general election, not the future of Britain. As Helen Miller of the Institute of Fiscal Studies put it, there was, quote, lots of fiddling, but no clear coherent vision. It means that disposable household incomes are falling, the tax burden is at historic peacetimes highs, growth forecasts are falling, with not even the whiff of a strategy for growth yesterday. Worse still, as the noted economist Paul Johnson pointed out, the Budget implied backend-loaded spending cuts in most areas of public service spending of 2.6% per year between 2028-29 and 2031-32. His verdict was, quote, this is not honest politics nor honest economics. His words, Mr Speaker, not mine, and Mr Johnson, I think it's well known, is not a conservative. But there is something even more troubling here. Britain is walking a fiscal, a monetary, and a security tightrope, and yet again the Government's response has been to postpone difficult decisions, spin the plates, ladle on the fudge, and hope that nothing goes wrong.
+- And now we have speculation, persisting speculation despite attempted rebuttals, the Prime Minister may call a general election. What an extraordinary abdication of responsibility that would be. The message would be this: yes, Britain faces profound economic and international uncertainty, so let's add a little extra disruption to it, with an entirely unnecessary election more than two years before one's required. And while we're at it, let's reopen the constitutional turmoil of another EU referendum to boot [member: wrong, no one wants that], the British people would surely say we gave you Labour people a majority of more than 170 to sort out the country's issues, you have replaced your own Prime Minister and your Chancellor, you have failed to deliver the change you promised, and now you want another election because you're simply too frit to make the decisions required. Britain needs growth, it needs stability, it needs financial strength, it needs national security, instead it's getting short-term fixes, deferred decisions, and political manoeuvring. This is not a strategy for governing Britain, it's an absolute failure of leadership. The Chancellor couldn't even meet his own test for defence spending over which he supposedly resigned. Mr Speaker, the Prime Minister has talked endlessly of his desire to, quote, rewire the state. The Chancellor said the same in terms yesterday. We've got a huge debt burden, stretched public services, rising interest rates, growing defence commitments. There is the escalating threat of external shocks. Ukraine, Iran, inflation, AI, trade wars, extreme weather, another pandemic.
+- So will the Leader now explain, in his usual candid way, without prevaricating or blaming others, why these two men have demonstrated absolutely zero interest in actually taking any of the serious decisions required to address these issues?
+
+campbell:
+- first of all, can i join with the shadow leader in sending our deepest condolences to the people of spain in the aftermath of the horrendous train crash which occurred yesterday, taking the lives of 68 people, as well as injuring many others, and i'm sure, as he said, the thoughts of the whole house are with all those affected.
+- last week, mr speaker, across the UK, we saw some of the-- some very uh... severe and stormy weather, and i want to send condolences to the families of those loved ones who lost their lives, but also to thank all the emergency service workers who have been working hard to mitigate the effect of the storms.
+- i'm also saddened to hear, mr speaker, of the passing of sue holt. she was a much-respected member of the staff of this place in the interparliamentary relations office, and i know the whole house will want to send condolences to her family and friends at this time.
+- further to the tributes made last week, mr speaker, and your words this morning, i'd also like to add my best wishes again to tom goldsmith, who, after 30 years outstanding service to the house is retiring from the office of clerk of the house today.
+- i'd also like to pay tribute, mr speaker, to the[?] ceri king, who after 43 years in the civil service, and 19 years as head of secretariat and deputy clerk of the privy council, is leaving her role this week. Ceri was appointed a Lieutenant in the Royal Victorian Order in the 2023 New Year's Honours in recognition of her services to the Privy Council, and I have greatly valued her advice and guidance in my role as Lord President of the Council, and I wish her well.
+- and as the shadow leader of the house said, on entirely different matters, i want to congratulate harry kane, who this week became the first english player to win the ballon d'or since michael owen in 2001. and as he said, i'm sure members across the house will join with me in sending congratulations on this well-deserved win, and i'm sure, as i did, found his... comments as he accepted the award very moving, and I think young people who are looking at Harry Kane will see someone entirely committed not just to the sport, but to family and everything else, and he really is a hero to many people, and I wish him well.
+- mr speaker, there will be no business questions next week, so i do want to mention remembrance sunday on the 8th of november, as we take pause to honour those who gave their lives in defence of our freedoms. Let us remember the extraordinary debt that can never fully be repaid.
+- turning to the comments of the shadow leader of the house. The Chancellor set out a very clear plan yesterday in the Budget which gives families and businesses some breathing space from rising costs and supports Britain's economic growth, not least the £100 payment to 20 million households in council tax bands A and D in England. Also support for businesses taking around 70 thousand more retail, hospitality, and leisure businesses out of business rates altogether. And at the same time, Mr Speaker, supporting the housing market with measures for first time buyers, social housing, and cutting unnecessary costs and delays for house builders. We've also, Mr Speaker, reaffirmed our commitment to end homelessness for good.
+- I have to say on the other comments that he made, I found them uncharacteristically unfair, I think, about the events of yesterday. And on the question of prebriefing, I was struck and pleased in light of what we said over a period of time, at how little prebriefing there was about the Budget, and how disciplined the Chancellor, his team, and indeed everybody else was in making sure that it was this House that heard for the first time the content of that Budget.
+- He mentions the issue of household income, and the Government is not complacent, Mr Speaker, about the challenges that we face going forward, and I have-- I listened very carefully to what has been said about the potential for household income going forward. But I just gently remind him and others opposite, Mr Speaker, that 14 years of Conservative Government, and people were worse off at the end than they had been at the beginning, and that is the first time, Mr Speaker, in history, that that happened. So we're not going to take any lessons from the right hon. Gentleman, or indeed anyone else.
+- He will know, because it is true, that this Government faces international pressures. There are headwinds that we need to face, and I think a little bit more understanding of that would be appreciated. And despite all of that, the projection still is that the economy will grow. It won't grow as fast as we want it to grow, that is why the measures in the Budget were there to try to make sure that in getting the foundations right we then get on with growth as quickly as possible [how many times have we heard this from campbell], we will be doing all we can. But I would also gently point out, without being complacent, that the predictions about growth in this year were lower than it has actually turned out is the case, but we will see what happens, not least in the Middle East.
+- It is noticeable, Mr Speaker, that when a number of very credible organisations talk about the state of the economy, not least the OBR, the IMF, and the IFS, that one of the things they pick out is not a lack of political stability, but the fact that the Government has a majority, it has a Prime Minister with a very clear vision of where he wants to take this country, not just-- not just, Mr Speaker, in making sure that we in this place do everything that we can to boost the economy, but to make sure that no regions and no towns and cities are left behind, which is why devolution is so important.
+- uh, he talks about defence, we're spending £14 billion more on defence than the previous administration; they were spending during their time in office the lowest amount since the end of the Cold War. The Prime Minister set out a very clear timeline yesterday in which he committed, again, the Government to a 3%-- spending 3% on defence, and also that we will meet our NATO commitments. So what happened yesterday was a recommitment to those things, and we are in line, on track, to deliver all of them.
+- And my final point is this, Mr Speaker: the right hon. Gentleman talks about an election, and the Prime Minister was very clear in what he said in the last few hours about the-- how he sees the possibility of an election. And actually I just say it to the party opposite, if they are looking for a general election, be very careful what you ask for.
+
+we've been here before
+
+-----
+
+[BMQs]
+
+BMQs tracker of how many of Shadow LotH questions the LotH answers: **1/1 answered** (-)
+
+[Happened at 10:50](https://parliamentlive.tv/event/index/67fd7ae1-18a3-4a94-a24e-1ef26f2f09a9?in=10:50:31). [Hansard](https://hansard.parliament.uk/Commons/2026-10-29/debates/B3CE9EE1-D6DF-40A8-AC9B-2FA1D73D960D/BusinessOfTheHouse).
+
+*(Business Questions main exchange. `Q`s by Jesse Norman, answers by Alan Campbell. `REMARK`s are not questions and do not count for the tracker.)*
+
+#### (1) 📜 REMARK: SNP ghost workers
+
+> **NORMAN:** Just in time for Halloween, Mr Speaker, we learned that the SNP Government in Scotland has assembled an army of nearly 800 ghost workers on the public payroll, costing taxpayers 27 million pounds a year. The jobs have vanished, but the salaries remain. One of these people has been non-working in the NHS for 17 years. That's the SNP in a nutshell, Mr Speaker. Needless to say, the Scottish Government have no plans to change this state of affairs.
+
+#### (2) ✔️ Q1: Why have the PM and Chancellor demonstrated zero interest in taking the serious decisions required?
+
+> **NORMAN:** Hundreds of people being paid to pretend they have jobs is the perfect metaphor for this Labour Government, and so to the Chancellor of the Exchequer, who spoke after the usual orgy of prebriefings to the media yesterday, and avoided, I have to say, to his credit, some of the more lunatic ideas of his colleagues.
+
+> He tried his best, Mr Speaker, but frankly Harry Kane, Fleetwood Town, hell, Fleetwood Mac would have done better with that Budget. It was a Budget for a May general election, not the future of Britain.
+
+> As Helen Miller of the Institute of Fiscal Studies put it, there was, quote, lots of fiddling, but no clear coherent vision. It means that disposable household incomes are falling, the tax burden is at historic peacetimes highs, growth forecasts are falling, with not even the whiff of a strategy for growth yesterday.
+
+> Worse still, as the noted economist Paul Johnson pointed out, the Budget implied backend-loaded spending cuts in most areas of public service spending of 2.6% per year between 2028-29 and 2031-32. His verdict was, quote, this is not honest politics nor honest economics. His words, Mr Speaker, not mine, and Mr Johnson, I think it's well known, is not a conservative.
+
+> But there is something even more troubling here. Britain is walking a fiscal, a monetary, and a security tightrope, and yet again the Government's response has been to postpone difficult decisions, spin the plates, ladle on the fudge, and hope that nothing goes wrong.
+
+> And now we have speculation, persisting speculation despite attempted rebuttals, the Prime Minister may call a general election. What an extraordinary abdication of responsibility that would be. The message would be this: yes, Britain faces profound economic and international uncertainty, so let's add a little extra disruption to it, with an entirely unnecessary election more than two years before one's required. And while we're at it, let's reopen the constitutional turmoil of another EU referendum to boot [*member: wrong, no one wants that*].
+
+> The British people would surely say we gave you Labour people a majority of more than 170 to sort out the country's issues, you have replaced your own Prime Minister and your Chancellor, you have failed to deliver the change you promised, and now you want another election because you're simply too frit to make the decisions required.
+
+> Britain needs growth, it needs stability, it needs financial strength, it needs national security. Instead it's getting short-term fixes, deferred decisions, and political manoeuvring. This is not a strategy for governing Britain, it's an absolute failure of leadership. The Chancellor couldn't even meet his own test for defence spending over which he supposedly resigned.
+
+> Mr Speaker, the Prime Minister has talked endlessly of his desire to, quote, rewire the state. The Chancellor said the same in terms yesterday. We've got a huge debt burden, stretched public services, rising interest rates, growing defence commitments. There is the escalating threat of external shocks. Ukraine, Iran, inflation, AI, trade wars, extreme weather, another pandemic.
+
+> So will the Leader now explain, in his usual candid way, without prevaricating or blaming others, why these two men have demonstrated absolutely zero interest in actually taking any of the serious decisions required to address these issues?
+
+→
+
+> **CAMPBELL:** The Chancellor set out a very clear plan yesterday in the Budget which gives families and businesses some breathing space from rising costs and supports Britain's economic growth, not least the £100 payment to 20 million households in council tax bands A and D in England. Also support for businesses taking around 70 thousand more retail, hospitality, and leisure businesses out of business rates altogether. And at the same time, Mr Speaker, supporting the housing market with measures for first time buyers, social housing, and cutting unnecessary costs and delays for house builders. We've also, Mr Speaker, reaffirmed our commitment to end homelessness for good.
+
+> I have to say on the other comments that he made, I found them uncharacteristically unfair, I think, about the events of yesterday. And on the question of prebriefing, I was struck and pleased in light of what we said over a period of time, at how little prebriefing there was about the Budget, and how disciplined the Chancellor, his team, and indeed everybody else was in making sure that it was this House that heard for the first time the content of that Budget.
+
+> He mentions the issue of household income, and the Government is not complacent, Mr Speaker, about the challenges that we face going forward, and I have listened very carefully to what has been said about the potential for household income going forward. But I just gently remind him and others opposite, Mr Speaker, that 14 years of Conservative Government, and people were worse off at the end than they had been at the beginning, and that is the first time, Mr Speaker, in history, that that happened. So we're not going to take any lessons from the right hon. Gentleman, or indeed anyone else.
+
+> He will know, because it is true, that this Government faces international pressures. There are headwinds that we need to face, and I think a little bit more understanding of that would be appreciated. And despite all of that, the projection still is that the economy will grow. It won't grow as fast as we want it to grow, that is why the measures in the Budget were there to try to make sure that in getting the foundations right we then get on with growth as quickly as possible, we will be doing all we can. But I would also gently point out, without being complacent, that the predictions about growth in this year were lower than it has actually turned out is the case, but we will see what happens, not least in the Middle East.
+
+> It is noticeable, Mr Speaker, that when a number of very credible organisations talk about the state of the economy, not least the OBR, the IMF, and the IFS, that one of the things they pick out is not a lack of political stability, but the fact that the Government has a majority, it has a Prime Minister with a very clear vision of where he wants to take this country, not just, Mr Speaker, in making sure that we in this place do everything that we can to boost the economy, but to make sure that no regions and no towns and cities are left behind, which is why devolution is so important.
+
+> He talks about defence. We're spending £14 billion more on defence than the previous administration; they were spending during their time in office the lowest amount since the end of the Cold War. The Prime Minister set out a very clear timeline yesterday in which he committed, again, the Government to spending 3% on defence, and also that we will meet our NATO commitments. So what happened yesterday was a recommitment to those things, and we are in line, on track, to deliver all of them.
+
+> And my final point is this, Mr Speaker: the right hon. Gentleman talks about an election, and the Prime Minister was very clear in what he said in the last few hours about the-- how he sees the possibility of an election. And actually I just say it to the party opposite, if they are looking for a general election, be very careful what you ask for.
+
+~~He answered it. Not "without prevaricating or blaming others", but you can't ask for the impossible.~~
+
+-----
+
+#### ∗ ∗ ∗
+
+- Spanish high-speed rail disaster yesterday
+- Condolences to families who lost loved ones in storms
+- Passing of Sue Holt, a much-respected member of staff in the Interparliamentary Relations Office
+- First English Ballon d'Or winner in 26 years, Harry Kane. Campbell found his speech moving; "I think young people who are looking at Harry Kane will see someone entirely committed not just to the sport, but to family and everything else, and he really is a hero to many people, and I wish him well."
+- Fleetwood Town beat Arsenal
+- Clerk of the House Tom Goldsmith retirement, mentioned many times now in BMQs, is today
+- Ceri King (pronounced like Ceri) also leaving this week, after 43 years in the civil service and 19 years as Head of Secretariat and Deputy Clerk of the Privy Council. Campbell: "Ceri was appointed a Lieutenant in the Royal Victorian Order in the 2023 New Year's Honours in recognition of her services to the Privy Council, and I have greatly valued her advice and guidance in my role as Lord President of the Council, and I wish her well."
+- November recess conclusion of business Wed 4th Nov - return Tue 10th Nov. No BMQs next week.
+- Remembrance Sunday 8th Nov. Campbell: "Let us remember the extraordinary debt that can never fully be repaid."
+
+-----
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1bfMFJBynwUYCjbNI-F_FR9vbvz5fAf_zwecvlZEAQjI)
 
 {% include fin.html %}

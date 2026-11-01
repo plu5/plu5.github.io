@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-10-19 06:35
+modified_date: 2026-10-28 06:48
 categories: os
 lang: fr
 ---
@@ -335,6 +335,10 @@ incertain :
   + mode vertical (boutons en bas)
 - xsetwacom set "$stylus" Rotate ccw
   + mode vertical inversé (boutons en haut)
+- xsetwacom set "$stylus" Rotate none
+  + normal
+- xsetwacom set "$stylus" Rotate none
+  + inversé
 - xsetwacom set "$stylus" Area 14494 0 30210 27940
   + proportions pour mode vertical
 - xsetwacom set "$stylus" Area 0 0 44704 25146

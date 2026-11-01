@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-10-24 16:45
+modified_date: 2026-10-27 08:30
 categories: flou
 lang: fr
 ---
@@ -305,6 +305,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 
 § 2026-04-15
 - exold
+  + une série de tutos xcb dans le style de petzold
 
 § 2026-04-16
 - [jeu] supermarché need a packet
@@ -485,12 +486,31 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [soft] addon blender pour randomiser le matcap
 
 § 2026-08-08
-- [old] dépôt d'alphas cc0 512x512 fait à partir d'images cc0
+- [old] [gh] dépôt d'alphas cc0 512x512 fait à partir d'images cc0
 
 § 2026-09-06
-- [livre] [old] l'ile du dr moreau
+- [livre] [old] l'île du dr moreau (wells)
+
+§ 2026-10-06
+- [yt] vidéos yt avec voix pour montrer des choses utiles par ex dans blender. avec sous-titres en+fr
 
 § 2026-10-24
 - [art] couvertures de livres qui n'existent pas
+
+§ 2026-10-26
+- [art] animation limitée à 4-5 minutes comme peppa pig
+- [soft] feat timelapsemod : calculer temps et intervalles selon les dates des captures
+- [art] bd parpo et iarge
+  + squeletteries
+  + moi c'est parpo squelette. voici mon frère iarge. hihihihi hi !
+  + petits et soit traités bizarrement par le reste de la société soit ignorés. signes de veillesse pour parpo comme des poches sous les yeux. sans abri et représenter un peu ce mode de vie / problèmes qu'une personne dans cette situation rencontre. iarge encore plus petit que parpo, pourrait être plus jeune et représenter l'espoir ou l'idéalisme, le moi du passé.
+- [old] [art] de vraies personnes (comme des rois) ou peintures anciennes avec un crâne au lieu d'une tête, ou éventuellement d'autres parties du corps remplacées par un squelette
+- [old] [art] représenter une histoire existante ou l'histoire réelle (history), ou juste des trucs que j'aimerais étudier comme une opération chirurgicale ou une méchanique de jeu
+- [old] [art] juste un seul personnage de jeu ou un ennemi, comme monstrosa ou un chevalier squelette
+- [old] [art] personnage dans le style de tel ou tel jeu, y compris des jeux très simples comme patience my patients
+- [old] [jeu] créer un jeu de nettoyage car il n'existe pas un bon simulateur et je veux avoir une excuse pour rechercher comment faire. pareil pour la plombérie et d'autres métiers (cf fiches ROME)
+- [old] [jeu] jeu mp le plus simple que possible comme prototype, un cube que chaque utilisateur peut faire sauter en appuyant sur espace / cliquant/tapant sur l'écran
+- [old] [jeu] jeu comme prof rubik
+- [art] tous les bmqs matchups de l'histoire (séparément). juste les têtes comme vallotton
 
 {% include fin.html %}

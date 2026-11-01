@@ -2,7 +2,7 @@
 layout: post
 title: Conseils entretien
 date: 2026-08-19 19:53
-modified_date: 2026-08-23 04:50
+modified_date: 2026-10-25 17:57
 categories:
 lang: fr
 ---
@@ -22,5 +22,6 @@ lang: fr
 
 ## Références
 1. [francetravail pdf préparer un entretien d'embauche 2010](https://web.archive.org/web/20260227112430/https://www.francetravail.fr/files/live/sites/PE/files/pole-emploi-internet/actualite/852_preparer_entretien27567.pdf)
+   + [version plus longue](https://www.parisnanterre.fr/medias/fichier/852_preparer_un_entretien_dembauche2034673369551397564_1327657939621.pdf) (Février 2012)
 
 {% include fin.html %}

@@ -2,7 +2,7 @@
 layout: post
 title: English phrases
 date: 2026-05-13 13:24
-modified_date: 2026-09-07 08:14
+modified_date: 2026-10-28 15:12
 categories: lang
 lang: en
 ---
@@ -19,5 +19,9 @@ lang: en
 
 § 2026-09-07
 - But the words were hardly uttered, before the smile was struck out of his face and succeeded by an expression of such abject terror and despair, as froze the very blood of the two gentlemen below. (^ c7)
+
+§ 2026-10-28
+- when something good we’ve longed for finally does come along, it lumbers in a little too late somehow, loaded down with petty, annoying, upsetting details, covered with all the grime of reality that we never really imagined, and that is so irritating—irritating. (buddenbrooks 7.6, trad. woods)
+- And the moment something begins to subside, to relax, to grow weary, then everything around us is turned loose, resists us, rebels, moves beyond our influence. And then it’s just one thing after another, one setback after another, and you’re finished. (^)
 
 {% include fin.html %}
