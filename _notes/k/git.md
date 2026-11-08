@@ -2,7 +2,7 @@
 layout: post
 title: Git
 date: 2026-04-21 22:15
-modified_date: 2026-09-19 20:54
+modified_date: 2026-11-07 14:49
 categories: git
 lang: fr
 ---
@@ -33,8 +33,8 @@ lang: fr
   + `--numstat` : sommaire avec le nombre de lignes ajoutées/supprimées pour chaque fichier
 - `git clone https://github.com/{utilisateur}/{projet}.git`
   + dans pwd : `.` après
-- `git reset HEAD~` : annuler le commit précédent
-  + il m'est arrivé de casser un dépôt avec ça, je pense que ce dépôt était déjà corrompu / reflog déglingué, mais n'empêche que je préfère de nos jours si besoin de modifier le dernier commit d'utiliser `git commit --amend` ou juste faire un autre commit et accepter que l'erreur va être dans l'historique.
+- `git reset HEAD~` : annuler le commit précédent[^reset-risque]
+- `git checkout HEAD~` : revenir à la version sans le commit précédent (utile isoler le commit qui a cassé quelque chose)
 - `git push` / `pull`
 - `git checkout HEAD fichier`
 
@@ -85,3 +85,5 @@ les sous-dossiers de .git/objects sont les deux premières lettres des objets qu
 - [en] [JavaZone 2012 talk _Advanced Git_](https://vimeo.com/49444883) de Tim Berglund
 
 {% include fin.html %}
+
+[^reset-risque]: il m'est arrivé de casser un dépôt avec ça, je pense que ce dépôt était déjà corrompu / reflog déglingué, mais n'empêche que je préfère de nos jours si besoin de modifier le dernier commit d'utiliser `git commit --amend` ou juste faire un autre commit et accepter que l'erreur va être dans l'historique.

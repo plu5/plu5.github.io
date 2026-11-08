@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes Linux"
 date:   2026-01-16 22:01
-modified_date: 2026-10-28 06:48
+modified_date: 2026-11-07 15:05
 categories: os
 lang: fr
 ---
@@ -10,6 +10,7 @@ lang: fr
 ## Basique mais j'oublie
 - `cd -` : revenir au pwd précédent
 - `~` ne s'expanse pas entre guillemets. utilise `$HOME` à la place.
+  + pareil pour `*`. on peut le mettre hors guillements, par ex. `"Adobe Photoshop 2020/Logs"/*.log`
 - `pwd` : chemin actuel
 - `ls -d .*/ */` : ls dossiers uniquement
 - `sudo !!` : lancer la commande précédente avec sudo
@@ -195,6 +196,7 @@ Dans un script, il faudrait soit supprimer le fichier, soit le nommer différemm
 - POSIX : `for arg in "$@"; do echo $arg; done`
 - Bash : `for ((i=0; i<10; i++)); do echo $i; done`  
   POSIX : `i=0; while [ $i -lt 10 ]; do echo $i; i=$((i+1)); done`
+- Bash : `while IFS= read -r -d '' fh; do f="${fh#* }"; echo "$f"; done < <(find */*.png -maxdepth 1 -type f -printf '%T@ %p\0' | sort -zn)`
 
 ### Opérateurs de tests
 liste non exhaustive, car il y a en a plein que je n'utilise jamais
@@ -304,6 +306,10 @@ Il y a heredocs (`<<`) mais pas de herestrings (`<<<`)
 - udisksctl unmount -b /dev/sdXN
 - udisksctl power-off -b /dev/sdX
 - ou caja eject
+
+si unmount échoue :
+- lsof | grep "/chemin/de/montage"
+- puis tue le processus que ça renvoie (avec `kill -9` si `kill` n'est pas suffisant)
 
 si power-off/eject échoue :
 - echo 1 | sudo tee /sys/block/sdX/device/delete
@@ -476,6 +482,7 @@ sudo ln -s /media/Windows/Users/pm/dev/reps/plu5.github.io ~/OneDrive/backups/re
 - `xdotool search --class [class]`
   + ou bien `--name [name]`
 - la bonne fenêtre va être 10x10 avec XY absolus qui correspondent à la position de l'icône sur l'écran, on peut vérifier chaque id avec une commande comme : xwininfo -id [id]
+  + souvent la dernière dans la liste des résultats. dans ce cas pour le faire dans une seule commande : `xdotool windowunmap $(xdotool search --class [class] | tail -n 1)`
 - xdotool windowunmap [id]
 - pour la faire revenir : xdotool windowmap [id]
 - cf [man xdotool](https://man.archlinux.org/man/xdotool.1.en)

@@ -3,7 +3,7 @@ layout: post
 title:  "Phrases françaises"
 date:   2026-01-01
 converted_date: 2026-01-17 02:39
-modified_date: 2026-10-28 16:24
+modified_date: 2026-11-05 13:11
 categories: lang
 lang: fr
 ---
@@ -1370,5 +1370,15 @@ quant à justesse, ça me plaît bien, pourquoi pas parfaite justesse, mais je p
 
 § 2026-10-28
 - Non, ça n'a rien « réparé ». Ça a juste déplacé le problème d'un cran vers la droite. - jasonwryan (traduction automatique de la signature de [Slithery](https://bbs.archlinux.org/viewtopic.php?pid=1715656#p1715656))
+
+§ 2026-11-02
+- Si quelqu'un se trouve stressé par les problèmes non seulement financières, mais émotionnels, la vie s'écroule... en espérant que ce soit de courte durée, un optimiste pourrait dire, "let's hope it's a temporary setback" ([Jan in California](https://forum.wordreference.com/threads/temporary-setback.1262736/))
+  + "souhaitons que ce ne soit qu'un mauvais moment à passer" (^ Micia93)
+- Tout se passait tellement bien, puis nous avons eu/rencontré/essuyé quelques contretemps/difficultés/revers.
+- J'ai enfilé la corde dans la poulie puis attaché le seau au bout. ([wr](https://www.wordreference.com/fren/enfiler))
+- J'ai eu un mal fou à enfiler cette petite aiguille. (^)
+
+§ 2026-11-05
+- on va faire un scrutin public, comme ça on aura le cœur net ([Clémence Guetté 4:25:36](https://www.youtube.com/watch?v=QSniIbHofDE))
 
 {% include fin.html %}

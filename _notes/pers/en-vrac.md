@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-10-27 08:30
+modified_date: 2026-11-02 10:05
 categories: flou
 lang: fr
 ---
@@ -512,5 +512,11 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [old] [jeu] jeu mp le plus simple que possible comme prototype, un cube que chaque utilisateur peut faire sauter en appuyant sur espace / cliquant/tapant sur l'écran
 - [old] [jeu] jeu comme prof rubik
 - [art] tous les bmqs matchups de l'histoire (séparément). juste les têtes comme vallotton
+
+§ 2026-11-01
+- [jeu] house builder
+  + un jeu similaire avec des ponts, des plus anciens aux plus modernes
+- [art] refaire logos existants que j'aime en changeant un mot
+- [art] refaire steam capsules
 
 {% include fin.html %}

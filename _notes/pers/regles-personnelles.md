@@ -2,7 +2,7 @@
 layout: post
 title: Règles personnelles
 date: 2026-05-02 05:15
-modified_date: 2026-10-16 03:39
+modified_date: 2026-11-08 09:08
 categories: conneries
 lang: fr
 ---
@@ -39,6 +39,9 @@ lang: fr
 
 § 2026-10-15
 - don't make assumptions, either verify or say what you actually saw rather than what you conclude from it
+
+§ 2026-11-07
+- l'art comme échappatoire au lieu des jeux vidéo ; l'art me donne l'impression de progresser, les jeux vidéo me donnent l'impression de régresser
 
 {% include fin.html %}
 
