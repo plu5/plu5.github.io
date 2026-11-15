@@ -2,7 +2,7 @@
 layout: post
 title: Livres finis
 date: 2026-09-18 00:15
-modified_date: 2026-10-18 15:36
+modified_date: 2026-11-15 07:38
 categories: suivi
 lang: fr
 ---
@@ -22,5 +22,8 @@ lang: fr
 
 § 2026-10-18
 - [fr] _Ceux qui naissent_
+
+§ 2026-11-14
+- [fr] _Sur le rebord_
 
 {% include fin.html %}

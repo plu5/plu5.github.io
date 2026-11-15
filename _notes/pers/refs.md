@@ -2,7 +2,7 @@
 layout: post
 title: Notes et références pour mes œuvres
 date: 2026-10-27 07:57
-modified_date: 2026-10-29 12:02
+modified_date: 2026-11-09 06:49
 categories: scratch
 lang: fr
 ---
@@ -27,5 +27,10 @@ réfs :
 3. https://ianspriggs.com/portfolio/scott
 4. https://commons.wikimedia.org/wiki/File:Leonardo_Skull.jpg
 5. natick https://www.digitalcommonwealth.org/search/commonwealth:zk51wj98z
+
+todo
+- rapprocher les côtés du torse (les manches devraient être plus larges)
+- peindre un fond sur un claque dessous comme la réf natik
+- les autres études aux côtés, ptet alignées vérticalement
 
 {% include fin.html %}

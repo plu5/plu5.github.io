@@ -3,7 +3,7 @@ layout: post
 title:  "Idées en vrac"
 date:   2026-01-13
 converted_date: 2026-01-17 02:46
-modified_date: 2026-11-02 10:05
+modified_date: 2026-11-14 21:00
 categories: flou
 lang: fr
 ---
@@ -420,6 +420,7 @@ La plupart de ces idées sont tarées mais je n'y peux rien
 - [soft] version open source de pureref
   + https://github.com/FyorDev/PureRef-format
   + https://github.com/lettucegoblin/AnimRef
+  + 2026-11-14 possibilité de fournir des liens, garder en cache les images mais vérifier de temps en temps les liens et prévenir quand ils ne sont plus accessibles
 - [gh] images/gifs des projets sur gh readme
   + comme https://github.com/lettucegoblin
 
@@ -518,5 +519,15 @@ La plupart de ces idées sont tarées mais je n'y peux rien
   + un jeu similaire avec des ponts, des plus anciens aux plus modernes
 - [art] refaire logos existants que j'aime en changeant un mot
 - [art] refaire steam capsules
+
+§ 2026-11-08
+- [jeu] squirrel with a gun larry
+
+§ 2026-11-11
+- [art] squelettes devant des commissions
+
+§ 2026-11-13
+- [art] 3d fanart
+- [art] 3d jrm allongé au parlement
 
 {% include fin.html %}
